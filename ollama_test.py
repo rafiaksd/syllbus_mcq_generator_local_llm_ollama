@@ -1,4 +1,5 @@
 import requests, time, json, re, os, argparse; from datetime import datetime
+from multiprocessing import Pool, cpu_count, Manager
 
 parser = argparse.ArgumentParser()
 parser.add_argument('model_name', type=str, help='Name of the model')
@@ -9,14 +10,14 @@ model_name_passed = args.model_name
 #also exaone3.5:2.4b GREAT Total Syllabi: 4 | Total Success MCQ : 4 MCQ
 #qwen2.5:1.5b FASTEST got ALL CORRECT in ONE GO
 current_model = model_name_passed
-max_attempts_can = 4
-total_error = 0
+max_attempts_can = 2
 total_success_mcq = 0
 syllabus_counter = 1
+parallel_processes_count = 2
 
 #load subjects
 with open('shorter_subjects.json', 'r') as file:
-    subject_entries = json.load(file)
+    subject_entries = json.load(file) 
 
 total_syllabi = len(subject_entries)
 
@@ -32,7 +33,7 @@ def print_and_log(message=""):
     os.makedirs(logs_dir, exist_ok=True)
 
     # Create file name based on sanitized model name and current time (hour, day, month)
-    timestamp = datetime.now().strftime("%H-%d-%m")
+    timestamp = datetime.now().strftime("%m-%d-%H")
     filename = f"{safe_model_name}_{timestamp}.txt"
     file_path = os.path.join(logs_dir, filename)
 
@@ -46,8 +47,6 @@ def print_and_log(message=""):
     # Append to log file
     with open(file_path, "a", encoding="utf-8") as f:
         f.write(full_message + "\n")
-
-print(f"\n[{ current_model }]")
 
 # Build the few-shot prompt generator
 def build_locked_format_prompt_syllabus(entry):
@@ -149,63 +148,72 @@ def clean_json_output(output):
     cleaned_output = re.sub(r'```json\s*|\s*```', '', output).strip()
     return cleaned_output
 
-def generate_response(own_prompt):
-    global total_error
-
+def generate_response(own_prompt, error_count, error_lock):
     start = time.time()
-    response = requests.post("http://localhost:11434/api/generate", json={
-        "model": current_model,
-        "prompt": own_prompt,
-        "stream": False
-        #"top_k": 32,
-        #"top_p": 0.80
-    })
-
-    time_took = time.time() - start
-
     try:
-        response_json = response.json()
-    except Exception as e:
-        total_error+=1
+        response = requests.post("http://localhost:11434/api/generate", json={
+            "model": current_model,
+            "prompt": own_prompt,
+            "stream": False
+            #"top_k": 32,
+            #"top_p": 0.80
+        })
+
+        time_took = time.time() - start
+
+        try:
+            response_json = response.json()
+        except Exception as e:
+            with error_lock:
+                error_count.value += 1
+            return {
+                "response_text": json.dumps({ "error": f"❌ JSON decode error: {str(e)}" }),
+                "time_took": round(time_took, 3),
+                "token_gen_speed": 0,
+                "total_tokens": 0
+            }
+
+        # Safely check for key
+        if "response" not in response_json:
+            with error_lock:
+                error_count.value += 1
+            return {
+                "response_text": json.dumps({
+                    "error": f"❌ API response missing 'response' key. Got: {response_json}",
+                    "status_code": response.status_code
+                }),
+                "time_took": round(time_took, 3),
+                "token_gen_speed": 0,
+                "total_tokens": 0
+            }
+
+        response_text = response_json["response"]
+        approx_tokens = len(response_text.split())
+        token_gen_speed = approx_tokens / time_took if time_took > 0 else 0
+
         return {
-            "response_text": json.dumps({ "error": f"❌ JSON decode error: {str(e)}" }),
+            "response_text": clean_json_output(response_text),
             "time_took": round(time_took, 3),
+            "token_gen_speed": round(token_gen_speed, 3),
+            "total_tokens": approx_tokens
+        }
+
+    except requests.exceptions.RequestException as e:
+        with error_lock:
+                error_count.value += 1
+        return {
+            "response_text": json.dumps({"error": f"❌ Request FAILED from GET GO!!!: {str(e)}"}),
+            "time_took": round(time.time() - start, 3),
             "token_gen_speed": 0,
             "total_tokens": 0
         }
 
-    # Safely check for key
-    if "response" not in response_json:
-        total_error += 1
-        return {
-            "response_text": json.dumps({
-                "error": f"❌ API response missing 'response' key. Got: {response_json}",
-                "status_code": response.status_code
-            }),
-            "time_took": round(time_took, 3),
-            "token_gen_speed": 0,
-            "total_tokens": 0
-        }
-
-    response_text = response_json["response"]
-    approx_tokens = len(response_text.split())
-    token_gen_speed = approx_tokens / time_took if time_took > 0 else 0
-
-    return {
-        "response_text": clean_json_output(response_text),
-        "time_took": round(time_took, 3),
-        "token_gen_speed": round(token_gen_speed, 3),
-        "total_tokens": approx_tokens
-    }
-
-def generate_syllabus_response(entry):
+def generate_syllabus_response(entry, error_count, error_lock):
     syllabus_prompt = build_locked_format_prompt_syllabus(entry)
-    return generate_response(syllabus_prompt)
+    return generate_response(syllabus_prompt, error_count, error_lock)
 
-def generate_mcq_response(syllabus_text):
-    global total_error
+def generate_mcq_response(syllabus_text, syllabus_index, error_count, error_lock):
     global total_success_mcq
-    global syllabus_counter
 
     max_attempts = max_attempts_can
     # Extracting bullet points from the syllabus
@@ -228,10 +236,10 @@ def generate_mcq_response(syllabus_text):
 
     while attempts < max_attempts:
         attempts += 1
-        print_and_log(f"Attempt {attempts}/{max_attempts} for Syllabus {syllabus_counter} of {total_syllabi}... | {current_model}")
+        print_and_log(f"Attempt {attempts}/{max_attempts} for Syllabus {syllabus_index + 1} of {total_syllabi}... | {current_model}\n")
 
         start = time.time()
-        generated_mcq_response = generate_response(mcq_prompt)
+        generated_mcq_response = generate_response(mcq_prompt, error_count, error_lock)
         time_taken = time.time()-start
 
         print_and_log(f"🔍🔍🔍 Generated MCQ:\n\n {generated_mcq_response["response_text"]}")
@@ -248,7 +256,8 @@ def generate_mcq_response(syllabus_text):
                 print_and_log(f"✅✅✅ Successfully generated {len(jsoned_mcqs)} MCQs. Attempts Needed {attempts}")
                 return generated_mcq_response
             else:
-                total_error += 1
+                with error_lock:
+                    error_count.value += 1
                 # Update the longest valid response if the current response is valid and has more MCQs
                 if longest_valid_response is None or len(jsoned_mcqs) > len(json.loads(longest_valid_response["response_text"])):
                     longest_valid_response = generated_mcq_response
@@ -258,7 +267,8 @@ def generate_mcq_response(syllabus_text):
                 mcq_prompt = build_locked_format_prompt_mcq_json(syllabus_text, warning_message, expected_mcq=expected_mcqs)
 
         except json.JSONDecodeError as e:
-            total_error += 1
+            with error_lock:
+                error_count.value += 1
             warning_message += f"⚠️ Error: Invalid JSON format...\n"
             print_and_log(warning_message)
             mcq_prompt = build_locked_format_prompt_mcq_json(syllabus_text, warning_message, expected_mcq=expected_mcqs)
@@ -276,46 +286,78 @@ def generate_mcq_response(syllabus_text):
         "total_tokens": 0
     }
 
-def syllabus_and_mcq(new_syllabus):
+def syllabus_and_mcq(new_syllabus, syllabus_index, error_count, error_lock):
     tokens_gen = 0
     start = time.time()
 
-    generated_full_syllabus = generate_syllabus_response(new_syllabus)
+    generated_full_syllabus = generate_syllabus_response(new_syllabus, error_count, error_lock)
     tokens_gen += generated_full_syllabus["total_tokens"]
 
-    print_and_log('📝📝📝 GOTTEN SYLLABUS 📝📝📝')
-    print_and_log(generated_full_syllabus['response_text'])
+    print_and_log(f'📝📝📝 GOTTEN SYLLABUS {syllabus_index + 1} of {total_syllabi} 📝📝📝')
+    gotten_syllabus = generated_full_syllabus['response_text']
+    print_and_log(gotten_syllabus)
     print_and_log(f"TIME for SYLLABUS: {generated_full_syllabus['time_took']} | ⚡⚡⚡ Token Speed: {generated_full_syllabus['token_gen_speed']} tokens/sec\n")
 
     # Extract only bullet lines
-    generated_full_mcq = generate_mcq_response(generated_full_syllabus['response_text'])
+    generated_full_mcq = generate_mcq_response(gotten_syllabus, syllabus_index, error_count, error_lock)
     tokens_gen += generated_full_mcq["total_tokens"]
 
     #decode mcq to json
-    jsoned_mcqs = json.loads(generated_full_mcq['response_text'])
+    gotten_mcq_jsoned = json.loads(generated_full_mcq['response_text'])
 
-    print_and_log(f'👏👏👏  FINAL MCQ  👏👏👏 for Syllabus {syllabus_counter} of {total_syllabi}')
-    print_and_log(json.dumps(jsoned_mcqs, indent=3))
+    print_and_log(f'👏👏👏  FINAL MCQ  👏👏👏 for Syllabus {syllabus_index + 1} of {total_syllabi}')
+    print_and_log(json.dumps(gotten_mcq_jsoned, indent=3))
     print_and_log(f"TIME for MCQ: {generated_full_mcq['time_took']} | ⚡⚡⚡ Token Speed: {generated_full_mcq['token_gen_speed']} tokens/sec")
-    print_and_log(f"TOTAL Tokens for Syllabus & MCQ: {tokens_gen} | TOTAL Time: {(time.time() - start):.2f}\n")
+    print_and_log(f"TOTAL Tokens for Syllabus {syllabus_index+1} & its MCQ: {tokens_gen} | TOTAL Time: {(time.time() - start):.2f}\n")
 
-    return tokens_gen
+    return {
+        "syllabus_no": syllabus_index+1,
+        "syllabus": gotten_syllabus,
+        "MCQ": gotten_mcq_jsoned,
+        "token_generated": tokens_gen
+    }
 
-all_total_tokens = 0
-all_start = time.time()
+def run_parallel_mcq_syllabus_generator(args):
+    index, entry, error_count, error_lock = args
+    print_and_log('*' * 80)
+    print_and_log(f"\nSyllabus NUMBER {index+1} of {total_syllabi} --- | {current_model}")
+    print_and_log()
+    return syllabus_and_mcq(new_syllabus=entry, syllabus_index=index, error_count=error_count, error_lock=error_lock)
 
-for entry in subject_entries:
-     print_and_log('*' * 80)
-     print_and_log(f"\nSyllabus NUMBER {syllabus_counter} of {total_syllabi} --- | {current_model}")
-     print_and_log()  
-     all_total_tokens += syllabus_and_mcq(entry)
-     syllabus_counter += 1
+if __name__ == "__main__":
+    #from multiprocessing import freeze_support
+    #freeze_support()
+    print_and_log(f"💥 Model Used: {current_model}")
+    print_and_log(f"🧠 Total Syllabi: {total_syllabi}")
 
-all_time_took = time.time() - all_start
-all_token_speed = all_total_tokens/all_time_took
+    manager = Manager()
+    error_count = manager.Value('i', 0)
+    error_lock = manager.Lock()
 
-print_and_log('*' * 80)
-print_and_log(f'\nModel: {current_model}\n')
-print_and_log(f"Total Time Taken: {all_time_took:.2f} | Total Tokens Generated: {all_total_tokens} | Avg Total Token Gen Speed: {all_token_speed:.2f} tokens/sec")
-print_and_log(f"Total Syllabi: {syllabus_counter-1} | Total Success MCQ : {total_success_mcq} | MCQ Attempt per Syllabus: {max_attempts_can}")
-print_and_log(f"Total ERROR: {total_error}")
+    all_total_tokens = 0
+    all_start = time.time()
+
+    parallel_processes = min(parallel_processes_count, cpu_count())
+    print_and_log(f"Using {parallel_processes} parallel processes.")
+
+    ######################## PARALLELIZE ########################
+    with Pool(processes=parallel_processes) as pool:
+        args = [(index, entry, error_count, error_lock) for index, entry in enumerate(subject_entries)]
+        results = pool.map(run_parallel_mcq_syllabus_generator, args)
+    ######################## END PARALLELIZE #####################
+
+    all_total_tokens = sum(item["token_generated"] for item in results)
+    syllabus_counter = len(results) + 1
+
+    all_time_took = time.time() - all_start
+    all_token_avg_speed = all_total_tokens / all_time_took
+
+    print("\n📦📦📦📦 FINAL RESULT 📦📦📦📦\n📦📦📦📦📦📦📦📦📦📦📦📦📦📦")
+    print(json.dumps(results, indent=3, ensure_ascii=False))
+    print("\n📦📦📦📦📦📦📦📦📦📦📦📦📦📦\n📦📦📦📦📦📦📦📦📦📦📦📦📦📦")
+
+    print_and_log('*' * 80)
+    print_and_log(f'\nModel: {current_model}\n')
+    print_and_log(f"Total Time Taken: {all_time_took:.2f} | Total Tokens Generated: {all_total_tokens} | Avg Total Token Gen Speed: {all_token_avg_speed:.2f} tokens/sec")
+    print_and_log(f"Total Syllabi: {syllabus_counter - 1} | Total Success MCQ : {total_success_mcq} | MCQ Attempt per Syllabus: {max_attempts_can}")
+    print_and_log(f"Total ERROR: {error_count.value}")

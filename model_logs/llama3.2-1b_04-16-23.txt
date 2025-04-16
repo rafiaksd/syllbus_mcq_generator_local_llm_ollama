@@ -1,0 +1,649 @@
+💥 Model Used: llama3.2:1b
+🧠 Total Syllabi: 3
+Using 2 parallel processes.
+********************************************************************************
+
+Syllabus NUMBER 1 of 3 --- | llama3.2:1b
+
+
+📝📝📝 GOTTEN SYLLABUS 1 of 3 📝📝📝
+- Introduction to exponents and powers of variables
+- Understanding the concept of zero exponent
+- Properties of exponents (product rule, quotient rule)
+- Solving linear equations with exponents
+- Solving exponential equations
+- Equations with negative bases
+TIME for SYLLABUS: 7.045 | ⚡⚡⚡ Token Speed: 5.394 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1/2 for Syllabus 1 of 3... | llama3.2:1b
+
+📝📝📝 GOTTEN SYLLABUS 2 of 3 📝📝📝
+Syllabus for Cambridge Grade 5 Mathematics - Fractions - Fraction Addition:
+- Introduction to fractions as parts of a whole
+- Understanding numerators and denominators
+- Adding fractions with the same denominator
+- Adding fractions with different denominators
+- Simplifying fractions after addition
+- Solving word problems involving fraction addition
+TIME for SYLLABUS: 7.694 | ⚡⚡⚡ Token Speed: 6.498 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1/2 for Syllabus 2 of 3... | llama3.2:1b
+
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "Which of the following is a property of equivalent fractions?", "options": {"a": "Different numerators and denominators", "b": "Same numerator but different denominators", "c": "Both the numerator and denominator must be divisible by 10", "d": "Adding or subtracting fractions requires finding a common denominator"}, "correct_answer": "b"},
+    {"q_no": "2", "question": "When adding fractions with different denominators, what is necessary to find a common denominator?", "options": {"a": "To convert one fraction to have the same numerator as the other", "b": "To eliminate the denominators when combining numerators", "c": "To make both fractions have the same denominator before adding them", "d": "To multiply each fraction by a suitable value"}, "correct_answer": "b"},
+    {"q_no": "3", "question": "Which operation is not applicable to fractions with different denominators?", "options": {"a": "Finding the least common multiple (LCM)", "b": "Dividing both numerator and denominator by the smallest number", "c": "Adding or subtracting fractions directly", "d": "Multiplying each fraction by a suitable value"}, "correct_answer": "d"},
+    {"q_no": "4", "question": "In comparing equivalent fractions, what is the difference between them?", "options": {"a": "The size of the numerators and denominators are unchanged", "b": "The same numerator but different denominators represent the same fraction", "c": "Both the numerator and denominator must be divisible by 10", "d": "The fractions with the same value for both the numerator and denominator are equivalent"}, "correct_answer": "a"},
+    {"q_no": "5", "question": "When adding or subtracting fractions that have different denominators, what is necessary to find a common denominator?", "options": {"a": "To eliminate the denominators when combining numerators", "b": "To convert one fraction to have the same numerator as the other", "c": "To multiply each fraction by a suitable value", "d": "To add or subtract fractions directly"}, "correct_answer": "c"},
+    {"q_no": "6", "question": "Which operation is applicable when adding or subtracting fractions with different denominators?", "options": {"a": "Multiplying or dividing both numerator and denominator by the same number", "b": "To multiply each fraction by a suitable value", "c": "Adding or subtracting fractions directly", "d": "Finding the least common multiple (LCM)", "d": "d"},
+    {"q_no": "7", "question": "In comparing equivalent fractions, what is the difference between them?", "options": {"a": "The size of the numerators and denominators are unchanged", "b": "The same numerator but different denominators represent the same fraction", "c": "Both the numerator and denominator must be divisible by 10", "d": "The fractions with the same value for both the numerator and denominator are equivalent"}, "correct_answer": "b"},
+    {"q_no": "8", "question": "When adding or subtracting fractions that have different denominators, what is necessary to find a common denominator?", "options": {"a": "To convert one fraction to have the same numerator as the other", "b": "To multiply each fraction by a suitable value", "c": "To add or subtract fractions directly", "d": "Multiplying each fraction by 10"}, "correct_answer": "c"},
+    {"q_no": "9", "question": "In comparing equivalent fractions, what is the difference between them?", "options": {"a": "The size of the numerators and denominators are unchanged", "b": "The same numerator but different denominators represent the same fraction", "c": "Both the numerator and denominator must be divisible by 10", "d": "The fractions with the same value for both the numerator and denominator are equivalent"}, "correct_answer": "a"},
+    {"q_no": "10", "question": "When adding or subtracting fractions that have different denominators, what is necessary to find a common denominator?", "options": {"a": "To eliminate the denominators when combining numerators", "b": "To convert one fraction to have the same numerator as the other", "c": "To multiply each fraction by a suitable value", "d": "Multiplying or dividing both numerator and denominator by 10"}, "correct_answer": "a"},
+    {"q_no": "11", "question": "Which operation is applicable when adding or subtracting fractions with different denominators?", "options": {"a": "Multiplying or dividing both numerator and denominator by the same number", "b": "To multiply each fraction by a suitable value", "c": "Adding or subtracting fractions directly", "d": "Finding the least common multiple (LCM)", "d": "c"},
+    {"q_no": "12", "question": "In comparing equivalent fractions, what is the difference between them?", "options": {"a": "The size of the numerators and denominators are unchanged", "b": "The same numerator but different denominators represent the same fraction", "c": "Both the numerator and denominator must be divisible by 10", "d": "The fractions with the same value for both the numerator and denominator are equivalent"}, "correct_answer": "a"}
+]
+Time Taken: 105.00 seconds | Tokens Produced: 696 | ⚡⚡⚡ Token Speed 6.629 tokens/sec
+⚠️ Error: Invalid JSON format...
+
+Attempt 2/2 for Syllabus 2 of 3... | llama3.2:1b
+
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What is the base of an exponent when it's raised to a fractional power?", "options": {"a": "Base of real numbers", "b": "Base of rational numbers", "c": "Base of complex numbers", "d": "Base of quaternions"}, "correct_answer": "Base of rational numbers"},
+    {"q_no": "2", "question": "Which rule applies to solving equations with exponents?", "options": {"a": "Product rule for multiplication over addition", "b": "Quotient rule for division over subtraction", "c": "Product rule for division over addition", "d": "Quotient rule for multiplication over subtraction"}, "correct_answer": "Product rule for multiplication over addition"},
+    {"q_no": "3", "question": "What is the purpose of the base when solving exponential equations?", "options": {"a": "To find the value of x", "b": "To find the power to which a number is raised", "c": "To simplify the equation", "d": "To express the equation in standard form"}, "correct_answer": "To find the power to which a number is raised"},
+    {"q_no": "4", "question": "When solving exponential equations, what should be added or subtracted from both sides?", "options": {"a": "Addition and subtraction of powers with the same base", "b": "Addition and subtraction of powers with different bases", "c": "Multiplication and division of powers with the same base", "d": "Division and multiplication of powers with the same base"}, "correct_answer": "Addition and subtraction of powers with the same base"},
+    {"q_no": "5", "question": "Which rule applies to solving exponential equations?", "options": {"a": "Quotient rule for division over addition", "b": "Product rule for multiplication over addition", "c": "Product rule for multiplication over addition", "d": "Quotient rule for division over subtraction"}, "correct_answer": "Product rule for multiplication over addition"},
+    {"q_no": "6", "question": "What is the purpose of simplifying exponential expressions?", "options": {"a": "To rationalize the denominator", "b": "To simplify the expression", "c": "To express the expression in terms of its prime factors", "d": "To factor the numerator and denominator"}, "correct_answer": "To simplify the expression"},
+    {"q_no": "7", "question": "When simplifying exponential expressions, what should be done to each term?", "options": {"a": "Multiply or divide by a power of 10", "b": "Addition or subtraction of powers with the same base", "c": "Multiplication and division of powers with the same base", "d": "Division and multiplication of powers with the same base"}, "correct_answer": "Addition or subtraction of powers with the same base"},
+    {"q_no": "8", "question": "Which rule applies to solving exponential equations?", "options": {"a": "Quotient rule for division over addition", "b": "Product rule for multiplication over addition", "c": "Product rule for multiplication over addition", "d": "Quotient rule for division over subtraction"}, "correct_answer": "Product rule for multiplication over addition"},
+    {"q_no": "9", "question": "When solving exponential equations, what should be done to each term?", "options": {"a": "Add or subtract the same power of a number from both sides", "b": "Multiply or divide by a power of 10 on both sides", "c": "Addition and subtraction of powers with different bases on both sides", "d": "Simplification of terms on both sides"}, "correct_answer": "Add or subtract the same power of a number from both sides"},
+    {"q_no": "10", "question": "Which rule applies to solving exponential equations?", "options": {"a": "Quotient rule for division over addition", "b": "Product rule for multiplication over subtraction", "c": "Quotient rule for subtraction over addition", "d": "Product rule for subtraction over addition"}, "correct_answer": "Quotient rule for subtraction over addition"},
+    {"q_no": "11", "question": "When solving exponential equations, what should be done to each term?", "options": {"a": "Addition and subtraction of powers with the same base on both sides", "b": "Multiplication and division of powers with different bases on both sides", "c": "Division and multiplication of powers with the same base on both sides", "d": "Simplification of terms on both sides"}, "correct_answer": "Addition and subtraction of powers with the same base on both sides"},
+    {"q_no": "12", "question": "Which rule applies to solving exponential equations?", "options": {"a": "Product rule for multiplication over addition", "b": "Quotient rule for division over subtraction", "c": "Product rule for subtraction over addition", "d": "Quotient rule for multiplication over subtraction"}, "correct_answer": "Product rule for subtraction over addition"},
+    {"q_no": "13", "question": "When solving exponential equations, what should be done to each term?", "options": {"a": "Addition and subtraction of powers with different bases on both sides", "b": "Multiplication and division of powers with the same base on both sides", "c": "Simplification of terms on both sides", "d": "Division and multiplication of powers with the same base on both sides"}, "correct_answer": "Addition and subtraction of powers with different bases on both sides"}
+]
+Time Taken: 130.25 seconds | Tokens Produced: 724 | ⚡⚡⚡ Token Speed 5.559 tokens/sec
+✅✅✅ Successfully generated 13 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 1 of 3
+[
+   {
+      "q_no": "1",
+      "question": "What is the base of an exponent when it's raised to a fractional power?",
+      "options": {
+         "a": "Base of real numbers",
+         "b": "Base of rational numbers",
+         "c": "Base of complex numbers",
+         "d": "Base of quaternions"
+      },
+      "correct_answer": "Base of rational numbers"
+   },
+   {
+      "q_no": "2",
+      "question": "Which rule applies to solving equations with exponents?",
+      "options": {
+         "a": "Product rule for multiplication over addition",
+         "b": "Quotient rule for division over subtraction",
+         "c": "Product rule for division over addition",
+         "d": "Quotient rule for multiplication over subtraction"
+      },
+      "correct_answer": "Product rule for multiplication over addition"
+   },
+   {
+      "q_no": "3",
+      "question": "What is the purpose of the base when solving exponential equations?",
+      "options": {
+         "a": "To find the value of x",
+         "b": "To find the power to which a number is raised",
+         "c": "To simplify the equation",
+         "d": "To express the equation in standard form"
+      },
+      "correct_answer": "To find the power to which a number is raised"
+   },
+   {
+      "q_no": "4",
+      "question": "When solving exponential equations, what should be added or subtracted from both sides?",
+      "options": {
+         "a": "Addition and subtraction of powers with the same base",
+         "b": "Addition and subtraction of powers with different bases",
+         "c": "Multiplication and division of powers with the same base",
+         "d": "Division and multiplication of powers with the same base"
+      },
+      "correct_answer": "Addition and subtraction of powers with the same base"
+   },
+   {
+      "q_no": "5",
+      "question": "Which rule applies to solving exponential equations?",
+      "options": {
+         "a": "Quotient rule for division over addition",
+         "b": "Product rule for multiplication over addition",
+         "c": "Product rule for multiplication over addition",
+         "d": "Quotient rule for division over subtraction"
+      },
+      "correct_answer": "Product rule for multiplication over addition"
+   },
+   {
+      "q_no": "6",
+      "question": "What is the purpose of simplifying exponential expressions?",
+      "options": {
+         "a": "To rationalize the denominator",
+         "b": "To simplify the expression",
+         "c": "To express the expression in terms of its prime factors",
+         "d": "To factor the numerator and denominator"
+      },
+      "correct_answer": "To simplify the expression"
+   },
+   {
+      "q_no": "7",
+      "question": "When simplifying exponential expressions, what should be done to each term?",
+      "options": {
+         "a": "Multiply or divide by a power of 10",
+         "b": "Addition or subtraction of powers with the same base",
+         "c": "Multiplication and division of powers with the same base",
+         "d": "Division and multiplication of powers with the same base"
+      },
+      "correct_answer": "Addition or subtraction of powers with the same base"
+   },
+   {
+      "q_no": "8",
+      "question": "Which rule applies to solving exponential equations?",
+      "options": {
+         "a": "Quotient rule for division over addition",
+         "b": "Product rule for multiplication over addition",
+         "c": "Product rule for multiplication over addition",
+         "d": "Quotient rule for division over subtraction"
+      },
+      "correct_answer": "Product rule for multiplication over addition"
+   },
+   {
+      "q_no": "9",
+      "question": "When solving exponential equations, what should be done to each term?",
+      "options": {
+         "a": "Add or subtract the same power of a number from both sides",
+         "b": "Multiply or divide by a power of 10 on both sides",
+         "c": "Addition and subtraction of powers with different bases on both sides",
+         "d": "Simplification of terms on both sides"
+      },
+      "correct_answer": "Add or subtract the same power of a number from both sides"
+   },
+   {
+      "q_no": "10",
+      "question": "Which rule applies to solving exponential equations?",
+      "options": {
+         "a": "Quotient rule for division over addition",
+         "b": "Product rule for multiplication over subtraction",
+         "c": "Quotient rule for subtraction over addition",
+         "d": "Product rule for subtraction over addition"
+      },
+      "correct_answer": "Quotient rule for subtraction over addition"
+   },
+   {
+      "q_no": "11",
+      "question": "When solving exponential equations, what should be done to each term?",
+      "options": {
+         "a": "Addition and subtraction of powers with the same base on both sides",
+         "b": "Multiplication and division of powers with different bases on both sides",
+         "c": "Division and multiplication of powers with the same base on both sides",
+         "d": "Simplification of terms on both sides"
+      },
+      "correct_answer": "Addition and subtraction of powers with the same base on both sides"
+   },
+   {
+      "q_no": "12",
+      "question": "Which rule applies to solving exponential equations?",
+      "options": {
+         "a": "Product rule for multiplication over addition",
+         "b": "Quotient rule for division over subtraction",
+         "c": "Product rule for subtraction over addition",
+         "d": "Quotient rule for multiplication over subtraction"
+      },
+      "correct_answer": "Product rule for subtraction over addition"
+   },
+   {
+      "q_no": "13",
+      "question": "When solving exponential equations, what should be done to each term?",
+      "options": {
+         "a": "Addition and subtraction of powers with different bases on both sides",
+         "b": "Multiplication and division of powers with the same base on both sides",
+         "c": "Simplification of terms on both sides",
+         "d": "Division and multiplication of powers with the same base on both sides"
+      },
+      "correct_answer": "Addition and subtraction of powers with different bases on both sides"
+   }
+]
+TIME for MCQ: 130.249 | ⚡⚡⚡ Token Speed: 5.559 tokens/sec
+TOTAL Tokens for Syllabus 1 & its MCQ: 762 | TOTAL Time: 137.31
+
+********************************************************************************
+
+Syllabus NUMBER 3 of 3 --- | llama3.2:1b
+
+📝📝📝 GOTTEN SYLLABUS 3 of 3 📝📝📝
+Prompt: Syllabus for IB Grade 12 Physics - Quantum Physics - Photoelectric Effect:
+- Introduction to the photoelectric effect and its importance in quantum mechanics
+- Understanding light and its properties as a wave or particle
+- Describing the de Broglie hypothesis and wave-particle duality of light
+- Explaining the concept of quantization and energy levels in atoms
+- Discussing the photoelectric effect experiment: determining the energy required for electrons to escape from a metal surface
+- Solving problems involving the conservation of momentum and kinetic energy in particle collisions
+
+Prompt: Syllabus for Cambridge Grade 5 Mathematics - Fractions - Fraction Multiplication
+- Understanding fraction multiplication as repeated addition
+- Explaining the concept of equivalent fractions with different denominators
+- Practicing multiplying fractions with a common denominator
+TIME for SYLLABUS: 16.328 | ⚡⚡⚡ Token Speed: 7.778 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 18
+Attempt 1/2 for Syllabus 3 of 3... | llama3.2:1b
+
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What is the property of a fraction that allows it to be added?", "options": {"a": "Equality of numerators and denominators", "b": "Comparison of fractions with different signs", "c": "Order of fractions in the least common multiple (LCM)", "d": "Magnitude of fractions relative to each other"}, "correct_answer": "Equality of numerators and denominators"},
+    {"q_no": "2", "question": "Which operation is performed when adding two fractions with different denominators?", "options": {"a": "Subtraction of the second fraction's denominator from the first fraction's numerator", "b": "Addition of the second fraction's numerator to the first fraction's denominator", "c": "Multiplication of both fractions' denominators and then addition", "d": "Division by the common denominator"}, "correct_answer": "Subtraction of the second fraction's denominator from the first fraction's numerator"},
+    {"q_no": "3", "question": "What is the result when you add a fraction with a denominator less than 1 to one with a denominator greater than 1?", "options": {"a": "-ve number", "b": "+ve number", "c": "Number remains the same", "d": "Error in calculation"}, "correct_answer": "Number remains the same"},
+    {"q_no": "4", "question": "Which of the following is an example of a fraction?", "options": {"a": "A positive integer", "b": "A negative integer", "c": "A decimal number", "d": "A word or expression"}, "correct_answer": "A positive integer"},
+    {"q_no": "5", "question": "When adding fractions with the same denominator, what is the least common multiple (LCM) of their denominators?", "options": {"a": "The fraction itself", "b": "The sum of the two numerators and the difference between their denominators", "c": "The product of both denominators and then division by the sum of the numerators and the difference between the denominators", "d": "The first fraction's denominator"}, "correct_answer": "The fraction itself"},
+    {"q_no": "6", "question": "What happens when you add a fraction with an improper numerator to one with a proper numerator?", "options": {"a": "-ve number", "b": "+ve number", "c": "Number remains the same", "d": "Error in calculation"}, "correct_answer": "Number remains the same"},
+    {"q_no": "7", "question": "Which operation is performed when adding fractions with different denominators?", "options": {"a": "Subtraction of the second fraction's denominator from the first fraction's numerator", "b": "Addition of the second fraction's numerator to the first fraction's denominator", "c": "Multiplication of both fractions' denominators and then addition", "d": "Division by the common denominator"}, "correct_answer": "Subtraction of the second fraction's denominator from the first fraction's numerator"},
+    {"q_no": "8", "question": "What is the difference when you add two fractions with different numerators?", "options": {"a": "-ve number", "b": "+ve number", "c": "Number remains the same", "d": "Error in calculation"}, "correct_answer": "Number remains the same"},
+    {"q_no": "9", "question": "Which of the following is an example of a fraction?", "options": {"a": "A positive integer", "b": "A negative integer", "c": "A decimal number", "d": "A word or expression"}, "correct_answer": "A positive integer"},
+    {"q_no": "10", "question": "What happens when you add fractions with the same numerator?", "options": {"a": "-ve number", "b": "+ve number", "c": "Number remains the same", "d": "Error in calculation"}, "correct_answer": "Number remains the same"},
+    {"q_no": "11", "question": "When adding two fractions with different denominators, what is the least common multiple (LCM) of their denominators?", "options": {"a": "The fraction itself", "b": "The sum of the two numerators and the difference between their denominators", "c": "The product of both denominators and then division by the sum of the numerators and the difference between the denominators", "d": "The first fraction's denominator"}, "correct_answer": "The fraction itself"}
+]
+Time Taken: 120.40 seconds | Tokens Produced: 551 | ⚡⚡⚡ Token Speed 4.576 tokens/sec
+⚠️ Error: Invalid JSON format...
+⚠️ Warning: Expected 12 MCQs but got 11...
+
+⚠️ Warning: After 2 attempts returning longest valid response.
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 2 of 3
+[
+   {
+      "q_no": "1",
+      "question": "What is the property of a fraction that allows it to be added?",
+      "options": {
+         "a": "Equality of numerators and denominators",
+         "b": "Comparison of fractions with different signs",
+         "c": "Order of fractions in the least common multiple (LCM)",
+         "d": "Magnitude of fractions relative to each other"
+      },
+      "correct_answer": "Equality of numerators and denominators"
+   },
+   {
+      "q_no": "2",
+      "question": "Which operation is performed when adding two fractions with different denominators?",
+      "options": {
+         "a": "Subtraction of the second fraction's denominator from the first fraction's numerator",
+         "b": "Addition of the second fraction's numerator to the first fraction's denominator",
+         "c": "Multiplication of both fractions' denominators and then addition",
+         "d": "Division by the common denominator"
+      },
+      "correct_answer": "Subtraction of the second fraction's denominator from the first fraction's numerator"
+   },
+   {
+      "q_no": "3",
+      "question": "What is the result when you add a fraction with a denominator less than 1 to one with a denominator greater than 1?",
+      "options": {
+         "a": "-ve number",
+         "b": "+ve number",
+         "c": "Number remains the same",
+         "d": "Error in calculation"
+      },
+      "correct_answer": "Number remains the same"
+   },
+   {
+      "q_no": "4",
+      "question": "Which of the following is an example of a fraction?",
+      "options": {
+         "a": "A positive integer",
+         "b": "A negative integer",
+         "c": "A decimal number",
+         "d": "A word or expression"
+      },
+      "correct_answer": "A positive integer"
+   },
+   {
+      "q_no": "5",
+      "question": "When adding fractions with the same denominator, what is the least common multiple (LCM) of their denominators?",
+      "options": {
+         "a": "The fraction itself",
+         "b": "The sum of the two numerators and the difference between their denominators",
+         "c": "The product of both denominators and then division by the sum of the numerators and the difference between the denominators",
+         "d": "The first fraction's denominator"
+      },
+      "correct_answer": "The fraction itself"
+   },
+   {
+      "q_no": "6",
+      "question": "What happens when you add a fraction with an improper numerator to one with a proper numerator?",
+      "options": {
+         "a": "-ve number",
+         "b": "+ve number",
+         "c": "Number remains the same",
+         "d": "Error in calculation"
+      },
+      "correct_answer": "Number remains the same"
+   },
+   {
+      "q_no": "7",
+      "question": "Which operation is performed when adding fractions with different denominators?",
+      "options": {
+         "a": "Subtraction of the second fraction's denominator from the first fraction's numerator",
+         "b": "Addition of the second fraction's numerator to the first fraction's denominator",
+         "c": "Multiplication of both fractions' denominators and then addition",
+         "d": "Division by the common denominator"
+      },
+      "correct_answer": "Subtraction of the second fraction's denominator from the first fraction's numerator"
+   },
+   {
+      "q_no": "8",
+      "question": "What is the difference when you add two fractions with different numerators?",
+      "options": {
+         "a": "-ve number",
+         "b": "+ve number",
+         "c": "Number remains the same",
+         "d": "Error in calculation"
+      },
+      "correct_answer": "Number remains the same"
+   },
+   {
+      "q_no": "9",
+      "question": "Which of the following is an example of a fraction?",
+      "options": {
+         "a": "A positive integer",
+         "b": "A negative integer",
+         "c": "A decimal number",
+         "d": "A word or expression"
+      },
+      "correct_answer": "A positive integer"
+   },
+   {
+      "q_no": "10",
+      "question": "What happens when you add fractions with the same numerator?",
+      "options": {
+         "a": "-ve number",
+         "b": "+ve number",
+         "c": "Number remains the same",
+         "d": "Error in calculation"
+      },
+      "correct_answer": "Number remains the same"
+   },
+   {
+      "q_no": "11",
+      "question": "When adding two fractions with different denominators, what is the least common multiple (LCM) of their denominators?",
+      "options": {
+         "a": "The fraction itself",
+         "b": "The sum of the two numerators and the difference between their denominators",
+         "c": "The product of both denominators and then division by the sum of the numerators and the difference between the denominators",
+         "d": "The first fraction's denominator"
+      },
+      "correct_answer": "The fraction itself"
+   }
+]
+TIME for MCQ: 120.401 | ⚡⚡⚡ Token Speed: 4.576 tokens/sec
+TOTAL Tokens for Syllabus 2 & its MCQ: 601 | TOTAL Time: 233.12
+
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "Which functional group defines alcohols?", "options": {"a": "Carbonyl (-CO-)", "b": "Hydroxyl (-OH)", "c": "Nitrile (-CN)", "d": "Carboxyl (-COOH)"}, "correct_answer": "Hydroxyl (-OH)"},
+    {"q_no": "2", "question": "Which property is NOT typically associated with alcohols due to their -OH group?", "options": {"a": "Miscibility with water", "b": "High boiling points", "c": "Formation of esters via dehydration", "d": "High reactivity towards halogens"}, "correct_answer": "Formation of esters via dehydration"},
+    {"q_no": "3", "question": "What is the product formed when phenol undergoes dehydration?", "options": {"a": "Phenoxide ion", "b": "Ethanol", "c": "Ethylbenzene", "d": "Phenyl acetic acid"}, "correct_answer": "Phenoxide ion"},
+    {"q_no": "4", "question": "Ethers are classified based on the nature of their alkyl groups bonded to oxygen. Which term refers to ethers with two alkyl groups?", "options": {"a": "Monoethers", "b": "Diethers", "c": "Triethers", "d": "Polyethers"}, "correct_answer": "Diethers"},
+    {"q_no": "5", "question": "Which of the following is NOT a reaction type generally involved in alcohol chemistry?", "options": {"a": "Oxidation", "b": "Hydration", "c": "Reduction", "d": "Halogenation"}, "correct_answer": "Reduction"},
+    {"q_no": "6", "question": "Phenols exhibit increased reactivity compared to alcohols due to the presence of oxygen.", "options": {"a": "Increased stability due to resonance", "b": "Lower reactivity due to no lone pairs", "c": "Higher reactivity due to resonance", "d": "Lower reactivity due to no double bonds"}, "correct_answer": "Higher reactivity due to resonance"},
+    {"q_no": "7", "question": "Which property distinguishes phenols from alcohols in terms of reactivity towards electrophiles?", "options": {"a": "Increased stability due to resonance", "b": "Lower reactivity due to no lone pairs", "c": "Higher reactivity due to resonance", "d": "Lower reactivity due to no double bonds"}, "correct_answer": "Increased stability due to resonance"},
+    {"q_no": "8", "question": "In comparing alcohols, phenols, and ethers, which exhibits high reactivity towards nucleophiles due to the presence of oxygen?", "options": {"a": "Ethers", "b": "Phenols", "c": "Alcohols", "d": "Carboxylic acids"}, "correct_answer": "Phenols"},
+    {"q_no": "9", "question": "What is the main difference between a wave and a particle?", "options": {"a": "Wave has no definite position, while particle has definite position", "b": "Wave has constant frequency, while particle has variable frequency", "c": "Wave has infinite wavelength, while particle has finite wavelength", "d": "Wave is always in motion, while particle is always at rest"}, "correct_answer": "a: Wave has no definite position, while particle has definite position"},
+    {"q_no": "10", "question": "What type of radiation has both wave-like and particle-like properties?", "options": {"a": "Gamma rays", "b": "X-rays", "c": "Alpha particles", "d": "Beta particles"}, "correct_answer": "a: Gamma rays"},
+    {"q_no": "11", "question": "Which of the following is an example of wave-particle duality?", "options": {"a": "A particle with a mass of 1 kg and speed of 1000 m/s", "b": "A photon with energy of 10 MeV", "c": "An electron with charge of -1.6 x 10^-19 C", "d": "A proton with mass of 1.67 x 10^-27 kg"}, "correct_answer": "a: A particle with a mass of 1 kg and speed of 1000 m/s"},
+    {"q_no": "12", "question": "Which characteristic distinguishes light from other forms of electromagnetic radiation?", "options": {"a": "It has both wave-like and particle-like properties", "b": "It is only a wave", "c": "It is only a particle", "d": "It has a frequency of 2.04 x 10^14 Hz"}, "correct_answer": "a: It has both wave-like and particle-like properties"},
+    {"q_no": "13", "question": "What type of radiation requires energy to eject electrons from a metal surface?", "options": {"a": "Gamma rays", "b": "X-rays", "c": "Alpha particles", "d": "Beta particles"}, "correct_answer": "a: Gamma rays"},
+    {"q_no": "14", "question": "Which of the following is an example of a wave with constant frequency?", "options": {"a": "A light beam with a wavelength of 500 nm", "b": "A sound wave with a frequency of 1000 Hz", "c": "A particle with velocity of 1000 m/s", "d": "An electron with kinetic energy of 10 eV"}, "correct_answer": "a: A light beam with a wavelength of 500 nm"}
+]
+Time Taken: 108.55 seconds | Tokens Produced: 614 | ⚡⚡⚡ Token Speed 5.656 tokens/sec
+⚠️ Warning: Expected 18 MCQs but got 14...
+
+Attempt 2/2 for Syllabus 3 of 3... | llama3.2:1b
+
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What is the main difference between alcohols and ethers in terms of their functional groups?", "options": {"a": "Both have -OH and -OR groups", "b": "Alcohols have a -OH group but not an -OR group", "c": "Ethers have both -OH and -OR groups", "d": "Ethers do not have any functional groups"}, "correct_answer": "Alcohols have a -OH group but not an -OR group"},
+    {"q_no": "2", "question": "Which property is NOT typically associated with alcohols due to their -OH group?", "options": {"a": "Miscibility with water", "b": "High boiling points", "c": "Formation of esters via dehydration", "d": "High reactivity towards halogens"}, "correct_answer": "Formation of esters via dehydration"},
+    {"q_no": "3", "question": "What is the product formed when phenol undergoes dehydration?", "options": {"a": "Phenoxide ion", "b": "Ethanol", "c": "Ethylbenzene", "d": "Phenyl acetic acid"}, "correct_answer": "Phenoxide ion"},
+    {"q_no": "4", "question": "Ethers are classified based on the nature of their alkyl groups bonded to oxygen. Which term refers to ethers with two alkyl groups?", "options": {"a": "Monoethers", "b": "Diethers", "c": "Triethers", "d": "Polyethers"}, "correct_answer": "Diethers"},
+    {"q_no": "5", "question": "Which of the following is NOT a reaction type generally involved in alcohol chemistry?", "options": {"a": "Oxidation", "b": "Hydration", "c": "Reduction", "d": "Decomposition"}, "correct_answer": "Hydration"},
+    {"q_no": "6", "question": "What is the main difference between alcohols and ethers in terms of their functional groups?", "options": {"a": "Both have -OH and -OR groups", "b": "Alcohols have a -OH group but not an -OR group", "c": "Ethers have both -OH and -OR groups", "d": "Ethers do not have any functional groups"}, "correct_answer": "Both have -OH and -OR groups"},
+    {"q_no": "7", "question": "Which property is NOT typically associated with alcohols due to their -OH group?", "options": {"a": " miscibility with water", "b": "High boiling points", "c": "Formation of esters via dehydration", "d": "High reactivity towards halogens"}, "correct_answer": "Formation of esters via dehydration"},
+    {"q_no": "8", "question": "What is the main difference between alcohols and ethers in terms of their functional groups?", "options": {"a": "Both have -OH and -OR groups", "b": "Alcohols have a -OH group but not an -OR group", "c": "Ethers have both -OH and -OR groups", "d": "Ethers do not have any functional groups"}, "correct_answer": "Alcohols have a -OH group but not an -OR group"},
+    {"q_no": "9", "question": "Which of the following is NOT a reaction type generally involved in alcohol chemistry?", "options": {"a": "Oxidation", "b": "Hydration", "c": "Reduction", "d": "Decomposition"}, "correct_answer": "Hydration"},
+    {"q_no": "10", "question": "What is the main difference between alcohols and ethers in terms of their functional groups?", "options": {"a": "Both have -OH and -OR groups", "b": "Alcohols have a -OH group but not an -OR group", "c": "Ethers have both -OH and -OR groups", "d": "Ethers do not have any functional groups"}, "correct_answer": "Alcohols have a -OH group but not an -OR group"},
+    {"q_no": "11", "question": "Which property is NOT typically associated with alcohols due to their -OH group?", "options": {"a": " miscibility with water", "b": "High boiling points", "c": "Formation of esters via dehydration", "d": "High reactivity towards halogens"}, "correct_answer": "Formation of esters via dehydration"},
+    {"q_no": "12", "question": "What is the main difference between alcohols and ethers in terms of their functional groups?", "options": {"a": "Both have -OH and -OR groups", "b": "Alcohols have a -OH group but not an -OR group", "c": "Ethers have both -OH and -OR groups", "d": "Ethers do not have any functional groups"}, "correct_answer": "Alcohols have a -OH group but not an -OR group"},
+    {"q_no": "13", "question": "Which of the following is NOT a reaction type generally involved in alcohol chemistry?", "options": {"a": "Oxidation", "b": "Hydration", "c": "Reduction", "d": "Decomposition"}, "correct_answer": "Hydration"},
+    {"q_no": "14", "question": "What is the main difference between alcohols and ethers in terms of their functional groups?", "options": {"a": "Both have -OH and -OR groups", "b": "Alcohols have a -OH group but not an -OR group", "c": "Ethers have both -OH and -OR groups", "d": "Ethers do not have any functional groups"}, "correct_answer": "Alcohols have a -OH group but not an -OR group"},
+    {"q_no": "15", "question": "Which property is NOT typically associated with alcohols due to their -OH group?", "options": {"a": " miscibility with water", "b": "High boiling points", "c": "Formation of esters via dehydration", "d": "High reactivity towards halogens"}, "correct_answer": "Formation of esters via dehydration"},
+    {"q_no": "16", "question": "What is the main difference between alcohols and ethers in terms of their functional groups?", "options": {"a": "Both have -OH and -OR groups", "b": "Alcohols have a -OH group but not an -OR group", "c": "Ethers have both -OH and -OR groups", "d": "Ethers do not have any functional groups"}, "correct_answer": "Alcohols have a -OH group but not an -OR group"},
+    {"q_no": "17", "question": "Which of the following is NOT a reaction type generally involved in alcohol chemistry?", "options": {"a": "Oxidation", "b": "Hydration", "c": "Reduction", "d": "Decomposition"}, "correct_answer": "Hydration"},
+    {"q_no": "18", "question": "What is the main difference between alcohols and ethers in terms of their functional groups?", "options": {"a": "Both have -OH and -OR groups", "b": "Alcohols have a -OH group but not an -OR group", "c": "Ethers have both -OH and -OR groups", "d": "Ethers do not have any functional groups"}, "correct_answer": "Alcohols have a -OH group but not an -OR group"}
+]
+Time Taken: 115.06 seconds | Tokens Produced: 857 | ⚡⚡⚡ Token Speed 7.449 tokens/sec
+✅✅✅ Successfully generated 18 MCQs. Attempts Needed 2
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 3 of 3
+[
+   {
+      "q_no": "1",
+      "question": "What is the main difference between alcohols and ethers in terms of their functional groups?",
+      "options": {
+         "a": "Both have -OH and -OR groups",
+         "b": "Alcohols have a -OH group but not an -OR group",
+         "c": "Ethers have both -OH and -OR groups",
+         "d": "Ethers do not have any functional groups"
+      },
+      "correct_answer": "Alcohols have a -OH group but not an -OR group"
+   },
+   {
+      "q_no": "2",
+      "question": "Which property is NOT typically associated with alcohols due to their -OH group?",
+      "options": {
+         "a": "Miscibility with water",
+         "b": "High boiling points",
+         "c": "Formation of esters via dehydration",
+         "d": "High reactivity towards halogens"
+      },
+      "correct_answer": "Formation of esters via dehydration"
+   },
+   {
+      "q_no": "3",
+      "question": "What is the product formed when phenol undergoes dehydration?",
+      "options": {
+         "a": "Phenoxide ion",
+         "b": "Ethanol",
+         "c": "Ethylbenzene",
+         "d": "Phenyl acetic acid"
+      },
+      "correct_answer": "Phenoxide ion"
+   },
+   {
+      "q_no": "4",
+      "question": "Ethers are classified based on the nature of their alkyl groups bonded to oxygen. Which term refers to ethers with two alkyl groups?",
+      "options": {
+         "a": "Monoethers",
+         "b": "Diethers",
+         "c": "Triethers",
+         "d": "Polyethers"
+      },
+      "correct_answer": "Diethers"
+   },
+   {
+      "q_no": "5",
+      "question": "Which of the following is NOT a reaction type generally involved in alcohol chemistry?",
+      "options": {
+         "a": "Oxidation",
+         "b": "Hydration",
+         "c": "Reduction",
+         "d": "Decomposition"
+      },
+      "correct_answer": "Hydration"
+   },
+   {
+      "q_no": "6",
+      "question": "What is the main difference between alcohols and ethers in terms of their functional groups?",
+      "options": {
+         "a": "Both have -OH and -OR groups",
+         "b": "Alcohols have a -OH group but not an -OR group",
+         "c": "Ethers have both -OH and -OR groups",
+         "d": "Ethers do not have any functional groups"
+      },
+      "correct_answer": "Both have -OH and -OR groups"
+   },
+   {
+      "q_no": "7",
+      "question": "Which property is NOT typically associated with alcohols due to their -OH group?",
+      "options": {
+         "a": " miscibility with water",
+         "b": "High boiling points",
+         "c": "Formation of esters via dehydration",
+         "d": "High reactivity towards halogens"
+      },
+      "correct_answer": "Formation of esters via dehydration"
+   },
+   {
+      "q_no": "8",
+      "question": "What is the main difference between alcohols and ethers in terms of their functional groups?",
+      "options": {
+         "a": "Both have -OH and -OR groups",
+         "b": "Alcohols have a -OH group but not an -OR group",
+         "c": "Ethers have both -OH and -OR groups",
+         "d": "Ethers do not have any functional groups"
+      },
+      "correct_answer": "Alcohols have a -OH group but not an -OR group"
+   },
+   {
+      "q_no": "9",
+      "question": "Which of the following is NOT a reaction type generally involved in alcohol chemistry?",
+      "options": {
+         "a": "Oxidation",
+         "b": "Hydration",
+         "c": "Reduction",
+         "d": "Decomposition"
+      },
+      "correct_answer": "Hydration"
+   },
+   {
+      "q_no": "10",
+      "question": "What is the main difference between alcohols and ethers in terms of their functional groups?",
+      "options": {
+         "a": "Both have -OH and -OR groups",
+         "b": "Alcohols have a -OH group but not an -OR group",
+         "c": "Ethers have both -OH and -OR groups",
+         "d": "Ethers do not have any functional groups"
+      },
+      "correct_answer": "Alcohols have a -OH group but not an -OR group"
+   },
+   {
+      "q_no": "11",
+      "question": "Which property is NOT typically associated with alcohols due to their -OH group?",
+      "options": {
+         "a": " miscibility with water",
+         "b": "High boiling points",
+         "c": "Formation of esters via dehydration",
+         "d": "High reactivity towards halogens"
+      },
+      "correct_answer": "Formation of esters via dehydration"
+   },
+   {
+      "q_no": "12",
+      "question": "What is the main difference between alcohols and ethers in terms of their functional groups?",
+      "options": {
+         "a": "Both have -OH and -OR groups",
+         "b": "Alcohols have a -OH group but not an -OR group",
+         "c": "Ethers have both -OH and -OR groups",
+         "d": "Ethers do not have any functional groups"
+      },
+      "correct_answer": "Alcohols have a -OH group but not an -OR group"
+   },
+   {
+      "q_no": "13",
+      "question": "Which of the following is NOT a reaction type generally involved in alcohol chemistry?",
+      "options": {
+         "a": "Oxidation",
+         "b": "Hydration",
+         "c": "Reduction",
+         "d": "Decomposition"
+      },
+      "correct_answer": "Hydration"
+   },
+   {
+      "q_no": "14",
+      "question": "What is the main difference between alcohols and ethers in terms of their functional groups?",
+      "options": {
+         "a": "Both have -OH and -OR groups",
+         "b": "Alcohols have a -OH group but not an -OR group",
+         "c": "Ethers have both -OH and -OR groups",
+         "d": "Ethers do not have any functional groups"
+      },
+      "correct_answer": "Alcohols have a -OH group but not an -OR group"
+   },
+   {
+      "q_no": "15",
+      "question": "Which property is NOT typically associated with alcohols due to their -OH group?",
+      "options": {
+         "a": " miscibility with water",
+         "b": "High boiling points",
+         "c": "Formation of esters via dehydration",
+         "d": "High reactivity towards halogens"
+      },
+      "correct_answer": "Formation of esters via dehydration"
+   },
+   {
+      "q_no": "16",
+      "question": "What is the main difference between alcohols and ethers in terms of their functional groups?",
+      "options": {
+         "a": "Both have -OH and -OR groups",
+         "b": "Alcohols have a -OH group but not an -OR group",
+         "c": "Ethers have both -OH and -OR groups",
+         "d": "Ethers do not have any functional groups"
+      },
+      "correct_answer": "Alcohols have a -OH group but not an -OR group"
+   },
+   {
+      "q_no": "17",
+      "question": "Which of the following is NOT a reaction type generally involved in alcohol chemistry?",
+      "options": {
+         "a": "Oxidation",
+         "b": "Hydration",
+         "c": "Reduction",
+         "d": "Decomposition"
+      },
+      "correct_answer": "Hydration"
+   },
+   {
+      "q_no": "18",
+      "question": "What is the main difference between alcohols and ethers in terms of their functional groups?",
+      "options": {
+         "a": "Both have -OH and -OR groups",
+         "b": "Alcohols have a -OH group but not an -OR group",
+         "c": "Ethers have both -OH and -OR groups",
+         "d": "Ethers do not have any functional groups"
+      },
+      "correct_answer": "Alcohols have a -OH group but not an -OR group"
+   }
+]
+TIME for MCQ: 115.055 | ⚡⚡⚡ Token Speed: 7.449 tokens/sec
+TOTAL Tokens for Syllabus 3 & its MCQ: 984 | TOTAL Time: 239.96
+
+********************************************************************************
+
+Model: llama3.2:1b
+
+Total Time Taken: 377.77 | Total Tokens Generated: 2347 | Avg Total Token Gen Speed: 6.21 tokens/sec
+Total Syllabi: 3 | Total Success MCQ : 0 | MCQ Attempt per Syllabus: 2
+Total ERROR: 3

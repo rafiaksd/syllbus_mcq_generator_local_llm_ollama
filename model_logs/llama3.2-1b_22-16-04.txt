@@ -1,0 +1,15 @@
+********************************************************************************
+
+Syllabus NUMBER 1 of 3 --- | llama3.2:1b
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+- Introduction to algebraic expressions and variables
+- Understanding exponents and powers of real numbers
+- Adding and subtracting exponential expressions
+- Multiplying and dividing exponential expressions
+- Simplifying exponential expressions after addition or subtraction
+- Solving equations involving algebraic expressions with exponents
+TIME for SYLLABUS: 7.238 | ⚡⚡⚡ Token Speed: 5.941 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1/4 for Syllabus 1 of 3... | llama3.2:1b
