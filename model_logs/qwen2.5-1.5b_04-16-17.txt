@@ -1,0 +1,236 @@
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What does the domain of a function represent?", "options": {"a": "The range of inputs that produce an output within specified limits", "b": "The possible values the function can take", "c": "All real numbers without any restrictions", "d": "The set from which input and output are drawn"}, "correct_answer": "The domain of a function represents the set from which input and output are drawn"},
+    {"q_no": "2", "question": "What does the range of a function include?", "options": {"a": "All possible outputs that can be obtained through valid inputs", "b": "Inputs between two specific values", "c": "Outputs greater than or equal to zero", "d": "Output for every input in the domain"}, "correct_answer": "The range of a function includes all possible outputs that can be obtained through valid inputs"},
+    {"q_no": "3", "question": "What is the difference between a function's equation and its notation?", "options": {"a": "Equation defines how variables are interrelated, whereas notation represents their values", "b": "Equation uses specific symbols to denote relationships, while notation lists all possible combinations of inputs", "c": "Equation is always solvable algebraically, whereas notation requires graphical analysis", "d": "Equation specifies the function's domain and range, whereas notation defines its outputs"}, "correct_answer": "Equation defines how variables are interrelated, whereas notation represents their values"},
+    {"q_no": "4", "question": "How do you graph a function?", "options": {"a": "By plotting points on a Cartesian plane that satisfy the equation of the function", "b": "Using transformations to shift and scale the coordinates of known points", "c": "Plotting a continuous set of values without considering intervals or restrictions", "d": "Combining multiple functions into one complex graph"}, "correct_answer": "Graphing a function involves plotting points on a Cartesian plane that satisfy its equation"},
+    {"q_no": "5", "question": "What is the significance of reflections in transformations?", "options": {"a": "It flips the graph across a line, changing the sign of coordinates or intercepts", "b": "It only changes the orientation but not the shape or scale of the graph", "c": "It stretches the graph uniformly along one axis without changing its direction", "d": "It makes the function appear as if it is undefined at certain points"}, "correct_answer": "Reflections in transformations flip the graph across a line, changing the sign of coordinates or intercepts"},
+    {"q_no": "6", "question": "How do you find the inverse of a function?", "options": {"a": "By swapping input and output values while maintaining equality between them", "b": "It involves applying transformations that reverse each other until the graph is symmetrical about the line y=x", "c": "The result will always be undefined for all functions with inverses", "d": "Inverse function does not exist unless the original function passes a vertical line test"}, "correct_answer": "Finding the inverse of a function requires swapping input and output values while maintaining equality between them"},
+    {"q_no": "7", "question": "What is meant by 'domain' in mathematics?", "options": {"a": "It refers to all possible outputs produced by inputs within specified limits, including undefined points", "b": "The set of inputs that define the function's range of values", "c": "The entire number line from -infinity to infinity, with no restrictions", "d": "Inputs for which the output is not defined due to division or square roots of negative numbers"}, "correct_answer": "Domain refers to all possible outputs produced by inputs within specified limits, including undefined points"},
+    {"q_no": "8", "question": "What are composite functions?", "options": {"a": "Functions where each input leads to a unique output without any restrictions on the domain or range", "b": "A function whose output is obtained from two other functions that have been composed in sequence", "c": "It involves using only one original function multiple times, regardless of its input", "d": "A function with no variables in the equation"}, "correct_answer": "Composite functions involve using two or more original functions in a specific order to produce an output"},
+    {"q_no": "9", "question": "What does it mean for a graph to be 'symmetrical about the line y=x'?", "options": {"a": "It is a reflection across this line, effectively changing the sign of coordinates and intercepts", "b": "The graph can be rotated 180 degrees around this line without alteration", "c": "This transformation makes the function appear as if it is undefined at certain points due to its complexity", "d": "It's a term often used in describing parabolic functions only"}, "correct_answer": "Graphs symmetrical about the line y=x reflect across this line, changing the sign of coordinates and intercepts"},
+    {"q_no": "10", "question": "Which is true for every function with inverse?", "options": {"a": "The domain equals range but they do not have to be equal sets", "b": "A vertical line test must be passed in all functions with inverses", "c": "There are no restrictions on inputs, as long as the outputs are unique and continuous", "d": "Functions with inverses pass both the horizontal and vertical line tests"}, "correct_answer": "Every function with inverse passes both the horizontal and vertical line tests"},
+    {"q_no": "11", "question": "In what situations would you use transformations of functions?", "options": {"a": "To create a new graph that shows how changes in one part of a function affect its whole appearance, such as translations or reflections", "b": "Transformation techniques are only used for simplifying equations to find solutions easily", "c": "It's primarily utilized when the function itself lacks a vertical asymptote", "d": "Transformations of functions help solve inverse relationships between variables"}, "correct_answer": "Use transformations of functions to create new graphs that show how changes in one part affect their appearance, such as translations or reflections"},
+    {"q_no": "12", "question": "What is the key difference between linear and quadratic equations?", "options": {"a": "Linear equations have a slope but quadratic ones do not", "b": "The number of solutions for linear equations can be infinitely many, whereas quadratics yield two distinct answers", "c": "Linear functions cannot be solved graphically, while quadratics can be easily determined by their vertex form", "d": "Quadratic equations include terms with variable squares and higher powers, unlike linear ones"}, "correct_answer": "Key differences between linear (straight line) and quadratic (U-shaped parabola) equations lie in the number of solutions they yield; whereas, a linear equation has one solution while a quadratic equation can have two distinct answers"},
+    {"q_no": "13", "question": "When solving an absolute value problem involving x=|n|, what is the appropriate first step?", "options": {"a": "Rewrite n as (x-a)^2 for some number 'a' which simplifies to |x-a|^2 or simply |x-a|=±(x-a)", "b": "The solution should be directly found by setting up x=|n|, no other steps needed", "c": "Solve the equation n=x^2 and substitute back into n for further computations", "d": "First, find two numbers that add to 'n' and use these in absolute value equations"}, "correct_answer": "The appropriate first step when solving an absolute value problem with x=|n| is to rewrite |n| as a distance formula where one variable (x) equals the unknown. This can be simplified to either |x-a|=±(x-a) or |x-a|^2 = n^2, depending on what you need for your specific question."},
+    {"q_no": "14", "question": "What is meant by 'slope' in a linear equation?", "options": {"a": "It indicates how steep the line is and changes direction, but does not affect its slope or x-intercept", "b": "The rate of change on the y-axis per unit distance moved along the x-axis", "c": "Slope can only be found by using a graph without any numbers", "d": "It's how many times larger the rise is compared to the run, regardless of units"}, "correct_answer": "In a linear equation, 'slope' refers to the rate of change on the y-axis per unit distance moved along the x-axis. It indicates how steep the line is and changes direction."},
+    {"q_no": "15", "question": "Which statement best describes 'one-to-one functions'? ", "options": {"a": "They have a constant slope, but do not pass the vertical line test for invertibility", "b": "Only functions that can be solved graphically are considered one-to-one", "c": "One-to-one functions guarantee unique outputs with each input and must pass both horizontal and vertical line tests", "d": "A function is called 'one-to-one' if it doesn't cross over any other lines on its plot"}, "correct_answer": "One-to-one functions are those in which every x-value corresponds to a single y-value; they always pass the horizontal line test. This means that for all different inputs, the outputs must also be different."},
+    {"q_no": "16", "question": "What does 'domain' specifically refer to when describing a function's behavior?", "options": {"a": "It refers to every point on the graph where y-values are present and have no restrictions", "b": "The entire set of inputs or values for which the function is defined, ensuring that all x-values correspond with unique output y-values", "c": "It specifies when a function's graph intersects vertical lines without being undefined", "d": "Domain includes only positive numbers, not negative ones"}, "correct_answer": "Specifically, domain refers to the set of inputs or values for which the function is defined. This ensures that all x-values correspond with unique y-values."},
+    {"q_no": "17", "question": "A parabola's equation is generally written as \(y = ax^2 + bx + c\), where 'a' does not equal zero, and 'c' represents the vertex of the parabola. What is the significance of 'a'? ", "options": {"a": "It determines the direction in which the parabola opens (positive or negative), without affecting its width or shift", "b": "The value of 'a' controls both the curvature and the distance between the vertex and x-intercepts, but it does not influence the overall shape of the graph", "c": "Changing 'a' alters neither the direction nor the size of the parabola's curvature (width/size)", "d": "Affecting the height of the parabola by determining how steep or shallow it is"}, "correct_answer": "The significance of 'a' in a parabola equation \(y = ax^2 + bx + c\) lies in its role in determining both the curvature (how steep or shallow the parabola is) and the distance between the vertex and x-intercepts, but without affecting the overall shape of the graph."},
+    {"q_no": "18", "question": "A cubic equation can be simplified into a quadratic form through a process that involves factoring. What method does this 'simplification' refer to?", "options": {"a": "It is achieved by expanding binomials such as (x-2)^3 = x^3 - 6x^2 + 12x - 8", "b": "Using the difference of squares formula, \(x^4 - y^4\) can be written as \((x^2 + y^2)(x^2 - y^2)\)", "c": "Factoring a product into its factors such that their sum equals the original polynomial is known as 'simplification'", "d": "It simplifies by setting each factor equal to zero and solving for x"}, "correct_answer": "The method of simplifying a cubic equation into a quadratic form involves factoring, which means breaking down an expression into its factors such that their sum equals the original polynomial."},
+    {"q_no": "19", "question": "A function is considered 'monotonic' if it is either strictly increasing or strictly decreasing across its domain. What does this mean for a monotonic function?", "options": {"a": "It has an undefined slope and thus no real value on any interval, making the concept of monotonicity irrelevant", "b": "The entire domain of the function must include all possible values within the range of y-values it produces", "c": "Monotonic functions are those whose graphs either increase or decrease without turning back in a particular direction across their defined intervals", "d": "A monotonic function is one where every point on its graph lies exactly above and below the line connecting any two points within that interval"}, "correct_answer": "A monotonic function is one where it increases or decreases strictly without changing direction, ensuring there are no 'turning points' or backtracking. This characteristic aligns perfectly with option c: Monotonic functions are those whose graphs either increase or decrease without turning back in a particular direction across their defined intervals."},
+    {"q_no": "20", "question": "Which of the following best describes 'polynomial growth'? ", "options": {"a": "It indicates a constant rate of change on the y-axis per unit distance moved along the x-axis", "b": "A characteristic of functions where every value is less than the next one due to its quadratic nature", "c": "The term used to describe how fast an equation's output changes as input increases by one unit, with no exceptions in growth rates or decreasing intervals", "d": "Polynomial growth refers to a pattern that can be represented using a polynomial function and indicates consistent change over the entire range of x-values"}, "correct_answer": "Best describes 'polynomial growth' is d: Polynomial growth refers to a pattern that can be represented using a polynomial function and indicates consistent change over the entire range of x-values."},
+    {"q_no": "21", "question": "What type of graph displays every point's coordinates where both variables are defined, without any gaps or discontinuities?", "options": {"a": "Sine wave plot", "b": "Parabola graph", "c": "Linear line plot", "d": "Continuous function plot"}, "correct_answer": "A continuous function plot displays every point's coordinates where both variables are defined, without any gaps or discontinuities."},
+    {"q_no": "22", "question": "In a coordinate system, which axis is typically designated as the horizontal line that extends infinitely to the right?", "options": {"a": "Y-axis", "b": "X-axis", "c": "Z-axis", "d": "W-axis"}, "correct_answer": "The X-axis is typically designated as the horizontal line that extends infinitely to the right."},
+    {"q_no": "23", "question": "A function's graph that has a consistent increase or decrease across its entire domain, without any turning points or oscillations, is classified as what?", "options": {"a": "Periodic function", "b": "Quasiperiodic function", "c": "Monotonic function", "d": "Inverse function"}, "correct_answer": "A monotonic function's graph has a consistent increase or decrease across its entire domain, without any turning points or oscillations."},
+    {"q_no": "24", "question": "What does 'slope' specifically measure in the context of linear equations?", "options": {"a": "The rate at which one variable changes per unit change in another variable on a graph", "b": "The distance between two points that lie on a straight line, measured as units of y per x", "c": "A function's value at any given point on its plot", "d": "The sum of the squares of each individual variable's rate of change"}, "correct_answer": "In linear equations, 'slope' specifically measures the rate at which one variable changes per unit change in another variable on a graph."},
+    {"q_no": "25", "question": "Identify what type of function has all its outputs increasing as inputs increase and no turning points.", "options": {"a": "Linear function", "b": "Quadratic function", "c": "Monotonic function", "d": "Exponential function"}, "correct_answer": "A monotonic function is one where it increases or decreases strictly without changing direction, ensuring there are no 'turning points' or backtracking. Therefore, the correct answer is c: Monotonic function."},
+    {"q_no": "26", "question": "Which of the following best describes a graph with values increasing continuously in both directions and does not have any turning points?", "options": {"a": "Parabola graph", "b": "Linear line plot", "c": "Sine wave plot", "d": "Monotonic function plot"}, "correct_answer": "A monotonic function plot best describes a graph with values increasing continuously in both directions and does not have any turning points."},
+    {"q_no": "27", "question": "How would you describe the behavior of a function that never increases or decreases but remains constant over its entire domain?", "options": {"a": "Linear function", "b": "Quadratic function", "c": "Monotonic function", "d": "Constant function"}, "correct_answer": "A constant function is one where every point on its graph lies exactly above and below the line connecting any two points within that interval, ensuring a consistent value across the domain."},
+    {"q_no": "28", "question": "What does it mean for a function to be 'invertible'?", "options": {"a": "The function's output remains constant when its input increases by one unit", "b": "The graph of the function crosses itself at least once", "c": "Every value in the range has exactly one pre-image in the domain", "d": "The function can be expressed as a polynomial equation"}, "correct_answer": "For a function to be invertible, every value in its range must have exactly one pre-image in its domain."},
+    {"q_no": "29", "question": "A graph that increases or decreases steadily without any turning points is known as what?", "options": {"a": "Linear graph", "b": "Monotonic graph", "c": "Quadratic graph", "d": "Sine wave plot"}, "correct_answer": "The correct answer is b: Monotonic graph. A monotonic function's graph has a consistent increase or decrease across its entire domain, without any turning points or oscillations."},
+    {"q_no": "30", "question": "What does 'polynomial growth' specifically refer to in the context of functions?", "options": {"a": "A function that increases continuously and linearly over its range", "b": "A function where every value is less than the next due to a quadratic nature", "c": "The rate at which an equation's output changes as input increases by one unit with no exceptions in growth rates or decreasing intervals", "d": "A pattern that can be represented using a polynomial function and indicates consistent change over the entire range of x-values"}, "correct_answer": "Polynomial growth refers to a pattern that can be represented using a polynomial function and indicates consistent change over the entire range of x-values."},
+    {"q_no": "31", "question": "Which type of graph displays every point's coordinates where both variables are defined without any gaps or discontinuities?", "options": {"a": "Sine wave plot", "b": "Parabola graph", "c": "Linear line plot", "d": "Continuous function plot"}, "correct_answer": "A continuous function plot is designed for this purpose, as it displays every point's coordinates where both variables are defined without any gaps or discontinuities."},
+    {"q_no": "32", "question": "What axis in a coordinate system extends infinitely to the right and is used primarily to measure distances along the horizontal direction?", "options": {"a": "Y-axis", "b": "X-axis", "c": "Z-axis", "d": "W-axis"}, "correct_answer": "The X-axis is designated as this axis in a coordinate system, extending infinitely to the right and measuring distances along the horizontal direction."},
+    {"q_no": "33", "question": "What type of function has all its outputs increasing as inputs increase without any turning points or oscillations?", "options": {"a": "Linear function", "b": "Quadratic function", "c": "Monotonic function", "d": "Exponential function"}, "correct_answer": "A monotonic function is defined as one where the outputs either increase or decrease strictly, without changing direction. Therefore, the correct answer is c: Monotonic function."},
+    {"q_no": "34", "question": "How would you describe a graph with values that neither rise nor fall but remain constant throughout its domain?", "options": {"a": "Linear graph", "b": "Quadratic graph", "c": "Monotonic graph", "d": "Constant function"}, "correct_answer": "A constant function is characterized by every point on its graph lying exactly above and below the line connecting any two points within that interval, ensuring a consistent value across the domain."},
+    {"q_no": "35", "question": "What does it mean for a function to be invertible?", "options": {"a": "The function's output remains constant when its input increases by one unit", "b": "The graph of the function crosses itself at least once", "c": "Every value in the range has exactly one pre-image in the domain", "d": "The function can be expressed as a polynomial equation"}, "correct_answer": "For a function to be invertible, every value in its range must have exactly one pre-image in its domain."}
+]
+What is an example of a monotonic function? An example of a monotonic function is the linear function \( f(x) = 3x + 2 \). This function is monotonic because it increases or decreases without any turning points, ensuring that for every value in the range, there is exactly one pre-image in the domain. The slope of this function (which is 3) indicates a consistent increase as \( x \) increases.
+
+Therefore, the correct answer is:
+
+\boxed{f(x) = 3x + 2}
+Time Taken: 515.39 seconds | Tokens Produced: 3168 | ⚡⚡⚡ Token Speed 6.147 tokens/sec
+⚠️ Warning: Expected 16 MCQs but got 14...
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+
+Attempt 4/4 for Syllabus 4 of 5... | qwen2.5:1.5b
+
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What is the domain of a function \( f(x) = x^2 \)?", "options": {"a": "All real numbers except 0", "b": "Only negative numbers", "c": "Positive integers only", "d": "Even integers"}, "correct_answer": "All real numbers except 0"},
+    {"q_no": "2", "question": "If \( g(x) = \sqrt{x+1} \), what is the domain of this function?", "options": {"a": "All real numbers less than or equal to 1", "b": "Only even integers", "c": "Positive integers only", "d": "Even integers"}, "correct_answer": "All real numbers less than or equal to 1"},
+    {"q_no": "3", "question": "Consider the function \( h(x) = \frac{1}{x-2} \). What is its range?", "options": {"a": "Positive real numbers", "b": "Negative real numbers only", "c": "All real numbers except 0", "d": "Real numbers excluding 2"}, "correct_answer": "All real numbers except 0"},
+    {"q_no": "4", "question": "A function \( k(x) = \log_3{x} \) is defined for which set of values?", "options": {"a": "All non-negative integers less than 100", "b": "Only odd numbers greater than 50", "c": "Positive real numbers only", "d": "Non-integer powers greater than 2"}, "correct_answer": "Positive real numbers only"},
+    {"q_no": "5", "question": "The function \( l(x) = |x| \) is defined for which set of values?", "options": {"a": "All real numbers except negative ones", "b": "Negative and positive integers", "c": "Non-negative numbers less than 100", "d": "Positive whole numbers"}, "correct_answer": "All real numbers except negative ones"},
+    {"q_no": "6", "question": "What is the range of \( m(x) = \sqrt{x^2 - 4} \)?", "options": {"a": "Only positive numbers", "b": "Negative and positive real numbers", "c": "Real numbers excluding 0", "d": "All real numbers including negative ones"}, "correct_answer": "Real numbers excluding 0"},
+    {"q_no": "7", "question": "Given the function \( n(x) = \frac{1}{x+3} \), what is its domain?", "options": {"a": "All real numbers less than or equal to -2", "b": "Negative and positive integers only", "c": "Positive real numbers only", "d": "Real numbers excluding 3"}, "correct_answer": "Real numbers excluding 3"},
+    {"q_no": "8", "question": "If \( o(x) = e^x \), what is the range of this exponential function?", "options": {"a": "Positive real numbers only", "b": "Negative whole numbers less than 100", "c": "All non-integer powers greater than 2", "d": "Real numbers excluding 0"}, "correct_answer": "All non-integer powers greater than 2"},
+    {"q_no": "9", "question": "The function \( p(x) = \frac{1}{x+5} - 3 \). What is its domain?", "options": {"a": "All real numbers except negative ones", "b": "Only even integers", "c": "Positive whole numbers only", "d": "Real numbers excluding 5"}, "correct_answer": "All real numbers except negative ones"},
+    {"q_no": "10", "question": "A function \( q(x) = \frac{2}{x-4} \). What is the range of this rational function?", "options": {"a": "Only positive numbers", "b": "Negative and positive real numbers", "c": "Real numbers excluding 0", "d": "All non-integer powers greater than 2"}, "correct_answer": "Real numbers excluding 0"},
+    {"q_no": "11", "question": "The function \( r(x) = \sin{x} \). What is the domain?", "options": {"a": "All real numbers except negative ones", "b": "Odd integers less than -2", "c": "Positive and even powers of 2", "d": "Real numbers excluding pi"}, "correct_answer": "All real numbers except negative ones"},
+    {"q_no": "12", "question": "The function \( s(x) = \tan{x} \). What is the range of this trigonometric function?", "options": {"a": "Positive and negative whole numbers", "b": "Only positive real numbers less than 100", "c": "All non-integer powers greater than 2", "d": "Real numbers excluding 0"}, "correct_answer": "All non-integer powers greater than 2"},
+    {"q_no": "13", "question": "The function \( t(x) = \frac{4}{x+6} - 5 \). What is its domain?", "options": {"a": "All real numbers except negative ones", "b": "Odd and even integers less than 20", "c": "Positive whole numbers only", "d": "Real numbers excluding 6"}, "correct_answer": "All real numbers except negative ones"},
+    {"q_no": "14", "question": "The function \( u(x) = \frac{3}{x-7} + 2 \). What is its domain?", "options": {"a": "All real numbers except negative ones", "b": "Odd and even integers only", "c": "Positive whole numbers less than 100", "d": "Real numbers excluding 7"}, "correct_answer": "All real numbers except negative ones"}
+]
+Time Taken: 154.97 seconds | Tokens Produced: 653 | ⚡⚡⚡ Token Speed 4.214 tokens/sec
+⚠️ Warning: Expected 16 MCQs but got 14...
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+
+⚠️ Warning: After 4 attempts returning longest valid response.
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 4 of 5
+[
+   {
+      "q_no": "1",
+      "question": "What is the domain of a function?",
+      "options": {
+         "a": "The set of all possible output values",
+         "b": "The range of the input values",
+         "c": "The entire set of real numbers",
+         "d": "None of the above"
+      },
+      "correct_answer": "The set of all possible output values"
+   },
+   {
+      "q_no": "2",
+      "question": "How is a function represented in mathematics?",
+      "options": {
+         "a": "By a table listing inputs and outputs",
+         "b": "By an equation that defines input and output",
+         "c": "Using graphing software",
+         "d": "Both b and c"
+      },
+      "correct_answer": "By both b and c"
+   },
+   {
+      "q_no": "3",
+      "question": "What is the inverse of a function?",
+      "options": {
+         "a": "A function that outputs inputs from another set",
+         "b": "The same as the original function",
+         "c": "A function where each output has exactly one input, and vice versa",
+         "d": "None of the above"
+      },
+      "correct_answer": "A function where each output has exactly one input, and vice versa"
+   },
+   {
+      "q_no": "4",
+      "question": "What does a graphically represented function show?",
+      "options": {
+         "a": "The inputs only",
+         "b": "Both the inputs and outputs for all values of x",
+         "c": "Outputs only",
+         "d": "None of the above"
+      },
+      "correct_answer": "Both the inputs and outputs for all values of x"
+   },
+   {
+      "q_no": "5",
+      "question": "What is the equation to find the transformation y = f(x) + 2?",
+      "options": {
+         "a": "x = y - 2",
+         "b": "y = x + 2",
+         "c": "f(x) = x + 2",
+         "d": "None of the above"
+      },
+      "correct_answer": "c"
+   },
+   {
+      "q_no": "6",
+      "question": "What is a real-world application of function notation?",
+      "options": {
+         "a": "Calculating the distance traveled by an object over time using velocity function",
+         "b": "Determining which product to choose based on its price",
+         "c": "Predicting future stock prices based on past data",
+         "d": "Both a and c"
+      },
+      "correct_answer": "Both a and c"
+   },
+   {
+      "q_no": "7",
+      "question": "What is the domain of f(x) = 3x^2 - 4?",
+      "options": {
+         "a": "All real numbers",
+         "b": "Only positive real numbers",
+         "c": "Numbers between -1 and 1 inclusive",
+         "d": "None of the above"
+      },
+      "correct_answer": "All real numbers"
+   },
+   {
+      "q_no": "8",
+      "question": "What is the range of y = (x-3)^2 + 5?",
+      "options": {
+         "a": "All positive values",
+         "b": "Only negative values",
+         "c": "Numbers between -1 and 1 inclusive",
+         "d": "None of the above"
+      },
+      "correct_answer": "All positive values"
+   },
+   {
+      "q_no": "9",
+      "question": "What is the equation to find the transformation y = f(x+3) for a function y = f(x)?",
+      "options": {
+         "a": "x = y - 3",
+         "b": "y = x + 3",
+         "c": "f(x) = x + 3",
+         "d": "None of the above"
+      },
+      "correct_answer": "c"
+   },
+   {
+      "q_no": "10",
+      "question": "What is an example of a composite function in real life?",
+      "options": {
+         "a": "Calculating the area under a curve using integration",
+         "b": "Determining how long it takes for an object to fall from a given height based on its velocity",
+         "c": "Calculating the total distance traveled by an object over time based on its speed and direction changes",
+         "d": "Both b and c"
+      },
+      "correct_answer": "Both b and c"
+   },
+   {
+      "q_no": "11",
+      "question": "What is the equation to find the transformation y = f(x-2) for a function y = f(x)?",
+      "options": {
+         "a": "x = y - 2",
+         "b": "y = x + 2",
+         "c": "f(x) = x + 2",
+         "d": "None of the above"
+      },
+      "correct_answer": "a"
+   },
+   {
+      "q_no": "12",
+      "question": "What is the difference between an even and odd function?",
+      "options": {
+         "a": "An even function has outputs equal to inputs, while an odd function does not have this property",
+         "b": "An even function can be represented by a graph that mirrors across the y-axis, while an odd function cannot",
+         "c": "Both b and c are correct",
+         "d": "None of the above"
+      },
+      "correct_answer": "Both b and c"
+   },
+   {
+      "q_no": "13",
+      "question": "What is the domain of g(x) = 1/(x-2)?",
+      "options": {
+         "a": "All real numbers except x=0",
+         "b": "Only positive real numbers",
+         "c": "Numbers between -1 and 1 inclusive",
+         "d": "None of the above"
+      },
+      "correct_answer": "All real numbers except x=0"
+   },
+   {
+      "q_no": "14",
+      "question": "What is an example of applying function notation in a scenario that involves a sequence?",
+      "options": {
+         "a": "Determining the nth term of a geometric series using the general form of f(n) = ar^(n-1)",
+         "b": "Calculating the volume of a cylinder by finding its base area and height",
+         "c": "Predicting future stock prices based on past data",
+         "d": "None of the above"
+      },
+      "correct_answer": "Determining the nth term of a geometric series using the general form of f(n) = ar^(n-1)"
+   }
+]
+TIME for MCQ: 293.699 | ⚡⚡⚡ Token Speed: 2.455 tokens/sec
+TOTAL Tokens for Syllabus 4 & its MCQ: 786 | TOTAL Time: 1433.88
+

@@ -1,0 +1,482 @@
+********************************************************************************
+Syllabus NUMBER 1
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+To create a succinct and professional syllabus for the Edexcel Gradé 12 Mathematics subject using the exact formatting style as shown below:
+
+Prompt: Sylabus for Cambridge Gradé 5 Mathematics, topic Fractions, subtopic Fraction Addition
+Response: Sylabus for Cambridge Gradé 5 Mathematics - Fractions - Fraction Addition:
+- Introduction to fraction as a part of a whole
+- Understanding numerators and denominators
+- Adding fraction with the same denominator
+- Adding fraction with different denominators
+- Simplifying fractions after addition
+- Solving word problems involving fraction addition
+
+No title, heading, or explanation are required.
+TIME for SYLLABUS: 8.736 | ⚡⚡⚡ Token Speed: 10.646 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 3...
+🔍🔍🔍 Generated MCQ:
+
+ 1. Carefully read the syllabaus below.
+2. Each line in the syllabaus is a separate topic. Each topic starts with a dash (-).
+3. For each topic, generate exactly 2 MCQ questions. Got it? TWO MCQ Quesions PER TOPIC! - There should be exactly two questions for every line of the syllabaus. Number each question starting from 1, and increment by 1. 4. Each question must have:
+    - 1 correct answer and 3 incorrect answers. - Note the correct answer. The output JSON format must be:
+        {"q_no": "Question No", "question": "Fraction Quesion", "options": {...}, "correct_answer": "The Correct Answer"}
+5. Each question should be separated in the JSON array. - Do not include any THING ELSE, no explanation or markdown formatting, ONLY the JSON. Requirements:
+- Generate exactly 12 MCQs for each line of the syllabaus below. - Stop outputting once the last JSON object is written. Stop outputting once the last JSON object is written. The entire collection of questions must be a JSON array (starting with '[' and ending with ']'). - Stop outputting once the last JSON object is written. Prompt: Generate 2 MCQs for each line of the syllabaus below. Each line represents a separate topic. Follow the JSON format as shown. Syllabus:
+- Introduction to fraction as a part of a whole
+- Understanding numerators and denominators
+- Adding fraction with the same denominator
+- Adding fraction with different denominators
+- Simplifying fraction(s) after addition
+
+Response:
+[{"q_no": 1, "question": "How do you write a fraction in its simplest form?", "options": {"a": "2/4", "b": "3/5", "c": "1/6", "d": "7/8"}, "correct_answer": "a"}]
+[{"q_no": 2, "question": "What does it mean to add a fraction with the same denominator?", "options": {"a": "Simplifies", "b": "Converts", "c": "Adds", "d": "Removes"}, "correct_answer": "c"}]
+[{"q_no": 3, "question": "What does it mean to add fractions with different denominators?", "options": {"a": "Simplifies", "b": "Converts", "c": "Adds", "d": "Removes"}, "correct_answer": "a"}]
+[{"q_no": 4, "question": "How do you simplify a fraction with a single digit denominator?", "options": {"a": "1/4 = 0.25", "b": "2/6 = 3/8", "c": "9/10 = 9/10", "d": "7/8 = 1/8"}, "correct_answer": "d"}]
+Time Taken: 31.75 seconds | Tokens Produced: 347 | ⚡⚡⚡ Token Speed 10.931 tokens/sec
+⚠️ Error: Invalid JSON format...
+
+Attempt 2 out of 3...
+🔍🔍🔍 Generated MCQ:
+
+ 1. Carefully read the syllabus below.
+2. Each line in the syllabus starts with an open square bracket ("[") and ends with a close square bracket ("]"), while each topic is seperated by two spaces.
+3. For each topic, generate exactly 2 MCQ questions. Got it? Two MCQ Qeustions PER TOPIC! - There should be exactly two questions for every line of the syllabus.
+4. Each question must have:
+    1. 1 correct answer and 3 incorrect answers (A, B, C, D). Note the correct answer.
+    2. Format example: 
+       {"q_no": "question_number", "question": "the_question", "options": {"a": "option_a", "b": "option_b", "c": "option_c", "d": "option_d"}, "correct_answer": "the_correct_answer"}
+    3. Each question should be separated in the JSON array.
+5. The entire collection of questions must be a JSON array (starting with '[' and ending with ']').
+6. Stop outputting once the last JSON object is written.
+Time Taken: 8.98 seconds | Tokens Produced: 141 | ⚡⚡⚡ Token Speed 15.693 tokens/sec
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+
+Attempt 3 out of 3...
+🔍🔍🔍 Generated MCQ:
+
+ 1. Carefully read the syllabus below, each line in the syllabus starts with a dash (-), and for every topic, generate an exact 2 MCQ questions per topic.
+    - There should be exactly two questions for each line of the syllabus.
+    - Number each question starting from 1, and increment by 1.
+5. Each question must have:
+    1. 1 correct answer and 3 incorrect answers (a, b, c, d),
+    2. Format example: 
+        {"q_no": "question number", "question": "the question text", "options": {"a": "option_a", "b": "option_b", "c": "option_c", "d": "option_d"}, "correct_answer": "the_correct_answer"}
+    3. Each question should be separated in the JSON array, and it should not be split into multiple arrays.
+2. The entire collection of questions must be a JSON array (starting with '[' and ending with ']').
+3. Stop outputting once the last JSON object is written.
+4. Prompt: Generate 2 MCQs for each line of the syllabus below, following the JSON format as shown.
+5. Syllabus:
+- Definition and importance of cellular respiration
+- The process of glucolysiis
+- Why is cellular respiration important for living organisms?
+6. Response:
+[
+    {
+         "q_no": 1,
+         "question": "Why is cellular respiration important for living organisms?",
+         "options": {
+             "a": "It produces glucose for energy storage",
+             "b": "It converts food into usable energy",
+             "c": "It allows movement in cells",
+             "d": "It helps absorb sunlight"
+         },
+         "correct_answer": "It produces glucose for energy storage"
+     },
+     {
+         "q_no": 2,
+         "question": "What is the definition of cellular respiration?",
+         "options": {
+             "a": "The breakdown of glucose to relieve energy",
+             "b": "The absorption of oxygen in the lungs",
+             "c": "The creation of new cells from old ones",
+             "d": "The conversion of protein into glucose"
+         },
+         "correct_answer": "The breakdown of glucose to relieve energy"
+     },
+     {
+         "q_no": 3,
+         "question": "What is the end product of glucose metabolism in a cell?",
+         "options": {
+             "a": "Two ethanol molecules",
+             "b": "Two pyruvate molecules",
+             "c": "Four ATP molecules",
+             "d": "One glucose molecule"
+         },
+         "correct_answer": "Two pyruvate molecules"
+     }
+]
+Time Taken: 20.22 seconds | Tokens Produced: 324 | ⚡⚡⚡ Token Speed 16.026 tokens/sec
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+
+********************************************************************************
+Syllabus NUMBER 1
+
+********************************************************************************
+Syllabus NUMBER 1
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+{"error": "\u274c API response missing 'response' key. Got: {'error': \"model 'tinyllama' not found\"}", "status_code": 404}
+TIME for SYLLABUS: 2.042 | ⚡⚡⚡ Token Speed: 0 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 0
+Attempt 1 out of 3...
+🔍🔍🔍 Generated MCQ:
+
+ {"error": "\u274c API response missing 'response' key. Got: {'error': \"model 'tinyllama' not found\"}", "status_code": 404}
+Time Taken: 2.03 seconds | Tokens Produced: 0 | ⚡⚡⚡ Token Speed 0.000 tokens/sec
+✅✅✅ Successfully generated 2 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏
+{
+   "error": "\u274c API response missing 'response' key. Got: {'error': \"model 'tinyllama' not found\"}",
+   "status_code": 404
+}
+TIME for MCQ: 2.03 | ⚡⚡⚡ Token Speed: 0 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 0 | TOTAL Time: 4.08
+
+********************************************************************************
+Syllabus NUMBER 2
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+{"error": "\u274c API response missing 'response' key. Got: {'error': \"model 'tinyllama' not found\"}", "status_code": 404}
+TIME for SYLLABUS: 2.032 | ⚡⚡⚡ Token Speed: 0 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 0
+Attempt 1 out of 3...
+🔍🔍🔍 Generated MCQ:
+
+ {"error": "\u274c API response missing 'response' key. Got: {'error': \"model 'tinyllama' not found\"}", "status_code": 404}
+Time Taken: 2.04 seconds | Tokens Produced: 0 | ⚡⚡⚡ Token Speed 0.000 tokens/sec
+✅✅✅ Successfully generated 2 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏
+{
+   "error": "\u274c API response missing 'response' key. Got: {'error': \"model 'tinyllama' not found\"}",
+   "status_code": 404
+}
+TIME for MCQ: 2.044 | ⚡⚡⚡ Token Speed: 0 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 0 | TOTAL Time: 4.08
+
+********************************************************************************
+Syllabus NUMBER 3
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+{"error": "\u274c API response missing 'response' key. Got: {'error': \"model 'tinyllama' not found\"}", "status_code": 404}
+TIME for SYLLABUS: 2.053 | ⚡⚡⚡ Token Speed: 0 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 0
+Attempt 1 out of 3...
+🔍🔍🔍 Generated MCQ:
+
+ {"error": "\u274c API response missing 'response' key. Got: {'error': \"model 'tinyllama' not found\"}", "status_code": 404}
+Time Taken: 2.04 seconds | Tokens Produced: 0 | ⚡⚡⚡ Token Speed 0.000 tokens/sec
+✅✅✅ Successfully generated 2 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏
+{
+   "error": "\u274c API response missing 'response' key. Got: {'error': \"model 'tinyllama' not found\"}",
+   "status_code": 404
+}
+TIME for MCQ: 2.038 | ⚡⚡⚡ Token Speed: 0 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 0 | TOTAL Time: 4.10
+
+********************************************************************************
+Syllabus NUMBER 4
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+{"error": "\u274c API response missing 'response' key. Got: {'error': \"model 'tinyllama' not found\"}", "status_code": 404}
+TIME for SYLLABUS: 2.038 | ⚡⚡⚡ Token Speed: 0 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 0
+Attempt 1 out of 3...
+🔍🔍🔍 Generated MCQ:
+
+ {"error": "\u274c API response missing 'response' key. Got: {'error': \"model 'tinyllama' not found\"}", "status_code": 404}
+Time Taken: 2.04 seconds | Tokens Produced: 0 | ⚡⚡⚡ Token Speed 0.000 tokens/sec
+✅✅✅ Successfully generated 2 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏
+{
+   "error": "\u274c API response missing 'response' key. Got: {'error': \"model 'tinyllama' not found\"}",
+   "status_code": 404
+}
+TIME for MCQ: 2.044 | ⚡⚡⚡ Token Speed: 0 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 0 | TOTAL Time: 4.09
+
+********************************************************************************
+Syllabus NUMBER 5
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+{"error": "\u274c API response missing 'response' key. Got: {'error': \"model 'tinyllama' not found\"}", "status_code": 404}
+TIME for SYLLABUS: 2.051 | ⚡⚡⚡ Token Speed: 0 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 0
+Attempt 1 out of 3...
+🔍🔍🔍 Generated MCQ:
+
+ {"error": "\u274c API response missing 'response' key. Got: {'error': \"model 'tinyllama' not found\"}", "status_code": 404}
+Time Taken: 2.05 seconds | Tokens Produced: 0 | ⚡⚡⚡ Token Speed 0.000 tokens/sec
+✅✅✅ Successfully generated 2 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏
+{
+   "error": "\u274c API response missing 'response' key. Got: {'error': \"model 'tinyllama' not found\"}",
+   "status_code": 404
+}
+TIME for MCQ: 2.045 | ⚡⚡⚡ Token Speed: 0 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 0 | TOTAL Time: 4.10
+
+********************************************************************************
+Syllabus NUMBER 6
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+{"error": "\u274c API response missing 'response' key. Got: {'error': \"model 'tinyllama' not found\"}", "status_code": 404}
+TIME for SYLLABUS: 2.037 | ⚡⚡⚡ Token Speed: 0 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 0
+Attempt 1 out of 3...
+🔍🔍🔍 Generated MCQ:
+
+ {"error": "\u274c API response missing 'response' key. Got: {'error': \"model 'tinyllama' not found\"}", "status_code": 404}
+Time Taken: 2.06 seconds | Tokens Produced: 0 | ⚡⚡⚡ Token Speed 0.000 tokens/sec
+✅✅✅ Successfully generated 2 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏
+{
+   "error": "\u274c API response missing 'response' key. Got: {'error': \"model 'tinyllama' not found\"}",
+   "status_code": 404
+}
+TIME for MCQ: 2.059 | ⚡⚡⚡ Token Speed: 0 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 0 | TOTAL Time: 4.10
+
+********************************************************************************
+Syllabus NUMBER 7
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+{"error": "\u274c API response missing 'response' key. Got: {'error': \"model 'tinyllama' not found\"}", "status_code": 404}
+TIME for SYLLABUS: 2.045 | ⚡⚡⚡ Token Speed: 0 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 0
+Attempt 1 out of 3...
+🔍🔍🔍 Generated MCQ:
+
+ {"error": "\u274c API response missing 'response' key. Got: {'error': \"model 'tinyllama' not found\"}", "status_code": 404}
+Time Taken: 2.04 seconds | Tokens Produced: 0 | ⚡⚡⚡ Token Speed 0.000 tokens/sec
+✅✅✅ Successfully generated 2 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏
+{
+   "error": "\u274c API response missing 'response' key. Got: {'error': \"model 'tinyllama' not found\"}",
+   "status_code": 404
+}
+TIME for MCQ: 2.042 | ⚡⚡⚡ Token Speed: 0 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 0 | TOTAL Time: 4.09
+
+********************************************************************************
+Syllabus NUMBER 8
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+{"error": "\u274c API response missing 'response' key. Got: {'error': \"model 'tinyllama' not found\"}", "status_code": 404}
+TIME for SYLLABUS: 2.034 | ⚡⚡⚡ Token Speed: 0 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 0
+Attempt 1 out of 3...
+🔍🔍🔍 Generated MCQ:
+
+ {"error": "\u274c API response missing 'response' key. Got: {'error': \"model 'tinyllama' not found\"}", "status_code": 404}
+Time Taken: 2.04 seconds | Tokens Produced: 0 | ⚡⚡⚡ Token Speed 0.000 tokens/sec
+✅✅✅ Successfully generated 2 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏
+{
+   "error": "\u274c API response missing 'response' key. Got: {'error': \"model 'tinyllama' not found\"}",
+   "status_code": 404
+}
+TIME for MCQ: 2.04 | ⚡⚡⚡ Token Speed: 0 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 0 | TOTAL Time: 4.08
+
+********************************************************************************
+
+Total Time Taken: 32.74, Total Tokens Generated: 0, Avg Total Token Gen Speed: 0.00 tokens/sec
+Total ERROR: 0
+********************************************************************************
+Syllabus NUMBER 1
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+{"error": "\u274c API response missing 'response' key. Got: {'error': \"model 'tinyllama' not found\"}", "status_code": 404}
+TIME for SYLLABUS: 2.044 | ⚡⚡⚡ Token Speed: 0 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 0
+Attempt 1 out of 3...
+🔍🔍🔍 Generated MCQ:
+
+ {"error": "\u274c API response missing 'response' key. Got: {'error': \"model 'tinyllama' not found\"}", "status_code": 404}
+Time Taken: 2.05 seconds | Tokens Produced: 0 | ⚡⚡⚡ Token Speed 0.000 tokens/sec
+✅✅✅ Successfully generated 2 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏
+{
+   "error": "\u274c API response missing 'response' key. Got: {'error': \"model 'tinyllama' not found\"}",
+   "status_code": 404
+}
+TIME for MCQ: 2.048 | ⚡⚡⚡ Token Speed: 0 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 0 | TOTAL Time: 4.10
+
+********************************************************************************
+Syllabus NUMBER 2
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+{"error": "\u274c API response missing 'response' key. Got: {'error': \"model 'tinyllama' not found\"}", "status_code": 404}
+TIME for SYLLABUS: 2.038 | ⚡⚡⚡ Token Speed: 0 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 0
+Attempt 1 out of 3...
+🔍🔍🔍 Generated MCQ:
+
+ {"error": "\u274c API response missing 'response' key. Got: {'error': \"model 'tinyllama' not found\"}", "status_code": 404}
+Time Taken: 2.05 seconds | Tokens Produced: 0 | ⚡⚡⚡ Token Speed 0.000 tokens/sec
+✅✅✅ Successfully generated 2 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏
+{
+   "error": "\u274c API response missing 'response' key. Got: {'error': \"model 'tinyllama' not found\"}",
+   "status_code": 404
+}
+TIME for MCQ: 2.053 | ⚡⚡⚡ Token Speed: 0 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 0 | TOTAL Time: 4.10
+
+********************************************************************************
+Syllabus NUMBER 3
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+{"error": "\u274c API response missing 'response' key. Got: {'error': \"model 'tinyllama' not found\"}", "status_code": 404}
+TIME for SYLLABUS: 2.038 | ⚡⚡⚡ Token Speed: 0 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 0
+Attempt 1 out of 3...
+🔍🔍🔍 Generated MCQ:
+
+ {"error": "\u274c API response missing 'response' key. Got: {'error': \"model 'tinyllama' not found\"}", "status_code": 404}
+Time Taken: 2.05 seconds | Tokens Produced: 0 | ⚡⚡⚡ Token Speed 0.000 tokens/sec
+✅✅✅ Successfully generated 2 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏
+{
+   "error": "\u274c API response missing 'response' key. Got: {'error': \"model 'tinyllama' not found\"}",
+   "status_code": 404
+}
+TIME for MCQ: 2.046 | ⚡⚡⚡ Token Speed: 0 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 0 | TOTAL Time: 4.09
+
+********************************************************************************
+Syllabus NUMBER 4
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+{"error": "\u274c API response missing 'response' key. Got: {'error': \"model 'tinyllama' not found\"}", "status_code": 404}
+TIME for SYLLABUS: 2.05 | ⚡⚡⚡ Token Speed: 0 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 0
+Attempt 1 out of 3...
+🔍🔍🔍 Generated MCQ:
+
+ {"error": "\u274c API response missing 'response' key. Got: {'error': \"model 'tinyllama' not found\"}", "status_code": 404}
+Time Taken: 2.04 seconds | Tokens Produced: 0 | ⚡⚡⚡ Token Speed 0.000 tokens/sec
+✅✅✅ Successfully generated 2 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏
+{
+   "error": "\u274c API response missing 'response' key. Got: {'error': \"model 'tinyllama' not found\"}",
+   "status_code": 404
+}
+TIME for MCQ: 2.04 | ⚡⚡⚡ Token Speed: 0 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 0 | TOTAL Time: 4.10
+
+********************************************************************************
+Syllabus NUMBER 5
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+{"error": "\u274c API response missing 'response' key. Got: {'error': \"model 'tinyllama' not found\"}", "status_code": 404}
+TIME for SYLLABUS: 2.038 | ⚡⚡⚡ Token Speed: 0 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 0
+Attempt 1 out of 3...
+🔍🔍🔍 Generated MCQ:
+
+ {"error": "\u274c API response missing 'response' key. Got: {'error': \"model 'tinyllama' not found\"}", "status_code": 404}
+Time Taken: 2.04 seconds | Tokens Produced: 0 | ⚡⚡⚡ Token Speed 0.000 tokens/sec
+✅✅✅ Successfully generated 2 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏
+{
+   "error": "\u274c API response missing 'response' key. Got: {'error': \"model 'tinyllama' not found\"}",
+   "status_code": 404
+}
+TIME for MCQ: 2.037 | ⚡⚡⚡ Token Speed: 0 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 0 | TOTAL Time: 4.08
+
+********************************************************************************
+Syllabus NUMBER 6
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+{"error": "\u274c API response missing 'response' key. Got: {'error': \"model 'tinyllama' not found\"}", "status_code": 404}
+TIME for SYLLABUS: 2.052 | ⚡⚡⚡ Token Speed: 0 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 0
+Attempt 1 out of 3...
+🔍🔍🔍 Generated MCQ:
+
+ {"error": "\u274c API response missing 'response' key. Got: {'error': \"model 'tinyllama' not found\"}", "status_code": 404}
+Time Taken: 2.04 seconds | Tokens Produced: 0 | ⚡⚡⚡ Token Speed 0.000 tokens/sec
+✅✅✅ Successfully generated 2 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏
+{
+   "error": "\u274c API response missing 'response' key. Got: {'error': \"model 'tinyllama' not found\"}",
+   "status_code": 404
+}
+TIME for MCQ: 2.036 | ⚡⚡⚡ Token Speed: 0 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 0 | TOTAL Time: 4.09
+
+********************************************************************************
+Syllabus NUMBER 7
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+{"error": "\u274c API response missing 'response' key. Got: {'error': \"model 'tinyllama' not found\"}", "status_code": 404}
+TIME for SYLLABUS: 2.047 | ⚡⚡⚡ Token Speed: 0 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 0
+Attempt 1 out of 3...
+🔍🔍🔍 Generated MCQ:
+
+ {"error": "\u274c API response missing 'response' key. Got: {'error': \"model 'tinyllama' not found\"}", "status_code": 404}
+Time Taken: 2.05 seconds | Tokens Produced: 0 | ⚡⚡⚡ Token Speed 0.000 tokens/sec
+✅✅✅ Successfully generated 2 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏
+{
+   "error": "\u274c API response missing 'response' key. Got: {'error': \"model 'tinyllama' not found\"}",
+   "status_code": 404
+}
+TIME for MCQ: 2.051 | ⚡⚡⚡ Token Speed: 0 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 0 | TOTAL Time: 4.11
+
+********************************************************************************
+Syllabus NUMBER 8
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+{"error": "\u274c API response missing 'response' key. Got: {'error': \"model 'tinyllama' not found\"}", "status_code": 404}
+TIME for SYLLABUS: 2.05 | ⚡⚡⚡ Token Speed: 0 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 0
+Attempt 1 out of 3...
+🔍🔍🔍 Generated MCQ:
+
+ {"error": "\u274c API response missing 'response' key. Got: {'error': \"model 'tinyllama' not found\"}", "status_code": 404}
+Time Taken: 2.04 seconds | Tokens Produced: 0 | ⚡⚡⚡ Token Speed 0.000 tokens/sec
+✅✅✅ Successfully generated 2 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏
+{
+   "error": "\u274c API response missing 'response' key. Got: {'error': \"model 'tinyllama' not found\"}",
+   "status_code": 404
+}
+TIME for MCQ: 2.04 | ⚡⚡⚡ Token Speed: 0 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 0 | TOTAL Time: 4.10
+
+********************************************************************************
+
+Total Time Taken: 32.77, Total Tokens Generated: 0, Avg Total Token Gen Speed: 0.00 tokens/sec
+Total ERROR: 16

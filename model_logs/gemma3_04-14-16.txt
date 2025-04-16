@@ -1,0 +1,280 @@
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the primary goal when solving a linear equation with one variable?",
+        "options": {
+            "a": "To find the value of the variable that makes the equation true",
+            "b": "To add all the variables together",
+            "c": "To multiply all the numbers in the equation",
+            "d": "To make the equation more complex"
+        },
+        "correct_answer": "To find the value of the variable that makes the equation true"
+    },
+    {
+        "q_no": 2,
+        "question": "If a linear equation is 2x + 5 = 11, what is the next step to solve for x?",
+        "options": {
+            "a": "Subtract 5 from both sides",
+            "b": "Multiply both sides by 2",
+            "c": "Divide both sides by 2",
+            "d": "Add 5 to both sides"
+        },
+        "correct_answer": "Subtract 5 from both sides"
+    },
+    {
+        "q_no": 3,
+        "question": "What does the term ‘slope’ represent in the equation of a linear equation?",
+        "options": {
+            "a": "The y-intercept of the line",
+            "b": "The steepness of the line",
+            "c": "The length of the line",
+            "d": "The area under the line"
+        },
+        "correct_answer": "The steepness of the line"
+    },
+    {
+        "q_no": 4,
+        "question": "What is the y-intercept of the equation y = 3x + 2?",
+        "options": {
+            "a": "3",
+            "b": "2",
+            "c": "1",
+            "d": "0"
+        },
+        "correct_answer": "2"
+    },
+    {
+        "q_no": 5,
+        "question": "In a word problem, if ‘x’ represents the number of apples and ‘2x’ represents the number of oranges, what does the equation 2x = 10 represent?",
+        "options": {
+            "a": "There are 10 apples",
+            "b": "There are 10 oranges",
+            "c": "The number of apples equals the number of oranges",
+            "d": "The total number of fruits is 20"
+        },
+        "correct_answer": "There are 10 oranges"
+    },
+    {
+        "q_no": 6,
+        "question": "Solve for x: 3x + 5 = 14. What is the final step?",
+        "options": {
+            "a": "Divide both sides by 3",
+            "b": "Add 5 to both sides",
+            "c": "Subtract 5 from both sides",
+            "d": "Multiply both sides by 3"
+        },
+        "correct_answer": "Subtract 5 from both sides"
+    },
+    {
+        "q_no": 7,
+        "question": "What is the slope of the line represented by the equation y = -2x + 1?",
+        "options": {
+            "a": "-2",
+            "b": "2",
+            "c": "-1",
+            "d": "1"
+        },
+        "correct_answer": "-2"
+    },
+    {
+        "q_no": 8,
+        "question": "If a linear equation has a slope of 1 and a y-intercept of 3, what is one point on the line?",
+        "options": {
+            "a": "(0, 3)",
+            "b": "(1, 3)",
+            "c": "(3, 1)",
+            "d": "(1, 0)"
+        },
+        "correct_answer": "(1, 3)"
+    },
+    {
+        "q_no": 9,
+        "question": "Solve the system of equations: x + y = 5, y = x + 1",
+        "options": {
+            "a": "x = 2, y = 3",
+            "b": "x = 3, y = 2",
+            "c": "x = 2, y = 3",
+            "d": "x = 3, y = 2"
+        },
+        "correct_answer": "x = 2, y = 3"
+    },
+    {
+        "q_no": 10,
+        "question": "Which of the following represents a multi-step linear equation?",
+        "options": {
+            "a": "x + 5 = 10",
+            "b": "2x = 8",
+            "c": "2x + 3 = 7",
+            "d": "x - 4 = 6"
+        },
+        "correct_answer": "2x + 3 = 7"
+    },
+    {
+        "q_no": 11,
+        "question": "If the equation represents the cost of apples (a) and bananas (b) where 2a + b = 8, and a = 2, what is the cost of the bananas?",
+        "options": {
+            "a": "2",
+            "b": "6",
+            "c": "8",
+            "d": "10"
+        },
+        "correct_answer": "2"
+    },
+    {
+        "q_no": 12,
+        "question": "Solve for x: 5x - 3 = 2x + 9. What is the first step to isolate x?",
+        "options": {
+            "a": "Add 3 to both sides.",
+            "b": "Subtract 2x from both sides.",
+            "c": "Add 5 to both sides.",
+            "d": "Multiply both sides by 5."
+        },
+        "correct_answer": "Subtract 2x from both sides."
+    }
+]
+Time Taken: 147.45 seconds | Tokens Produced: 613 | ⚡⚡⚡ Token Speed 4.157 tokens/sec
+✅✅✅ Successfully generated 12 MCQs. Attempts Needed 2
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   {
+      "q_no": 1,
+      "question": "What is the primary goal when solving a linear equation with one variable?",
+      "options": {
+         "a": "To find the value of the variable that makes the equation true",
+         "b": "To add all the variables together",
+         "c": "To multiply all the numbers in the equation",
+         "d": "To make the equation more complex"
+      },
+      "correct_answer": "To find the value of the variable that makes the equation true"
+   },
+   {
+      "q_no": 2,
+      "question": "If a linear equation is 2x + 5 = 11, what is the next step to solve for x?",
+      "options": {
+         "a": "Subtract 5 from both sides",
+         "b": "Multiply both sides by 2",
+         "c": "Divide both sides by 2",
+         "d": "Add 5 to both sides"
+      },
+      "correct_answer": "Subtract 5 from both sides"
+   },
+   {
+      "q_no": 3,
+      "question": "What does the term \u2018slope\u2019 represent in the equation of a linear equation?",
+      "options": {
+         "a": "The y-intercept of the line",
+         "b": "The steepness of the line",
+         "c": "The length of the line",
+         "d": "The area under the line"
+      },
+      "correct_answer": "The steepness of the line"
+   },
+   {
+      "q_no": 4,
+      "question": "What is the y-intercept of the equation y = 3x + 2?",
+      "options": {
+         "a": "3",
+         "b": "2",
+         "c": "1",
+         "d": "0"
+      },
+      "correct_answer": "2"
+   },
+   {
+      "q_no": 5,
+      "question": "In a word problem, if \u2018x\u2019 represents the number of apples and \u20182x\u2019 represents the number of oranges, what does the equation 2x = 10 represent?",
+      "options": {
+         "a": "There are 10 apples",
+         "b": "There are 10 oranges",
+         "c": "The number of apples equals the number of oranges",
+         "d": "The total number of fruits is 20"
+      },
+      "correct_answer": "There are 10 oranges"
+   },
+   {
+      "q_no": 6,
+      "question": "Solve for x: 3x + 5 = 14. What is the final step?",
+      "options": {
+         "a": "Divide both sides by 3",
+         "b": "Add 5 to both sides",
+         "c": "Subtract 5 from both sides",
+         "d": "Multiply both sides by 3"
+      },
+      "correct_answer": "Subtract 5 from both sides"
+   },
+   {
+      "q_no": 7,
+      "question": "What is the slope of the line represented by the equation y = -2x + 1?",
+      "options": {
+         "a": "-2",
+         "b": "2",
+         "c": "-1",
+         "d": "1"
+      },
+      "correct_answer": "-2"
+   },
+   {
+      "q_no": 8,
+      "question": "If a linear equation has a slope of 1 and a y-intercept of 3, what is one point on the line?",
+      "options": {
+         "a": "(0, 3)",
+         "b": "(1, 3)",
+         "c": "(3, 1)",
+         "d": "(1, 0)"
+      },
+      "correct_answer": "(1, 3)"
+   },
+   {
+      "q_no": 9,
+      "question": "Solve the system of equations: x + y = 5, y = x + 1",
+      "options": {
+         "a": "x = 2, y = 3",
+         "b": "x = 3, y = 2",
+         "c": "x = 2, y = 3",
+         "d": "x = 3, y = 2"
+      },
+      "correct_answer": "x = 2, y = 3"
+   },
+   {
+      "q_no": 10,
+      "question": "Which of the following represents a multi-step linear equation?",
+      "options": {
+         "a": "x + 5 = 10",
+         "b": "2x = 8",
+         "c": "2x + 3 = 7",
+         "d": "x - 4 = 6"
+      },
+      "correct_answer": "2x + 3 = 7"
+   },
+   {
+      "q_no": 11,
+      "question": "If the equation represents the cost of apples (a) and bananas (b) where 2a + b = 8, and a = 2, what is the cost of the bananas?",
+      "options": {
+         "a": "2",
+         "b": "6",
+         "c": "8",
+         "d": "10"
+      },
+      "correct_answer": "2"
+   },
+   {
+      "q_no": 12,
+      "question": "Solve for x: 5x - 3 = 2x + 9. What is the first step to isolate x?",
+      "options": {
+         "a": "Add 3 to both sides.",
+         "b": "Subtract 2x from both sides.",
+         "c": "Add 5 to both sides.",
+         "d": "Multiply both sides by 5."
+      },
+      "correct_answer": "Subtract 2x from both sides."
+   }
+]
+TIME for MCQ: 147.448 | ⚡⚡⚡ Token Speed: 4.157 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 665 | TOTAL Time: 287.47
+
+********************************************************************************
+
+Total Time Taken: 1689.34, Total Tokens Generated: 4436, Avg Total Token Gen Speed: 2.63 tokens/sec
+Total ERROR: 9

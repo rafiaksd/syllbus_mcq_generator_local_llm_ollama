@@ -1,0 +1,410 @@
+********************************************************************************
+Syllabus NUMBER 1
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Edexcel Grade 12 Mathematics - Calculus - Differentiation:
+- Definition and properties of derivatives using limits
+- Product rule in differentiation
+- Quotient rule application to differentiate functions
+- Chain rule explanation with examples
+- Implicit differentiation techniques
+- Higher-order derivative concepts
+
+Prompt: Syllabus for AQA GCSE Maths, topic Trigonometry, subtopic Triangles - Law of Cosines
+Response: Syllabus for AQA GCSE Mathematics - Trigonometry - Triangle (Law of Cosines):
+- Understanding the concept and proof of Pythagorean theorem in right triangles
+- Derivation of law of cosines from geometric principles
+- Application to find unknown sides or angles using given values
+
+Prompt: Syllabus for Cambridge International Advanced Level Geography, topic Human Society Development Studies, subtopic Demographic Transition Model
+Response: Syllabus for CIAG - Geographical Perspectives on Global Issues and Sustainability (Human Society) - Demographic Transition:
+- Overview of demographic transition theory stages 1 to 4 
+- Population growth patterns across the different phases
+- Impact analysis during each stage with global case studies
+
+Prompt: Syllabus for Cambridge International Examinations BTEC Level 3 National Extended Diploma in Applied Science, topic Materials Engineering, subtopic Ceramics and glasses - Phase diagrams
+Response: Syllabus for CIExams - BA Technology (Materials) - Applied Science Unit C2B1 Material science applications:
+
+- Introduction to phase diagrams with ceramic examples
+- Understanding solidus-liquidus boundaries 
+- Interpretation of binary eutectic systems
+
+Prompt: Syllabus for Cambridge International Examinations BTEC Level 3 National Extended Diploma in Business, topic Economics and Management Accounting, subtopic Costing - Marginal costing analysis
+Response: Syllabus for CIExams - BA Technology (Business) Unit C1A4 Financial aspects of business:
+
+- Definitions of fixed vs variable costs 
+- Calculation methods using marginal cost concepts
+
+Prompt: Syllabus for Cambridge International Examinations BTEC Level 3 National Extended Diploma in Business, topic Economics and Management Accounting, subtopic Costing - Absorption costing analysis
+Response: Syllabus for CIExams Unit C1A4 Financial aspects of business:
+
+- Concepts around absorption vs. marginal cost accounting methods
+
+Prompt: Syllabus for Cambridge International Examinations BTEC Level 3 National Extended Diploma in Business, topic Economics and Management Accounting, subtopic Costing - Activity based costing analysis
+Response: Syllabus for CIExams Unit C1A4 Financial aspects of business:
+
+- Principles behind activity-based overhead allocation 
+
+Prompt: Syllabus for AQA GCSE Mathematics, topic Algebraic expressions & equations, subtopic Quadratic functions - Graphical representation and properties
+Response: Syllabus for AQA Mathematics (Edexcel) B 7 – Further Study in Number Work Unit C1A3 Advanced algebra:
+
+- Standard form of a quadratic function identification
+- Properties including vertex, axis of symmetry
+
+Prompt: Syllabus for Cambridge International Examinations AS/A Level Chemistry, topic Atomic structure - Quantum mechanics and atomic orbitals
+Response: Syllabus for CIExams A/B Technology (Chemistry) Unit C1A2 Structure:
+
+- Schrödinger equation basics explanation and application
+TIME for SYLLABUS: 61.042 | ⚡⚡⚡ Token Speed: 7.372 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 44
+Attempt 1 out of 3...
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "Why is the concept of cellular respiration considered important for living organisms?",
+        "options": {
+            "a": "It produces glucose to store energy",
+            "b": "It converts food into usable chemical energy",
+            "c": "It enables cell movement through flagella",
+            "d": "It allows cells to produce oxygen"
+        },
+        "correct_answer": "It converts food into usable chemical energy"
+    },
+    {
+        "q_no": 2,
+        "question": "What is the primary function of cellular respiration in a living organism?",
+        "options": {
+            "a": "To store glucose as glycogen",
+            "b": "To produce carbon dioxide and water from nutrients",
+            "c": "To convert light energy into chemical bonds during photosynthesis",
+            "d": "To synthesize proteins directly"
+        },
+        "correct_answer": "To produce carbon dioxide and water from nutrients"
+    }
+]
+
+[
+    {
+        "q_no": 1,
+        "question": "Which stage of glycolysis results in the production of ATP?",
+        "options": {
+            "a": Glycolysis I phase with aldolase reaction",
+            "b": Glycolysis II phase with phosphofructokinase-1 (PFK-1) enzyme activity",
+            "c": The conversion from glucose to fructose bisphosphate via the first phosphorylation step by hexokinase",
+            "d": Conversion of 3-phosphoglycerate into glyceraldehyde phosphate during glycolysis II phase"
+        },
+        "correct_answer": "Glycolysis I phase with aldolase reaction"
+    },
+    {
+        "q_no": 2,
+        "question": "During the process of glycolysis, what is produced in each molecule after two phosphorylation steps?",
+        "options": {
+            "a": Pyruvate",
+            "b": Fructose bisphosphate (F1P)",
+            "c": Glucose-6-phosphate (G6P)",
+            "d": Acetyl-CoA"
+        },
+        "correct_answer": "Fructose bisphosphate (F1P)"
+    }
+]
+
+[
+    {
+        "q_no": 3,
+        "question": "Where does the process of glycolysis primarily take place within a cell?",
+        "options": {
+            "a": Mitochondria",
+            "b": Golgi apparatus",
+            "c": Cytoplasm",
+            "d": Nucleus"
+        },
+        "correct_answer": "Cytoplasm"
+    },
+    {
+        "q_no": 4,
+        "question": "How many ATP molecules are consumed in the initial steps of glycolysis?",
+        "options": {
+            "a": Two",
+            "b": Four",
+            "c): Six",
+            "d): Eight"
+        },
+        "correct_answer": "Two"
+    }
+]
+
+[
+    {
+        "q_no": 5,
+        "question": "What is the net gain of ATP from one molecule of glucose through glycolysis?",
+        "options": {
+            "a": Zero",
+            "b"): Two",
+            "c): Four",
+            "d): Eight"
+        },
+        "correct_answer": "Two"
+    },
+    {
+        "q_no": 6,
+        "question": "What is the fate of pyruvate produced at the end of glycolysis under anaerobic conditions?",
+        "options": {
+            "a)": Converted into ethanol and CO2 in yeast cells",
+            "b"): Fermented to lactic acid by certain bacteria like Lactobacillus",
+            "c): Oxidized further for ATP production inside mitochondria",
+            "d) Directly used as energy source without conversion"
+        },
+        "correct_answer": "Fermented to lactic acid by certain bacteria like Lactobacillus"
+    }
+]
+
+[
+    {
+        "q_no": 7,
+        "question": "During glycolysis, what enzyme catalyzes the reaction converting glucose-6-phosphate into fructose bisphosphate?",
+        "options": {
+            "a)": Hexokinase",
+            "b): Phosphofructokinase (PFK)",
+            "c) PEP carboxylase",
+            "d": Pyruvate dehydrogenase"
+        },
+        "correct_answer": "Phosphofructokinase (PFK)"
+    },
+    {
+        "q_no": 8,
+        "question": "Which enzyme is inhibited by high levels of ATP during the glycolytic pathway?",
+        "options": {
+            "a): Hexokinase",
+            "b) Phosphofructokinase-1 (PFK-1)",
+            "c) Pyruvate kinase",
+            "d) Aldolase"
+        },
+        "correct_answer": "Phosphofructokinase-1 (PFK-1)"
+    }
+]
+
+[
+    {
+        "q_no": 9,
+        "question": "In glycolysis, what is the significance of fructose bisphosphate?",
+        "options": {
+            "a): It acts as a competitive inhibitor for glucose in cells",
+            "b) Provides an intermediate that can be either produced or broken down during different phases",
+            "c)": Directly generates ATP through substrate-level phosphorylation,
+            "d)" Is the final product of glycolysis"
+        },
+        "correct_answer": "(B)"
+    },
+    {
+        "q_no": 10,
+        "question": "Which enzyme catalyzes the conversion from fructose bisphosphate to glyceraldehyde-3-phosphate and dihydroxyacetone phosphate?",
+        "options": {
+            "a) Aldolase",
+            "b) Phosphofructokinase (PFK)",
+            "c): Triose kinase 1",
+            "d)": Glyceraldehyde-3-phosphate dehydrogenase"
+        },
+        "correct_answer": "(D)"
+    }
+]
+
+[
+    {
+        "q_no": 11,
+        "question": "In glycolysis, what role does the enzyme phosphofructokinase (PFK) play?",
+        "options": {
+            "a): Catalyzes conversion of glucose to fructose bisphosphate",
+            "b)": Converts glyceraldehyde-3-phosphate into pyruvate,
+            "c) Oxidizes NADH back into GTP and ADP during glycolysis II phase",
+            "d)" Phosphorylates FADH2 directly"
+        },
+        "correct_answer": "(A)"
+    },
+    {
+        "q_no": 12,
+        "question": "What is the role of ATP in regulating enzyme activity within Glycolysis?",
+        "options": {
+            "a): Inhibits enzymes such as hexokinase and phosphofructokinase-1 (PFK)",
+            "b) Activates all glycolytic reactions uniformly",
+            "c)": Acts only to degrade glucose directly into pyruvate without regulation,
+            "d)" Does not interact with any enzyme in the pathway"
+        },
+        "correct_answer": "(A)"
+    }
+]
+
+[
+    {
+        "q_no": 13,
+        "question": "In glycolysis, what is produced at the end of Glycolysis II phase?",
+        "options": {
+            "a): Pyruvate",
+            "b) Fructose bisphosphate (F1P)",
+            "c) Glucose-6-phosphate (G6P)",
+            "d)": Acetyl-CoA"
+        },
+        "correct_answer": "(C)"
+    },
+    {
+        "q_no": 14,
+        "question": "Which of the following describes a characteristic feature related to glycolysis in cellular respiration?",
+        "options": {
+            "a): Occurs exclusively within chloroplasts",
+            "b) Directly consumes oxygen for energy production",
+            "c)": Involves conversion and breakdown into smaller molecules like pyruvate or lactate under anaerobic conditions",
+            "d)": A part of the electron transport chain"
+        },
+        "correct_answer": "(C)"
+    }
+]
+
+[
+    {
+        "q_no": 15,
+        "question": "What is a common fate for glucose-6-phosphate (G6P) in glycolysis?",
+        "options": {
+            "a): It bypasses the need for PFK",
+            "b)": Directly generates ATP and NADH without further steps, leading to immediate energy release
+            c): Triggers downstream reactions through conversion into fructose bisphosphate by hexokinase,
+            "d) ) Is directly oxidized within mitochondria"
+        },
+        "correct_answer": "(C)"
+    }
+]
+
+[
+    {
+        "q_no": 16,
+        "question": "What is the net gain of ATP for one molecule of glucose processed through glycolysis?",
+        "options": {
+            "a): Two ATPs",
+            "b) Four to six ATPs depending on conditions in different cell types or organisms.",
+            "c)": Three ATPs directly used as energy currency without further processing,
+            "d)" Six ATP produced with no losses involved.
+        },
+        "correct_answer": "(A)"
+    },
+
+    {
+        "q_no": 17,
+        "question": "Which enzyme catalyzes the last step of glycolysis, where glyceraldehyde-3-phosphate is converted into pyruvate?",
+        "options": {
+            "a): Hexokinase",
+            b) Phosphoglycerate mutase (PGM),
+            c) Pyruvate kinase,
+            d): Aldolase
+        },
+        "correct_answer": "(C)"
+    },
+
+    {q_no: 18, question: Which enzyme is responsible for the conversion of glucose-6-phosphate into fructose-1,6-bisphosphate in glycolysis? options: a) Hexokinase b) Phosphofructokinase (PFK c) Aldolase d) Triose kinase; correct_answer: B),
+
+    {q_no: 19, question: Which of the following is not directly involved with Glycolysis but plays an essential role in gluconeogenesis? options: a) Pyruvate carboxylase b) Glucose-6-phosphatase c) Hexokinase d) Aldolase; correct_answer: C),
+
+    {q_no: 20, question: What is the primary purpose of glycolysis as part of cellular respiration in eukaryotic cells? options a) Synthesis of glucose molecules from carbon dioxide and water b) Breakdown of one molecule of glucose into two molecules of pyruvate with net gain of ATP c) Conversion of excess amino acids to fatty acyl groups for storage d) Oxidation directly at the site without further processing; correct_answer: B),
+
+    {q_no: 21, question: In Glycolysis during cellular respiration in which part of a cell does it typically occur? options: a) Nucleus b) Mitochondria c) Cytoplasm d) Chloroplasts; correct_answer: C),
+Time Taken: 240.06 seconds | Tokens Produced: 1076 | ⚡⚡⚡ Token Speed 4.482 tokens/sec
+⚠️ Error: Invalid JSON format...
+
+Attempt 2 out of 3...
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "Why is cellular respiration important for living organisms?",
+        "options": {
+            "a": "It produces glucose for energy storage",
+            "b": "It converts food into usable energy",
+            "c": "It allows movement in cells",
+            "d": "It helps absorb sunlight"
+        },
+        "correct_answer": "It converts food into usable energy"
+    },
+    {
+        "q_no": 2,
+        "question": "What is the definition of cellular respiration?",
+        "options": {
+            "a": "The breakdown of glucose to release energy",
+            "b": "The absorption of oxygen in the lungs",
+            "c": "The creation of new cells from old ones",
+            "d": "The conversion of proteins into glucose"
+        },
+        "correct_answer": "The breakdown of glucose to release energy"
+    },
+    {
+        "q_no": 3,
+        "question": "What is the end product of glycolysis from one glucose molecule?",
+        "options": {
+            "a": "Two ethanol molecules",
+            "b": "Two pyruvate molecules",
+            "c": "Four ATP molecules",
+            "d": "One glucose molecule"
+        },
+        "correct_answer": "Two pyruvate molecules"
+    },
+    {
+        "q_no": 4,
+        "question": "Where does glycolysis occur in the cell?",
+        "options": {
+            "a": "In the mitochondria",
+            "b": "In the nucleus",
+            "c": "In the cytoplasm",
+            "d": "In the endoplasmic reticulum"
+        },
+        "correct_answer": "In the cytoplasm"
+    },
+    {
+        "q_no": 5,
+        "question": "What is a derivative in calculus?",
+        "options": {
+            "a": "A constant value at every point",
+            "b": "The limit of difference quotient as h approaches zero for function f(x)",
+            "c": "An integral representing area under the curve",
+            "d": "A polynomial expression"
+        },
+        "correct_answer": "The limit of difference quotient as h approaches zero for function f(x)"
+    },
+    {
+        "q_no": 6,
+        "question": "Which rule is used to differentiate a product of two functions?",
+        "options": {
+            "a": "Power Rule",
+            "b": "Quotient Rule",
+            "c": "Product Rule",
+            "d": "Chain Rule"
+        },
+        "correct_answer": "Product Rule"
+    },
+    {
+        "q_no": 7,
+        "question": "How do you differentiate a function that is the quotient of two other functions?",
+        "options": {
+            "a": "Apply Power Rule",
+            "b": "Use Quotient Property directly without modification",
+            "c": "Differentiate both numerator and denominator separately then take their difference as derivative result, using Chain Rule for composite terms if present",
+            "d": "Find the integral of each function first before differentiating"
+        },
+        "correct_answer": "Differentiate both numerator and denominator separately then apply Quotient Property directly without modification (quotient rule with some additional steps)"
+    },
+    {
+        "q_no": 8,
+        "question": "When using which method can you change the order of differentiation when given a composite function f(g(x))?",
+        "options": {
+            "a": Power Rule",
+            "b": Product Rule in both instances separately and as nested derivatives (chain rule effectively yields same result for second derivative)",
+            "c": Quotient Property by breaking into pieces and chain using the quotient of two functions first before differentiating further if necessary, potentially leading to change order but often not required; typically best applied sequentially once identified correctly",
+            "d": Integral Rule after finding f(g(x))"
+        },
+        "correct_answer": "Quotient Property by working from inside out and taking nested derivatives as per need (chain rule effectively yields same result for second derivative)"
+    }
+]
+Time Taken: 116.05 seconds | Tokens Produced: 473 | ⚡⚡⚡ Token Speed 4.076 tokens/sec
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+
+Attempt 3 out of 3...

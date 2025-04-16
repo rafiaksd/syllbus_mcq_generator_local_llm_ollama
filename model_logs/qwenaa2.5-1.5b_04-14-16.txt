@@ -1,0 +1,97 @@
+********************************************************************************
+Syllabus NUMBER 1
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+{"error": "\u274c API response missing 'response' key. Got: {'error': \"model 'qwenaa2.5:1.5b' not found\"}", "status_code": 404}
+TIME for SYLLABUS: 2.043 | ⚡⚡⚡ Token Speed: 0 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 0
+Attempt 1 out of 1...
+🔍🔍🔍 Generated MCQ:
+
+ {"error": "\u274c API response missing 'response' key. Got: {'error': \"model 'qwenaa2.5:1.5b' not found\"}", "status_code": 404}
+Time Taken: 2.03 seconds | Tokens Produced: 0 | ⚡⚡⚡ Token Speed 0.000 tokens/sec
+✅✅✅ Successfully generated 2 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏
+{
+   "error": "\u274c API response missing 'response' key. Got: {'error': \"model 'qwenaa2.5:1.5b' not found\"}",
+   "status_code": 404
+}
+TIME for MCQ: 2.027 | ⚡⚡⚡ Token Speed: 0 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 0 | TOTAL Time: 4.08
+
+********************************************************************************
+Syllabus NUMBER 2
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+{"error": "\u274c API response missing 'response' key. Got: {'error': \"model 'qwenaa2.5:1.5b' not found\"}", "status_code": 404}
+TIME for SYLLABUS: 2.05 | ⚡⚡⚡ Token Speed: 0 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 0
+Attempt 1 out of 1...
+🔍🔍🔍 Generated MCQ:
+
+ {"error": "\u274c API response missing 'response' key. Got: {'error': \"model 'qwenaa2.5:1.5b' not found\"}", "status_code": 404}
+Time Taken: 2.02 seconds | Tokens Produced: 0 | ⚡⚡⚡ Token Speed 0.000 tokens/sec
+✅✅✅ Successfully generated 2 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏
+{
+   "error": "\u274c API response missing 'response' key. Got: {'error': \"model 'qwenaa2.5:1.5b' not found\"}",
+   "status_code": 404
+}
+TIME for MCQ: 2.022 | ⚡⚡⚡ Token Speed: 0 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 0 | TOTAL Time: 4.08
+
+********************************************************************************
+Syllabus NUMBER 3
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+{"error": "\u274c API response missing 'response' key. Got: {'error': \"model 'qwenaa2.5:1.5b' not found\"}", "status_code": 404}
+TIME for SYLLABUS: 2.049 | ⚡⚡⚡ Token Speed: 0 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 0
+Attempt 1 out of 1...
+🔍🔍🔍 Generated MCQ:
+
+ {"error": "\u274c API response missing 'response' key. Got: {'error': \"model 'qwenaa2.5:1.5b' not found\"}", "status_code": 404}
+Time Taken: 2.04 seconds | Tokens Produced: 0 | ⚡⚡⚡ Token Speed 0.000 tokens/sec
+✅✅✅ Successfully generated 2 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏
+{
+   "error": "\u274c API response missing 'response' key. Got: {'error': \"model 'qwenaa2.5:1.5b' not found\"}",
+   "status_code": 404
+}
+TIME for MCQ: 2.041 | ⚡⚡⚡ Token Speed: 0 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 0 | TOTAL Time: 4.10
+
+********************************************************************************
+Syllabus NUMBER 4
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+{"error": "\u274c API response missing 'response' key. Got: {'error': \"model 'qwenaa2.5:1.5b' not found\"}", "status_code": 404}
+TIME for SYLLABUS: 2.04 | ⚡⚡⚡ Token Speed: 0 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 0
+Attempt 1 out of 1...
+🔍🔍🔍 Generated MCQ:
+
+ {"error": "\u274c API response missing 'response' key. Got: {'error': \"model 'qwenaa2.5:1.5b' not found\"}", "status_code": 404}
+Time Taken: 2.06 seconds | Tokens Produced: 0 | ⚡⚡⚡ Token Speed 0.000 tokens/sec
+✅✅✅ Successfully generated 2 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏
+{
+   "error": "\u274c API response missing 'response' key. Got: {'error': \"model 'qwenaa2.5:1.5b' not found\"}",
+   "status_code": 404
+}
+TIME for MCQ: 2.057 | ⚡⚡⚡ Token Speed: 0 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 0 | TOTAL Time: 4.10
+
+********************************************************************************
+Syllabus NUMBER 5
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+{"error": "\u274c API response missing 'response' key. Got: {'error': \"model 'qwenaa2.5:1.5b' not found\"}", "status_code": 404}
+TIME for SYLLABUS: 2.037 | ⚡⚡⚡ Token Speed: 0 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 0
+Attempt 1 out of 1...

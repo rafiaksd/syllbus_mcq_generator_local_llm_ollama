@@ -1,0 +1,1670 @@
+********************************************************************************
+
+Syllabus NUMBER 1 of 4 --- | qwen2.5:3b
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for IB Grade 9 Mathematics - Geometry - Trigonometry:
+- Definition and basic properties of trigonometric ratios (sine, cosine, tangent)
+- Applying sine, cosine, and tangent in right triangles
+- Solving problems using sine and cosine rules
+- Finding angles and sides in non-right angled triangles
+- Understanding the unit circle and its relation to trigonometric functions
+- Graphing basic trigonometric functions
+
+END IT AFTER CREATING THE SYLLABUS
+TIME for SYLLABUS: 17.56 | ⚡⚡⚡ Token Speed: 3.929 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1/4 for Syllabus 1 of 4... | qwen2.5:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What is the definition of sine in a right triangle?", "options": {"a": "Opposite side divided by Adjacent side", "b": "Adjacent side divided by Hypotenuse", "c": "Opposite side divided by Hypotenuse", "d": "Hypotenuse divided by Adjacent side"}, "correct_answer": "Opposite side divided by Hypotenuse"},
+    {"q_no": "2", "question": "In a right triangle, what is the cosine of an angle equal to?", "options": {"a": "Adjacent side divided by Opposite side", "b": "Opposite side divided by Adjacent side", "c": "Hypotenuse divided by Adjacent side", "d": "Hypotenuse divided by Opposite side"}, "correct_answer": "Adjacent side divided by Hypotenuse"},
+    {"q_no": "3", "question": "What trigonometric function is used to find the length of a non-hypotenuse in a right triangle?", "options": {"a": "Sine", "b": "Cosine", "c": "Tangent", "d": "None of these"}, "correct_answer": "Tangent"},
+    {"q_no": "4", "question": "In solving triangles using the sine rule, which side are we trying to find?", "options": {"a": "Opposite side to angle A", "b": "Adjacent side to angle B", "c": "Any side in the triangle", "d": "Hypotenuse of the triangle"}, "correct_answer": "Any side in the triangle"},
+    {"q_no": "5", "question": "What trigonometric function would you use if you need to find an unknown angle in a non-right angled triangle?", "options": {"a": "Sine", "b": "Cosine", "c": "Tangent", "d": "None of these"}, "correct_answer": "Tangent"},
+    {"q_no": "6", "question": "Which trigonometric ratio is used to find the length of a side when we know the hypotenuse and an angle?", "options": {"a": "Sine", "b": "Cosine", "c": "Tangent", "d": "None of these"}, "correct_answer": "Sine"},
+    {"q_no": "7", "question": "In which quadrant is cosine negative but sine positive?", "options": {"a": "First Quadrant", "b": "Second Quadrant", "c": "Third Quadrant", "d": "Fourth Quadrant"}, "correct_answer": "Third Quadrant"},
+    {"q_no": "8", "question": "What does the unit circle primarily represent?", "options": {"a": "Sine and Cosine values of angles in degrees", "b": "Tangent and Secant values of angles in radians", "c": "Cosine and Cotangent values of angles in degrees", "d": "Sine and Unit Circle values of angles in radians"}, "correct_answer": "Sine and Unit Circle values of angles in radians"},
+    {"q_no": "9", "question": "Which trigonometric function has a maximum value of 1?", "options": {"a": "Sine", "b": "Cosine", "c": "Tangent", "d": "None of these"}, "correct_answer": "Cosine"},
+    {"q_no": "10", "question": "What does the graph of y = sin(x) look like?", "options": {"a": "A straight line with a slope of 1", "b": "An upward-opening parabola", "c": "Waves repeating every 2π units", "d": "Symmetrical about x-axis"}, "correct_answer": "Waves repeating every 2π units"},
+    {"q_no": "11", "question": "When graphing y = cos(x), what is the period of the function?", "options": {"a": "360 degrees or π radians", "b": "90 degrees or π/2 radians", "c": "180 degrees or π radians", "d": "360 degrees or 2π radians"}, "correct_answer": "360 degrees or 2π radians"},
+    {"q_no": "12", "question": "In a non-right angled triangle, what trigonometric function is used to find the length of the side opposite an angle given another side and an included angle?", "options": {"a": "Sine", "b": "Cosine", "c": "Tangent", "d": "None of these"}, "correct_answer": "Sine"}
+]
+Time Taken: 113.59 seconds | Tokens Produced: 489 | ⚡⚡⚡ Token Speed 4.305 tokens/sec
+✅✅✅ Successfully generated 12 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 1 of 4
+[
+   {
+      "q_no": "1",
+      "question": "What is the definition of sine in a right triangle?",
+      "options": {
+         "a": "Opposite side divided by Adjacent side",
+         "b": "Adjacent side divided by Hypotenuse",
+         "c": "Opposite side divided by Hypotenuse",
+         "d": "Hypotenuse divided by Adjacent side"
+      },
+      "correct_answer": "Opposite side divided by Hypotenuse"
+   },
+   {
+      "q_no": "2",
+      "question": "In a right triangle, what is the cosine of an angle equal to?",
+      "options": {
+         "a": "Adjacent side divided by Opposite side",
+         "b": "Opposite side divided by Adjacent side",
+         "c": "Hypotenuse divided by Adjacent side",
+         "d": "Hypotenuse divided by Opposite side"
+      },
+      "correct_answer": "Adjacent side divided by Hypotenuse"
+   },
+   {
+      "q_no": "3",
+      "question": "What trigonometric function is used to find the length of a non-hypotenuse in a right triangle?",
+      "options": {
+         "a": "Sine",
+         "b": "Cosine",
+         "c": "Tangent",
+         "d": "None of these"
+      },
+      "correct_answer": "Tangent"
+   },
+   {
+      "q_no": "4",
+      "question": "In solving triangles using the sine rule, which side are we trying to find?",
+      "options": {
+         "a": "Opposite side to angle A",
+         "b": "Adjacent side to angle B",
+         "c": "Any side in the triangle",
+         "d": "Hypotenuse of the triangle"
+      },
+      "correct_answer": "Any side in the triangle"
+   },
+   {
+      "q_no": "5",
+      "question": "What trigonometric function would you use if you need to find an unknown angle in a non-right angled triangle?",
+      "options": {
+         "a": "Sine",
+         "b": "Cosine",
+         "c": "Tangent",
+         "d": "None of these"
+      },
+      "correct_answer": "Tangent"
+   },
+   {
+      "q_no": "6",
+      "question": "Which trigonometric ratio is used to find the length of a side when we know the hypotenuse and an angle?",
+      "options": {
+         "a": "Sine",
+         "b": "Cosine",
+         "c": "Tangent",
+         "d": "None of these"
+      },
+      "correct_answer": "Sine"
+   },
+   {
+      "q_no": "7",
+      "question": "In which quadrant is cosine negative but sine positive?",
+      "options": {
+         "a": "First Quadrant",
+         "b": "Second Quadrant",
+         "c": "Third Quadrant",
+         "d": "Fourth Quadrant"
+      },
+      "correct_answer": "Third Quadrant"
+   },
+   {
+      "q_no": "8",
+      "question": "What does the unit circle primarily represent?",
+      "options": {
+         "a": "Sine and Cosine values of angles in degrees",
+         "b": "Tangent and Secant values of angles in radians",
+         "c": "Cosine and Cotangent values of angles in degrees",
+         "d": "Sine and Unit Circle values of angles in radians"
+      },
+      "correct_answer": "Sine and Unit Circle values of angles in radians"
+   },
+   {
+      "q_no": "9",
+      "question": "Which trigonometric function has a maximum value of 1?",
+      "options": {
+         "a": "Sine",
+         "b": "Cosine",
+         "c": "Tangent",
+         "d": "None of these"
+      },
+      "correct_answer": "Cosine"
+   },
+   {
+      "q_no": "10",
+      "question": "What does the graph of y = sin(x) look like?",
+      "options": {
+         "a": "A straight line with a slope of 1",
+         "b": "An upward-opening parabola",
+         "c": "Waves repeating every 2\u03c0 units",
+         "d": "Symmetrical about x-axis"
+      },
+      "correct_answer": "Waves repeating every 2\u03c0 units"
+   },
+   {
+      "q_no": "11",
+      "question": "When graphing y = cos(x), what is the period of the function?",
+      "options": {
+         "a": "360 degrees or \u03c0 radians",
+         "b": "90 degrees or \u03c0/2 radians",
+         "c": "180 degrees or \u03c0 radians",
+         "d": "360 degrees or 2\u03c0 radians"
+      },
+      "correct_answer": "360 degrees or 2\u03c0 radians"
+   },
+   {
+      "q_no": "12",
+      "question": "In a non-right angled triangle, what trigonometric function is used to find the length of the side opposite an angle given another side and an included angle?",
+      "options": {
+         "a": "Sine",
+         "b": "Cosine",
+         "c": "Tangent",
+         "d": "None of these"
+      },
+      "correct_answer": "Sine"
+   }
+]
+TIME for MCQ: 113.587 | ⚡⚡⚡ Token Speed: 4.305 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 558 | TOTAL Time: 131.16
+
+********************************************************************************
+
+Syllabus NUMBER 2 of 4 --- | qwen2.5:3b
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Cambridge Grade 8 Mathematics - Algebra - Linear Equations:
+- Introduction to linear equations
+- Solving one-step and two-step linear equations
+- Expressing word problems as linear equations
+- Using the balance method and algebraic methods to solve equations
+- Checking solutions and interpreting results
+TIME for SYLLABUS: 10.196 | ⚡⚡⚡ Token Speed: 4.61 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 10
+Attempt 1/4 for Syllabus 2 of 4... | qwen2.5:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What is an example of a linear equation?", "options": {"a": "3x^2 + 4 = 7", "b": "3x + 4 = 7", "c": "3x - 4 > 7", "d": "3/x + 4 = 7"}, "correct_answer": "3x + 4 = 7"},
+    {"q_no": "2", "question": "How many steps are needed to solve a two-step linear equation?", "options": {"a": "1", "b": "2", "c": "3", "d": "4"}, "correct_answer": "2"},
+    {"q_no": "3", "question": "What is the balance method in solving equations primarily based on?", "options": {"a": "Balancing chemical reactions", "b": "Balancing scales to maintain equality", "c": "Balancing forces in physics problems", "d": "Balancing budgets"}, "correct_answer": "Balancing scales to maintain equality"},
+    {"q_no": "4", "question": "Which method can be used interchangeably with the balance method when solving linear equations?", "options": {"a": "Graphical methods", "b": "Substitution method", "c": "Algebraic manipulation", "d": "Elimination method"}, "correct_answer": "Algebraic manipulation"},
+    {"q_no": "5", "question": "What does it mean to interpret the result of a linear equation?", "options": {"a": "To explain why the solution might not be applicable in real-world situations", "b": "To graph the solution on a coordinate plane", "c": "To find the exact value of x without simplification", "d": "To check if the equation is balanced"}, "correct_answer": "To explain why the solution might not be applicable in real-world situations"},
+    {"q_no": "6", "question": "When solving the equation 2x + 3 = 7, what operation would you perform first to isolate x?", "options": {"a": "Addition of 3", "b": "Subtraction of 2", "c": "Division by 2", "d": "Multiplication by 2"}, "correct_answer": "Subtraction of 3"},
+    {"q_no": "7", "question": "Why is it important to check the solution in a linear equation?", "options": {"a": "To verify if the solution makes sense and satisfies the original equation", "b": "To find out how many solutions there are", "c": "To ensure the equation has not been simplified incorrectly", "d": "To confirm that the equation is balanced"}, "correct_answer": "To verify if the solution makes sense and satisfies the original equation"},
+    {"q_no": "8", "question": "What does it mean to express a word problem as an algebraic equation?", "options": {"a": "To use letters to represent unknown numbers in a problem", "b": "To solve the problem without using any equations", "c": "To graph the solution on a number line", "d": "To find the perimeter of shapes related to the problem"}, "correct_answer": "To use letters to represent unknown numbers in a problem"},
+    {"q_no": "9", "question": "Which method can be used interchangeably with the balance method when solving linear equations?", "options": {"a": "Substitution method", "b": "Graphical methods", "c": "Elimination method", "d": "Algebraic manipulation"}, "correct_answer": "Algebraic manipulation"},
+    {"q_no": "10", "question": "What is the balance method in solving equations primarily based on?", "options": {"a": "Balancing chemical reactions", "b": "Balancing scales to maintain equality", "c": "Balancing forces in physics problems", "d": "Balancing budgets"}, "correct_answer": "Balancing scales to maintain equality"}
+]
+Time Taken: 94.96 seconds | Tokens Produced: 463 | ⚡⚡⚡ Token Speed 4.876 tokens/sec
+✅✅✅ Successfully generated 10 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 2 of 4
+[
+   {
+      "q_no": "1",
+      "question": "What is an example of a linear equation?",
+      "options": {
+         "a": "3x^2 + 4 = 7",
+         "b": "3x + 4 = 7",
+         "c": "3x - 4 > 7",
+         "d": "3/x + 4 = 7"
+      },
+      "correct_answer": "3x + 4 = 7"
+   },
+   {
+      "q_no": "2",
+      "question": "How many steps are needed to solve a two-step linear equation?",
+      "options": {
+         "a": "1",
+         "b": "2",
+         "c": "3",
+         "d": "4"
+      },
+      "correct_answer": "2"
+   },
+   {
+      "q_no": "3",
+      "question": "What is the balance method in solving equations primarily based on?",
+      "options": {
+         "a": "Balancing chemical reactions",
+         "b": "Balancing scales to maintain equality",
+         "c": "Balancing forces in physics problems",
+         "d": "Balancing budgets"
+      },
+      "correct_answer": "Balancing scales to maintain equality"
+   },
+   {
+      "q_no": "4",
+      "question": "Which method can be used interchangeably with the balance method when solving linear equations?",
+      "options": {
+         "a": "Graphical methods",
+         "b": "Substitution method",
+         "c": "Algebraic manipulation",
+         "d": "Elimination method"
+      },
+      "correct_answer": "Algebraic manipulation"
+   },
+   {
+      "q_no": "5",
+      "question": "What does it mean to interpret the result of a linear equation?",
+      "options": {
+         "a": "To explain why the solution might not be applicable in real-world situations",
+         "b": "To graph the solution on a coordinate plane",
+         "c": "To find the exact value of x without simplification",
+         "d": "To check if the equation is balanced"
+      },
+      "correct_answer": "To explain why the solution might not be applicable in real-world situations"
+   },
+   {
+      "q_no": "6",
+      "question": "When solving the equation 2x + 3 = 7, what operation would you perform first to isolate x?",
+      "options": {
+         "a": "Addition of 3",
+         "b": "Subtraction of 2",
+         "c": "Division by 2",
+         "d": "Multiplication by 2"
+      },
+      "correct_answer": "Subtraction of 3"
+   },
+   {
+      "q_no": "7",
+      "question": "Why is it important to check the solution in a linear equation?",
+      "options": {
+         "a": "To verify if the solution makes sense and satisfies the original equation",
+         "b": "To find out how many solutions there are",
+         "c": "To ensure the equation has not been simplified incorrectly",
+         "d": "To confirm that the equation is balanced"
+      },
+      "correct_answer": "To verify if the solution makes sense and satisfies the original equation"
+   },
+   {
+      "q_no": "8",
+      "question": "What does it mean to express a word problem as an algebraic equation?",
+      "options": {
+         "a": "To use letters to represent unknown numbers in a problem",
+         "b": "To solve the problem without using any equations",
+         "c": "To graph the solution on a number line",
+         "d": "To find the perimeter of shapes related to the problem"
+      },
+      "correct_answer": "To use letters to represent unknown numbers in a problem"
+   },
+   {
+      "q_no": "9",
+      "question": "Which method can be used interchangeably with the balance method when solving linear equations?",
+      "options": {
+         "a": "Substitution method",
+         "b": "Graphical methods",
+         "c": "Elimination method",
+         "d": "Algebraic manipulation"
+      },
+      "correct_answer": "Algebraic manipulation"
+   },
+   {
+      "q_no": "10",
+      "question": "What is the balance method in solving equations primarily based on?",
+      "options": {
+         "a": "Balancing chemical reactions",
+         "b": "Balancing scales to maintain equality",
+         "c": "Balancing forces in physics problems",
+         "d": "Balancing budgets"
+      },
+      "correct_answer": "Balancing scales to maintain equality"
+   }
+]
+TIME for MCQ: 94.963 | ⚡⚡⚡ Token Speed: 4.876 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 510 | TOTAL Time: 105.17
+
+********************************************************************************
+
+Syllabus NUMBER 3 of 4 --- | qwen2.5:3b
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Cambridge Grade 10 Physics - Waves - Electromagnetic Spectrum:
+- Definition and properties of electromagnetic waves
+- Overview of the electromagnetic spectrum
+- Characteristics of different types of EM waves (radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, gamma rays)
+- Uses and applications of various EM wave types
+
+Prompt: Syllabus for Cambridge Grade 10 Mathematics, topic Geometry, subtopic Properties of Quadrilaterals
+TIME for SYLLABUS: 12.67 | ⚡⚡⚡ Token Speed: 5.051 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 8
+Attempt 1/4 for Syllabus 3 of 4... | qwen2.5:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "Which property characterizes a parallelogram?", "options": {"a": "All sides are equal", "b": "Diagonals bisect each other", "c": "Opposite angles are supplementary", "d": "Diagonals are perpendicular to each other"}, "correct_answer": "Diagonals bisect each other"},
+    {"q_no": "2", "question": "Which quadrilateral has all sides of equal length?", "options": {"a": "Square", "b": "Rectangle", "c": "Rhombus", "d": "Parallelogram"}, "correct_answer": "Rhombus"},
+    {"q_no": "3", "question": "In a rhombus, what is the relationship between diagonals?", "options": {"a": "Diagonals are perpendicular and bisect each other", "b": "Diagonals are parallel but do not intersect", "c": "Diagonals are equal in length", "d": "Diagonals divide the rhombus into four right triangles"}, "correct_answer": "Diagonals are perpendicular and bisect each other"},
+    {"q_no": "4", "question": "What is the sum of interior angles for a quadrilateral?", "options": {"a": "180°", "b": "360°", "c": "540°", "d": "720°"}, "correct_answer": "360°"},
+    {"q_no": "5", "question": "Which type of quadrilateral has one pair of parallel sides and no right angles?", "options": {"a": "Rectangle", "b": "Rhombus", "c": "Trapezium (trapezoid)", "d": "Parallelogram"}, "correct_answer": "Trapezium (trapezoid)"},
+    {"q_no": "6", "question": "What is the measure of each interior angle in a regular pentagon?", "options": {"a": "72°", "b": "108°", "c": "90°", "d": "144°"}, "correct_answer": "108°"},
+    {"q_no": "7", "question": "In a parallelogram, the diagonals are equal in length if and only if it is a...", "options": {"a": "Rectangle", "b": "Rhombus", "c": "Square", "d": "Trapezium (trapezoid)"}, "correct_answer": "Rectangle"},
+    {"q_no": "8", "question": "Which property defines an isosceles trapezoid?", "options": {"a": "One pair of parallel sides and two equal non-parallel sides", "b": "Two pairs of parallel sides", "c": "All angles are equal", "d": "All sides are equal"}, "correct_answer": "One pair of parallel sides and two equal non-parallel sides"}
+]
+Time Taken: 81.67 seconds | Tokens Produced: 271 | ⚡⚡⚡ Token Speed 3.318 tokens/sec
+✅✅✅ Successfully generated 8 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 3 of 4
+[
+   {
+      "q_no": "1",
+      "question": "Which property characterizes a parallelogram?",
+      "options": {
+         "a": "All sides are equal",
+         "b": "Diagonals bisect each other",
+         "c": "Opposite angles are supplementary",
+         "d": "Diagonals are perpendicular to each other"
+      },
+      "correct_answer": "Diagonals bisect each other"
+   },
+   {
+      "q_no": "2",
+      "question": "Which quadrilateral has all sides of equal length?",
+      "options": {
+         "a": "Square",
+         "b": "Rectangle",
+         "c": "Rhombus",
+         "d": "Parallelogram"
+      },
+      "correct_answer": "Rhombus"
+   },
+   {
+      "q_no": "3",
+      "question": "In a rhombus, what is the relationship between diagonals?",
+      "options": {
+         "a": "Diagonals are perpendicular and bisect each other",
+         "b": "Diagonals are parallel but do not intersect",
+         "c": "Diagonals are equal in length",
+         "d": "Diagonals divide the rhombus into four right triangles"
+      },
+      "correct_answer": "Diagonals are perpendicular and bisect each other"
+   },
+   {
+      "q_no": "4",
+      "question": "What is the sum of interior angles for a quadrilateral?",
+      "options": {
+         "a": "180\u00b0",
+         "b": "360\u00b0",
+         "c": "540\u00b0",
+         "d": "720\u00b0"
+      },
+      "correct_answer": "360\u00b0"
+   },
+   {
+      "q_no": "5",
+      "question": "Which type of quadrilateral has one pair of parallel sides and no right angles?",
+      "options": {
+         "a": "Rectangle",
+         "b": "Rhombus",
+         "c": "Trapezium (trapezoid)",
+         "d": "Parallelogram"
+      },
+      "correct_answer": "Trapezium (trapezoid)"
+   },
+   {
+      "q_no": "6",
+      "question": "What is the measure of each interior angle in a regular pentagon?",
+      "options": {
+         "a": "72\u00b0",
+         "b": "108\u00b0",
+         "c": "90\u00b0",
+         "d": "144\u00b0"
+      },
+      "correct_answer": "108\u00b0"
+   },
+   {
+      "q_no": "7",
+      "question": "In a parallelogram, the diagonals are equal in length if and only if it is a...",
+      "options": {
+         "a": "Rectangle",
+         "b": "Rhombus",
+         "c": "Square",
+         "d": "Trapezium (trapezoid)"
+      },
+      "correct_answer": "Rectangle"
+   },
+   {
+      "q_no": "8",
+      "question": "Which property defines an isosceles trapezoid?",
+      "options": {
+         "a": "One pair of parallel sides and two equal non-parallel sides",
+         "b": "Two pairs of parallel sides",
+         "c": "All angles are equal",
+         "d": "All sides are equal"
+      },
+      "correct_answer": "One pair of parallel sides and two equal non-parallel sides"
+   }
+]
+TIME for MCQ: 81.667 | ⚡⚡⚡ Token Speed: 3.318 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 335 | TOTAL Time: 94.35
+
+********************************************************************************
+
+Syllabus NUMBER 4 of 4 --- | qwen2.5:3b
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for IB Grade 10 Biology - Ecology - Population Dynamics:
+- Definition of population and its components (population size, growth rate)
+- Factors affecting population dynamics (birth rates, death rates, immigration, emigration)
+- Growth patterns in populations (exponential vs. logistic growth)
+- Carrying capacity and the concept of ecological equilibrium
+- Competition among species for limited resources
+- Predation and its impact on prey populations
+- Succession processes and community development
+
+END IT AFTER CREATING THE SYLLABUS
+TIME for SYLLABUS: 13.259 | ⚡⚡⚡ Token Speed: 5.883 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 14
+Attempt 1/4 for Syllabus 4 of 4... | qwen2.5:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What does a population consist of?", "options": {"a": "Individuals of the same species in a defined area", "b": "Different species living together", "c": "All living organisms on Earth", "d": "Only plants and animals"}, "correct_answer": "Individuals of the same species in a defined area"},
+    {"q_no": "2", "question": "Which factor does NOT directly affect population size?", "options": {"a": "Birth rates", "b": "Death rates", "c": "Survival rates", "d": "Climate change"}, "correct_answer": "Climate change"},
+    {"q_no": "3", "question": "What is the difference between exponential and logistic growth models?", "options": {"a": "Exponential growth assumes unlimited resources, while logistic assumes limited resources", "b": "Exponential shows constant growth rate, while logistic does not", "c": "Logistic predicts population decline, while exponential predicts increase", "d": "Both are used to predict weather patterns"}, "correct_answer": "Exponential growth assumes unlimited resources, while logistic assumes limited resources"},
+    {"q_no": "4", "question": "What is carrying capacity in ecological terms?", "options": {"a": "The maximum population size that the environment can support indefinitely", "b": "The number of species present in an ecosystem", "c": "The rate at which a population reproduces", "d": "The average lifespan of organisms in an ecosystem"}, "correct_answer": "The maximum population size that the environment can support indefinitely"},
+    {"q_no": "5", "question": "Which concept explains how populations stabilize around carrying capacity?", "options": {"a": "Carrying capacity", "b": "Ecological equilibrium", "c": "Population stability", "d": "Environmental balance"}, "correct_answer": "Ecological equilibrium"},
+    {"q_no": "6", "question": "What is a competitive exclusion principle?", "options": {"a": "Competition leads to extinction of one species if they use the same resources", "b": "Different species cannot coexist in the same habitat", "c": "All populations compete for survival", "d": "Species evolve faster in competition"}, "correct_answer": "Competition leads to extinction of one species if they use the same resources"},
+    {"q_no": "7", "question": "Which factor is crucial for understanding predation dynamics?", "options": {"a": "Presence of predators", "b": "Abundance of prey", "c": "Environmental conditions", "d": "All of the above"}, "correct_answer": "All of the above"},
+    {"q_no": "8", "question": "What happens when a predator's population increases in an ecosystem?", "options": {"a": "Prey populations decrease", "b": "Other predators increase their prey", "c": "The environment remains stable", "d": "Both A and B"}, "correct_answer": "Both A and B"},
+    {"q_no": "9", "question": "What is succession in ecology?", "options": {"a": "Process of a population increasing in size over time", "b": "Gradual change in community composition following a disturbance", "c": "A method to manage pests in agricultural systems", "d": "Strategy for conservation efforts"}, "correct_answer": "Gradual change in community composition following a disturbance"},
+    {"q_no": "10", "question": "How does succession differ from natural selection?", "options": {"a": "Succession involves adaptation, while natural selection doesn't", "b": "Natural selection occurs over generations, while succession happens quickly", "c": "Succession is about changing communities, while natural selection is about genetic changes", "d": "Both are processes that do not involve organisms"}, "correct_answer": "Succession is about changing communities, while natural selection is about genetic changes"},
+    {"q_no": "11", "question": "What term describes the competition for resources between two species?", "options": {"a": "Competition exclusion principle", "b": "Intraspecific competition", "c": "Interspecific competition", "d": "Coexistence theory"}, "correct_answer": "Interspecific competition"},
+    {"q_no": "12", "question": "Which of the following is a type of predation that involves a predator taking prey from another predator?", "options": {"a": "Carnivory", "b": "Omnivorism", "c": "Brood parasitism", "d": "Amensalism"}, "correct_answer": "Brood parasitism"},
+    {"q_no": "13", "question": "What is the concept of mutualism in population dynamics?", "options": {"a": "Both organisms benefit from the relationship", "b": "One organism benefits, while the other is unaffected", "c": "One organism benefits, while the other suffers", "d": "Neither organism benefits or suffers"}, "correct_answer": "Both organisms benefit from the relationship"},
+    {"q_no": "14", "question": "Which factor can limit population growth in a closed system?", "options": {"a": "Space availability", "b": "Water supply", "c": "Abundance of predators", "d": "All of the above"}, "correct_answer": "All of the above"}
+]
+Time Taken: 115.16 seconds | Tokens Produced: 619 | ⚡⚡⚡ Token Speed 5.375 tokens/sec
+✅✅✅ Successfully generated 14 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 4 of 4
+[
+   {
+      "q_no": "1",
+      "question": "What does a population consist of?",
+      "options": {
+         "a": "Individuals of the same species in a defined area",
+         "b": "Different species living together",
+         "c": "All living organisms on Earth",
+         "d": "Only plants and animals"
+      },
+      "correct_answer": "Individuals of the same species in a defined area"
+   },
+   {
+      "q_no": "2",
+      "question": "Which factor does NOT directly affect population size?",
+      "options": {
+         "a": "Birth rates",
+         "b": "Death rates",
+         "c": "Survival rates",
+         "d": "Climate change"
+      },
+      "correct_answer": "Climate change"
+   },
+   {
+      "q_no": "3",
+      "question": "What is the difference between exponential and logistic growth models?",
+      "options": {
+         "a": "Exponential growth assumes unlimited resources, while logistic assumes limited resources",
+         "b": "Exponential shows constant growth rate, while logistic does not",
+         "c": "Logistic predicts population decline, while exponential predicts increase",
+         "d": "Both are used to predict weather patterns"
+      },
+      "correct_answer": "Exponential growth assumes unlimited resources, while logistic assumes limited resources"
+   },
+   {
+      "q_no": "4",
+      "question": "What is carrying capacity in ecological terms?",
+      "options": {
+         "a": "The maximum population size that the environment can support indefinitely",
+         "b": "The number of species present in an ecosystem",
+         "c": "The rate at which a population reproduces",
+         "d": "The average lifespan of organisms in an ecosystem"
+      },
+      "correct_answer": "The maximum population size that the environment can support indefinitely"
+   },
+   {
+      "q_no": "5",
+      "question": "Which concept explains how populations stabilize around carrying capacity?",
+      "options": {
+         "a": "Carrying capacity",
+         "b": "Ecological equilibrium",
+         "c": "Population stability",
+         "d": "Environmental balance"
+      },
+      "correct_answer": "Ecological equilibrium"
+   },
+   {
+      "q_no": "6",
+      "question": "What is a competitive exclusion principle?",
+      "options": {
+         "a": "Competition leads to extinction of one species if they use the same resources",
+         "b": "Different species cannot coexist in the same habitat",
+         "c": "All populations compete for survival",
+         "d": "Species evolve faster in competition"
+      },
+      "correct_answer": "Competition leads to extinction of one species if they use the same resources"
+   },
+   {
+      "q_no": "7",
+      "question": "Which factor is crucial for understanding predation dynamics?",
+      "options": {
+         "a": "Presence of predators",
+         "b": "Abundance of prey",
+         "c": "Environmental conditions",
+         "d": "All of the above"
+      },
+      "correct_answer": "All of the above"
+   },
+   {
+      "q_no": "8",
+      "question": "What happens when a predator's population increases in an ecosystem?",
+      "options": {
+         "a": "Prey populations decrease",
+         "b": "Other predators increase their prey",
+         "c": "The environment remains stable",
+         "d": "Both A and B"
+      },
+      "correct_answer": "Both A and B"
+   },
+   {
+      "q_no": "9",
+      "question": "What is succession in ecology?",
+      "options": {
+         "a": "Process of a population increasing in size over time",
+         "b": "Gradual change in community composition following a disturbance",
+         "c": "A method to manage pests in agricultural systems",
+         "d": "Strategy for conservation efforts"
+      },
+      "correct_answer": "Gradual change in community composition following a disturbance"
+   },
+   {
+      "q_no": "10",
+      "question": "How does succession differ from natural selection?",
+      "options": {
+         "a": "Succession involves adaptation, while natural selection doesn't",
+         "b": "Natural selection occurs over generations, while succession happens quickly",
+         "c": "Succession is about changing communities, while natural selection is about genetic changes",
+         "d": "Both are processes that do not involve organisms"
+      },
+      "correct_answer": "Succession is about changing communities, while natural selection is about genetic changes"
+   },
+   {
+      "q_no": "11",
+      "question": "What term describes the competition for resources between two species?",
+      "options": {
+         "a": "Competition exclusion principle",
+         "b": "Intraspecific competition",
+         "c": "Interspecific competition",
+         "d": "Coexistence theory"
+      },
+      "correct_answer": "Interspecific competition"
+   },
+   {
+      "q_no": "12",
+      "question": "Which of the following is a type of predation that involves a predator taking prey from another predator?",
+      "options": {
+         "a": "Carnivory",
+         "b": "Omnivorism",
+         "c": "Brood parasitism",
+         "d": "Amensalism"
+      },
+      "correct_answer": "Brood parasitism"
+   },
+   {
+      "q_no": "13",
+      "question": "What is the concept of mutualism in population dynamics?",
+      "options": {
+         "a": "Both organisms benefit from the relationship",
+         "b": "One organism benefits, while the other is unaffected",
+         "c": "One organism benefits, while the other suffers",
+         "d": "Neither organism benefits or suffers"
+      },
+      "correct_answer": "Both organisms benefit from the relationship"
+   },
+   {
+      "q_no": "14",
+      "question": "Which factor can limit population growth in a closed system?",
+      "options": {
+         "a": "Space availability",
+         "b": "Water supply",
+         "c": "Abundance of predators",
+         "d": "All of the above"
+      },
+      "correct_answer": "All of the above"
+   }
+]
+TIME for MCQ: 115.163 | ⚡⚡⚡ Token Speed: 5.375 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 697 | TOTAL Time: 128.43
+
+********************************************************************************
+
+Model: qwen2.5:3b
+
+Total Time Taken: 459.12 | Total Tokens Generated: 2100 | Avg Total Token Gen Speed: 4.57 tokens/sec
+Total Syllabi: 4 | Total Success MCQ : 4 | MCQ Attempt per Syllabus: 4
+Total ERROR: 0
+********************************************************************************
+
+Syllabus NUMBER 1 of 4 --- | qwen2.5:3b
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for IB Grade 11 Mathematics - Differentiation - Product Rule:
+- Review of differentiation formulas
+- Understanding the product rule in calculus
+- Applying the product rule to find derivatives
+- Solving problems involving the product rule
+
+Prompt: Syllabus for Cambridge Grade 5 Mathematics, topic Fractions, subtopic Fraction Addition
+TIME for SYLLABUS: 13.222 | ⚡⚡⚡ Token Speed: 3.782 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 8
+Attempt 1/4 for Syllabus 1 of 4... | qwen2.5:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What is the result of adding 3/4 and 1/2?", "options": {"a": "7/6", "b": "1", "c": "5/8", "d": "3/2"}, "correct_answer": "7/6"},
+    {"q_no": "2", "question": "Which fraction is equivalent to adding 2/3 and 1/4?", "options": {"a": "10/12", "b": "9/12", "c": "7/12", "d": "8/12"}, "correct_answer": "7/12"},
+    {"q_no": "3", "question": "If you add 5/6 and 1/3, what is the result?", "options": {"a": "7/9", "b": "2/3", "c": "7/8", "d": "1"}, "correct_answer": "7/9"},
+    {"q_no": "4", "question": "What fraction do you get when adding 4/5 and 3/5?", "options": {"a": "1", "b": "2/5", "c": "7/5", "d": "8/5"}, "correct_answer": "1"},
+    {"q_no": "5", "question": "If you add 2/7 and 3/7, what is the total?", "options": {"a": "6/7", "b": "5/7", "c": "4/7", "d": "1"}, "correct_answer": "5/7"},
+    {"q_no": "6", "question": "What fraction is obtained when adding 3/8 and 5/8?", "options": {"a": "2/3", "b": "7/8", "c": "1", "d": "8/13"}, "correct_answer": "7/8"},
+    {"q_no": "7", "question": "If you add 4/9 and 5/9, what is the total?", "options": {"a": "2/3", "b": "9/18", "c": "1", "d": "7/18"}, "correct_answer": "7/9"},
+    {"q_no": "8", "question": "What fraction do you get when adding 6/7 and 5/7?", "options": {"a": "2/3", "b": "1", "c": "11/14", "d": "10/14"}, "correct_answer": "1"}
+]
+Time Taken: 76.89 seconds | Tokens Produced: 191 | ⚡⚡⚡ Token Speed 2.484 tokens/sec
+✅✅✅ Successfully generated 8 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 1 of 4
+[
+   {
+      "q_no": "1",
+      "question": "What is the result of adding 3/4 and 1/2?",
+      "options": {
+         "a": "7/6",
+         "b": "1",
+         "c": "5/8",
+         "d": "3/2"
+      },
+      "correct_answer": "7/6"
+   },
+   {
+      "q_no": "2",
+      "question": "Which fraction is equivalent to adding 2/3 and 1/4?",
+      "options": {
+         "a": "10/12",
+         "b": "9/12",
+         "c": "7/12",
+         "d": "8/12"
+      },
+      "correct_answer": "7/12"
+   },
+   {
+      "q_no": "3",
+      "question": "If you add 5/6 and 1/3, what is the result?",
+      "options": {
+         "a": "7/9",
+         "b": "2/3",
+         "c": "7/8",
+         "d": "1"
+      },
+      "correct_answer": "7/9"
+   },
+   {
+      "q_no": "4",
+      "question": "What fraction do you get when adding 4/5 and 3/5?",
+      "options": {
+         "a": "1",
+         "b": "2/5",
+         "c": "7/5",
+         "d": "8/5"
+      },
+      "correct_answer": "1"
+   },
+   {
+      "q_no": "5",
+      "question": "If you add 2/7 and 3/7, what is the total?",
+      "options": {
+         "a": "6/7",
+         "b": "5/7",
+         "c": "4/7",
+         "d": "1"
+      },
+      "correct_answer": "5/7"
+   },
+   {
+      "q_no": "6",
+      "question": "What fraction is obtained when adding 3/8 and 5/8?",
+      "options": {
+         "a": "2/3",
+         "b": "7/8",
+         "c": "1",
+         "d": "8/13"
+      },
+      "correct_answer": "7/8"
+   },
+   {
+      "q_no": "7",
+      "question": "If you add 4/9 and 5/9, what is the total?",
+      "options": {
+         "a": "2/3",
+         "b": "9/18",
+         "c": "1",
+         "d": "7/18"
+      },
+      "correct_answer": "7/9"
+   },
+   {
+      "q_no": "8",
+      "question": "What fraction do you get when adding 6/7 and 5/7?",
+      "options": {
+         "a": "2/3",
+         "b": "1",
+         "c": "11/14",
+         "d": "10/14"
+      },
+      "correct_answer": "1"
+   }
+]
+TIME for MCQ: 76.887 | ⚡⚡⚡ Token Speed: 2.484 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 241 | TOTAL Time: 90.12
+
+********************************************************************************
+
+Syllabus NUMBER 2 of 4 --- | qwen2.5:3b
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Cambridge Grade 8 Mathematics - Algebra - Linear Equations:
+- Introduction to linear equations
+- Solving one-step and two-step linear equations
+- Understanding the balance method
+- Using inverse operations
+- Checking solutions by substitution
+- Word problems involving linear equations
+TIME for SYLLABUS: 11.006 | ⚡⚡⚡ Token Speed: 3.907 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1/4 for Syllabus 2 of 4... | qwen2.5:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What is the correct form of a linear equation?", "options": {"a": "ax^2 + bx + c = 0", "b": "ax + b = c", "c": "ax^2 - bx + c = 0", "d": "bx + c = ax"}, "correct_answer": "ax + b = c"},
+    {"q_no": "2", "question": "Which method is used to solve a two-step linear equation?", "options": {"a": "Balancing method", "b": "Substitution method", "c": "Factoring method", "d": "Division method"}, "correct_answer": "Balancing method"},
+    {"q_no": "3", "question": "How does the balance method work in solving linear equations?", "options": {"a": "By balancing the equation with an equal sign on both sides", "b": "By dividing both sides by a variable coefficient", "c": "By multiplying both sides by the same number to isolate the variable", "d": "By subtracting terms from one side of the equation only"}, "correct_answer": "By balancing the equation with an equal sign on both sides"},
+    {"q_no": "4", "question": "What is the purpose of using inverse operations in solving linear equations?", "options": {"a": "To balance the equation by removing constants and coefficients from one side of the equation only", "b": "To isolate the variable by performing opposite operations to both sides of the equation", "c": "To verify if a solution satisfies the original equation", "d": "To simplify expressions containing variables"}, "correct_answer": "To isolate the variable by performing opposite operations to both sides of the equation"},
+    {"q_no": "5", "question": "How do you check if your solution is correct for linear equations?", "options": {"a": "By graphing the equation on a coordinate plane", "b": "By substituting the solution back into the original equation", "c": "By solving another equation with the same variable", "d": "By checking if it satisfies other types of equations"}, "correct_answer": "By substituting the solution back into the original equation"},
+    {"q_no": "6", "question": "Which scenario is an example of a word problem involving linear equations?", "options": {"a": "Calculating the area of a rectangle with side lengths expressed as variables", "b": "Determining the time it takes to travel at a constant speed if distance and time are known", "c": "Solving for angles in a triangle using trigonometric functions", "d": "Finding the sum of all integers between two given numbers"}, "correct_answer": "Determining the time it takes to travel at a constant speed if distance and time are known"},
+    {"q_no": "7", "question": "What is one-step linear equation?", "options": {"a": "An equation that requires only one step to solve, such as adding or subtracting constants from both sides of an equation", "b": "An equation with two terms in the variable and no other operations involved", "c": "An equation where variables are squared and involve quadratic expressions", "d": "An equation involving square roots and absolute values"}, "correct_answer": "An equation that requires only one step to solve, such as adding or subtracting constants from both sides of an equation"},
+    {"q_no": "8", "question": "How do you identify two-step linear equations?", "options": {"a": "Equations with more than one operation applied to the variable (such as addition and multiplication)", "b": "Equations that only require basic arithmetic operations like addition, subtraction, and division", "c": "Equations involving square roots or other radical expressions", "d": "Equations where variables are squared and involve quadratic expressions"}, "correct_answer": "Equations with more than one operation applied to the variable (such as addition and multiplication)"},
+    {"q_no": "9", "question": "Which concept is essential for understanding the balance method in solving linear equations?", "options": {"a": "The commutative property of addition", "b": "The distributive property of multiplication over addition", "c": "The transitive property of equality", "d": "The reflexive property of identity"}, "correct_answer": "The transitive property of equality"},
+    {"q_no": "10", "question": "Why is it important to check solutions by substitution?", "options": {"a": "To verify if the solution satisfies the original equation and avoids errors", "b": "To find the exact value of the variable", "c": "To determine the complexity of the linear equation", "d": "To solve for multiple variables simultaneously"}, "correct_answer": "To verify if the solution satisfies the original equation and avoids errors"},
+    {"q_no": "11", "question": "What is a common mistake when solving two-step linear equations?", "options": {"a": "Forgetting to move all terms with the variable to one side of the equation", "b": "Incorrectly applying inverse operations (e.g., treating addition as subtraction)", "c": "Overusing division instead of multiplication", "d": "Using the wrong balance method"}, "correct_answer": "Incorrectly applying inverse operations (e.g., treating addition as subtraction)"},
+    {"q_no": "12", "question": "What does it mean to use inverse operations in solving linear equations?", "options": {"a": "To add or subtract a constant from both sides of the equation", "b": "To divide both sides by the same number", "c": "To perform opposite arithmetic operations on both sides of the equation to isolate the variable", "d": "To multiply both sides by the same non-zero number"}, "correct_answer": "To perform opposite arithmetic operations on both sides of the equation to isolate the variable"}
+]
+Time Taken: 129.10 seconds | Tokens Produced: 794 | ⚡⚡⚡ Token Speed 6.151 tokens/sec
+✅✅✅ Successfully generated 12 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 2 of 4
+[
+   {
+      "q_no": "1",
+      "question": "What is the correct form of a linear equation?",
+      "options": {
+         "a": "ax^2 + bx + c = 0",
+         "b": "ax + b = c",
+         "c": "ax^2 - bx + c = 0",
+         "d": "bx + c = ax"
+      },
+      "correct_answer": "ax + b = c"
+   },
+   {
+      "q_no": "2",
+      "question": "Which method is used to solve a two-step linear equation?",
+      "options": {
+         "a": "Balancing method",
+         "b": "Substitution method",
+         "c": "Factoring method",
+         "d": "Division method"
+      },
+      "correct_answer": "Balancing method"
+   },
+   {
+      "q_no": "3",
+      "question": "How does the balance method work in solving linear equations?",
+      "options": {
+         "a": "By balancing the equation with an equal sign on both sides",
+         "b": "By dividing both sides by a variable coefficient",
+         "c": "By multiplying both sides by the same number to isolate the variable",
+         "d": "By subtracting terms from one side of the equation only"
+      },
+      "correct_answer": "By balancing the equation with an equal sign on both sides"
+   },
+   {
+      "q_no": "4",
+      "question": "What is the purpose of using inverse operations in solving linear equations?",
+      "options": {
+         "a": "To balance the equation by removing constants and coefficients from one side of the equation only",
+         "b": "To isolate the variable by performing opposite operations to both sides of the equation",
+         "c": "To verify if a solution satisfies the original equation",
+         "d": "To simplify expressions containing variables"
+      },
+      "correct_answer": "To isolate the variable by performing opposite operations to both sides of the equation"
+   },
+   {
+      "q_no": "5",
+      "question": "How do you check if your solution is correct for linear equations?",
+      "options": {
+         "a": "By graphing the equation on a coordinate plane",
+         "b": "By substituting the solution back into the original equation",
+         "c": "By solving another equation with the same variable",
+         "d": "By checking if it satisfies other types of equations"
+      },
+      "correct_answer": "By substituting the solution back into the original equation"
+   },
+   {
+      "q_no": "6",
+      "question": "Which scenario is an example of a word problem involving linear equations?",
+      "options": {
+         "a": "Calculating the area of a rectangle with side lengths expressed as variables",
+         "b": "Determining the time it takes to travel at a constant speed if distance and time are known",
+         "c": "Solving for angles in a triangle using trigonometric functions",
+         "d": "Finding the sum of all integers between two given numbers"
+      },
+      "correct_answer": "Determining the time it takes to travel at a constant speed if distance and time are known"
+   },
+   {
+      "q_no": "7",
+      "question": "What is one-step linear equation?",
+      "options": {
+         "a": "An equation that requires only one step to solve, such as adding or subtracting constants from both sides of an equation",
+         "b": "An equation with two terms in the variable and no other operations involved",
+         "c": "An equation where variables are squared and involve quadratic expressions",
+         "d": "An equation involving square roots and absolute values"
+      },
+      "correct_answer": "An equation that requires only one step to solve, such as adding or subtracting constants from both sides of an equation"
+   },
+   {
+      "q_no": "8",
+      "question": "How do you identify two-step linear equations?",
+      "options": {
+         "a": "Equations with more than one operation applied to the variable (such as addition and multiplication)",
+         "b": "Equations that only require basic arithmetic operations like addition, subtraction, and division",
+         "c": "Equations involving square roots or other radical expressions",
+         "d": "Equations where variables are squared and involve quadratic expressions"
+      },
+      "correct_answer": "Equations with more than one operation applied to the variable (such as addition and multiplication)"
+   },
+   {
+      "q_no": "9",
+      "question": "Which concept is essential for understanding the balance method in solving linear equations?",
+      "options": {
+         "a": "The commutative property of addition",
+         "b": "The distributive property of multiplication over addition",
+         "c": "The transitive property of equality",
+         "d": "The reflexive property of identity"
+      },
+      "correct_answer": "The transitive property of equality"
+   },
+   {
+      "q_no": "10",
+      "question": "Why is it important to check solutions by substitution?",
+      "options": {
+         "a": "To verify if the solution satisfies the original equation and avoids errors",
+         "b": "To find the exact value of the variable",
+         "c": "To determine the complexity of the linear equation",
+         "d": "To solve for multiple variables simultaneously"
+      },
+      "correct_answer": "To verify if the solution satisfies the original equation and avoids errors"
+   },
+   {
+      "q_no": "11",
+      "question": "What is a common mistake when solving two-step linear equations?",
+      "options": {
+         "a": "Forgetting to move all terms with the variable to one side of the equation",
+         "b": "Incorrectly applying inverse operations (e.g., treating addition as subtraction)",
+         "c": "Overusing division instead of multiplication",
+         "d": "Using the wrong balance method"
+      },
+      "correct_answer": "Incorrectly applying inverse operations (e.g., treating addition as subtraction)"
+   },
+   {
+      "q_no": "12",
+      "question": "What does it mean to use inverse operations in solving linear equations?",
+      "options": {
+         "a": "To add or subtract a constant from both sides of the equation",
+         "b": "To divide both sides by the same number",
+         "c": "To perform opposite arithmetic operations on both sides of the equation to isolate the variable",
+         "d": "To multiply both sides by the same non-zero number"
+      },
+      "correct_answer": "To perform opposite arithmetic operations on both sides of the equation to isolate the variable"
+   }
+]
+TIME for MCQ: 129.094 | ⚡⚡⚡ Token Speed: 6.151 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 837 | TOTAL Time: 140.11
+
+********************************************************************************
+
+Syllabus NUMBER 3 of 4 --- | qwen2.5:3b
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Cambridge Grade 10 Physics - Waves - Electromagnetic Spectrum:
+- Definition and characteristics of waves
+- Types of electromagnetic waves (radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, gamma rays)
+- Wavelength, frequency, and speed relationship in EM spectrum
+- Properties and uses of various types of waves
+- The electromagnetic spectrum from low to high frequencies
+- Interactions between EM radiation and matter
+
+END IT AFTER CREATING THE SYLLABUS
+TIME for SYLLABUS: 12.683 | ⚡⚡⚡ Token Speed: 5.677 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1/4 for Syllabus 3 of 4... | qwen2.5:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What is the primary characteristic that defines a wave?", "options": {"a": "Transverse motion", "b": "Reflection", "c": "Wavefronts", "d": "Propagation through matter"}, "correct_answer": "Propagation through matter"},
+    {"q_no": "2", "question": "Which type of electromagnetic wave has the highest frequency but the shortest wavelength?", "options": {"a": "Radio waves", "b": "Microwaves", "c": "X-rays", "d": "Gamma rays"}, "correct_answer": "Gamma rays"},
+    {"q_no": "3", "question": "What is the relationship between wavelength and frequency in electromagnetic waves?", "options": {"a": "Direct proportionality", "b": "Inverse proportionality", "c": "No relation", "d": "Constant speed"}, "correct_answer": "Inverse proportionality"},
+    {"q_no": "4", "question": "Which application of visible light is based on its wavelength?", "options": {"a": "Optical fibers", "b": "Lasers", "c": "Photographic film sensitivity", "d": "Infrared thermometers"}, "correct_answer": "Photographic film sensitivity"},
+    {"q_no": "5", "question": "Which property of electromagnetic waves is NOT influenced by their frequency?", "options": {"a": "Energy levels absorbed by atoms", "b": "Speed in a vacuum", "c": "Penetration depth into matter", "d": "Color perception"}, "correct_answer": "Speed in a vacuum"},
+    {"q_no": "6", "question": "What is the order of electromagnetic spectrum from lowest to highest frequency?", "options": {"a": "Radio waves, microwaves, visible light, infrared, ultraviolet, X-rays, gamma rays", "b": "Ultraviolet, visible light, infrared, radio waves, microwaves, X-rays, gamma rays", "c": "Gamma rays, X-rays, ultraviolet, visible light, infrared, microwaves, radio waves", "d": "Visible light, infrared, microwaves, radio waves, X-rays, gamma rays, ultraviolet"}, "correct_answer": "Radio waves, microwaves, visible light, infrared, ultraviolet, X-rays, gamma rays"},
+    {"q_no": "7", "question": "How does the interaction between EM radiation and matter vary with increasing frequency?", "options": {"a": "Greater absorption", "b": "More scattering", "c": "Enhanced refraction", "d": "Less reflection"}, "correct_answer": "Less reflection"},
+    {"q_no": "8", "question": "Which electromagnetic wave is used in X-ray imaging to detect internal body structures?", "options": {"a": "Microwaves", "b": "Infrared", "c": "Ultraviolet", "d": "X-rays"}, "correct_answer": "X-rays"},
+    {"q_no": "9", "question": "What is the main advantage of using ultraviolet light in security applications?", "options": {"a": "Enhanced visibility for reading text", "b": "Absorption by human skin", "c": "Reflection off metallic surfaces", "d": "Emission of visible light"}, "correct_answer": "Absorption by human skin"},
+    {"q_no": "10", "question": "Which type of electromagnetic wave is used in FM radio broadcasting?", "options": {"a": "Microwaves", "b": "Infrared", "c": "Visible light", "d": "Radio waves"}, "correct_answer": "Radio waves"},
+    {"q_no": "11", "question": "How does the wavelength of visible light affect its interaction with different materials?", "options": {"a": "Less absorption and scattering", "b": "More absorption and scattering", "c": "No change in interaction", "d": "Increased reflection"}, "correct_answer": "More absorption and scattering"},
+    {"q_no": "12", "question": "In the electromagnetic spectrum, which type of wave is typically used for communication purposes?", "options": {"a": "X-rays", "b": "Ultraviolet", "c": "Microwaves", "d": "Gamma rays"}, "correct_answer": "Microwaves"}
+]
+Time Taken: 109.34 seconds | Tokens Produced: 428 | ⚡⚡⚡ Token Speed 3.914 tokens/sec
+✅✅✅ Successfully generated 12 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 3 of 4
+[
+   {
+      "q_no": "1",
+      "question": "What is the primary characteristic that defines a wave?",
+      "options": {
+         "a": "Transverse motion",
+         "b": "Reflection",
+         "c": "Wavefronts",
+         "d": "Propagation through matter"
+      },
+      "correct_answer": "Propagation through matter"
+   },
+   {
+      "q_no": "2",
+      "question": "Which type of electromagnetic wave has the highest frequency but the shortest wavelength?",
+      "options": {
+         "a": "Radio waves",
+         "b": "Microwaves",
+         "c": "X-rays",
+         "d": "Gamma rays"
+      },
+      "correct_answer": "Gamma rays"
+   },
+   {
+      "q_no": "3",
+      "question": "What is the relationship between wavelength and frequency in electromagnetic waves?",
+      "options": {
+         "a": "Direct proportionality",
+         "b": "Inverse proportionality",
+         "c": "No relation",
+         "d": "Constant speed"
+      },
+      "correct_answer": "Inverse proportionality"
+   },
+   {
+      "q_no": "4",
+      "question": "Which application of visible light is based on its wavelength?",
+      "options": {
+         "a": "Optical fibers",
+         "b": "Lasers",
+         "c": "Photographic film sensitivity",
+         "d": "Infrared thermometers"
+      },
+      "correct_answer": "Photographic film sensitivity"
+   },
+   {
+      "q_no": "5",
+      "question": "Which property of electromagnetic waves is NOT influenced by their frequency?",
+      "options": {
+         "a": "Energy levels absorbed by atoms",
+         "b": "Speed in a vacuum",
+         "c": "Penetration depth into matter",
+         "d": "Color perception"
+      },
+      "correct_answer": "Speed in a vacuum"
+   },
+   {
+      "q_no": "6",
+      "question": "What is the order of electromagnetic spectrum from lowest to highest frequency?",
+      "options": {
+         "a": "Radio waves, microwaves, visible light, infrared, ultraviolet, X-rays, gamma rays",
+         "b": "Ultraviolet, visible light, infrared, radio waves, microwaves, X-rays, gamma rays",
+         "c": "Gamma rays, X-rays, ultraviolet, visible light, infrared, microwaves, radio waves",
+         "d": "Visible light, infrared, microwaves, radio waves, X-rays, gamma rays, ultraviolet"
+      },
+      "correct_answer": "Radio waves, microwaves, visible light, infrared, ultraviolet, X-rays, gamma rays"
+   },
+   {
+      "q_no": "7",
+      "question": "How does the interaction between EM radiation and matter vary with increasing frequency?",
+      "options": {
+         "a": "Greater absorption",
+         "b": "More scattering",
+         "c": "Enhanced refraction",
+         "d": "Less reflection"
+      },
+      "correct_answer": "Less reflection"
+   },
+   {
+      "q_no": "8",
+      "question": "Which electromagnetic wave is used in X-ray imaging to detect internal body structures?",
+      "options": {
+         "a": "Microwaves",
+         "b": "Infrared",
+         "c": "Ultraviolet",
+         "d": "X-rays"
+      },
+      "correct_answer": "X-rays"
+   },
+   {
+      "q_no": "9",
+      "question": "What is the main advantage of using ultraviolet light in security applications?",
+      "options": {
+         "a": "Enhanced visibility for reading text",
+         "b": "Absorption by human skin",
+         "c": "Reflection off metallic surfaces",
+         "d": "Emission of visible light"
+      },
+      "correct_answer": "Absorption by human skin"
+   },
+   {
+      "q_no": "10",
+      "question": "Which type of electromagnetic wave is used in FM radio broadcasting?",
+      "options": {
+         "a": "Microwaves",
+         "b": "Infrared",
+         "c": "Visible light",
+         "d": "Radio waves"
+      },
+      "correct_answer": "Radio waves"
+   },
+   {
+      "q_no": "11",
+      "question": "How does the wavelength of visible light affect its interaction with different materials?",
+      "options": {
+         "a": "Less absorption and scattering",
+         "b": "More absorption and scattering",
+         "c": "No change in interaction",
+         "d": "Increased reflection"
+      },
+      "correct_answer": "More absorption and scattering"
+   },
+   {
+      "q_no": "12",
+      "question": "In the electromagnetic spectrum, which type of wave is typically used for communication purposes?",
+      "options": {
+         "a": "X-rays",
+         "b": "Ultraviolet",
+         "c": "Microwaves",
+         "d": "Gamma rays"
+      },
+      "correct_answer": "Microwaves"
+   }
+]
+TIME for MCQ: 109.343 | ⚡⚡⚡ Token Speed: 3.914 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 500 | TOTAL Time: 122.04
+
+********************************************************************************
+
+Syllabus NUMBER 4 of 4 --- | qwen2.5:3b
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for IB Grade 10 Biology - Ecology - Population Dynamics:
+- Definition and components of a population
+- Factors affecting population growth (birth rate, death rate, immigration, emigration)
+- Types of population growth curves (J-shaped, S-shaped)
+- Carrying capacity and its relation to environmental resources
+- Interactions between populations: competition, predation, symbiosis
+- Population regulation strategies
+- Ecological succession and its role in community development
+
+END IT AFTER CREATING THE SYLLABUS
+TIME for SYLLABUS: 12.398 | ⚡⚡⚡ Token Speed: 5.808 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 14
+Attempt 1/4 for Syllabus 4 of 4... | qwen2.5:3b
+********************************************************************************
+
+Syllabus NUMBER 1 of 4 --- | qwen2.5:3b
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for IB Grade 11 Mathematics - Trigonometry - Angle Measurement (Degrees & Radians):
+- Definition and use of degrees as a unit of measurement
+- Definition and use of radians as a unit of measurement
+- Converting between degrees and radians
+- Angles in standard position
+- Coterminal angles
+- Reference angles
+END IT AFTER CREATING THE SYLLABUS
+TIME for SYLLABUS: 12.838 | ⚡⚡⚡ Token Speed: 4.596 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1/4 for Syllabus 1 of 4... | qwen2.5:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What is the definition of 1 degree?", "options": {"a": "1/360th of a circle", "b": "1/2π radians", "c": "1 radian", "d": "π/180 radians"}, "correct_answer": "1/360th of a circle"},
+    {"q_no": "2", "question": "Which unit of measurement is used in the International System (SI)?", "options": {"a": "Degrees", "b": "Radians", "c": "Arcminutes", "d": "Gradians"}, "correct_answer": "Radians"},
+    {"q_no": "3", "question": "How many radians are there in a full circle?", "options": {"a": "180 degrees", "b": "π radians", "c": "270 degrees", "d": "90 radians"}, "correct_answer": "π radians"},
+    {"q_no": "4", "question": "How do you convert 90 degrees to radians?", "options": {"a": "1.5708 radians", "b": "3.1416 radians", "c": "2 radians", "d": "4.7124 radians"}, "correct_answer": "1.5708 radians"},
+    {"q_no": "5", "question": "What is the measure of an angle in standard position with its vertex at the origin and one side on the positive x-axis?", "options": {"a": "Degrees", "b": "Radians", "c": "90 degrees", "d": "π/2 radians"}, "correct_answer": "π/2 radians"},
+    {"q_no": "6", "question": "Which of these angles is coterminal with 300 degrees?", "options": {"a": "-300 degrees", "b": "-150 degrees", "c": "240 degrees", "d": "180 degrees"}, "correct_answer": "240 degrees"},
+    {"q_no": "7", "question": "If a reference angle for an angle is 22.5 degrees, what is the original angle in standard position?", "options": {"a": "22.5 degrees", "b": "157.5 degrees", "c": "-157.5 degrees", "d": "342.5 degrees"}, "correct_answer": "157.5 degrees"},
+    {"q_no": "8", "question": "How many radians are in a right angle?", "options": {"a": "90 degrees", "b": "π/2 radians", "c": "45 degrees", "d": "360 degrees"}, "correct_answer": "π/2 radians"},
+    {"q_no": "9", "question": "What is the reference angle for 210 degrees?", "options": {"a": "30 degrees", "b": "60 degrees", "c": "45 degrees", "d": "330 degrees"}, "correct_answer": "30 degrees"},
+    {"q_no": "10", "question": "Which trigonometric function has a period of 2π radians?", "options": {"a": "Sine", "b": "Cosine", "c": "Tangent", "d": "Cotangent"}, "correct_answer": "Cosine"},
+    {"q_no": "11", "question": "If an angle is in the third quadrant, what is its reference angle?", "options": {"a": "0 degrees", "b": "90 degrees", "c": "45 degrees", "d": "270 degrees"}, "correct_answer": "270 degrees"},
+    {"q_no": "12", "question": "What does the radian measure relate to in a circle?", "options": {"a": "Central angle", "b": "Arc length", "c": "Area of sector", "d": "All of the above"}, "correct_answer": "All of the above"}
+]
+Time Taken: 107.30 seconds | Tokens Produced: 360 | ⚡⚡⚡ Token Speed 3.355 tokens/sec
+✅✅✅ Successfully generated 12 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 1 of 4
+[
+   {
+      "q_no": "1",
+      "question": "What is the definition of 1 degree?",
+      "options": {
+         "a": "1/360th of a circle",
+         "b": "1/2\u03c0 radians",
+         "c": "1 radian",
+         "d": "\u03c0/180 radians"
+      },
+      "correct_answer": "1/360th of a circle"
+   },
+   {
+      "q_no": "2",
+      "question": "Which unit of measurement is used in the International System (SI)?",
+      "options": {
+         "a": "Degrees",
+         "b": "Radians",
+         "c": "Arcminutes",
+         "d": "Gradians"
+      },
+      "correct_answer": "Radians"
+   },
+   {
+      "q_no": "3",
+      "question": "How many radians are there in a full circle?",
+      "options": {
+         "a": "180 degrees",
+         "b": "\u03c0 radians",
+         "c": "270 degrees",
+         "d": "90 radians"
+      },
+      "correct_answer": "\u03c0 radians"
+   },
+   {
+      "q_no": "4",
+      "question": "How do you convert 90 degrees to radians?",
+      "options": {
+         "a": "1.5708 radians",
+         "b": "3.1416 radians",
+         "c": "2 radians",
+         "d": "4.7124 radians"
+      },
+      "correct_answer": "1.5708 radians"
+   },
+   {
+      "q_no": "5",
+      "question": "What is the measure of an angle in standard position with its vertex at the origin and one side on the positive x-axis?",
+      "options": {
+         "a": "Degrees",
+         "b": "Radians",
+         "c": "90 degrees",
+         "d": "\u03c0/2 radians"
+      },
+      "correct_answer": "\u03c0/2 radians"
+   },
+   {
+      "q_no": "6",
+      "question": "Which of these angles is coterminal with 300 degrees?",
+      "options": {
+         "a": "-300 degrees",
+         "b": "-150 degrees",
+         "c": "240 degrees",
+         "d": "180 degrees"
+      },
+      "correct_answer": "240 degrees"
+   },
+   {
+      "q_no": "7",
+      "question": "If a reference angle for an angle is 22.5 degrees, what is the original angle in standard position?",
+      "options": {
+         "a": "22.5 degrees",
+         "b": "157.5 degrees",
+         "c": "-157.5 degrees",
+         "d": "342.5 degrees"
+      },
+      "correct_answer": "157.5 degrees"
+   },
+   {
+      "q_no": "8",
+      "question": "How many radians are in a right angle?",
+      "options": {
+         "a": "90 degrees",
+         "b": "\u03c0/2 radians",
+         "c": "45 degrees",
+         "d": "360 degrees"
+      },
+      "correct_answer": "\u03c0/2 radians"
+   },
+   {
+      "q_no": "9",
+      "question": "What is the reference angle for 210 degrees?",
+      "options": {
+         "a": "30 degrees",
+         "b": "60 degrees",
+         "c": "45 degrees",
+         "d": "330 degrees"
+      },
+      "correct_answer": "30 degrees"
+   },
+   {
+      "q_no": "10",
+      "question": "Which trigonometric function has a period of 2\u03c0 radians?",
+      "options": {
+         "a": "Sine",
+         "b": "Cosine",
+         "c": "Tangent",
+         "d": "Cotangent"
+      },
+      "correct_answer": "Cosine"
+   },
+   {
+      "q_no": "11",
+      "question": "If an angle is in the third quadrant, what is its reference angle?",
+      "options": {
+         "a": "0 degrees",
+         "b": "90 degrees",
+         "c": "45 degrees",
+         "d": "270 degrees"
+      },
+      "correct_answer": "270 degrees"
+   },
+   {
+      "q_no": "12",
+      "question": "What does the radian measure relate to in a circle?",
+      "options": {
+         "a": "Central angle",
+         "b": "Arc length",
+         "c": "Area of sector",
+         "d": "All of the above"
+      },
+      "correct_answer": "All of the above"
+   }
+]
+TIME for MCQ: 107.295 | ⚡⚡⚡ Token Speed: 3.355 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 419 | TOTAL Time: 120.14
+
+********************************************************************************
+
+Syllabus NUMBER 2 of 4 --- | qwen2.5:3b
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Cambridge Grade 8 Mathematics - Geometry - Angles and Their Properties:
+- Definition and classification of angles (acute, obtuse, right)
+- Angle measurement using a protractor
+- Types of angles formed when two lines intersect (adjacent, vertical, supplementary, complementary)
+- Angle properties in triangles (sum of interior angles, exterior angle theorem)
+- Angle relationships in polygons
+- Solving problems involving angles and their properties
+
+END IT AFTER CREATING THE SYLLABUS
+TIME for SYLLABUS: 13.944 | ⚡⚡⚡ Token Speed: 5.164 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1/4 for Syllabus 2 of 4... | qwen2.5:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What is the measurement range for an acute angle?", "options": {"a": "<90°", "b": "≥90° and <180°", "c": ">180°", "d": "<45°"}, "correct_answer": "<90°"},
+    {"q_no": "2", "question": "What is the measurement of a right angle?", "options": {"a": "30°", "b": "90°", "c": "180°", "d": "45°"}, "correct_answer": "90°"},
+    {"q_no": "3", "question": "When two lines intersect, what type of angle is formed when the rays are on opposite sides and do not form a straight line?", "options": {"a": "Adjacent angles", "b": "Vertical angles", "c": "Supplementary angles", "d": "Complementary angles"}, "correct_answer": "Vertical angles"},
+    {"q_no": "4", "question": "What is the sum of all interior angles in a triangle?", "options": {"a": "360°", "b": "180°", "c": "90°", "d": "270°"}, "correct_answer": "180°"},
+    {"q_no": "5", "question": "What is the exterior angle of a triangle equal to?", "options": {"a": "Sum of two interior angles", "b": "Difference between any two interior angles", "c": "Supplementary to one interior angle", "d": "The sum of non-adjacent interior angles"}, "correct_answer": "The sum of non-adjacent interior angles"},
+    {"q_no": "6", "question": "Which type of angle is formed when a ray stands on an angle?", "options": {"a": "Adjacent angles", "b": "Vertical angles", "c": "Supplementary angles", "d": "Complementary angles"}, "correct_answer": "Vertical angles"},
+    {"q_no": "7", "question": "In a polygon, how many diagonals can be drawn from one vertex?", "options": {"a": "n-1", "b": "n/2", "c": "n+1", "d": "n"}, "correct_answer": "n-3"},
+    {"q_no": "8", "question": "If two angles are complementary and one of them is 50°, what is the other angle's measurement?", "options": {"a": "40°", "b": "130°", "c": "90°", "d": "20°"}, "correct_answer": "40°"},
+    {"q_no": "9", "question": "What is the sum of all exterior angles in any polygon?", "options": {"a": "180°", "b": "360°", "c": "720°", "d": "540°"}, "correct_answer": "360°"},
+    {"q_no": "10", "question": "What is the measure of an angle if it forms a straight line with another 75°?", "options": {"a": "95°", "b": "180°", "c": "25°", "d": "105°"}, "correct_answer": "105°"},
+    {"q_no": "11", "question": "In a triangle, if one angle is 60° and another is 70°, what is the measure of the third angle?", "options": {"a": "30°", "b": "50°", "c": "40°", "d": "170°"}, "correct_answer": "50°"},
+    {"q_no": "12", "question": "What is formed when two lines intersect and one line cuts the other at an angle of 60°?", "options": {"a": "Adjacent angles", "b": "Vertical angles", "c": "Supplementary angles", "d": "Complementary angles"}, "correct_answer": "Vertical angles"}
+]
+Time Taken: 108.54 seconds | Tokens Produced: 379 | ⚡⚡⚡ Token Speed 3.492 tokens/sec
+✅✅✅ Successfully generated 12 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 2 of 4
+[
+   {
+      "q_no": "1",
+      "question": "What is the measurement range for an acute angle?",
+      "options": {
+         "a": "<90\u00b0",
+         "b": "\u226590\u00b0 and <180\u00b0",
+         "c": ">180\u00b0",
+         "d": "<45\u00b0"
+      },
+      "correct_answer": "<90\u00b0"
+   },
+   {
+      "q_no": "2",
+      "question": "What is the measurement of a right angle?",
+      "options": {
+         "a": "30\u00b0",
+         "b": "90\u00b0",
+         "c": "180\u00b0",
+         "d": "45\u00b0"
+      },
+      "correct_answer": "90\u00b0"
+   },
+   {
+      "q_no": "3",
+      "question": "When two lines intersect, what type of angle is formed when the rays are on opposite sides and do not form a straight line?",
+      "options": {
+         "a": "Adjacent angles",
+         "b": "Vertical angles",
+         "c": "Supplementary angles",
+         "d": "Complementary angles"
+      },
+      "correct_answer": "Vertical angles"
+   },
+   {
+      "q_no": "4",
+      "question": "What is the sum of all interior angles in a triangle?",
+      "options": {
+         "a": "360\u00b0",
+         "b": "180\u00b0",
+         "c": "90\u00b0",
+         "d": "270\u00b0"
+      },
+      "correct_answer": "180\u00b0"
+   },
+   {
+      "q_no": "5",
+      "question": "What is the exterior angle of a triangle equal to?",
+      "options": {
+         "a": "Sum of two interior angles",
+         "b": "Difference between any two interior angles",
+         "c": "Supplementary to one interior angle",
+         "d": "The sum of non-adjacent interior angles"
+      },
+      "correct_answer": "The sum of non-adjacent interior angles"
+   },
+   {
+      "q_no": "6",
+      "question": "Which type of angle is formed when a ray stands on an angle?",
+      "options": {
+         "a": "Adjacent angles",
+         "b": "Vertical angles",
+         "c": "Supplementary angles",
+         "d": "Complementary angles"
+      },
+      "correct_answer": "Vertical angles"
+   },
+   {
+      "q_no": "7",
+      "question": "In a polygon, how many diagonals can be drawn from one vertex?",
+      "options": {
+         "a": "n-1",
+         "b": "n/2",
+         "c": "n+1",
+         "d": "n"
+      },
+      "correct_answer": "n-3"
+   },
+   {
+      "q_no": "8",
+      "question": "If two angles are complementary and one of them is 50\u00b0, what is the other angle's measurement?",
+      "options": {
+         "a": "40\u00b0",
+         "b": "130\u00b0",
+         "c": "90\u00b0",
+         "d": "20\u00b0"
+      },
+      "correct_answer": "40\u00b0"
+   },
+   {
+      "q_no": "9",
+      "question": "What is the sum of all exterior angles in any polygon?",
+      "options": {
+         "a": "180\u00b0",
+         "b": "360\u00b0",
+         "c": "720\u00b0",
+         "d": "540\u00b0"
+      },
+      "correct_answer": "360\u00b0"
+   },
+   {
+      "q_no": "10",
+      "question": "What is the measure of an angle if it forms a straight line with another 75\u00b0?",
+      "options": {
+         "a": "95\u00b0",
+         "b": "180\u00b0",
+         "c": "25\u00b0",
+         "d": "105\u00b0"
+      },
+      "correct_answer": "105\u00b0"
+   },
+   {
+      "q_no": "11",
+      "question": "In a triangle, if one angle is 60\u00b0 and another is 70\u00b0, what is the measure of the third angle?",
+      "options": {
+         "a": "30\u00b0",
+         "b": "50\u00b0",
+         "c": "40\u00b0",
+         "d": "170\u00b0"
+      },
+      "correct_answer": "50\u00b0"
+   },
+   {
+      "q_no": "12",
+      "question": "What is formed when two lines intersect and one line cuts the other at an angle of 60\u00b0?",
+      "options": {
+         "a": "Adjacent angles",
+         "b": "Vertical angles",
+         "c": "Supplementary angles",
+         "d": "Complementary angles"
+      },
+      "correct_answer": "Vertical angles"
+   }
+]
+TIME for MCQ: 108.541 | ⚡⚡⚡ Token Speed: 3.492 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 451 | TOTAL Time: 122.50
+
+********************************************************************************
+
+Syllabus NUMBER 3 of 4 --- | qwen2.5:3b
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Cambridge Grade 10 Mathematics - Algebra - Exponents and Powers:
+- Definition of exponents and powers
+- Laws of exponents (product rule, quotient rule, power rule, zero exponent, negative exponent)
+- Expressing numbers in scientific notation
+- Solving equations involving exponents
+- Simplifying expressions with multiple operations
+
+END IT AFTER CREATING THE SYLLABUS
+TIME for SYLLABUS: 12.396 | ⚡⚡⚡ Token Speed: 4.437 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 10
+Attempt 1/4 for Syllabus 3 of 4... | qwen2.5:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What is the definition of an exponent?", "options": {"a": "A number that multiplies another number", "b": "The base of a logarithm", "c": "The result when dividing exponents", "d": "The power to which a number is raised"}, "correct_answer": "The power to which a number is raised"},
+    {"q_no": "2", "question": "According to the quotient rule, how do you divide two powers with the same base?", "options": {"a": "Subtract the exponents", "b": "Multiply the bases and add the exponents", "c": "Divide the bases and subtract the exponents", "d": "Add the exponents"}, "correct_answer": "Subtract the exponents"},
+    {"q_no": "3", "question": "What is scientific notation?", "options": {"a": "A method of writing very large numbers as a product of a number between 1 and 10 and a power of 10", "b": "The process of adding exponents", "c": "A way to express decimals", "d": "Expressing powers in bases other than 2"}, "correct_answer": "A method of writing very large numbers as a product of a number between 1 and 10 and a power of 10"},
+    {"q_no": "4", "question": "Which equation is incorrect when using the zero exponent rule?", "options": {"a": "Any non-zero number to the power of zero equals one", "b": "Zero to any positive exponent equals zero", "c": "Negative numbers cannot have a negative exponent", "d": "One to any exponent remains one"}, "correct_answer": "Zero to any positive exponent equals zero"},
+    {"q_no": "5", "question": "What does raising a number to the power of -1 do?", "options": {"a": "It makes the result smaller than the original number", "b": "It converts the number to its reciprocal", "c": "It reverses the sign of the exponent", "d": "It simplifies division"}, "correct_answer": "It converts the number to its reciprocal"},
+    {"q_no": "6", "question": "Which equation is correct when using the power rule for exponents?", "options": {"a": "(x^2) * (x^3) = x^5", "b": "(x^2) / (x^3) = x^-1", "c": "(x^2) + (x^3) = x^5", "d": "(x^2) * (x^3) = x^6"}, "correct_answer": "(x^2) * (x^3) = x^6"},
+    {"q_no": "7", "question": "What is the value of 10^-4?", "options": {"a": "0.0001", "b": "-0.0001", "c": "0.001", "d": "100"}, "correct_answer": "0.0001"},
+    {"q_no": "8", "question": "How do you solve an equation like 2^x = 64?", "options": {"a": "Take the logarithm of both sides", "b": "Substitute x with a value and check", "c": "Use the exponent rules to find x", "d": "Multiply both sides by the base"}, "correct_answer": "Use the exponent rules to find x"},
+    {"q_no": "9", "question": "When simplifying 2x^3 * 3x^4 / (6x^5)", what is the result?", "options": {"a": "1/2x", "b": "6x", "c": "2x", "d": "1/x"}, "correct_answer": "2x"},
+    {"q_no": "10", "question": "Which of these numbers is in scientific notation? 0.0056", "options": {"a": "5.6 * 10^-3", "b": "56 * 10^-4", "c": "5.6 * 10^3", "d": "5.6 * 10^-2"}, "correct_answer": "5.6 * 10^-3"}
+]
+Time Taken: 106.50 seconds | Tokens Produced: 455 | ⚡⚡⚡ Token Speed 4.272 tokens/sec
+⚠️ Error: Invalid JSON format...
+
+Attempt 2/4 for Syllabus 3 of 4... | qwen2.5:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What is the base of a power?", "options": {"a": "The number that gets raised to an exponent.", "b": "The result after applying the exponent.", "c": "The operation used in the exponentiation.", "d": "None of the above."}, "correct_answer": "The number that gets raised to an exponent."},
+    {"q_no": "2", "question": "What is the product rule for exponents?", "options": {"a": "a^m * a^n = a^(m+n)", "b": "a^m / a^n = a^(m-n)", "c": "a^m * a^n = a^(m*n)", "d": "None of the above."}, "correct_answer": "a^m * a^n = a^(m+n)"},
+    {"q_no": "3", "question": "What is the quotient rule for exponents?", "options": {"a": "a^m / a^n = a^(m-n)", "b": "a^0 = 1", "c": "a^-n = 1/a^n", "d": "None of the above."}, "correct_answer": "a^m / a^n = a^(m-n)"},
+    {"q_no": "4", "question": "Which law is used to raise an exponent to another power?", "options": {"a": "(a^m)^n = a^(m+n)", "b": "(a^m)^n = a^(mn)", "c": "(a^m)^n = a^(m/n)", "d": "None of the above."}, "correct_answer": "(a^m)^n = a^(mn)"},
+    {"q_no": "5", "question": "What is the zero exponent rule?", "options": {"a": "a^0 = 1", "b": "a^-1 = 1/a", "c": "a^n * a^(-n) = a^0", "d": "None of the above."}, "correct_answer": "a^0 = 1"},
+    {"q_no": "6", "question": "What is the negative exponent rule?", "options": {"a": "a^-m = 1/a^m", "b": "a^(-m) * a^(n-m) = a^n", "c": "(a/b)^-m = b/m", "d": "None of the above."}, "correct_answer": "a^-m = 1/a^m"},
+    {"q_no": "7", "question": "How is scientific notation expressed?", "options": {"a": "a * 10^n", "b": "a / 10^n", "c": "a * (n+1)", "d": "None of the above."}, "correct_answer": "a * 10^n"},
+    {"q_no": "8", "question": "What equation involves solving for exponents?", "options": {"a": "x^2 = 4", "b": "log(x) + log(y) = z", "c": "3^(x+1) = 9", "d": "None of the above."}, "correct_answer": "3^(x+1) = 9"},
+    {"q_no": "9", "question": "Which operation allows you to simplify expressions with multiple operations?", "options": {"a": "Addition", "b": "Subtraction", "c": "Multiplication and Division", "d": "None of the above."}, "correct_answer": "Multiplication and Division"},
+    {"q_no": "10", "question": "Which law allows you to move terms across a fraction bar?", "options": {"a": "Power Rule", "b": "Quotient Rule", "c": "Negative Exponent Rule", "d": "None of the above."}, "correct_answer": "Quotient Rule"}
+]
+Time Taken: 106.88 seconds | Tokens Produced: 355 | ⚡⚡⚡ Token Speed 3.322 tokens/sec
+✅✅✅ Successfully generated 10 MCQs. Attempts Needed 2
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 3 of 4
+[
+   {
+      "q_no": "1",
+      "question": "What is the base of a power?",
+      "options": {
+         "a": "The number that gets raised to an exponent.",
+         "b": "The result after applying the exponent.",
+         "c": "The operation used in the exponentiation.",
+         "d": "None of the above."
+      },
+      "correct_answer": "The number that gets raised to an exponent."
+   },
+   {
+      "q_no": "2",
+      "question": "What is the product rule for exponents?",
+      "options": {
+         "a": "a^m * a^n = a^(m+n)",
+         "b": "a^m / a^n = a^(m-n)",
+         "c": "a^m * a^n = a^(m*n)",
+         "d": "None of the above."
+      },
+      "correct_answer": "a^m * a^n = a^(m+n)"
+   },
+   {
+      "q_no": "3",
+      "question": "What is the quotient rule for exponents?",
+      "options": {
+         "a": "a^m / a^n = a^(m-n)",
+         "b": "a^0 = 1",
+         "c": "a^-n = 1/a^n",
+         "d": "None of the above."
+      },
+      "correct_answer": "a^m / a^n = a^(m-n)"
+   },
+   {
+      "q_no": "4",
+      "question": "Which law is used to raise an exponent to another power?",
+      "options": {
+         "a": "(a^m)^n = a^(m+n)",
+         "b": "(a^m)^n = a^(mn)",
+         "c": "(a^m)^n = a^(m/n)",
+         "d": "None of the above."
+      },
+      "correct_answer": "(a^m)^n = a^(mn)"
+   },
+   {
+      "q_no": "5",
+      "question": "What is the zero exponent rule?",
+      "options": {
+         "a": "a^0 = 1",
+         "b": "a^-1 = 1/a",
+         "c": "a^n * a^(-n) = a^0",
+         "d": "None of the above."
+      },
+      "correct_answer": "a^0 = 1"
+   },
+   {
+      "q_no": "6",
+      "question": "What is the negative exponent rule?",
+      "options": {
+         "a": "a^-m = 1/a^m",
+         "b": "a^(-m) * a^(n-m) = a^n",
+         "c": "(a/b)^-m = b/m",
+         "d": "None of the above."
+      },
+      "correct_answer": "a^-m = 1/a^m"
+   },
+   {
+      "q_no": "7",
+      "question": "How is scientific notation expressed?",
+      "options": {
+         "a": "a * 10^n",
+         "b": "a / 10^n",
+         "c": "a * (n+1)",
+         "d": "None of the above."
+      },
+      "correct_answer": "a * 10^n"
+   },
+   {
+      "q_no": "8",
+      "question": "What equation involves solving for exponents?",
+      "options": {
+         "a": "x^2 = 4",
+         "b": "log(x) + log(y) = z",
+         "c": "3^(x+1) = 9",
+         "d": "None of the above."
+      },
+      "correct_answer": "3^(x+1) = 9"
+   },
+   {
+      "q_no": "9",
+      "question": "Which operation allows you to simplify expressions with multiple operations?",
+      "options": {
+         "a": "Addition",
+         "b": "Subtraction",
+         "c": "Multiplication and Division",
+         "d": "None of the above."
+      },
+      "correct_answer": "Multiplication and Division"
+   },
+   {
+      "q_no": "10",
+      "question": "Which law allows you to move terms across a fraction bar?",
+      "options": {
+         "a": "Power Rule",
+         "b": "Quotient Rule",
+         "c": "Negative Exponent Rule",
+         "d": "None of the above."
+      },
+      "correct_answer": "Quotient Rule"
+   }
+]
+TIME for MCQ: 106.877 | ⚡⚡⚡ Token Speed: 3.322 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 410 | TOTAL Time: 225.79
+
+********************************************************************************
+
+Syllabus NUMBER 4 of 4 --- | qwen2.5:3b
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for IB Grade 10 Mathematics - Functions - Notation and Representation:
+- Understanding function notation (f(x))
+- Identifying domain and range of functions
+- Representing functions through equations, graphs, and tables
+- Interpreting and creating mappings diagrams
+- Evaluating composite functions
+- Solving problems using function notation
+TIME for SYLLABUS: 10.614 | ⚡⚡⚡ Token Speed: 4.522 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1/4 for Syllabus 4 of 4... | qwen2.5:3b

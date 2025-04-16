@@ -1,0 +1,1126 @@
+********************************************************************************
+Syllabus NUMBER 1
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Edexcel Grade 12 Mathematics - Calculus - Differentiation:
+- Introduction to differentiation as a rate of change
+- Techniques for finding derivatives using rules
+- Understanding the product rule and quotient rule
+- Finding derivatives of trigonometric functions
+- Solving related rates problems
+- Using implicit differentiation to find derivative relationships
+- Applications of differentiation in optimization and physics scenarios
+TIME for SYLLABUS: 7.874 | ⚡⚡⚡ Token Speed: 7.874 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 14
+Attempt 1 out of 1...
+********************************************************************************
+Syllabus NUMBER 1
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Edexcel Grade 12 Mathematics - Calculus - Differentiation:
+- Introduction to differentiation as the rate of change
+- Understanding limits and derivatives
+- Applying differentiation rules for polynomials
+- Using derivatives to find maximum and minimum values
+- Solving related rates problems involving calculus
+- Analyzing concavity and inflection points with derivatives
+- Working with differentials in calculations
+TIME for SYLLABUS: 5.875 | ⚡⚡⚡ Token Speed: 10.212 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 14
+Attempt 1 out of 1...
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the primary concept of differentiation in mathematics?",
+        "options": {
+            "a": "Finding the slope of a curve at any point",
+            "b": "Determining the volume of irregular shapes",
+            "c": "Calculating the area under curves",
+            "d": "Measuring the rate of change"
+        },
+        "correct_answer": "Finding the slope of a curve at any point"
+    },
+    {
+        "q_no": 2,
+        "question": "In calculus, what does 'limit' refer to?",
+        "options": {
+            "a": "The value that approaches infinity",
+            "b": "A boundary where two sides meet",
+            "c": "A continuous function's behavior near a point",
+            "d": "The smallest number in a set"
+        },
+        "correct_answer": "A boundary where two sides meet"
+    },
+    {
+        "q_no": 3,
+        "question": "What is the formula for finding derivatives of polynomials?",
+        "options": {
+            "a": "f'(x) = x^2 + 1",
+            "b": "f'(x) = f(x)^2 - 1",
+            "c": "f'(x) = 3x^2",
+            "d": "f'(x) = 2xf'(x)"
+        },
+        "correct_answer": "f'(x) = 2xf'(x)"
+    },
+    {
+        "q_no": 4,
+        "question": "How do you find the maximum or minimum value of a function using derivatives?",
+        "options": {
+            "a": "By setting f(x) = 0",
+            "b": "Finding where f'(x) equals 0 and checking for positive/negative values around that point",
+            "c": "Using x=1 as the derivative's root",
+            "d": "Determining where f'(x) is undefined"
+        },
+        "correct_answer": "Finding where f'(x) equals 0 and checking for positive/negative values around that point"
+    },
+    {
+        "q_no": 5,
+        "question": "What does 'related rates' in calculus refer to?",
+        "options": {
+            "a": "The relationship between the sides of a triangle",
+            "b": "The rate at which one quantity changes with respect to another, given other quantities changing over time",
+            "c": "Calculating the area of irregular shapes using differentiation",
+            "d": "Finding the slope of a line"
+        },
+        "correct_answer": "The rate at which one quantity changes with respect to another, given other quantities changing over time"
+    },
+    {
+        "q_no": 6,
+        "question": "How do you find inflection points using derivatives?",
+        "options": {
+            "a": "By setting f(x) = 0",
+            "b": "Identifying where the concavity changes from upward to downward or vice versa and checking if the second derivative is zero there",
+            "c": "Calculating the area between two curves with integration",
+            "d": "Determining where f'(x) equals its first derivative"
+        },
+        "correct_answer": "Identifying where the concavity changes from upward to downward or vice versa and checking if the second derivative is zero there"
+    }
+]
+Time Taken: 33.30 seconds | Tokens Produced: 378 | ⚡⚡⚡ Token Speed 11.352 tokens/sec
+⚠️ Warning: Expected 14 MCQs but got 6...
+
+⚠️ Warning: After 1 attempts returning longest valid response.
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   {
+      "q_no": 1,
+      "question": "What is the primary concept of differentiation in mathematics?",
+      "options": {
+         "a": "Finding the slope of a curve at any point",
+         "b": "Determining the volume of irregular shapes",
+         "c": "Calculating the area under curves",
+         "d": "Measuring the rate of change"
+      },
+      "correct_answer": "Finding the slope of a curve at any point"
+   },
+   {
+      "q_no": 2,
+      "question": "In calculus, what does 'limit' refer to?",
+      "options": {
+         "a": "The value that approaches infinity",
+         "b": "A boundary where two sides meet",
+         "c": "A continuous function's behavior near a point",
+         "d": "The smallest number in a set"
+      },
+      "correct_answer": "A boundary where two sides meet"
+   },
+   {
+      "q_no": 3,
+      "question": "What is the formula for finding derivatives of polynomials?",
+      "options": {
+         "a": "f'(x) = x^2 + 1",
+         "b": "f'(x) = f(x)^2 - 1",
+         "c": "f'(x) = 3x^2",
+         "d": "f'(x) = 2xf'(x)"
+      },
+      "correct_answer": "f'(x) = 2xf'(x)"
+   },
+   {
+      "q_no": 4,
+      "question": "How do you find the maximum or minimum value of a function using derivatives?",
+      "options": {
+         "a": "By setting f(x) = 0",
+         "b": "Finding where f'(x) equals 0 and checking for positive/negative values around that point",
+         "c": "Using x=1 as the derivative's root",
+         "d": "Determining where f'(x) is undefined"
+      },
+      "correct_answer": "Finding where f'(x) equals 0 and checking for positive/negative values around that point"
+   },
+   {
+      "q_no": 5,
+      "question": "What does 'related rates' in calculus refer to?",
+      "options": {
+         "a": "The relationship between the sides of a triangle",
+         "b": "The rate at which one quantity changes with respect to another, given other quantities changing over time",
+         "c": "Calculating the area of irregular shapes using differentiation",
+         "d": "Finding the slope of a line"
+      },
+      "correct_answer": "The rate at which one quantity changes with respect to another, given other quantities changing over time"
+   },
+   {
+      "q_no": 6,
+      "question": "How do you find inflection points using derivatives?",
+      "options": {
+         "a": "By setting f(x) = 0",
+         "b": "Identifying where the concavity changes from upward to downward or vice versa and checking if the second derivative is zero there",
+         "c": "Calculating the area between two curves with integration",
+         "d": "Determining where f'(x) equals its first derivative"
+      },
+      "correct_answer": "Identifying where the concavity changes from upward to downward or vice versa and checking if the second derivative is zero there"
+   }
+]
+TIME for MCQ: 33.297 | ⚡⚡⚡ Token Speed: 11.352 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 438 | TOTAL Time: 39.18
+
+********************************************************************************
+Syllabus NUMBER 2
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Cambridge Grade 10 Physics - Waves - Electromagnetic Spectrum:
+- Introduction to waves and their properties
+- Understanding the electromagnetic spectrum in order of frequency (radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, and gamma rays)
+- Explanation of wavelength, frequency, amplitude, and speed of light
+- Identifying types of electromagnetic radiation based on their behavior
+- Analyzing wave properties such as reflection, refraction, diffraction, and interference in context of the spectrum
+- Solving problems related to the electromagnetic spectrum and its applications in technology.
+TIME for SYLLABUS: 7.337 | ⚡⚡⚡ Token Speed: 11.858 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 1...
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the purpose of waves as described by Huygens's principle?",
+        "options": {
+            "a": "To show that light travels in straight lines",
+            "b": "To determine the path of a wave front from one point to another using geometric principles",
+            "c": "To prove that sound can travel through solids",
+            "d": "To calculate the intensity level of different sounds"
+        },
+        "correct_answer": "To determine the path of a wave front from one point to another using geometric principles"
+    },
+    {
+        "q_no": 2,
+        "question": "What is the wavelength in terms of the distance between two consecutive crests (or troughs) of a sine wave?",
+        "options": {
+            "a": "Distance covered by the wave front during one cycle",
+            "b": "Total length of one complete cycle of the wave form",
+            "c": "Number of wavelengths per meter",
+            "d": "Half the distance between two adjacent crests"
+        },
+        "correct_answer": "Distance covered by the wave front during one cycle"
+    },
+    {
+        "q_no": 3,
+        "question": "What is the correct order from lowest to highest frequency in the electromagnetic spectrum?",
+        "options": {
+            "a": "Infrared, visible light, ultraviolet, X-rays, gamma rays",
+            "b": "Gamma rays, X-rays, visible light, infrared, ultraviolet",
+            "c": "Ultraviolet, visible light, infrared, X-rays, gamma rays",
+            "d": "X-rays, gamma rays, visible light, infrared, ultraviolet"
+        },
+        "correct_answer": "Gamma rays, X-rays, visible light, infrared, ultraviolet"
+    },
+    {
+        "q_no": 4,
+        "question": "How does the speed of sound in air compare to that in water?",
+        "options": {
+            "a": "The speed is higher in water due to lower density",
+            "b": "The speed remains the same regardless of medium",
+            "c": "Water has a faster speed because its molecules are more elastic",
+            "d": "Air has a faster speed than water as air is less dense"
+        },
+        "correct_answer": "The speed is higher in water due to lower density"
+    }
+]
+Time Taken: 26.54 seconds | Tokens Produced: 293 | ⚡⚡⚡ Token Speed 11.040 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 4...
+
+⚠️ Warning: After 1 attempts returning longest valid response.
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   {
+      "q_no": 1,
+      "question": "What is the purpose of waves as described by Huygens's principle?",
+      "options": {
+         "a": "To show that light travels in straight lines",
+         "b": "To determine the path of a wave front from one point to another using geometric principles",
+         "c": "To prove that sound can travel through solids",
+         "d": "To calculate the intensity level of different sounds"
+      },
+      "correct_answer": "To determine the path of a wave front from one point to another using geometric principles"
+   },
+   {
+      "q_no": 2,
+      "question": "What is the wavelength in terms of the distance between two consecutive crests (or troughs) of a sine wave?",
+      "options": {
+         "a": "Distance covered by the wave front during one cycle",
+         "b": "Total length of one complete cycle of the wave form",
+         "c": "Number of wavelengths per meter",
+         "d": "Half the distance between two adjacent crests"
+      },
+      "correct_answer": "Distance covered by the wave front during one cycle"
+   },
+   {
+      "q_no": 3,
+      "question": "What is the correct order from lowest to highest frequency in the electromagnetic spectrum?",
+      "options": {
+         "a": "Infrared, visible light, ultraviolet, X-rays, gamma rays",
+         "b": "Gamma rays, X-rays, visible light, infrared, ultraviolet",
+         "c": "Ultraviolet, visible light, infrared, X-rays, gamma rays",
+         "d": "X-rays, gamma rays, visible light, infrared, ultraviolet"
+      },
+      "correct_answer": "Gamma rays, X-rays, visible light, infrared, ultraviolet"
+   },
+   {
+      "q_no": 4,
+      "question": "How does the speed of sound in air compare to that in water?",
+      "options": {
+         "a": "The speed is higher in water due to lower density",
+         "b": "The speed remains the same regardless of medium",
+         "c": "Water has a faster speed because its molecules are more elastic",
+         "d": "Air has a faster speed than water as air is less dense"
+      },
+      "correct_answer": "The speed is higher in water due to lower density"
+   }
+]
+TIME for MCQ: 26.539 | ⚡⚡⚡ Token Speed: 11.04 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 380 | TOTAL Time: 33.88
+
+********************************************************************************
+Syllabus NUMBER 3
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for CBSE Grade 12 Chemistry - Organic Chemistry - Alcohols, Phenols, and Ethers:
+- Introduction to alcohols, phenols, and ethers as organic compounds.
+- Properties and characteristics of alcohols, such as boiling point and solubility.
+- Converting alcohols to ethers through dehydration reactions.
+- Identifying functional groups in alcohols and ethers using infrared spectroscopy.
+- Determining the types of alcohols (primary, secondary, tertiary) based on their carbon chain length.
+- Classifying phenols by substituents present, such as halides or sulfonic acids.
+- Solubility trends among different organic compounds like alcohol, phenol, and ether in various solvents.
+- Practical applications of these molecules in daily life and industrial processes.
+TIME for SYLLABUS: 8.488 | ⚡⚡⚡ Token Speed: 12.841 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 16
+Attempt 1 out of 1...
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the molecular formula for ethanol?",
+        "options": {
+            "a": "C2H5OH",
+            "b": "CH3COOH",
+            "c": "C6H14O",
+            "d": "C8H10"
+        },
+        "correct_answer": "C2H5OH"
+    },
+    {
+        "q_no": 2,
+        "question": "What is the primary difference between alcohols and ethers in terms of functional groups?",
+        "options": {
+            "a": "Alcohols have a hydroxyl group (-OH), while ethers do not.",
+            "b": "Ethers have an oxygen atom directly bonded to carbon, whereas alcohols do not.",
+            "c": "Alcohols can be oxidized into carboxylic acids, but ethers cannot.",
+            "d": "Ethers are soluble in water, but alcohols are not."
+        },
+        "correct_answer": "Ethers have an oxygen atom directly bonded to carbon, whereas alcohols do not."
+    },
+    {
+        "q_no": 3,
+        "question": "Which of the following compounds is most likely to undergo a dehydration reaction?",
+        "options": {
+            "a": "Chloroethanol (CH3OC2H5)",
+            "b": "Ethyl ether (C4H10O)",
+            "c": "Methyl alcohol (CH3OH)",
+            "d": "Tertiary butyl alcohol (C6H19OH)"
+        },
+        "correct_answer": "Chloroethanol (CH3OC2H5)"
+    },
+    {
+        "q_no": 4,
+        "question": "What is the boiling point of ethanol compared to water?",
+        "options": {
+            "a": "Higher than water due to hydrogen bonding",
+            "b": "Lower than water because it's a nonpolar molecule",
+            "c": "Exactly the same as water due to similar molecular size",
+            "d": "None of these options"
+        },
+        "correct_answer": "Higher than water due to hydrogen bonding"
+    }
+]
+Time Taken: 26.70 seconds | Tokens Produced: 208 | ⚡⚡⚡ Token Speed 7.791 tokens/sec
+⚠️ Warning: Expected 16 MCQs but got 4...
+
+⚠️ Warning: After 1 attempts returning longest valid response.
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   {
+      "q_no": 1,
+      "question": "What is the molecular formula for ethanol?",
+      "options": {
+         "a": "C2H5OH",
+         "b": "CH3COOH",
+         "c": "C6H14O",
+         "d": "C8H10"
+      },
+      "correct_answer": "C2H5OH"
+   },
+   {
+      "q_no": 2,
+      "question": "What is the primary difference between alcohols and ethers in terms of functional groups?",
+      "options": {
+         "a": "Alcohols have a hydroxyl group (-OH), while ethers do not.",
+         "b": "Ethers have an oxygen atom directly bonded to carbon, whereas alcohols do not.",
+         "c": "Alcohols can be oxidized into carboxylic acids, but ethers cannot.",
+         "d": "Ethers are soluble in water, but alcohols are not."
+      },
+      "correct_answer": "Ethers have an oxygen atom directly bonded to carbon, whereas alcohols do not."
+   },
+   {
+      "q_no": 3,
+      "question": "Which of the following compounds is most likely to undergo a dehydration reaction?",
+      "options": {
+         "a": "Chloroethanol (CH3OC2H5)",
+         "b": "Ethyl ether (C4H10O)",
+         "c": "Methyl alcohol (CH3OH)",
+         "d": "Tertiary butyl alcohol (C6H19OH)"
+      },
+      "correct_answer": "Chloroethanol (CH3OC2H5)"
+   },
+   {
+      "q_no": 4,
+      "question": "What is the boiling point of ethanol compared to water?",
+      "options": {
+         "a": "Higher than water due to hydrogen bonding",
+         "b": "Lower than water because it's a nonpolar molecule",
+         "c": "Exactly the same as water due to similar molecular size",
+         "d": "None of these options"
+      },
+      "correct_answer": "Higher than water due to hydrogen bonding"
+   }
+]
+TIME for MCQ: 26.696 | ⚡⚡⚡ Token Speed: 7.791 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 317 | TOTAL Time: 35.19
+
+********************************************************************************
+Syllabus NUMBER 4
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for IB Grade 11 Biology - Genetics - Mendelian Genetics:
+- Introduction to Mendel and his pea experiments
+- Understanding independent assortment and linkage
+- Haploid and diploid cells
+- Meiosis process and its significance
+- Gamete formation in males and females
+- Phenotypic ratios and genotypic ratios
+- Monohybrid and dihybrid crosses
+- Punnett squares for predicting offspring
+- Autosomal and sex-linked inheritance patterns
+- Genetic disorders discussed (e.g., sickle cell anemia, Huntington's disease)
+- Ethical considerations in genetic research
+- Application of Mendelian principles to modern genetics studies
+TIME for SYLLABUS: 7.727 | ⚡⚡⚡ Token Speed: 11.777 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 24
+Attempt 1 out of 1...
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What does Mendel discover that laid the foundation for classical genetics?",
+        "options": {
+            "a": "The significance of pea plant experimentation",
+            "b": "Fertilization process in plants",
+            "c": "Genetic inheritance patterns in offspring",
+            "d": "Mutation and genetic variation"
+        },
+        "correct_answer": "The significance of pea plant experimentation"
+    },
+    {
+        "q_no": 2,
+        "question": "What does the term 'genotype' represent?",
+        "options": {
+            "a": "The traits an organism possesses",
+            "b": "The environment in which an organism lives",
+            "c": "The genetic makeup of an organism",
+            "d": "The external appearance of an organism"
+        },
+        "correct_answer": "The genetic makeup of an organism"
+    },
+    {
+        "q_no": 3,
+        "question": "Which chromosome does not contain homologous pairs during meiosis?",
+        "options": {
+            "a": "Autosomes",
+            "b": "X chromosomes",
+            "c": "Y chromosomes",
+            "d": "All of the above"
+        },
+        "correct_answer": "Diploid homologous chromosomes do not contain homologous pairs during meiosis. "
+    },
+    {
+        "q_no": 4,
+        "question": "What is the purpose of a dihybrid cross?",
+        "options": {
+            "a": "To determine dominance and recessive traits",
+            "b": "To predict offspring phenotypes from genotypic ratios",
+            "c": "To study inheritance patterns in single-gene trait",
+            "d": "To find the frequency of mutations"
+        },
+        "correct_answer": "To predict offspring phenotypes from genotypic ratios"
+    },
+    {
+        "q_no": 5,
+        "question": "What is the significance of meiosis?",
+        "options": {
+            "a": "It combines gametes to form a zygote",
+            "b": "It allows for genetic variation in offspring",
+            "c": "It eliminates genetic disorders",
+            "d": "It increases the size of cells"
+        },
+        "correct_answer": "Meiosis allows for genetic variation in offspring."
+    }
+]
+Time Taken: 29.41 seconds | Tokens Produced: 246 | ⚡⚡⚡ Token Speed 8.366 tokens/sec
+⚠️ Warning: Expected 24 MCQs but got 5...
+
+⚠️ Warning: After 1 attempts returning longest valid response.
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   {
+      "q_no": 1,
+      "question": "What does Mendel discover that laid the foundation for classical genetics?",
+      "options": {
+         "a": "The significance of pea plant experimentation",
+         "b": "Fertilization process in plants",
+         "c": "Genetic inheritance patterns in offspring",
+         "d": "Mutation and genetic variation"
+      },
+      "correct_answer": "The significance of pea plant experimentation"
+   },
+   {
+      "q_no": 2,
+      "question": "What does the term 'genotype' represent?",
+      "options": {
+         "a": "The traits an organism possesses",
+         "b": "The environment in which an organism lives",
+         "c": "The genetic makeup of an organism",
+         "d": "The external appearance of an organism"
+      },
+      "correct_answer": "The genetic makeup of an organism"
+   },
+   {
+      "q_no": 3,
+      "question": "Which chromosome does not contain homologous pairs during meiosis?",
+      "options": {
+         "a": "Autosomes",
+         "b": "X chromosomes",
+         "c": "Y chromosomes",
+         "d": "All of the above"
+      },
+      "correct_answer": "Diploid homologous chromosomes do not contain homologous pairs during meiosis. "
+   },
+   {
+      "q_no": 4,
+      "question": "What is the purpose of a dihybrid cross?",
+      "options": {
+         "a": "To determine dominance and recessive traits",
+         "b": "To predict offspring phenotypes from genotypic ratios",
+         "c": "To study inheritance patterns in single-gene trait",
+         "d": "To find the frequency of mutations"
+      },
+      "correct_answer": "To predict offspring phenotypes from genotypic ratios"
+   },
+   {
+      "q_no": 5,
+      "question": "What is the significance of meiosis?",
+      "options": {
+         "a": "It combines gametes to form a zygote",
+         "b": "It allows for genetic variation in offspring",
+         "c": "It eliminates genetic disorders",
+         "d": "It increases the size of cells"
+      },
+      "correct_answer": "Meiosis allows for genetic variation in offspring."
+   }
+]
+TIME for MCQ: 29.405 | ⚡⚡⚡ Token Speed: 8.366 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 337 | TOTAL Time: 37.14
+
+********************************************************************************
+Syllabus NUMBER 5
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for State Board Grade 10 Physics - Electricity - Circuits:
+- Introduction to electric circuits and components
+- Understanding the different types of electrical circuits
+- Components included in various circuit configurations
+- Series circuits properties and analysis
+- Parallel circuits properties and analysis
+- Connecting resistors in series and parallel to create more complex circuits
+- Calculating total resistance, current, voltage, power, and energy dissipation in series and parallel circuits
+- Understanding the effects of different types of loads on electrical currents, voltages, and energies within circuits
+TIME for SYLLABUS: 7.606 | ⚡⚡⚡ Token Speed: 11.701 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 16
+Attempt 1 out of 1...
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is an electric circuit?",
+        "options": {
+            "a": "A closed path through which an electrical current can flow",
+            "b": "An open space where no energy flows",
+            "c": "A container holding multiple electronic components",
+            "d": "A device for storing electricity"
+        },
+        "correct_answer": "A closed path through which an electrical current can flow"
+    },
+    {
+        "q_no": 2,
+        "question": "What is the primary component in a series circuit?",
+        "options": {
+            "a": "Resistor",
+            "b": "Battery",
+            "c": "Light bulb",
+            "d": "Switch"
+        },
+        "correct_answer": "Battery"
+    },
+    {
+        "q_no": 3,
+        "question": "In a series circuit, how do the resistors interact?",
+        "options": {
+            "a": "They add their resistance values together to form the total resistance",
+            "b": "They decrease the overall current flowing through the circuit",
+            "c": "They produce a combined effect of dissolving into one large resistor",
+            "d": "None of these"
+        },
+        "correct_answer": "They add their resistance values together to form the total resistance"
+    },
+    {
+        "q_no": 4,
+        "question": "What is the formula for calculating total current in a series circuit?",
+        "options": {
+            "a": "Total Current = (Series Resistance / Total Voltage) * Power",
+            "b": "Total Current = Series Resistance * Voltage + Power",
+            "c": "Total Current = Total Voltage / Series Resistance - Power",
+            "d": "Total Current = Series Resistance + Total Voltage"
+        },
+        "correct_answer": "Total Current = (Series Resistance / Total Voltage) * Power"
+    },
+    {
+        "q_no": 5,
+        "question": "How does a parallel circuit differ from a series circuit?",
+        "options": {
+            "a": "A parallel circuit has resistors in series",
+            "b": "In parallel circuits, the components are connected together rather than in series with other components",
+            "c": "Parallel circuits increase resistance significantly faster than series circuits",
+            "d": "In a parallel circuit, all components must be turned off at once"
+        },
+        "correct_answer": "A parallel circuit has resistors in series"
+    },
+    {
+        "q_no": 6,
+        "question": "Which component is essential for controlling the flow of electricity to and from parts of a circuit?",
+        "options": {
+            "a": "Battery",
+            "b": "Switch",
+            "c": "Light bulb",
+            "d": "Resistor"
+        },
+        "correct_answer": "Switch"
+    },
+    {
+        "q_no": 7,
+        "question": "A parallel circuit is characterized by _________.\n\nA) resistors placed together to form one large resistor \n\nB) components connected in parallel, reducing the total resistance of the circuit \n\nC) all components being turned off simultaneously \n\nD) voltage drops across each component \n\nE) electrical energy converted to heat and light evenly distributed",
+        "options": {
+            "a": "A",
+            "b": "B",
+            "c": "C",
+            "d": "D",
+            "e": "E"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "q_no": 8,
+        "question": "What happens to the current in a parallel circuit when one component fails?\n\nA) The current decreases significantly \n\nB) The current remains unchanged \n\nC) The current increases dramatically \n\nD) The resistance is completely removed",
+        "options": {
+            "a": "A",
+            "b": "B",
+            "c": "C",
+            "d": "D"
+        },
+        "correct_answer": "B"
+    }
+]
+Time Taken: 40.44 seconds | Tokens Produced: 455 | ⚡⚡⚡ Token Speed 11.252 tokens/sec
+⚠️ Warning: Expected 16 MCQs but got 8...
+
+⚠️ Warning: After 1 attempts returning longest valid response.
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   {
+      "q_no": 1,
+      "question": "What is an electric circuit?",
+      "options": {
+         "a": "A closed path through which an electrical current can flow",
+         "b": "An open space where no energy flows",
+         "c": "A container holding multiple electronic components",
+         "d": "A device for storing electricity"
+      },
+      "correct_answer": "A closed path through which an electrical current can flow"
+   },
+   {
+      "q_no": 2,
+      "question": "What is the primary component in a series circuit?",
+      "options": {
+         "a": "Resistor",
+         "b": "Battery",
+         "c": "Light bulb",
+         "d": "Switch"
+      },
+      "correct_answer": "Battery"
+   },
+   {
+      "q_no": 3,
+      "question": "In a series circuit, how do the resistors interact?",
+      "options": {
+         "a": "They add their resistance values together to form the total resistance",
+         "b": "They decrease the overall current flowing through the circuit",
+         "c": "They produce a combined effect of dissolving into one large resistor",
+         "d": "None of these"
+      },
+      "correct_answer": "They add their resistance values together to form the total resistance"
+   },
+   {
+      "q_no": 4,
+      "question": "What is the formula for calculating total current in a series circuit?",
+      "options": {
+         "a": "Total Current = (Series Resistance / Total Voltage) * Power",
+         "b": "Total Current = Series Resistance * Voltage + Power",
+         "c": "Total Current = Total Voltage / Series Resistance - Power",
+         "d": "Total Current = Series Resistance + Total Voltage"
+      },
+      "correct_answer": "Total Current = (Series Resistance / Total Voltage) * Power"
+   },
+   {
+      "q_no": 5,
+      "question": "How does a parallel circuit differ from a series circuit?",
+      "options": {
+         "a": "A parallel circuit has resistors in series",
+         "b": "In parallel circuits, the components are connected together rather than in series with other components",
+         "c": "Parallel circuits increase resistance significantly faster than series circuits",
+         "d": "In a parallel circuit, all components must be turned off at once"
+      },
+      "correct_answer": "A parallel circuit has resistors in series"
+   },
+   {
+      "q_no": 6,
+      "question": "Which component is essential for controlling the flow of electricity to and from parts of a circuit?",
+      "options": {
+         "a": "Battery",
+         "b": "Switch",
+         "c": "Light bulb",
+         "d": "Resistor"
+      },
+      "correct_answer": "Switch"
+   },
+   {
+      "q_no": 7,
+      "question": "A parallel circuit is characterized by _________.\n\nA) resistors placed together to form one large resistor \n\nB) components connected in parallel, reducing the total resistance of the circuit \n\nC) all components being turned off simultaneously \n\nD) voltage drops across each component \n\nE) electrical energy converted to heat and light evenly distributed",
+      "options": {
+         "a": "A",
+         "b": "B",
+         "c": "C",
+         "d": "D",
+         "e": "E"
+      },
+      "correct_answer": "B"
+   },
+   {
+      "q_no": 8,
+      "question": "What happens to the current in a parallel circuit when one component fails?\n\nA) The current decreases significantly \n\nB) The current remains unchanged \n\nC) The current increases dramatically \n\nD) The resistance is completely removed",
+      "options": {
+         "a": "A",
+         "b": "B",
+         "c": "C",
+         "d": "D"
+      },
+      "correct_answer": "B"
+   }
+]
+TIME for MCQ: 40.437 | ⚡⚡⚡ Token Speed: 11.252 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 544 | TOTAL Time: 48.05
+
+********************************************************************************
+Syllabus NUMBER 6
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for CBSE Grade 9 Chemistry - Chemical Reactions - Redox Reactions:
+- Definition and concept of redox reactions
+- Identifying substances involved in a redox reaction
+- Balancing chemical equations using the half-reaction method
+- Determining the oxidation number change (oxidation potential) in redox reactions
+- Predicting the products of redox reactions based on the changes in oxidation states
+- Solving word problems involving redox reactions
+TIME for SYLLABUS: 6.826 | ⚡⚡⚡ Token Speed: 9.816 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 1...
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What does a redox reaction involve?",
+        "options": {
+            "a": "The gain of electrons by one substance",
+            "b": "The release of electrons from another substance",
+            "c": "The transfer of protons between substances",
+            "d": "The change in oxidation states of atoms"
+        },
+        "correct_answer": "The change in oxidation states of atoms"
+    },
+    {
+        "q_no": 2,
+        "question": "What is the concept of 'oxidation potential'?",
+        "options": {
+            "a": "It is the rate at which a reaction occurs",
+            "b": "It measures how easily an atom can gain electrons in a chemical reaction",
+            "c": "It indicates the energy required to initiate a redox reaction",
+            "d": "It determines the pH of the solution"
+        },
+        "correct_answer": "It measures how easily an atom can gain electrons in a chemical reaction"
+    },
+    {
+        "q_no": 3,
+        "question": "How does balancing chemical equations using the half-reaction method help predict the products of a redox reaction?",
+        "options": {
+            "a": "By increasing the number of atoms in each equation",
+            "b": "By ensuring that all atoms are balanced in terms of mass and charge",
+            "c": "By adding or removing water molecules as needed",
+            "d": "By changing the chemical formula to make it simpler"
+        },
+        "correct_answer": "By ensuring that all atoms are balanced in terms of mass and charge"
+    },
+    {
+        "q_no": 4,
+        "question": "Which substance is not typically involved in a redox reaction?",
+        "options": {
+            "a": "Oxygen",
+            "b": "Sulfuric acid",
+            "c": "Iron(II) oxide (Fe2O3)",
+            "d": "Water"
+        },
+        "correct_answer": "Iron(II) oxide (Fe2O3)"
+    }
+]
+Time Taken: 26.38 seconds | Tokens Produced: 242 | ⚡⚡⚡ Token Speed 9.172 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 4...
+
+⚠️ Warning: After 1 attempts returning longest valid response.
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   {
+      "q_no": 1,
+      "question": "What does a redox reaction involve?",
+      "options": {
+         "a": "The gain of electrons by one substance",
+         "b": "The release of electrons from another substance",
+         "c": "The transfer of protons between substances",
+         "d": "The change in oxidation states of atoms"
+      },
+      "correct_answer": "The change in oxidation states of atoms"
+   },
+   {
+      "q_no": 2,
+      "question": "What is the concept of 'oxidation potential'?",
+      "options": {
+         "a": "It is the rate at which a reaction occurs",
+         "b": "It measures how easily an atom can gain electrons in a chemical reaction",
+         "c": "It indicates the energy required to initiate a redox reaction",
+         "d": "It determines the pH of the solution"
+      },
+      "correct_answer": "It measures how easily an atom can gain electrons in a chemical reaction"
+   },
+   {
+      "q_no": 3,
+      "question": "How does balancing chemical equations using the half-reaction method help predict the products of a redox reaction?",
+      "options": {
+         "a": "By increasing the number of atoms in each equation",
+         "b": "By ensuring that all atoms are balanced in terms of mass and charge",
+         "c": "By adding or removing water molecules as needed",
+         "d": "By changing the chemical formula to make it simpler"
+      },
+      "correct_answer": "By ensuring that all atoms are balanced in terms of mass and charge"
+   },
+   {
+      "q_no": 4,
+      "question": "Which substance is not typically involved in a redox reaction?",
+      "options": {
+         "a": "Oxygen",
+         "b": "Sulfuric acid",
+         "c": "Iron(II) oxide (Fe2O3)",
+         "d": "Water"
+      },
+      "correct_answer": "Iron(II) oxide (Fe2O3)"
+   }
+]
+TIME for MCQ: 26.384 | ⚡⚡⚡ Token Speed: 9.172 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 309 | TOTAL Time: 33.22
+
+********************************************************************************
+Syllabus NUMBER 7
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for International Baccalaureate (IB) Grade 10 Biology - Ecology - Population Dynamics:
+- Introduction to population dynamics in ecosystems
+- Understanding factors affecting population growth
+- Exponential and logistic models of population growth
+- Analyzing carrying capacity within an ecosystem
+- Interpreting data from graphical representations of population trends
+- Evaluating the impact of human activities on population changes
+
+This syllabus covers essential topics related to understanding how populations grow and interact with their environment.
+TIME for SYLLABUS: 7.163 | ⚡⚡⚡ Token Speed: 10.61 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 1...
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is one factor that can cause a significant increase in the population of a species?",
+        "options": {
+            "a": "A decrease in available food resources",
+            "b": "An increase in predator populations",
+            "c": "A reduction in water availability",
+            "d": "A rise in temperature"
+        },
+        "correct_answer": "A rise in temperature"
+    },
+    {
+        "q_no": 2,
+        "question": "How does the exponential growth model represent population changes over time?",
+        "options": {
+            "a": "Population size decreases as food becomes scarce",
+            "b": "Population doubles every fixed interval of time",
+            "c": "Populations grow at a constant rate until resources limit them",
+            "d": "The population remains the same in each generation"
+        },
+        "correct_answer": "Population doubles every fixed interval of time"
+    },
+    {
+        "q_no": 3,
+        "question": "Which graph would best represent an environment with high carrying capacity?",
+        "options": {
+            "a": "A straight line going up steeply",
+            "b": "A curve starting low and increasing rapidly but leveling off",
+            "c": "An S-shaped curve reaching a plateau",
+            "d": "A horizontal line representing no growth"
+        },
+        "correct_answer": "An S-shaped curve reaching a plateau"
+    },
+    {
+        "q_no": 4,
+        "question": "What does the term 'carrying capacity' refer to in ecology?",
+        "options": {
+            "a": "The maximum size of an ecosystem that can be sustained",
+            "b": "The total number of species in a habitat",
+            "c": "The average lifespan of an organism",
+            "d": "The time it takes for populations to double"
+        },
+        "correct_answer": "The maximum size of an ecosystem that can be sustained"
+    }
+]
+Time Taken: 26.09 seconds | Tokens Produced: 241 | ⚡⚡⚡ Token Speed 9.238 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 4...
+
+⚠️ Warning: After 1 attempts returning longest valid response.
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   {
+      "q_no": 1,
+      "question": "What is one factor that can cause a significant increase in the population of a species?",
+      "options": {
+         "a": "A decrease in available food resources",
+         "b": "An increase in predator populations",
+         "c": "A reduction in water availability",
+         "d": "A rise in temperature"
+      },
+      "correct_answer": "A rise in temperature"
+   },
+   {
+      "q_no": 2,
+      "question": "How does the exponential growth model represent population changes over time?",
+      "options": {
+         "a": "Population size decreases as food becomes scarce",
+         "b": "Population doubles every fixed interval of time",
+         "c": "Populations grow at a constant rate until resources limit them",
+         "d": "The population remains the same in each generation"
+      },
+      "correct_answer": "Population doubles every fixed interval of time"
+   },
+   {
+      "q_no": 3,
+      "question": "Which graph would best represent an environment with high carrying capacity?",
+      "options": {
+         "a": "A straight line going up steeply",
+         "b": "A curve starting low and increasing rapidly but leveling off",
+         "c": "An S-shaped curve reaching a plateau",
+         "d": "A horizontal line representing no growth"
+      },
+      "correct_answer": "An S-shaped curve reaching a plateau"
+   },
+   {
+      "q_no": 4,
+      "question": "What does the term 'carrying capacity' refer to in ecology?",
+      "options": {
+         "a": "The maximum size of an ecosystem that can be sustained",
+         "b": "The total number of species in a habitat",
+         "c": "The average lifespan of an organism",
+         "d": "The time it takes for populations to double"
+      },
+      "correct_answer": "The maximum size of an ecosystem that can be sustained"
+   }
+]
+TIME for MCQ: 26.088 | ⚡⚡⚡ Token Speed: 9.238 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 317 | TOTAL Time: 33.26
+
+********************************************************************************
+Syllabus NUMBER 8
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Cambridge Grade 8 Mathematics - Algebra - Linear Equations:
+- Introduction to linear equations and their solutions
+- Solving one-step linear equations
+- Solving two-step linear equations
+- Solving multi-step linear equations
+- Understanding variables in equations
+- Graphing linear equations on the coordinate plane
+- Solving real-world problems using linear equations
+TIME for SYLLABUS: 6.399 | ⚡⚡⚡ Token Speed: 8.439 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 14
+Attempt 1 out of 1...
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is an example of a variable in an equation?",
+        "options": {
+            "a": "3x + 2 = 7",
+            "b": "(4 - x) / 2 = 5",
+            "c": "y^2 + y = 0",
+            "d": "10 is the number of red balls in a bag"
+        },
+        "correct_answer": "d: 10 is the number of red balls in a bag"
+    },
+    {
+        "q_no": 2,
+        "question": "What is the solution to the equation x + 4 = 9?",
+        "options": {
+            "a": "x = -5",
+            "b": "x = 5",
+            "c": "x = 3.75",
+            "d": "x = 0"
+        },
+        "correct_answer": "b: x = 5"
+    },
+    {
+        "q_no": 3,
+        "question": "How do you solve a linear equation like 2y - 6 = 4?",
+        "options": {
+            "a": "Divide both sides by 2",
+            "b": "Add 6 to both sides and then divide by 2",
+            "c": "Subtract 6 from both sides and then multiply by 2",
+            "d": "Multiply both sides by -1"
+        },
+        "correct_answer": "b: Add 6 to both sides and then divide by 2"
+    },
+    {
+        "q_no": 4,
+        "question": "What is the y-intercept of the equation 3x + 5y = 10?",
+        "options": {
+            "a": "3",
+            "b": "5",
+            "c": "-3",
+            "d": "-5"
+        },
+        "correct_answer": "d: -5"
+    }
+]
+Time Taken: 25.51 seconds | Tokens Produced: 202 | ⚡⚡⚡ Token Speed 7.919 tokens/sec
+⚠️ Warning: Expected 14 MCQs but got 4...
+
+⚠️ Warning: After 1 attempts returning longest valid response.
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   {
+      "q_no": 1,
+      "question": "What is an example of a variable in an equation?",
+      "options": {
+         "a": "3x + 2 = 7",
+         "b": "(4 - x) / 2 = 5",
+         "c": "y^2 + y = 0",
+         "d": "10 is the number of red balls in a bag"
+      },
+      "correct_answer": "d: 10 is the number of red balls in a bag"
+   },
+   {
+      "q_no": 2,
+      "question": "What is the solution to the equation x + 4 = 9?",
+      "options": {
+         "a": "x = -5",
+         "b": "x = 5",
+         "c": "x = 3.75",
+         "d": "x = 0"
+      },
+      "correct_answer": "b: x = 5"
+   },
+   {
+      "q_no": 3,
+      "question": "How do you solve a linear equation like 2y - 6 = 4?",
+      "options": {
+         "a": "Divide both sides by 2",
+         "b": "Add 6 to both sides and then divide by 2",
+         "c": "Subtract 6 from both sides and then multiply by 2",
+         "d": "Multiply both sides by -1"
+      },
+      "correct_answer": "b: Add 6 to both sides and then divide by 2"
+   },
+   {
+      "q_no": 4,
+      "question": "What is the y-intercept of the equation 3x + 5y = 10?",
+      "options": {
+         "a": "3",
+         "b": "5",
+         "c": "-3",
+         "d": "-5"
+      },
+      "correct_answer": "d: -5"
+   }
+]
+TIME for MCQ: 25.508 | ⚡⚡⚡ Token Speed: 7.919 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 256 | TOTAL Time: 31.92
+
+********************************************************************************
+
+Total Time Taken: 291.87, Total Tokens Generated: 2898, Avg Total Token Gen Speed: 9.93 tokens/sec
+Total ERROR: 8

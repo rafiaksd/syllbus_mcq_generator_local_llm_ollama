@@ -1,0 +1,163 @@
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What does f(x) represent in function notation?", "options": {"a": "The output of the function for a given input x", "b": "The input value that makes the function zero", "c": "A constant value independent of x", "d": "The rate of change of the function"}, "correct_answer": "The output of the function for a given input x"},
+    {"q_no": "2", "question": "Which statement is true about the domain of a function f(x)?", "options": {"a": "It includes all possible values that can be plugged into x", "b": "It only consists of positive integers", "c": "It excludes negative numbers and zero", "d": "It always starts from 0"}, "correct_answer": "It includes all possible values that can be plugged into x"},
+    {"q_no": "3", "question": "When a function is represented by an equation, which of the following best describes its domain?", "options": {"a": "The range of possible outputs for y", "b": "All real numbers except where it's undefined", "c": "Only positive values of x", "d": "Integer values only"}, "correct_answer": "All real numbers except where it's undefined"},
+    {"q_no": "4", "question": "How is a mapping diagram for a function typically used?", "options": {"a": "To find the roots of the equation", "b": "To plot points on a coordinate plane", "c": "To show input and output values visually", "d": "To calculate derivatives"}, "correct_answer": "To show input and output values visually"},
+    {"q_no": "5", "question": "Given f(x) = 2x + 1, what is the result of evaluating f(3)?", "options": {"a": "7", "b": "8", "c": "9", "d": "10"}, "correct_answer": "7"},
+    {"q_no": "6", "question": "What does it mean to evaluate a composite function like (f ∘ g)(x)?", "options": {"a": "Taking f of x first, then multiplying by g(x)", "b": "Finding the sum of f(x) and g(x) directly", "c": "Applying g to x first, then taking f of that result", "d": "Multiplying the outputs of f(x) and g(x)"}, "correct_answer": "Applying g to x first, then taking f of that result"},
+    {"q_no": "7", "question": "How do you determine the domain of a composite function like (f ∘ g)(x)?", "options": {"a": "It is always the same as the range of f(x)", "b": "The intersection of the domains of g and f separately", "c": "Always limited to integers within the range of g(x)", "d": "Equal to the domain of f(x) + domain of g(x)"}, "correct_answer": "The intersection of the domains of g and f separately"},
+    {"q_no": "8", "question": "Which scenario would most likely require evaluating composite functions?", "options": {"a": "Finding the roots of a polynomial equation", "b": "Interpreting a real-world situation where values change step by step", "c": "Determining the maximum value of a quadratic function", "d": "Analyzing geometric shapes in Euclidean space"}, "correct_answer": "Interpreting a real-world situation where values change step by step"},
+    {"q_no": "9", "question": "When you see f(g(x)) and need to evaluate it, what is the first step?", "options": {"a": "Plug x into g(x) and then use that result as input for f(x)", "b": "Determine if f or g has a higher domain limit", "c": "Check which function has more solutions", "d": "Substitute 1 for all variables to simplify"}, "correct_answer": "Plug x into g(x) and then use that result as input for f(x)"},
+    {"q_no": "10", "question": "What is a key difference between finding the range of f(x) and evaluating f(g(x))?", "options": {"a": "The domain of f(x) always includes all real numbers", "b": "Range only looks at specific outputs, while composite function's output depends on both functions' domains and ranges", "c": "Range is about inputs, but composite function deals with how the outputs are combined", "d": "Range and composite functions use identical methods"}, "correct_answer": "Range only looks at specific outputs, while composite function's output depends on both functions' domains and ranges"},
+    {"q_no": "11", "question": "How can mapping diagrams be used to identify a one-to-one function?", "options": {"a": "By checking if every input maps to exactly one output", "b": "If the graph of the function forms a circle", "c": "When all outputs are positive numbers only", "d": "Only when there's no horizontal line that intersects more than once"}, "correct_answer": "By checking if every input maps to exactly one output"},
+    {"q_no": "12", "question": "Given f(x) = x^2 and g(x) = x + 3, what is (f ∘ g)(-2)?", "options": {"a": "-7", "b": "-4", "c": "-5", "d": "-8"}, "correct_answer": "-5"}
+]
+Time Taken: 127.06 seconds | Tokens Produced: 703 | ⚡⚡⚡ Token Speed 5.533 tokens/sec
+✅✅✅ Successfully generated 12 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 4 of 4
+[
+   {
+      "q_no": "1",
+      "question": "What does f(x) represent in function notation?",
+      "options": {
+         "a": "The output of the function for a given input x",
+         "b": "The input value that makes the function zero",
+         "c": "A constant value independent of x",
+         "d": "The rate of change of the function"
+      },
+      "correct_answer": "The output of the function for a given input x"
+   },
+   {
+      "q_no": "2",
+      "question": "Which statement is true about the domain of a function f(x)?",
+      "options": {
+         "a": "It includes all possible values that can be plugged into x",
+         "b": "It only consists of positive integers",
+         "c": "It excludes negative numbers and zero",
+         "d": "It always starts from 0"
+      },
+      "correct_answer": "It includes all possible values that can be plugged into x"
+   },
+   {
+      "q_no": "3",
+      "question": "When a function is represented by an equation, which of the following best describes its domain?",
+      "options": {
+         "a": "The range of possible outputs for y",
+         "b": "All real numbers except where it's undefined",
+         "c": "Only positive values of x",
+         "d": "Integer values only"
+      },
+      "correct_answer": "All real numbers except where it's undefined"
+   },
+   {
+      "q_no": "4",
+      "question": "How is a mapping diagram for a function typically used?",
+      "options": {
+         "a": "To find the roots of the equation",
+         "b": "To plot points on a coordinate plane",
+         "c": "To show input and output values visually",
+         "d": "To calculate derivatives"
+      },
+      "correct_answer": "To show input and output values visually"
+   },
+   {
+      "q_no": "5",
+      "question": "Given f(x) = 2x + 1, what is the result of evaluating f(3)?",
+      "options": {
+         "a": "7",
+         "b": "8",
+         "c": "9",
+         "d": "10"
+      },
+      "correct_answer": "7"
+   },
+   {
+      "q_no": "6",
+      "question": "What does it mean to evaluate a composite function like (f \u2218 g)(x)?",
+      "options": {
+         "a": "Taking f of x first, then multiplying by g(x)",
+         "b": "Finding the sum of f(x) and g(x) directly",
+         "c": "Applying g to x first, then taking f of that result",
+         "d": "Multiplying the outputs of f(x) and g(x)"
+      },
+      "correct_answer": "Applying g to x first, then taking f of that result"
+   },
+   {
+      "q_no": "7",
+      "question": "How do you determine the domain of a composite function like (f \u2218 g)(x)?",
+      "options": {
+         "a": "It is always the same as the range of f(x)",
+         "b": "The intersection of the domains of g and f separately",
+         "c": "Always limited to integers within the range of g(x)",
+         "d": "Equal to the domain of f(x) + domain of g(x)"
+      },
+      "correct_answer": "The intersection of the domains of g and f separately"
+   },
+   {
+      "q_no": "8",
+      "question": "Which scenario would most likely require evaluating composite functions?",
+      "options": {
+         "a": "Finding the roots of a polynomial equation",
+         "b": "Interpreting a real-world situation where values change step by step",
+         "c": "Determining the maximum value of a quadratic function",
+         "d": "Analyzing geometric shapes in Euclidean space"
+      },
+      "correct_answer": "Interpreting a real-world situation where values change step by step"
+   },
+   {
+      "q_no": "9",
+      "question": "When you see f(g(x)) and need to evaluate it, what is the first step?",
+      "options": {
+         "a": "Plug x into g(x) and then use that result as input for f(x)",
+         "b": "Determine if f or g has a higher domain limit",
+         "c": "Check which function has more solutions",
+         "d": "Substitute 1 for all variables to simplify"
+      },
+      "correct_answer": "Plug x into g(x) and then use that result as input for f(x)"
+   },
+   {
+      "q_no": "10",
+      "question": "What is a key difference between finding the range of f(x) and evaluating f(g(x))?",
+      "options": {
+         "a": "The domain of f(x) always includes all real numbers",
+         "b": "Range only looks at specific outputs, while composite function's output depends on both functions' domains and ranges",
+         "c": "Range is about inputs, but composite function deals with how the outputs are combined",
+         "d": "Range and composite functions use identical methods"
+      },
+      "correct_answer": "Range only looks at specific outputs, while composite function's output depends on both functions' domains and ranges"
+   },
+   {
+      "q_no": "11",
+      "question": "How can mapping diagrams be used to identify a one-to-one function?",
+      "options": {
+         "a": "By checking if every input maps to exactly one output",
+         "b": "If the graph of the function forms a circle",
+         "c": "When all outputs are positive numbers only",
+         "d": "Only when there's no horizontal line that intersects more than once"
+      },
+      "correct_answer": "By checking if every input maps to exactly one output"
+   },
+   {
+      "q_no": "12",
+      "question": "Given f(x) = x^2 and g(x) = x + 3, what is (f \u2218 g)(-2)?",
+      "options": {
+         "a": "-7",
+         "b": "-4",
+         "c": "-5",
+         "d": "-8"
+      },
+      "correct_answer": "-5"
+   }
+]
+TIME for MCQ: 127.063 | ⚡⚡⚡ Token Speed: 5.533 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 751 | TOTAL Time: 137.69
+
+********************************************************************************
+
+Model: qwen2.5:3b
+
+Total Time Taken: 606.13 | Total Tokens Generated: 2031 | Avg Total Token Gen Speed: 3.35 tokens/sec
+Total Syllabi: 4 | Total Success MCQ : 4 | MCQ Attempt per Syllabus: 4
+Total ERROR: 1

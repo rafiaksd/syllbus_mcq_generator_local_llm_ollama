@@ -1,0 +1,3805 @@
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the significance of derivatives in calculus?",
+        "options": {
+            "a": "They are used to find the maximum and minimum values of a function",
+            "b": "They help us understand how functions change with respect to their input",
+            "c": "They are used to solve optimization problems",
+            "d": "They are only used in physics and engineering"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "q_no": 2,
+        "question": "Which rule of differentiation is used when the power of a function is known?",
+        "options": {
+            "a": "Product Rule",
+            "b": "Power Rule",
+            "c": "Quotient Rule",
+            "d": "Chain Rule"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "q_no": 3,
+        "question": "What is the purpose of the chain rule in differentiation?",
+        "options": {
+            "a": "To find the derivative of a composite function",
+            "b": "To solve optimization problems",
+            "c": "To apply calculus to real-world problems",
+            "d": "To simplify complex functions"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 4,
+        "question": "Which of the following statements is TRUE about implicit differentiation?",
+        "options": {
+            "a": "It is used to find the derivative of an explicit function",
+            "b": "It involves substituting the original function into its derivative",
+            "c": "It can only be applied when a function is defined",
+            "d": "It is used for solving systems of equations"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 5,
+        "question": "What is the derivative of a polynomial function?",
+        "options": {
+            "a": "A constant value",
+            "b": "The sum of its terms multiplied by their exponents",
+            "c": "The product of its coefficients and x's",
+            "d": "A fraction with variables in the numerator and denominator"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "q_no": 6,
+        "question": "What is higher-order differentiation?",
+        "options": {
+            "a": "The process of finding the first derivative",
+            "b": "The process of finding the second, third, or more derivatives",
+            "c": "A method for solving optimization problems",
+            "d": "A technique for simplifying functions"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "q_no": 7,
+        "question": "What is a key application of the derivative in calculus?",
+        "options": {
+            "a": "Finding maximum and minimum values",
+            "b": "Solving optimization problems",
+            "c": "Understanding function behavior",
+            "d": "Determining limits"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "q_no": 8,
+        "question": "What is the purpose of using implicit differentiation?",
+        "options": {
+            "a": "To solve explicit equations with variables on both sides",
+            "b": "To differentiate composite functions",
+            "c": "To find limits and derivatives at a point",
+            "d": "To apply calculus to real-world problems"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 9,
+        "question": "What is the main difference between power rule and product rule in differentiation?",
+        "options": {
+            "a": "The power rule is used for functions with one variable",
+            "b": "The product rule is used for functions with more than one variable",
+            "c": "The power rule is applied to constant values",
+            "d": "The product rule is used when finding derivatives of polynomials"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 10,
+        "question": "What is the significance of the derivative in optimization problems?",
+        "options": {
+            "a": "To determine maximum and minimum values",
+            "b": "To find critical points and intervals where functions are increasing or decreasing",
+            "c": "To solve systems of equations",
+            "d": "To apply calculus to real-world problems"
+        },
+        "correct_answer": "b"
+    }]
+Time Taken: 92.40 seconds | Tokens Produced: 509 | ⚡⚡⚡ Token Speed 5.509 tokens/sec
+✅✅✅ Successfully generated 10 MCQs. Attempts Needed 2
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   {
+      "q_no": 1,
+      "question": "What is the significance of derivatives in calculus?",
+      "options": {
+         "a": "They are used to find the maximum and minimum values of a function",
+         "b": "They help us understand how functions change with respect to their input",
+         "c": "They are used to solve optimization problems",
+         "d": "They are only used in physics and engineering"
+      },
+      "correct_answer": "b"
+   },
+   {
+      "q_no": 2,
+      "question": "Which rule of differentiation is used when the power of a function is known?",
+      "options": {
+         "a": "Product Rule",
+         "b": "Power Rule",
+         "c": "Quotient Rule",
+         "d": "Chain Rule"
+      },
+      "correct_answer": "b"
+   },
+   {
+      "q_no": 3,
+      "question": "What is the purpose of the chain rule in differentiation?",
+      "options": {
+         "a": "To find the derivative of a composite function",
+         "b": "To solve optimization problems",
+         "c": "To apply calculus to real-world problems",
+         "d": "To simplify complex functions"
+      },
+      "correct_answer": "a"
+   },
+   {
+      "q_no": 4,
+      "question": "Which of the following statements is TRUE about implicit differentiation?",
+      "options": {
+         "a": "It is used to find the derivative of an explicit function",
+         "b": "It involves substituting the original function into its derivative",
+         "c": "It can only be applied when a function is defined",
+         "d": "It is used for solving systems of equations"
+      },
+      "correct_answer": "a"
+   },
+   {
+      "q_no": 5,
+      "question": "What is the derivative of a polynomial function?",
+      "options": {
+         "a": "A constant value",
+         "b": "The sum of its terms multiplied by their exponents",
+         "c": "The product of its coefficients and x's",
+         "d": "A fraction with variables in the numerator and denominator"
+      },
+      "correct_answer": "b"
+   },
+   {
+      "q_no": 6,
+      "question": "What is higher-order differentiation?",
+      "options": {
+         "a": "The process of finding the first derivative",
+         "b": "The process of finding the second, third, or more derivatives",
+         "c": "A method for solving optimization problems",
+         "d": "A technique for simplifying functions"
+      },
+      "correct_answer": "b"
+   },
+   {
+      "q_no": 7,
+      "question": "What is a key application of the derivative in calculus?",
+      "options": {
+         "a": "Finding maximum and minimum values",
+         "b": "Solving optimization problems",
+         "c": "Understanding function behavior",
+         "d": "Determining limits"
+      },
+      "correct_answer": "c"
+   },
+   {
+      "q_no": 8,
+      "question": "What is the purpose of using implicit differentiation?",
+      "options": {
+         "a": "To solve explicit equations with variables on both sides",
+         "b": "To differentiate composite functions",
+         "c": "To find limits and derivatives at a point",
+         "d": "To apply calculus to real-world problems"
+      },
+      "correct_answer": "a"
+   },
+   {
+      "q_no": 9,
+      "question": "What is the main difference between power rule and product rule in differentiation?",
+      "options": {
+         "a": "The power rule is used for functions with one variable",
+         "b": "The product rule is used for functions with more than one variable",
+         "c": "The power rule is applied to constant values",
+         "d": "The product rule is used when finding derivatives of polynomials"
+      },
+      "correct_answer": "a"
+   },
+   {
+      "q_no": 10,
+      "question": "What is the significance of the derivative in optimization problems?",
+      "options": {
+         "a": "To determine maximum and minimum values",
+         "b": "To find critical points and intervals where functions are increasing or decreasing",
+         "c": "To solve systems of equations",
+         "d": "To apply calculus to real-world problems"
+      },
+      "correct_answer": "b"
+   }
+]
+TIME for MCQ: 92.397 | ⚡⚡⚡ Token Speed: 5.509 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 551 | TOTAL Time: 222.96
+
+********************************************************************************
+Syllabus NUMBER 2
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Cambridge Grade 10 Physics - Waves - Electromagnetic Spectrum:
+- Properties of waves (frequency, wavelength, speed)
+- Types of electromagnetic radiation (radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, gamma rays)
+- Characteristics and behaviors of different types of electromagnetic radiation
+- Electromagnetic spectrum diagram and its significance
+- Interference and superposition in the context of electromagnetic waves
+TIME for SYLLABUS: 12.026 | ⚡⚡⚡ Token Speed: 4.989 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 10
+Attempt 1 out of 5... llama3.2:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the speed of a wave, which is the distance traveled by the wave per unit time?",
+        "options": {
+            "a": "Distance / Time",
+            "b": "Time / Distance",
+            "c": "Velocity",
+            "d": "Frequency"
+        },
+        "correct_answer": "c: Velocity"
+    },
+    {
+        "q_no": 2,
+        "question": "What is the wavelength of a wave, which is the distance between two consecutive points on the wave?",
+        "options": {
+            "a": "Distance / Time",
+            "b": "Time / Distance",
+            "c": "Frequency",
+            "d": "Amplitude"
+        },
+        "correct_answer": "d: Amplitude"
+    },
+    {
+        "q_no": 3,
+        "question": "Which type of electromagnetic radiation has the longest wavelength and the lowest frequency?",
+        "options": {
+            "a": "Radio waves",
+            "b": "Microwaves",
+            "c": "Infrared radiation",
+            "d": "Gamma rays"
+        },
+        "correct_answer": "a: Radio waves"
+    },
+    {
+        "q_no": 4,
+        "question": "What is the visible part of the electromagnetic spectrum?",
+        "options": {
+            "a": "Ultraviolet and infrared radiation",
+            "b": "Radio waves and microwaves",
+            "c": "Visible light",
+            "d": "X-rays and gamma rays"
+        },
+        "correct_answer": "c: Visible light"
+    }
+]
+Time Taken: 50.20 seconds | Tokens Produced: 159 | ⚡⚡⚡ Token Speed 3.167 tokens/sec
+⚠️ Warning: Expected 10 MCQs but got 4...
+
+Attempt 2 out of 5... llama3.2:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the relationship between frequency and wavelength of a wave?",
+        "options": {
+            "a": "Frequency is directly proportional to wavelength",
+            "b": "Wavelength is directly proportional to frequency",
+            "c": "Frequency and wavelength are inversely proportional",
+            "d": "Frequency and wavelength are independent"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "q_no": 2,
+        "question": "Which type of electromagnetic radiation has the longest wavelength?",
+        "options": {
+            "a": "Gamma rays",
+            "b": "Ultraviolet",
+            "c": "Infrared",
+            "d": "Radio waves"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "q_no": 3,
+        "question": "What is the characteristic that distinguishes electromagnetic radiation from matter?",
+        "options": {
+            "a": "Ability to bend around obstacles",
+            "b": "Ability to pass through solid objects",
+            "c": "Reflection and refraction properties",
+            "d": "Transmission through a medium"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "q_no": 4,
+        "question": "Which of the following is NOT a type of electromagnetic radiation?",
+        "options": {
+            "a": "Microwaves",
+            "b": "Infrared",
+            "c": "Ultraviolet",
+            "d": "Sound waves"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "q_no": 5,
+        "question": "What is the significance of the electromagnetic spectrum diagram?",
+        "options": {
+            "a": "To show the different types of electromagnetic radiation",
+            "b": "To illustrate the relationship between frequency and wavelength",
+            "c": "To demonstrate the behavior of electromagnetic waves",
+            "d": "All of the above"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "q_no": 6,
+        "question": "What is the term for the combination of two or more waves to form a new wave?",
+        "options": {
+            "a": "Interference",
+            "b": "Superposition",
+            "c": "Diffraction",
+            "d": "Reflection"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 7,
+        "question": "Which of the following is an example of interference in electromagnetic waves?",
+        "options": {
+            "a": "A sound wave passing through a valley",
+            "b": "A light wave bouncing off a mirror",
+            "c": "Two radio waves overlapping",
+            "d": "A water wave forming on a shore"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "q_no": 8,
+        "question": "What is the effect of superposition in electromagnetic waves?",
+        "options": {
+            "a": "Cancellation of the wave",
+            "b": "Amplification of the wave",
+            "c": "No effect on the wave",
+            "d": "Reflection of the wave"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "q_no": 9,
+        "question": "Which type of electromagnetic radiation has the shortest wavelength?",
+        "options": {
+            "a": "Gamma rays",
+            "b": "Ultraviolet",
+            "c": "Infrared",
+            "d": "Radio waves"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 10,
+        "question": "What is the phenomenon where a wave's frequency changes when it passes through a medium?",
+        "options": {
+            "a": "Diffraction",
+            "b": "Reflection",
+            "c": "Refraction",
+            "d": "Interference"
+        },
+        "correct_answer": "c"
+    }
+]
+Time Taken: 67.32 seconds | Tokens Produced: 390 | ⚡⚡⚡ Token Speed 5.793 tokens/sec
+✅✅✅ Successfully generated 10 MCQs. Attempts Needed 2
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   {
+      "q_no": 1,
+      "question": "What is the relationship between frequency and wavelength of a wave?",
+      "options": {
+         "a": "Frequency is directly proportional to wavelength",
+         "b": "Wavelength is directly proportional to frequency",
+         "c": "Frequency and wavelength are inversely proportional",
+         "d": "Frequency and wavelength are independent"
+      },
+      "correct_answer": "c"
+   },
+   {
+      "q_no": 2,
+      "question": "Which type of electromagnetic radiation has the longest wavelength?",
+      "options": {
+         "a": "Gamma rays",
+         "b": "Ultraviolet",
+         "c": "Infrared",
+         "d": "Radio waves"
+      },
+      "correct_answer": "d"
+   },
+   {
+      "q_no": 3,
+      "question": "What is the characteristic that distinguishes electromagnetic radiation from matter?",
+      "options": {
+         "a": "Ability to bend around obstacles",
+         "b": "Ability to pass through solid objects",
+         "c": "Reflection and refraction properties",
+         "d": "Transmission through a medium"
+      },
+      "correct_answer": "b"
+   },
+   {
+      "q_no": 4,
+      "question": "Which of the following is NOT a type of electromagnetic radiation?",
+      "options": {
+         "a": "Microwaves",
+         "b": "Infrared",
+         "c": "Ultraviolet",
+         "d": "Sound waves"
+      },
+      "correct_answer": "d"
+   },
+   {
+      "q_no": 5,
+      "question": "What is the significance of the electromagnetic spectrum diagram?",
+      "options": {
+         "a": "To show the different types of electromagnetic radiation",
+         "b": "To illustrate the relationship between frequency and wavelength",
+         "c": "To demonstrate the behavior of electromagnetic waves",
+         "d": "All of the above"
+      },
+      "correct_answer": "d"
+   },
+   {
+      "q_no": 6,
+      "question": "What is the term for the combination of two or more waves to form a new wave?",
+      "options": {
+         "a": "Interference",
+         "b": "Superposition",
+         "c": "Diffraction",
+         "d": "Reflection"
+      },
+      "correct_answer": "a"
+   },
+   {
+      "q_no": 7,
+      "question": "Which of the following is an example of interference in electromagnetic waves?",
+      "options": {
+         "a": "A sound wave passing through a valley",
+         "b": "A light wave bouncing off a mirror",
+         "c": "Two radio waves overlapping",
+         "d": "A water wave forming on a shore"
+      },
+      "correct_answer": "c"
+   },
+   {
+      "q_no": 8,
+      "question": "What is the effect of superposition in electromagnetic waves?",
+      "options": {
+         "a": "Cancellation of the wave",
+         "b": "Amplification of the wave",
+         "c": "No effect on the wave",
+         "d": "Reflection of the wave"
+      },
+      "correct_answer": "b"
+   },
+   {
+      "q_no": 9,
+      "question": "Which type of electromagnetic radiation has the shortest wavelength?",
+      "options": {
+         "a": "Gamma rays",
+         "b": "Ultraviolet",
+         "c": "Infrared",
+         "d": "Radio waves"
+      },
+      "correct_answer": "a"
+   },
+   {
+      "q_no": 10,
+      "question": "What is the phenomenon where a wave's frequency changes when it passes through a medium?",
+      "options": {
+         "a": "Diffraction",
+         "b": "Reflection",
+         "c": "Refraction",
+         "d": "Interference"
+      },
+      "correct_answer": "c"
+   }
+]
+TIME for MCQ: 67.317 | ⚡⚡⚡ Token Speed: 5.794 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 450 | TOTAL Time: 129.55
+
+********************************************************************************
+Syllabus NUMBER 3
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for CBSE Grade 12 Chemistry - Organic Chemistry:
+- Structure of alkanes, alkyl halides, and alcohols
+- Nomenclature of alcohols, phenols, and ethers
+- Preparation and properties of alcohols, phenols, and ethers
+- Reactions of alcohols, phenols, and ethers
+- Stereochemistry of alcohols and ethers
+TIME for SYLLABUS: 11.775 | ⚡⚡⚡ Token Speed: 3.907 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 10
+Attempt 1 out of 5... llama3.2:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What type of hydrocarbon is an alkane?",
+        "options": {
+            "a": "Saturated hydrocarbon",
+            "b": " Unsaturated hydrocarbon",
+            "c": "Aromatic hydrocarbon",
+            "d": "Alkenoic acid"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 2,
+        "question": "Which of the following is a general method for naming alcohols?",
+        "options": {
+            "a": "-canol",
+            "b": "-ol",
+            "c": "-ine",
+            "d": "-ene"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "q_no": 3,
+        "question": "What is the general structure of alkenes?",
+        "options": {
+            "a": "RCH=CH2",
+            "b": "RC(=O)CH3",
+            "c": "RCH2CH2OH",
+            "d": "ROH"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 4,
+        "question": "What is the type of bond present between carbon and halogen in alkyl halides?",
+        "options": {
+            "a": "-Single bonds",
+            "b": "-Double bonds",
+            "c": "-Polar covalent bonds",
+            "d": "-Coordinate covalent bonds"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "q_no": 5,
+        "question": "What is the reaction between ethanol and hydrogen gas called?",
+        "options": {
+            "a": "Dehydration reaction",
+            "b": "Hydrogenation reaction",
+            "c": "Oxidation reaction",
+            "d": "Reduction reaction"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "q_no": 6,
+        "question": "Which of the following is an example of a phenol?",
+        "options": {
+            "a": "C6H5OH",
+            "b": "CH3COOH",
+            "c": "C2H5OH",
+            "d": "CH3CHO"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 7,
+        "question": "What is the general structure of ethers?",
+        "options": {
+            "a": "R-O-R',
+            "b": "R-OH",
+            "c": "RO-CH3",
+            "d": "CH3-CO-OH"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 8,
+        "question": "Which of the following is an example of a reaction where phenol reacts with sodium hydroxide?",
+        "options": {
+            "a": "Displacement reaction",
+            "b": "Neutralization reaction",
+            "c": "Oxidation reaction",
+            "d": "Reduction reaction"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "q_no": 9,
+        "question": "What is the process of replacing a hydrogen atom in an alkyl halide with a hydroxyl group called?",
+        "options": {
+            "a": "Replacement reaction",
+            "b": "Hydrolysis reaction",
+            "c": "Hydration reaction",
+            "d": "Substitution reaction"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "q_no": 10,
+        "question": "Which of the following is an example of a stereoisomer?",
+        "options": {
+            "a": "(R)-2-butanol",
+            "b": "(S)-2-butanol",
+            "c": "Both (R)- and (S)-2-butanol",
+            "d": None
+        },
+        "correct_answer": "c"
+    }
+]
+Time Taken: 88.20 seconds | Tokens Produced: 318 | ⚡⚡⚡ Token Speed 3.605 tokens/sec
+⚠️ Error: Invalid JSON format...
+
+Attempt 2 out of 5... llama3.2:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the primary function of an alkyl halide in organic chemistry?",
+        "options": {
+            "a": "To form an ester with another molecule",
+            "b": "To act as a catalyst in chemical reactions",
+            "c": "To replace a hydrogen atom with a halogen atom",
+            "d": "To increase the polarity of a molecule"
+        },
+        "correct_answer": "To replace a hydrogen atom with a halogen atom"
+    },
+    {
+        "q_no": 2,
+        "question": "What is the correct method to name an alcohol in organic chemistry?",
+        "options": {
+            "a": "-alkanol",
+            "b": "-alcohol",
+            "c": "-ol",
+            "d": "-ene"
+        },
+        "correct_answer": "-alcohol"
+    },
+    {
+        "q_no": 3,
+        "question": "What is the primary property that distinguishes an alcohol from other organic compounds?",
+        "options": {
+            "a": "The presence of a double bond",
+            "b": "The ability to donate a hydrogen atom",
+            "c": "The presence of a hydroxyl (-OH) group",
+            "d": "The presence of a carbonyl (C=O) group"
+        },
+        "correct_answer": "The presence of a hydroxyl (-OH) group"
+    },
+    {
+        "q_no": 4,
+        "question": "What is the purpose of nomenclature in organic chemistry?",
+        "options": {
+            "a": "To predict the physical properties of a molecule",
+            "b": "To identify the functional groups present in a molecule",
+            "c": "To provide a unique name for each compound",
+            "d": "To determine the molecular weight of a compound"
+        },
+        "correct_answer": "To provide a unique name for each compound"
+    },
+    {
+        "q_no": 5,
+        "question": "What is the primary method of preparation for an alcohol?",
+        "options": {
+            "a": "Reaction with water",
+            "b": "Reaction with hydrogen gas",
+            "c": "Hydrogenation of an alkene",
+            "d": "Condensation reaction"
+        },
+        "correct_answer": "Reaction with water"
+    },
+    {
+        "q_no": 6,
+        "question": "What is the primary property that distinguishes a phenol from other organic compounds?",
+        "options": {
+            "a": "The presence of a double bond",
+            "b": "The ability to donate a hydrogen atom",
+            "c": "The presence of a hydroxyl (-OH) group adjacent to a benzene ring",
+            "d": "The presence of a carbonyl (C=O) group"
+        },
+        "correct_answer": "The presence of a hydroxyl (-OH) group adjacent to a benzene ring"
+    },
+    {
+        "q_no": 7,
+        "question": "What is the primary method of preparation for an ether?",
+        "options": {
+            "a": "Reaction with water",
+            "b": "Reaction with hydrogen gas",
+            "c": "Condensation reaction between two alkyl halides",
+            "d": "Hydrogenation of an alkene"
+        },
+        "correct_answer": "Condensation reaction between two alkyl halides"
+    },
+    {
+        "q_no": 8,
+        "question": "What is the primary property that distinguishes an ether from other organic compounds?",
+        "options": {
+            "a": "The presence of a double bond",
+            "b": "The ability to donate a hydrogen atom",
+            "c": "The presence of two alkyl groups attached to oxygen",
+            "d": "The presence of a carbonyl (C=O) group"
+        },
+        "correct_answer": "The presence of two alkyl groups attached to oxygen"
+    },
+    {
+        "q_no": 9,
+        "question": "What is the primary method of separating phenols from other organic compounds?",
+        "options": {
+            "a": "Crystallization",
+            "b": "Distillation",
+            "c": "Chromatography",
+            "d": "Electrophoresis"
+        },
+        "correct_answer": "Crystallization"
+    },
+    {
+        "q_no": 10,
+        "question": "What is the primary method of identifying alcohols in organic chemistry?",
+        "options": {
+            "a": "Infrared spectroscopy",
+            "b": "Nuclear magnetic resonance (NMR) spectroscopy",
+            "c": "Mass spectrometry",
+            "d": "Titration"
+        },
+        "correct_answer": "Infrared spectroscopy"
+    }
+Time Taken: 77.44 seconds | Tokens Produced: 504 | ⚡⚡⚡ Token Speed 6.508 tokens/sec
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+
+Attempt 3 out of 5... llama3.2:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the functional group present in alkanes?",
+        "options": {
+            "a": "Hydroxyl (-OH)",
+            "b": "Alkyl halide (-X)",
+            "c": "Methyl (-CH3)",
+            "d": "Ethyl (-C2H5)"
+        },
+        "correct_answer": "None"
+    },
+    {
+        "q_no": 2,
+        "question": "What is the IUPAC name of alkanes?",
+        "options": {
+            "a": "Saturated hydrocarbons",
+            "b": "Alkyl halides",
+            "c": "Methyl groups",
+            "d": "Parent chain + alkyl substituent"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "q_no": 3,
+        "question": "What is the general formula for alkanes?",
+        "options": {
+            "a": "-C-C-",
+            "b": "-C-H",
+            "c": "-C2H5-",
+            "d": "-CH3"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "q_no": 4,
+        "question": "What is the nomenclature rule for alcohols?",
+        "options": {
+            "a": "-OH group present at end of parent chain",
+            "b": "-OH group present in middle of parent chain",
+            "c": "-OH group absent from parent chain",
+            "d": "-OH group present on both ends"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 5,
+        "question": "What is the name given to phenolic compounds?",
+        "options": {
+            "a": "Alkyl halides",
+            "b": "Ethers",
+            "c": "Phenols",
+            "d": "Alcohols"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "q_no": 6,
+        "question": "What is the general formula for ethers?",
+        "options": {
+            "a": "-C-C-",
+            "b": "-O-O-",
+            "c": "-CH3-",
+            "d": "-C2H5"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "q_no": 7,
+        "question": "What is the name given to the reaction of alcohols with alkyl halides?",
+        "options": {
+            "a": "Esterification",
+            "b": "Alcoholysis",
+            "c": "Substitution reaction",
+            "d": "Elimination reaction"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "q_no": 8,
+        "question": "What is the name given to the reaction of phenols with alkyl halides?",
+        "options": {
+            "a": "Esterification",
+            "b": "Alcoholysis",
+            "c": "Substitution reaction",
+            "d": "Nitration"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "q_no": 9,
+        "question": "What is the term for the spatial arrangement of atoms in a molecule?",
+        "options": {
+            "a": "-Chirality",
+            "b": "-Stereochemistry",
+            "c": "-Enantiomers",
+            "d": "-Diastereomers"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "q_no": 10,
+        "question": "What is the term for a molecule with two or more stereocenters?",
+        "options": {
+            "a": "-Chirality",
+            "b": "-Stereochemistry",
+            "c": "-Enantiomers",
+            "d": "-Diastereomers"
+        },
+        "correct_answer": "b"
+    }
+]
+Time Taken: 58.28 seconds | Tokens Produced: 317 | ⚡⚡⚡ Token Speed 5.439 tokens/sec
+✅✅✅ Successfully generated 10 MCQs. Attempts Needed 3
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   {
+      "q_no": 1,
+      "question": "What is the functional group present in alkanes?",
+      "options": {
+         "a": "Hydroxyl (-OH)",
+         "b": "Alkyl halide (-X)",
+         "c": "Methyl (-CH3)",
+         "d": "Ethyl (-C2H5)"
+      },
+      "correct_answer": "None"
+   },
+   {
+      "q_no": 2,
+      "question": "What is the IUPAC name of alkanes?",
+      "options": {
+         "a": "Saturated hydrocarbons",
+         "b": "Alkyl halides",
+         "c": "Methyl groups",
+         "d": "Parent chain + alkyl substituent"
+      },
+      "correct_answer": "d"
+   },
+   {
+      "q_no": 3,
+      "question": "What is the general formula for alkanes?",
+      "options": {
+         "a": "-C-C-",
+         "b": "-C-H",
+         "c": "-C2H5-",
+         "d": "-CH3"
+      },
+      "correct_answer": "b"
+   },
+   {
+      "q_no": 4,
+      "question": "What is the nomenclature rule for alcohols?",
+      "options": {
+         "a": "-OH group present at end of parent chain",
+         "b": "-OH group present in middle of parent chain",
+         "c": "-OH group absent from parent chain",
+         "d": "-OH group present on both ends"
+      },
+      "correct_answer": "a"
+   },
+   {
+      "q_no": 5,
+      "question": "What is the name given to phenolic compounds?",
+      "options": {
+         "a": "Alkyl halides",
+         "b": "Ethers",
+         "c": "Phenols",
+         "d": "Alcohols"
+      },
+      "correct_answer": "c"
+   },
+   {
+      "q_no": 6,
+      "question": "What is the general formula for ethers?",
+      "options": {
+         "a": "-C-C-",
+         "b": "-O-O-",
+         "c": "-CH3-",
+         "d": "-C2H5"
+      },
+      "correct_answer": "b"
+   },
+   {
+      "q_no": 7,
+      "question": "What is the name given to the reaction of alcohols with alkyl halides?",
+      "options": {
+         "a": "Esterification",
+         "b": "Alcoholysis",
+         "c": "Substitution reaction",
+         "d": "Elimination reaction"
+      },
+      "correct_answer": "c"
+   },
+   {
+      "q_no": 8,
+      "question": "What is the name given to the reaction of phenols with alkyl halides?",
+      "options": {
+         "a": "Esterification",
+         "b": "Alcoholysis",
+         "c": "Substitution reaction",
+         "d": "Nitration"
+      },
+      "correct_answer": "c"
+   },
+   {
+      "q_no": 9,
+      "question": "What is the term for the spatial arrangement of atoms in a molecule?",
+      "options": {
+         "a": "-Chirality",
+         "b": "-Stereochemistry",
+         "c": "-Enantiomers",
+         "d": "-Diastereomers"
+      },
+      "correct_answer": "b"
+   },
+   {
+      "q_no": 10,
+      "question": "What is the term for a molecule with two or more stereocenters?",
+      "options": {
+         "a": "-Chirality",
+         "b": "-Stereochemistry",
+         "c": "-Enantiomers",
+         "d": "-Diastereomers"
+      },
+      "correct_answer": "b"
+   }
+]
+TIME for MCQ: 58.283 | ⚡⚡⚡ Token Speed: 5.439 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 363 | TOTAL Time: 235.72
+
+********************************************************************************
+Syllabus NUMBER 4
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for IB Grade 11 Biology - Genetics - Mendelian Genetics:
+- Understanding the concept of genes and heredity
+- Punnett squares to predict genotypes and phenotypes
+- Monohybrid and dihybrid crosses
+- Dominance and recessiveness in trait inheritance
+- Law of Segregation and Independent Assortment
+- Applying genetic principles to solve problems
+TIME for SYLLABUS: 10.208 | ⚡⚡⚡ Token Speed: 5.192 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 5... llama3.2:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the primary function of genes in heredity?",
+        "options": {
+            "a": "To control cell growth and division",
+            "b": "To pass traits from parents to offspring",
+            "c": "To regulate metabolic pathways",
+            "d": "To produce proteins"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "q_no": 2,
+        "question": "What is the purpose of Punnett squares in Mendelian genetics?",
+        "options": {
+            "a": "To predict the probability of genetic disorders",
+            "b": "To determine the genotypes and phenotypes of offspring",
+            "c": "To calculate the dosage of genes",
+            "d": "To identify gene mutations"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "q_no": 3,
+        "question": "In a monohybrid cross, what is the outcome for the dominant allele?",
+        "options": {
+            "a": "It will always be expressed",
+            "b": "It will always be recessive",
+            "c": "Its expression depends on the genotype of the offspring",
+            "d": "It will disappear after one generation"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "q_no": 4,
+        "question": "What is the term for the interaction between two genes that control a particular trait?",
+        "options": {
+            "a": "Dominance",
+            "b": "Recessiveness",
+            "c": "Epistasis",
+            "d": "Polygenic inheritance"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "q_no": 5,
+        "question": "What is the Law of Segregation?",
+        "options": {
+            "a": "One gene controls multiple traits",
+            "b": "Each pair of alleles separates during gamete formation",
+            "c": "Gene expression affects trait inheritance",
+            "d": "Trait inheritance is determined by environmental factors"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "q_no": 6,
+        "question": "What is the term for the random distribution of alleles from one generation to the next?",
+        "options": {
+            "a": "Law of Independent Assortment",
+            "b": "Segregation of alleles",
+            "c": "Genetic drift",
+            "d": "Mutation"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "q_no": 7,
+        "question": "What is the primary tool used to apply genetic principles in problems?",
+        "options": {
+            "a": "DNA sequencing",
+            "b": "Genetic mapping",
+            "c": "Predicting genotypes and phenotypes using Punnett squares",
+            "d": "Analyzing DNA evidence"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "q_no": 8,
+        "question": "What is the term for the interaction between environmental factors and genetic information?",
+        "options": {
+            "a": "Epigenetics",
+            "b": "Polygenic inheritance",
+            "c": "Genetic drift",
+            "d": "Mutation"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "q_no": 9,
+        "question": "What is the outcome of a dihybrid cross?",
+        "options": {
+            "a": "The dominant allele always wins",
+            "b": "The recessive allele always loses",
+            "c": "Multiple alleles can be expressed simultaneously",
+            "d": "The genotypes and phenotypes are random"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "q_no": 10,
+        "question": "What is the primary function of codons during protein synthesis?",
+        "options": {
+            "a": "To regulate metabolic pathways",
+            "b": "To produce amino acids",
+            "c": "To specify the sequence of amino acids",
+            "d": "To control gene expression"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "q_no": 11,
+        "question": "What is the term for the process by which a dominant allele overpowers a recessive allele?",
+        "options": {
+            "a": "Homozygous dominance",
+            "b": "Heterozygous expression",
+            "c": "Genetic drift",
+            "d": "Dominance"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "q_no": 12,
+        "question": "What is the term for the probability of an allele being expressed?",
+        "options": {
+            "a": "Expressivity",
+            "b": " penetrance",
+            "c": "Dominance",
+            "d": "Recessive inheritance"
+        },
+        "correct_answer": "B"
+    }
+Time Taken: 102.60 seconds | Tokens Produced: 492 | ⚡⚡⚡ Token Speed 4.795 tokens/sec
+⚠️ Error: Invalid JSON format...
+
+Attempt 2 out of 5... llama3.2:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the primary function of genes in heredity?",
+        "options": {
+            "a": "To determine an organism's phenotype",
+            "b": "To pass traits from parents to offspring",
+            "c": "To regulate cellular growth and division",
+            "d": "To produce proteins for cellular functions"
+        },
+        "correct_answer": "To pass traits from parents to offspring"
+    },
+    {
+        "q_no": 2,
+        "question": "What is the purpose of Punnett squares in Mendelian Genetics?",
+        "options": {
+            "a": "To predict the probability of certain traits",
+            "b": "To determine the genotype of an organism",
+            "c": "To calculate the rate of genetic drift",
+            "d": "To study the effects of environmental factors"
+        },
+        "correct_answer": "To predict the probability of certain traits"
+    },
+    {
+        "q_no": 3,
+        "question": "What type of cross is used to predict the genotypes and phenotypes of offspring in a monohybrid cross?",
+        "options": {
+            "a": "Dihybrid cross",
+            "b": "Monohybrid cross",
+            "c": "Tetrad cross",
+            "d": "Reciprocal cross"
+        },
+        "correct_answer": "Monohybrid cross"
+    },
+    {
+        "q_no": 4,
+        "question": "What is the term for when one gene has a dominant effect on a trait, while another gene has a recessive effect?",
+        "options": {
+            "a": "Dominance and recessiveness",
+            "b": "Law of Segregation",
+            "c": "Independent Assortment",
+            "d": "Genotype-phenotype relationship"
+        },
+        "correct_answer": "Dominance and recessiveness"
+    },
+    {
+        "q_no": 5,
+        "question": "What is the Law of Segregation in Mendelian Genetics?",
+        "options": {
+            "a": "The theory that genes are inherited independently",
+            "b": "The concept that traits are determined by multiple genes",
+            "c": "The idea that environmental factors affect gene expression",
+            "d": "The principle that dominant alleles mask recessive alleles"
+        },
+        "correct_answer": "The theory that genes are inherited independently"
+    },
+    {
+        "q_no": 6,
+        "question": "What is Independent Assortment in Mendelian Genetics?",
+        "options": {
+            "a": "The process by which genes are sorted randomly during gamete formation",
+            "b": "The concept that traits are determined by multiple genes",
+            "c": "The idea that environmental factors affect gene expression",
+            "d": "The principle that dominant alleles mask recessive alleles"
+        },
+        "correct_answer": "The process by which genes are sorted randomly during gamete formation"
+    },
+    {
+        "q_no": 7,
+        "question": "What is the term for applying genetic principles to solve problems in biology?",
+        "options": {
+            "a": "Genetic engineering",
+            "b": "Biotechnology",
+            "c": "Genomic analysis",
+            "d": "Predictive genetics"
+        },
+        "correct_answer": "Applying genetic principles to solve problems"
+    }
+]
+Time Taken: 54.05 seconds | Tokens Produced: 369 | ⚡⚡⚡ Token Speed 6.827 tokens/sec
+⚠️ Error: Invalid JSON format...
+⚠️ Warning: Expected 12 MCQs but got 7...
+
+Attempt 3 out of 5... llama3.2:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the primary function of genes in an organism?",
+        "options": {
+            "a": "To regulate growth and development",
+            "b": "To produce proteins for various cellular functions",
+            "c": "To store genetic information from one generation to another",
+            "d": "To defend against pathogens"
+        },
+        "correct_answer": "To store genetic information from one generation to another"
+    },
+    {
+        "q_no": 2,
+        "question": "What is the purpose of a Punnett square?",
+        "options": {
+            "a": "To predict the likelihood of certain traits",
+            "b": "To determine the inheritance pattern of genes",
+            "c": "To analyze the structure of chromosomes",
+            "d": "To classify organisms into different species"
+        },
+        "correct_answer": "To determine the inheritance pattern of genes"
+    },
+    {
+        "q_no": 3,
+        "question": "What type of cross is used to predict the offspring's genotype and phenotype in a monohybrid experiment?",
+        "options": {
+            "a": "Dihybrid",
+            "b": "Monohybrid",
+            "c": "Di-locus",
+            "d": "Incomplete dominance"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "q_no": 4,
+        "question": "What is the term for when one allele dominates over another allele?",
+        "options": {
+            "a": "Recessive",
+            "b": "Dominant",
+            "c": "Incomplete dominance",
+            "d": "Co-dominance"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "q_no": 5,
+        "question": "What is the term for when alleles are expressed equally?",
+        "options": {
+            "a": "Recessive",
+            "b": "Dominant",
+            "c": "Incomplete dominance",
+            "d": "Co-dominance"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "q_no": 6,
+        "question": "What is the Law of Segregation?",
+        "options": {
+            "a": "The law that states genes are separated during meiosis",
+            "b": "The law that states genes are inherited equally",
+            "c": "The law that states genes are expressed in a dominant pattern",
+            "d": "The law that states genes are controlled by environmental factors"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "q_no": 7,
+        "question": "What is the term for the separation of chromosomes during cell division?",
+        "options": {
+            "a": "Independent Assortment",
+            "b": "Law of Segregation",
+            "c": "Dominance and Recessiveness",
+            "d": "Genetic drift"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "q_no": 8,
+        "question": "What is the purpose of applying genetic principles to solve problems?",
+        "options": {
+            "a": "To understand the structure and function of genes",
+            "b": "To predict the inheritance patterns of traits",
+            "c": "To develop strategies for crop improvement",
+            "d": "All of the above"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "q_no": 9,
+        "question": "What is the term for when an organism expresses a dominant trait?",
+        "options": {
+            "a": "Recessive",
+            "b": "Dominant",
+            "c": "Incomplete dominance",
+            "d": "Co-dominance"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "q_no": 10,
+        "question": "What is the term for when an organism expresses a recessive trait?",
+        "options": {
+            "a": "Dominant",
+            "b": "Recessive",
+            "c": "Incomplete dominance",
+            "d": "Co-dominance"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "q_no": 11,
+        "question": "What is the term for when an organism expresses a combination of dominant and recessive traits?",
+        "options": {
+            "a": "Incomplete dominance",
+            "b": "Co-dominance",
+            "c": "Dominant-recessive relationship",
+            "d": "Polygenic inheritance"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "q_no": 12,
+        "question": "What is the term for when an organism expresses a dominant trait due to the presence of two copies of the same allele?",
+        "options": {
+            "a": "Incomplete dominance",
+            "b": "Co-dominance",
+            "c": "Dominant-recessive relationship",
+            "d": "Polygenic inheritance"
+        },
+        "correct_answer": "B"
+    }
+Time Taken: 78.62 seconds | Tokens Produced: 495 | ⚡⚡⚡ Token Speed 6.296 tokens/sec
+⚠️ Error: Invalid JSON format...
+⚠️ Warning: Expected 12 MCQs but got 7...
+⚠️ Error: Invalid JSON format...
+
+Attempt 4 out of 5... llama3.2:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the main function of genes in organisms?",
+        "options": {
+            "a": "To regulate metabolism",
+            "b": "To store genetic information",
+            "c": "To control growth and development",
+            "d": "To produce enzymes"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "q_no": 2,
+        "question": "What is the purpose of Punnett squares in genetics?",
+        "options": {
+            "a": "To predict the probability of inheritance",
+            "b": "To identify genetic disorders",
+            "c": "To understand Mendelian laws",
+            "d": "To analyze DNA sequences"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "q_no": 3,
+        "question": "What type of cross is used to predict the genotype and phenotype of offspring?",
+        "options": {
+            "a": "Dihybrid",
+            "b": "Monohybrid",
+            "c": "Tetrad",
+            "d": "Polygenic"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "q_no": 4,
+        "question": "What is the term for the phenomenon where one allele masks the effect of another allele?",
+        "options": {
+            "a": "Dominance",
+            "b": "Recession",
+            "c": "Incomplete dominance",
+            "d": "Codominance"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "q_no": 5,
+        "question": "What is the Law of Segregation?",
+        "options": {
+            "a": "The combination of two alleles in each pair of chromosomes",
+            "b": "The separation of alleles during gamete formation",
+            "c": "The correlation between genotype and phenotype",
+            "d": "The random distribution of genes"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "q_no": 6,
+        "question": "What is Independent Assortment?",
+        "options": {
+            "a": "The combination of alleles from different pairs of chromosomes",
+            "b": "The random distribution of genes during gamete formation",
+            "c": "The inheritance of traits from parents to offspring",
+            "d": "The effect of environment on gene expression"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "q_no": 7,
+        "question": "What is the term for the phenomenon where two alleles have equal effect on a trait?",
+        "options": {
+            "a": "Incomplete dominance",
+            "b": "Codominance",
+            "c": "Dominance",
+            "d": "Recession"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "q_no": 8,
+        "question": "How do genetic principles help in solving problems?",
+        "options": {
+            "a": "By predicting the probability of inheritance",
+            "b": "By identifying genetic disorders",
+            "c": "By understanding Mendelian laws and their applications",
+            "d": "All of the above"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "q_no": 9,
+        "question": "What is Monohybrid Cross?",
+        "options": {
+            "a": "A cross between two homozygous parents",
+            "b": "A cross between one homozygous and one heterozygous parent",
+            "c": "A cross between two heterozygous parents",
+            "d": "A cross between one heterozygous and one diploid parent"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "q_no": 10,
+        "question": "What is Dihybrid Cross?",
+        "options": {
+            "a": "A cross between two homozygous parents",
+            "b": "A cross between one homozygous and one heterozygous parent",
+            "c": "A cross between two heterozygous parents",
+            "d": "A cross between one heterozygous and one diploid parent"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "q_no": 11,
+        "question": "What is the term for the interaction between different alleles of a gene?",
+        "options": {
+            "a": "Dominance",
+            "b": "Recession",
+            "c": "Incomplete dominance",
+            "d": "Codominance"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "q_no": 12,
+        "question": "What is the term for the random distribution of genes?",
+        "options": {
+            "a": "Genetic drift",
+            "b": "Mutation",
+            "c": "Gene flow",
+            "d": "Natural selection"
+        },
+        "correct_answer": "A"
+    }
+]
+Time Taken: 79.79 seconds | Tokens Produced: 483 | ⚡⚡⚡ Token Speed 6.053 tokens/sec
+✅✅✅ Successfully generated 12 MCQs. Attempts Needed 4
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   {
+      "q_no": 1,
+      "question": "What is the main function of genes in organisms?",
+      "options": {
+         "a": "To regulate metabolism",
+         "b": "To store genetic information",
+         "c": "To control growth and development",
+         "d": "To produce enzymes"
+      },
+      "correct_answer": "B"
+   },
+   {
+      "q_no": 2,
+      "question": "What is the purpose of Punnett squares in genetics?",
+      "options": {
+         "a": "To predict the probability of inheritance",
+         "b": "To identify genetic disorders",
+         "c": "To understand Mendelian laws",
+         "d": "To analyze DNA sequences"
+      },
+      "correct_answer": "A"
+   },
+   {
+      "q_no": 3,
+      "question": "What type of cross is used to predict the genotype and phenotype of offspring?",
+      "options": {
+         "a": "Dihybrid",
+         "b": "Monohybrid",
+         "c": "Tetrad",
+         "d": "Polygenic"
+      },
+      "correct_answer": "B"
+   },
+   {
+      "q_no": 4,
+      "question": "What is the term for the phenomenon where one allele masks the effect of another allele?",
+      "options": {
+         "a": "Dominance",
+         "b": "Recession",
+         "c": "Incomplete dominance",
+         "d": "Codominance"
+      },
+      "correct_answer": "A"
+   },
+   {
+      "q_no": 5,
+      "question": "What is the Law of Segregation?",
+      "options": {
+         "a": "The combination of two alleles in each pair of chromosomes",
+         "b": "The separation of alleles during gamete formation",
+         "c": "The correlation between genotype and phenotype",
+         "d": "The random distribution of genes"
+      },
+      "correct_answer": "B"
+   },
+   {
+      "q_no": 6,
+      "question": "What is Independent Assortment?",
+      "options": {
+         "a": "The combination of alleles from different pairs of chromosomes",
+         "b": "The random distribution of genes during gamete formation",
+         "c": "The inheritance of traits from parents to offspring",
+         "d": "The effect of environment on gene expression"
+      },
+      "correct_answer": "B"
+   },
+   {
+      "q_no": 7,
+      "question": "What is the term for the phenomenon where two alleles have equal effect on a trait?",
+      "options": {
+         "a": "Incomplete dominance",
+         "b": "Codominance",
+         "c": "Dominance",
+         "d": "Recession"
+      },
+      "correct_answer": "A"
+   },
+   {
+      "q_no": 8,
+      "question": "How do genetic principles help in solving problems?",
+      "options": {
+         "a": "By predicting the probability of inheritance",
+         "b": "By identifying genetic disorders",
+         "c": "By understanding Mendelian laws and their applications",
+         "d": "All of the above"
+      },
+      "correct_answer": "D"
+   },
+   {
+      "q_no": 9,
+      "question": "What is Monohybrid Cross?",
+      "options": {
+         "a": "A cross between two homozygous parents",
+         "b": "A cross between one homozygous and one heterozygous parent",
+         "c": "A cross between two heterozygous parents",
+         "d": "A cross between one heterozygous and one diploid parent"
+      },
+      "correct_answer": "B"
+   },
+   {
+      "q_no": 10,
+      "question": "What is Dihybrid Cross?",
+      "options": {
+         "a": "A cross between two homozygous parents",
+         "b": "A cross between one homozygous and one heterozygous parent",
+         "c": "A cross between two heterozygous parents",
+         "d": "A cross between one heterozygous and one diploid parent"
+      },
+      "correct_answer": "C"
+   },
+   {
+      "q_no": 11,
+      "question": "What is the term for the interaction between different alleles of a gene?",
+      "options": {
+         "a": "Dominance",
+         "b": "Recession",
+         "c": "Incomplete dominance",
+         "d": "Codominance"
+      },
+      "correct_answer": "D"
+   },
+   {
+      "q_no": 12,
+      "question": "What is the term for the random distribution of genes?",
+      "options": {
+         "a": "Genetic drift",
+         "b": "Mutation",
+         "c": "Gene flow",
+         "d": "Natural selection"
+      },
+      "correct_answer": "A"
+   }
+]
+TIME for MCQ: 79.791 | ⚡⚡⚡ Token Speed: 6.053 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 536 | TOTAL Time: 325.29
+
+********************************************************************************
+Syllabus NUMBER 5
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for State Board Grade 10 Physics - Electricity - Circuits:
+- Understanding the basics of electricity and circuits
+- Types of electrical circuits (series, parallel, combination)
+- Components of an electric circuit (resistors, wires, fuses)
+- Electric current, voltage, and resistance
+- Calculating total resistance in series and parallel circuits
+TIME for SYLLABUS: 10.674 | ⚡⚡⚡ Token Speed: 4.778 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 10
+Attempt 1 out of 5... llama3.2:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the primary function of a circuit in electricity?",
+        "options": {
+            "a": "To conduct electrical current",
+            "b": "To generate electromagnetic fields",
+            "c": "To store electrical energy",
+            "d": "To measure voltage and current"
+        },
+        "correct_answer": "To conduct electrical current"
+    },
+    {
+        "q_no": 2,
+        "question": "Which type of circuit is formed when components are connected end-to-end?",
+        "options": {
+            "a": "Series circuit",
+            "b": "Parallel circuit",
+            "c": "Combination circuit",
+            "d": "Open circuit"
+        },
+        "correct_answer": "Series circuit"
+    },
+    {
+        "q_no": 3,
+        "question": "What is the purpose of a fuse in an electric circuit?",
+        "options": {
+            "a": "To increase voltage",
+            "b": "To decrease resistance",
+            "c": "To protect against excessive current",
+            "d": "To generate electromagnetic fields"
+        },
+        "correct_answer": "To protect against excessive current"
+    },
+    {
+        "q_no": 4,
+        "question": "What is the unit of measurement for electric potential difference?",
+        "options": {
+            "a": "Volt",
+            "b": "Ampere",
+            "c": "Ohm",
+            "d": "Farad"
+        },
+        "correct_answer": "Volt"
+    }
+]
+Time Taken: 43.18 seconds | Tokens Produced: 152 | ⚡⚡⚡ Token Speed 3.521 tokens/sec
+⚠️ Warning: Expected 10 MCQs but got 4...
+
+Attempt 2 out of 5... llama3.2:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the primary purpose of a fuse in an electric circuit?",
+        "options": {
+            "a": "To measure voltage and current",
+            "b": "To regulate temperature",
+            "c": "To break the circuit when excessive current flows",
+            "d": "To increase resistance"
+        },
+        "correct_answer": "To break the circuit when excessive current flows"
+    },
+    {
+        "q_no": 2,
+        "question": "What is a series electrical circuit?",
+        "options": {
+            "a": "A circuit where components are connected one after another",
+            "b": "A circuit where components are connected in parallel",
+            "c": "A circuit where voltage and current are the same",
+            "d": "A circuit where resistance is constant"
+        },
+        "correct_answer": "A circuit where components are connected one after another"
+    },
+    {
+        "q_no": 3,
+        "question": "What is a parallel electrical circuit?",
+        "options": {
+            "a": "A circuit where components are connected in series",
+            "b": "A circuit where components are connected one after another",
+            "c": "A circuit where components are connected between the same two points",
+            "d": "A circuit where resistance is constant"
+        },
+        "correct_answer": "A circuit where components are connected between the same two points"
+    },
+    {
+        "q_no": 4,
+        "question": "What is a combination electrical circuit?",
+        "options": {
+            "a": "A circuit that combines series and parallel circuits",
+            "b": "A circuit that uses only one type of component",
+            "c": "A circuit that has the same voltage and current throughout",
+            "d": "A circuit that has variable resistance"
+        },
+        "correct_answer": "A circuit that combines series and parallel circuits"
+    }
+]
+Time Taken: 34.75 seconds | Tokens Produced: 238 | ⚡⚡⚡ Token Speed 6.850 tokens/sec
+⚠️ Warning: Expected 10 MCQs but got 4...
+⚠️ Warning: Expected 10 MCQs but got 4...
+
+Attempt 3 out of 5... llama3.2:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the primary function of a resistor in an electric circuit?",
+        "options": {
+            "a": "To increase voltage",
+            "b": "To decrease current",
+            "c": "To convert AC to DC",
+            "d": "To decrease voltage"
+        },
+        "correct_answer": "To decrease voltage"
+    },
+    {
+        "q_no": 2,
+        "question": "What type of circuit has components connected between the same two points?",
+        "options": {
+            "a": "Series circuit",
+            "b": "Parallel circuit",
+            "c": "Combination circuit",
+            "d": "Closed loop"
+        },
+        "correct_answer": "Series circuit"
+    },
+    {
+        "q_no": 3,
+        "question": "What is the unit of measurement for electric current?",
+        "options": {
+            "a": "Ohm",
+            "b": "Ampere",
+            "c": "Volt",
+            "d": "Watt"
+        },
+        "correct_answer": "Ampere"
+    },
+    {
+        "q_no": 4,
+        "question": "What is the term for the ability of a material to conduct electricity?",
+        "options": {
+            "a": "Resistance",
+            "b": "Conductivity",
+            "c": "Insulation",
+            "d": "Semi-conductivity"
+        },
+        "correct_answer": "Conductivity"
+    },
+    {
+        "q_no": 5,
+        "question": "What is the symbol for electric current in an electric circuit?",
+        "options": {
+            "a": "I",
+            "b": "V",
+            "c": "R",
+            "d": "Z"
+        },
+        "correct_answer": "I"
+    },
+    {
+        "q_no": 6,
+        "question": "What is the term for the total opposition to the flow of electric current?",
+        "options": {
+            "a": "Resistance",
+            "b": "Conductance",
+            "c": "Impedance",
+            "d": "Capacitance"
+        },
+        "correct_answer": "Resistance"
+    },
+    {
+        "q_no": 7,
+        "question": "What is the unit of measurement for electric voltage?",
+        "options": {
+            "a": "Ohm",
+            "b": "Ampere",
+            "c": "Volt",
+            "d": "Watt"
+        },
+        "correct_answer": "Volt"
+    },
+    {
+        "q_no": 8,
+        "question": "What is the term for a circuit that has components connected between two different points?",
+        "options": {
+            "a": "Series circuit",
+            "b": "Parallel circuit",
+            "c": "Combination circuit",
+            "d": "Closed loop"
+        },
+        "correct_answer": "Parallel circuit"
+    },
+    {
+        "q_no": 9,
+        "question": "What is the symbol for electric potential difference?",
+        "options": {
+            "a": "V",
+            "b": "I",
+            "c": "R",
+            "d": "Z"
+        },
+        "correct_answer": "V"
+    },
+    {
+        "q_no": 10,
+        "question": "What is the formula for calculating total resistance in a series circuit?",
+        "options": {
+            "a": "R_total = R1 + R2",
+            "b": "R_total = R1 * R2",
+            "c": "R_total = R1 - R2",
+            "d": "R_total = R1 / R2"
+        },
+        "correct_answer": "R_total = R1 + R2"
+    }
+]
+Time Taken: 64.42 seconds | Tokens Produced: 339 | ⚡⚡⚡ Token Speed 5.263 tokens/sec
+✅✅✅ Successfully generated 10 MCQs. Attempts Needed 3
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   {
+      "q_no": 1,
+      "question": "What is the primary function of a resistor in an electric circuit?",
+      "options": {
+         "a": "To increase voltage",
+         "b": "To decrease current",
+         "c": "To convert AC to DC",
+         "d": "To decrease voltage"
+      },
+      "correct_answer": "To decrease voltage"
+   },
+   {
+      "q_no": 2,
+      "question": "What type of circuit has components connected between the same two points?",
+      "options": {
+         "a": "Series circuit",
+         "b": "Parallel circuit",
+         "c": "Combination circuit",
+         "d": "Closed loop"
+      },
+      "correct_answer": "Series circuit"
+   },
+   {
+      "q_no": 3,
+      "question": "What is the unit of measurement for electric current?",
+      "options": {
+         "a": "Ohm",
+         "b": "Ampere",
+         "c": "Volt",
+         "d": "Watt"
+      },
+      "correct_answer": "Ampere"
+   },
+   {
+      "q_no": 4,
+      "question": "What is the term for the ability of a material to conduct electricity?",
+      "options": {
+         "a": "Resistance",
+         "b": "Conductivity",
+         "c": "Insulation",
+         "d": "Semi-conductivity"
+      },
+      "correct_answer": "Conductivity"
+   },
+   {
+      "q_no": 5,
+      "question": "What is the symbol for electric current in an electric circuit?",
+      "options": {
+         "a": "I",
+         "b": "V",
+         "c": "R",
+         "d": "Z"
+      },
+      "correct_answer": "I"
+   },
+   {
+      "q_no": 6,
+      "question": "What is the term for the total opposition to the flow of electric current?",
+      "options": {
+         "a": "Resistance",
+         "b": "Conductance",
+         "c": "Impedance",
+         "d": "Capacitance"
+      },
+      "correct_answer": "Resistance"
+   },
+   {
+      "q_no": 7,
+      "question": "What is the unit of measurement for electric voltage?",
+      "options": {
+         "a": "Ohm",
+         "b": "Ampere",
+         "c": "Volt",
+         "d": "Watt"
+      },
+      "correct_answer": "Volt"
+   },
+   {
+      "q_no": 8,
+      "question": "What is the term for a circuit that has components connected between two different points?",
+      "options": {
+         "a": "Series circuit",
+         "b": "Parallel circuit",
+         "c": "Combination circuit",
+         "d": "Closed loop"
+      },
+      "correct_answer": "Parallel circuit"
+   },
+   {
+      "q_no": 9,
+      "question": "What is the symbol for electric potential difference?",
+      "options": {
+         "a": "V",
+         "b": "I",
+         "c": "R",
+         "d": "Z"
+      },
+      "correct_answer": "V"
+   },
+   {
+      "q_no": 10,
+      "question": "What is the formula for calculating total resistance in a series circuit?",
+      "options": {
+         "a": "R_total = R1 + R2",
+         "b": "R_total = R1 * R2",
+         "c": "R_total = R1 - R2",
+         "d": "R_total = R1 / R2"
+      },
+      "correct_answer": "R_total = R1 + R2"
+   }
+]
+TIME for MCQ: 64.416 | ⚡⚡⚡ Token Speed: 5.263 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 390 | TOTAL Time: 153.03
+
+********************************************************************************
+Syllabus NUMBER 6
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for CBSE Grade 9 Chemistry - Chemical Reactions - Redox Reactions:
+- Oxidation and reduction processes in chemical reactions
+- Identification of redox reactions using the half-reaction method
+- Understanding the concept of oxidation numbers
+- Balancing equations for redox reactions
+- Types of redox reactions (synthesis, decomposition, single displacement)
+- Identifying reducing and oxidizing agents
+TIME for SYLLABUS: 12.003 | ⚡⚡⚡ Token Speed: 4.749 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 5... llama3.2:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is oxidation in a chemical reaction?",
+        "options": {
+            "a": "A loss of electrons",
+            "b": "A gain of electrons",
+            "c": "A transfer of electrons",
+            "d": "A change in temperature"
+        },
+        "correct_answer": "A loss of electrons"
+    },
+    {
+        "q_no": 2,
+        "question": "What is reduction in a chemical reaction?",
+        "options": {
+            "a": "A gain of electrons",
+            "b": "A loss of electrons",
+            "c": "A transfer of electrons",
+            "d": "A change in pH"
+        },
+        "correct_answer": "A gain of electrons"
+    },
+    {
+        "q_no": 3,
+        "question": "How are oxidation numbers used to identify oxidizing and reducing agents?",
+        "options": {
+            "a": "By comparing the number of oxygen atoms",
+            "b": "By comparing the change in oxidation number",
+            "c": "By comparing the charge on the ion",
+            "d": "By comparing the size of the atom"
+        },
+        "correct_answer": "By comparing the change in oxidation number"
+    },
+    {
+        "q_no": 4,
+        "question": "What is the purpose of balancing equations for redox reactions?",
+        "options": {
+            "a": "To determine the oxidation numbers",
+            "b": "To identify oxidizing and reducing agents",
+            "c": "To ensure the law of conservation of mass is obeyed",
+            "d": "To simplify complex reactions"
+        },
+        "correct_answer": "To ensure the law of conservation of mass is obeyed"
+    },
+    {
+        "q_no": 5,
+        "question": "What type of reaction involves the combination of two substances?",
+        "options": {
+            "a": "Synthesis",
+            "b": "Decomposition",
+            "c": "Single displacement",
+            "d": "Exchange"
+        },
+        "correct_answer": "Synthesis"
+    },
+    {
+        "q_no": 6,
+        "question": "What type of reaction involves the breakdown of a single substance?",
+        "options": {
+            "a": "Decomposition",
+            "b": "Single displacement",
+            "c": "Exchange",
+            "d": "Synthesis"
+        },
+        "correct_answer": "Decomposition"
+    },
+    {
+        "q_no": 7,
+        "question": "What is a reducing agent in a redox reaction?",
+        "options": {
+            "a": "A substance that gains electrons",
+            "b": "A substance that loses electrons",
+            "c": "A substance that remains unchanged",
+            "d": "A substance that changes charge"
+        },
+        "correct_answer": "A substance that gains electrons"
+    },
+    {
+        "q_no": 8,
+        "question": "What is an oxidizing agent in a redox reaction?",
+        "options": {
+            "a": "A substance that gains electrons",
+            "b": "A substance that loses electrons",
+            "c": "A substance that remains unchanged",
+            "d": "A substance that changes charge"
+        },
+        "correct_answer": "A substance that loses electrons"
+    },
+    {
+        "q_no": 9,
+        "question": "What is the main difference between a synthesis and decomposition reaction?",
+        "options": {
+            "a": "Synthesis involves a gain of electrons",
+            "b": "Decomposition involves a loss of electrons",
+            "c": "Synthesis involves a change in charge",
+            "d": "Decomposition involves a change in pH"
+        },
+        "correct_answer": "Decomposition involves a loss of electrons"
+    },
+    {
+        "q_no": 10,
+        "question": "What type of reaction involves the exchange of one substance for another?",
+        "options": {
+            "a": "Single displacement",
+            "b": "Exchange",
+            "c": "Synthesis",
+            "d": "Decomposition"
+        },
+        "correct_answer": "Exchange"
+    },
+    {
+        "q_no": 11,
+        "question": "What is the half-reaction method used for?",
+        "options": {
+            "a": "To balance equations",
+            "b": "To identify reducing and oxidizing agents",
+            "c": "To determine oxidation numbers",
+            "d": "To simplify complex reactions"
+        },
+        "correct_answer": "To identify reducing and oxidizing agents"
+    },
+    {
+        "q_no": 12,
+        "question": "What is the main purpose of identifying redox reactions?",
+        "options": {
+            "a": "To determine oxidation numbers",
+            "b": "To balance equations",
+            "c": "To identify reducing and oxidizing agents",
+            "d": "To simplify complex reactions"
+        },
+        "correct_answer": "To balance equations"
+Time Taken: 105.03 seconds | Tokens Produced: 520 | ⚡⚡⚡ Token Speed 4.951 tokens/sec
+⚠️ Error: Invalid JSON format...
+
+Attempt 2 out of 5... llama3.2:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the primary goal of oxidation in a redox reaction?",
+        "options": {
+            "a": "To lose electrons",
+            "b": "To gain electrons",
+            "c": "To neutralize a substance",
+            "d": "To break down a compound"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 2,
+        "question": "Which of the following is an example of a reduction reaction?",
+        "options": {
+            "a": "Zinc + Oxygen → Zinc Oxide",
+            "b": "Hydrogen + Oxygen → Water",
+            "c": "Magnesium + Oxygen → Magnesium Oxide",
+            "d": "Carbon + Oxygen → Carbon Dioxide"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "q_no": 3,
+        "question": "What is the oxidation number of an element in its elemental form?",
+        "options": {
+            "a": "0",
+            "b": "1",
+            "c": "2",
+            "d": "-1"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 4,
+        "question": "Which of the following statements is true about oxidation numbers?",
+        "options": {
+            "a": "The sum of oxidation numbers in a compound equals zero",
+            "b": "The oxidation number of an element in its elemental form is always positive",
+            "c": "Oxidation numbers can be negative or positive",
+            "d": "The product rule for oxidation numbers applies to all compounds"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 5,
+        "question": "What is the balancing equation for the redox reaction between zinc and oxygen?",
+        "options": {
+            "a": "Zinc + Oxygen → Zinc Oxide",
+            "b": "2Zinc + Oxygen → Zinc Oxide",
+            "c": "Zinc + 2Oxygen → Zinc Oxide",
+            "d": "4Zinc + Oxygen → 2Zinc Oxide"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 6,
+        "question": "What is the definition of a reducing agent in a redox reaction?",
+        "options": {
+            "a": "An element that gains electrons",
+            "b": "A compound that loses electrons",
+            "c": "A substance that reacts with oxygen",
+            "d": "A substance that breaks down into its constituent elements"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 7,
+        "question": "What is the definition of an oxidizing agent in a redox reaction?",
+        "options": {
+            "a": "An element that loses electrons",
+            "b": "A compound that gains electrons",
+            "c": "A substance that reacts with oxygen",
+            "d": "A substance that breaks down into its constituent elements"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "q_no": 8,
+        "question": "What is the purpose of identifying reducing and oxidizing agents in a redox reaction?",
+        "options": {
+            "a": "To determine the direction of electron flow",
+            "b": "To predict the products of a redox reaction",
+            "c": "To identify the substances involved in the reaction",
+            "d": "All of the above"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "q_no": 9,
+        "question": "What is the difference between a synthesis and decomposition reaction?",
+        "options": {
+            "a": "Synthesis involves two or more substances combining to form one",
+            "b": "Decomposition involves one substance breaking down into two or more",
+            "c": "Synthesis involves an element being combined with oxygen",
+            "d": "Decomposition involves a compound being broken down into its constituent elements"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 10,
+        "question": "What is the primary difference between a single displacement reaction and a double displacement reaction?",
+        "options": {
+            "a": "Single displacement involves one element displacing another",
+            "b": "Double displacement involves two compounds exchanging partners",
+            "c": "Single displacement involves an element reacting with oxygen",
+            "d": "Double displacement involves a compound breaking down into its constituent elements"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 11,
+        "question": "What is the definition of oxidation number?",
+        "options": {
+            "a": "The total positive charge on an element in a compound",
+            "b": "The negative charge on an atom in a molecule",
+            "c": "The amount of oxygen present in a compound",
+            "d": "The degree to which an element is oxidized"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 12,
+        "question": "What is the purpose of balancing equations for redox reactions?",
+        "options": {
+            "a": "To determine the amount of reactants and products",
+            "b": "To identify the substances involved in the reaction",
+            "c": "To show that the law of conservation of mass holds true",
+            "d": "All of the above"
+        },
+        "correct_answer": "d"
+Time Taken: 89.41 seconds | Tokens Produced: 626 | ⚡⚡⚡ Token Speed 7.001 tokens/sec
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+
+Attempt 3 out of 5... llama3.2:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the main purpose of oxidation in a chemical reaction?",
+        "options": {
+            "a": "To gain electrons",
+            "b": "To lose electrons",
+            "c": "To form compounds with other elements",
+            "d": "To break down molecules"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "q_no": 2,
+        "question": "What is the definition of reduction in a chemical reaction?",
+        "options": {
+            "a": "The loss of electrons",
+            "b": "The gain of electrons",
+            "c": "The formation of compounds with other elements",
+            "d": "The breakdown of molecules"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "q_no": 3,
+        "question": "What is the term for the transfer of electrons from one species to another?",
+        "options": {
+            "a": "Oxidation",
+            "b": "Reduction",
+            "c": "Electron exchange",
+            "d": "Ionization"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "q_no": 4,
+        "question": "What is the term for the change in oxidation number of an element in a compound?",
+        "options": {
+            "a": "Oxidation",
+            "b": "Reduction",
+            "c": "Electron transfer",
+            "d": "Redox reaction"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "q_no": 5,
+        "question": "What is the half-reaction method used for?",
+        "options": {
+            "a": "To balance equations",
+            "b": "To identify redox reactions",
+            "c": "To determine oxidation numbers",
+            "d": "All of the above"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "q_no": 6,
+        "question": "What is the term for the number that represents the total number of electrons gained or lost by an element?",
+        "options": {
+            "a": "Oxidation number",
+            "b": "Reduction number",
+            "c": "Electron gain number",
+            "d": "Charge"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 7,
+        "question": "What is the term for the process of gaining electrons in a chemical reaction?",
+        "options": {
+            "a": "Oxidation",
+            "b": "Reduction",
+            "c": "Electron loss",
+            "d": "Ionization"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "q_no": 8,
+        "question": "What is the term for the process of losing electrons in a chemical reaction?",
+        "options": {
+            "a": "Reduction",
+            "b": "Oxidation",
+            "c": "Electron gain",
+            "d": "Ionization"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "q_no": 9,
+        "question": "What is the term for a reaction in which one substance donates electrons to another?",
+        "options": {
+            "a": "Redox reaction",
+            "b": "Oxidation reaction",
+            "c": "Reducing agent",
+            "d": "Oxidizing agent"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 10,
+        "question": "What is the term for a reaction in which one substance accepts electrons from another?",
+        "options": {
+            "a": "Redox reaction",
+            "b": "Oxidation reaction",
+            "c": "Reducing agent",
+            "d": "Oxidizing agent"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "q_no": 11,
+        "question": "What is the term for a reaction in which one substance donates electrons to form a new compound?",
+        "options": {
+            "a": "Redox reaction",
+            "b": "Oxidation reaction",
+            "c": "Reducing agent",
+            "d": "Combination reaction"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 12,
+        "question": "What is the term for a reaction in which one substance accepts electrons to form a new compound?",
+        "options": {
+            "a": "Redox reaction",
+            "b": "Oxidation reaction",
+            "c": "Reducing agent",
+            "d": "Combination reaction"
+        },
+        "correct_answer": "d"
+    }
+Time Taken: 100.84 seconds | Tokens Produced: 452 | ⚡⚡⚡ Token Speed 4.482 tokens/sec
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+
+Attempt 4 out of 5... llama3.2:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the definition of oxidation number?",
+        "options": {
+            "a": "The total negative charge on an ion",
+            "b": "The most electronegative element in a compound",
+            "c": "A measure of how easily an element loses electrons",
+            "d": "The least reactive element in a compound"
+        },
+        "correct_answer": "A measure of how easily an element loses electrons"
+    },
+    {
+        "q_no": 2,
+        "question": "What is the purpose of oxidation numbers?",
+        "options": {
+            "a": "To identify the most electronegative element",
+            "b": "To determine the chemical properties of an element",
+            "c": "To balance equations in redox reactions",
+            "d": "To predict the reactivity of an element"
+        },
+        "correct_answer": "To balance equations in redox reactions"
+    },
+    {
+        "q_no": 3,
+        "question": "What is the difference between oxidation and reduction?",
+        "options": {
+            "a": "Oxidation involves the loss of electrons, while reduction involves the gain of electrons",
+            "b": "Oxidation involves the gain of electrons, while reduction involves the loss of electrons",
+            "c": "Oxidation is always accompanied by an increase in oxidation number, while reduction is always accompanied by a decrease in oxidation number",
+            "d": "Oxidation and reduction are opposite processes that cannot occur together"
+        },
+        "correct_answer": "Oxidation involves the loss of electrons, while reduction involves the gain of electrons"
+    },
+    {
+        "q_no": 4,
+        "question": "What is the half-reaction method used for?",
+        "options": {
+            "a": "To identify reducing and oxidizing agents",
+            "b": "To balance equations in redox reactions",
+            "c": "To predict the reactivity of an element",
+            "d": "To determine the chemical properties of an element"
+        },
+        "correct_answer": "To identify reducing and oxidizing agents"
+    },
+    {
+        "q_no": 5,
+        "question": "What is a synthesis redox reaction?",
+        "options": {
+            "a": "A type of decomposition reaction",
+            "b": "A type of single displacement reaction",
+            "c": "A reaction in which two or more substances combine to form a new compound",
+            "d": "A reaction in which an element is oxidized and another element is reduced"
+        },
+        "correct_answer": "C. A reaction in which two or more substances combine to form a new compound"
+    },
+    {
+        "q_no": 6,
+        "question": "What is a decomposition redox reaction?",
+        "options": {
+            "a": "A type of synthesis reaction",
+            "b": "A type of single displacement reaction",
+            "c": "A reaction in which a compound breaks down into two or more substances",
+            "d": "A reaction in which an element is oxidized and another element is reduced"
+        },
+        "correct_answer": "C. A reaction in which a compound breaks down into two or more substances"
+    },
+    {
+        "q_no": 7,
+        "question": "What is a single displacement redox reaction?",
+        "options": {
+            "a": "A type of synthesis reaction",
+            "b": "A type of decomposition reaction",
+            "c": "A reaction in which one element displaces another element from its compound",
+            "d": "A reaction in which an element is oxidized and another element is reduced"
+        },
+        "correct_answer": "C. A reaction in which one element displaces another element from its compound"
+    },
+    {
+        "q_no": 8,
+        "question": "What is a reducing agent?",
+        "options": {
+            "a": "A substance that causes oxidation",
+            "b": "A substance that causes reduction",
+            "c": "A substance that loses electrons",
+            "d": "A substance that gains electrons"
+        },
+        "correct_answer": "B. A substance that causes reduction"
+    },
+    {
+        "q_no": 9,
+        "question": "What is an oxidizing agent?",
+        "options": {
+            "a": "A substance that causes oxidation",
+            "b": "A substance that causes reduction",
+            "c": "A substance that gains electrons",
+            "d": "A substance that loses electrons"
+        },
+        "correct_answer": "A. A substance that causes oxidation"
+    },
+    {
+        "q_no": 10,
+        "question": "What is the purpose of balancing equations in redox reactions?",
+        "options": {
+            "a": "To identify reducing and oxidizing agents",
+            "b": "To determine the chemical properties of an element",
+            "c": "To predict the reactivity of an element",
+            "d": "To show that a reaction is balanced"
+        },
+        "correct_answer": "D. To show that a reaction is balanced"
+    },
+    {
+        "q_no": 11,
+        "question": "What is the role of oxidation numbers in balancing equations?",
+        "options": {
+            "a": "To identify reducing and oxidizing agents",
+            "b": "To determine the chemical properties of an element",
+            "c": "To balance equations in redox reactions",
+            "d": "To predict the reactivity of an element"
+        },
+        "correct_answer": "C. To balance equations in redox reactions"
+    },
+    {
+        "q_no": 12,
+        "question": "What is the difference between a half-reaction and a full reaction?",
+        "options": {
+            "a": "A half-reaction is incomplete, while a full reaction is complete",
+            "b": "A half-reaction is complete, while a full reaction is incomplete",
+            "c": "A half-reaction shows the oxidation and reduction half of an equation, while a full reaction shows the entire equation",
+            "d": "A half-reaction shows the reagents and products, while a full reaction shows the net change in oxygen"
+        },
+        "correct_answer": "C. A half-reaction shows the oxidation and reduction half of an equation, while a full reaction shows the entire equation"
+    }
+Time Taken: 108.27 seconds | Tokens Produced: 771 | ⚡⚡⚡ Token Speed 7.121 tokens/sec
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+
+Attempt 5 out of 5... llama3.2:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "Why is cellular respiration important for living organisms?",
+        "options": {
+            "a": "It produces glucose for energy storage",
+            "b": "It converts food into usable energy",
+            "c": "It allows movement in cells",
+            "d": "It helps absorb sunlight"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "q_no": 2,
+        "question": "What is the definition of cellular respiration?",
+        "options": {
+            "a": "The breakdown of glucose to release energy",
+            "b": "The absorption of oxygen in the lungs",
+            "c": "The creation of new cells from old ones",
+            "d": "The conversion of proteins into glucose"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 3,
+        "question": "What is the end product of glycolysis from one glucose molecule?",
+        "options": {
+            "a": "Two ethanol molecules",
+            "b": "Two pyruvate molecules",
+            "c": "Four ATP molecules",
+            "d": "One glucose molecule"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "q_no": 4,
+        "question": "Where does glycolysis occur in the cell?",
+        "options": {
+            "a": "In the mitochondria",
+            "b": "In the nucleus",
+            "c": "In the cytoplasm",
+            "d": "In the endoplasmic reticulum"
+        },
+        "correct_answer": "c"
+    }
+]
+Time Taken: 50.43 seconds | Tokens Produced: 165 | ⚡⚡⚡ Token Speed 3.272 tokens/sec
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+⚠️ Warning: Expected 12 MCQs but got 4...
+
+⚠️ Warning: After 5 attempts returning longest valid response.
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   {
+      "q_no": 1,
+      "question": "Why is cellular respiration important for living organisms?",
+      "options": {
+         "a": "It produces glucose for energy storage",
+         "b": "It converts food into usable energy",
+         "c": "It allows movement in cells",
+         "d": "It helps absorb sunlight"
+      },
+      "correct_answer": "b"
+   },
+   {
+      "q_no": 2,
+      "question": "What is the definition of cellular respiration?",
+      "options": {
+         "a": "The breakdown of glucose to release energy",
+         "b": "The absorption of oxygen in the lungs",
+         "c": "The creation of new cells from old ones",
+         "d": "The conversion of proteins into glucose"
+      },
+      "correct_answer": "a"
+   },
+   {
+      "q_no": 3,
+      "question": "What is the end product of glycolysis from one glucose molecule?",
+      "options": {
+         "a": "Two ethanol molecules",
+         "b": "Two pyruvate molecules",
+         "c": "Four ATP molecules",
+         "d": "One glucose molecule"
+      },
+      "correct_answer": "b"
+   },
+   {
+      "q_no": 4,
+      "question": "Where does glycolysis occur in the cell?",
+      "options": {
+         "a": "In the mitochondria",
+         "b": "In the nucleus",
+         "c": "In the cytoplasm",
+         "d": "In the endoplasmic reticulum"
+      },
+      "correct_answer": "c"
+   }
+]
+TIME for MCQ: 50.431 | ⚡⚡⚡ Token Speed: 3.272 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 222 | TOTAL Time: 466.02
+
+********************************************************************************
+Syllabus NUMBER 7
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for IB Grade 10 Biology - Ecology:
+- Introduction to ecology and its importance
+- Understanding population dynamics
+- Types of population growth (logistic growth, exponential growth)
+- Factors affecting population growth (birth rates, death rates, predation)
+- Human impact on populations (hunting, habitat destruction)
+- Ecological succession
+TIME for SYLLABUS: 10.299 | ⚡⚡⚡ Token Speed: 4.758 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 5... llama3.2:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "Why is ecological importance of introducing species in an ecosystem considered?",
+        "options": {
+            "a": "To increase biodiversity",
+            "b": "To decrease biodiversity",
+            "c": "To control pests and diseases",
+            "d": "To increase crop yields"
+        },
+        "correct_answer": "To increase biodiversity"
+    },
+    {
+        "q_no": 2,
+        "question": "What is the definition of population dynamics?",
+        "options": {
+            "a": "The study of how species adapt to their environment",
+            "b": "The study of how populations change over time",
+            "c": "The study of how ecosystems respond to changes",
+            "d": "The study of how human activity affects the environment"
+        },
+        "correct_answer": "The study of how populations change over time"
+    },
+    {
+        "q_no": 3,
+        "question": "What type of growth is characterized by a slowing rate?",
+        "options": {
+            "a": "Exponential growth",
+            "b": "Logistic growth",
+            "c": "Linear growth",
+            "d": "Quadratic growth"
+        },
+        "correct_answer": "Logistic growth"
+    },
+    {
+        "q_no": 4,
+        "question": "What factor can affect the rate of population growth?",
+        "options": {
+            "a": "Predation",
+            "b": "Birth rates",
+            "c": "Death rates",
+            "d": All of the above"
+        },
+        "correct_answer": "All of the above"
+    },
+    {
+        "q_no": 5,
+        "question": "Which human impact can lead to a decline in population?",
+        "options": {
+            "a": "Habitat destruction",
+            "b": "Climate change",
+            "c": "Overhunting",
+            "d": All of the above"
+        },
+        "correct_answer": "All of the above"
+    },
+    {
+        "q_no": 6,
+        "question": "What type of ecological succession involves no climax community?",
+        "options": {
+            "a": "Primary succession",
+            "b": "Secondary succession",
+            "c": "Tertiary succession",
+            "d": None
+        },
+        "correct_answer": "None"
+    },
+    {
+        "q_no": 7,
+        "question": "What is the definition of ecological succession?",
+        "options": {
+            "a": "The process of species replacement in an ecosystem",
+            "b": "The study of how ecosystems change over time",
+            "c": "The transfer of organisms from one habitat to another",
+            "d": The interaction between organisms and their environment"
+        },
+        "correct_answer": "The process of species replacement in an ecosystem"
+    },
+    {
+        "q_no": 8,
+        "question": "What type of population growth occurs when the rate of increase is proportional to the current population size?",
+        "options": {
+            "a": "Logistic growth",
+            "b": "Exponential growth",
+            "c": "Linear growth",
+            "d": Quadratic growth"
+        },
+        "correct_answer": "Exponential growth"
+    },
+    {
+        "q_no": 9,
+        "question": "What factor can influence the rate of population growth?",
+        "options": {
+            "a": "Birth rates",
+            "b": "Death rates",
+            "c": "Predation",
+            "d": All of the above"
+        },
+        "correct_answer": "All of the above"
+    },
+    {
+        "q_no": 10,
+        "question": "What is the definition of logistic growth?",
+        "options": {
+            "a": "The study of how species adapt to their environment",
+            "b": "A type of population growth characterized by a slowing rate",
+            "c": "The transfer of organisms from one habitat to another",
+            "d": The interaction between organisms and their environment"
+        },
+        "correct_answer": "B. A type of population growth characterized by a slowing rate"
+    },
+    {
+        "q_no": 11,
+        "question": "What is the primary cause of human impact on populations?",
+        "options": {
+            "a": Habitat destruction",
+            "b": Climate change",
+            "c": Overhunting",
+            "d": All of the above"
+        },
+        "correct_answer": "All of the above"
+    },
+    {
+        "q_no": 12,
+        "question": "What type of ecological succession involves no climax community?",
+        "options": {
+            "a": "Primary succession",
+            "b": "Secondary succession",
+            "c": "Tertiary succession",
+            "d": None"
+        },
+        "correct_answer": "Primary succession"
+Time Taken: 99.64 seconds | Tokens Produced: 507 | ⚡⚡⚡ Token Speed 5.088 tokens/sec
+⚠️ Error: Invalid JSON format...
+
+Attempt 2 out of 5... llama3.2:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the primary focus of ecology?",
+        "options": {
+            "a": "The study of individual organisms",
+            "b": "The study of interactions between organisms and their environment",
+            "c": "The study of ecosystems and their dynamics",
+            "d": "The study of genetics and evolution"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "q_no": 2,
+        "question": "Which of the following is NOT a type of population growth?",
+        "options": {
+            "a": "Logistic growth",
+            "b": "Exponential growth",
+            "c": "Linear growth",
+            "d": "No growth"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "q_no": 3,
+        "question": "What is the primary factor that affects population growth?",
+        "options": {
+            "a": "Birth rates",
+            "b": "Death rates",
+            "c": "Predation",
+            "d": "Environmental factors"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 4,
+        "question": "What is the main impact of human activities on populations?",
+        "options": {
+            "a": "Habitat destruction",
+            "b": "Climate change",
+            "c": "Pollution",
+            "d": "Overexploitation"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 5,
+        "question": "What is ecological succession?",
+        "options": {
+            "a": "The process of species invasion and decline",
+            "b": "The replacement of one community by another",
+            "c": "The creation of new ecosystems",
+            "d": "The destruction of existing habitats"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "q_no": 6,
+        "question": "What is the role of predation in population dynamics?",
+        "options": {
+            "a": "It increases population growth",
+            "b": "It decreases population growth",
+            "c": "It has no effect on population growth",
+            "d": "It can lead to species extinction"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "q_no": 7,
+        "question": "What is the primary factor that affects predation?",
+        "options": {
+            "a": "Prey availability",
+            "b": "Predator population size",
+            "c": "Environmental factors",
+            "d": "Human impact"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "q_no": 8,
+        "question": "What is the role of birth rates in population growth?",
+        "options": {
+            "a": "It decreases population growth",
+            "b": "It has no effect on population growth",
+            "c": "It increases population growth",
+            "d": "It can lead to population decline"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "q_no": 9,
+        "question": "What is the primary factor that affects human impact on populations?",
+        "options": {
+            "a": "Habitat destruction",
+            "b": "Climate change",
+            "c": "Pollution",
+            "d": "Overexploitation"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 10,
+        "question": "What is the primary factor that affects species extinction?",
+        "options": {
+            "a": "Habitat destruction",
+            "b": "Climate change",
+            "c": "Pollution",
+            "d": "Overexploitation"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "q_no": 11,
+        "question": "What is the role of genetic variation in population dynamics?",
+        "options": {
+            "a": "It increases population growth",
+            "b": "It has no effect on population growth",
+            "c": "It decreases population growth",
+            "d": "It can lead to species extinction"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "q_no": 12,
+        "question": "What is the primary factor that affects genetic variation?",
+        "options": {
+            "a": "Genetic drift",
+            "b": "Natural selection",
+            "c": "Gene flow",
+            "d": "Mutation"
+        },
+        "correct_answer": "b"
+    }
+Time Taken: 74.03 seconds | Tokens Produced: 439 | ⚡⚡⚡ Token Speed 5.930 tokens/sec
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+
+Attempt 3 out of 5... llama3.2:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the main goal of studying ecology?",
+        "options": {
+            "a": "To understand the impact of humans on the environment",
+            "b": "To learn about the different types of organisms that live together",
+            "c": "To comprehend the relationship between living organisms and their environment",
+            "d": "To study the behavior of individual species"
+        },
+        "correct_answer": "To comprehend the relationship between living organisms and their environment"
+    },
+    {
+        "q_no": 2,
+        "question": "What is population dynamics in ecology?",
+        "options": {
+            "a": "The study of how populations change over time",
+            "b": "The study of individual species behavior",
+            "c": "The study of the impact of humans on the environment",
+            "d": "The study of the structure and function of ecosystems"
+        },
+        "correct_answer": "The study of how populations change over time"
+    },
+    {
+        "q_no": 3,
+        "question": "What is logistic growth in ecology?",
+        "options": {
+            "a": "A type of exponential growth",
+            "b": "A type of population growth that slows down as the population increases",
+            "c": "A type of population decline",
+            "d": "A type of ecological succession"
+        },
+        "correct_answer": "B. A type of population growth that slows down as the population increases"
+    },
+    {
+        "q_no": 4,
+        "question": "What is exponential growth in ecology?",
+        "options": {
+            "a": "A type of logistic growth",
+            "b": "A type of population growth that increases rapidly without limits",
+            "c": "A type of ecological succession",
+            "d": "A type of human impact on populations"
+        },
+        "correct_answer": "B. A type of population growth that increases rapidly without limits"
+    },
+    {
+        "q_no": 5,
+        "question": "What is the effect of birth rates on population growth?",
+        "options": {
+            "a": "It slows down population growth",
+            "b": "It has no effect on population growth",
+            "c": "It increases population growth",
+            "d": "It decreases population growth"
+        },
+        "correct_answer": "C. It increases population growth"
+    },
+    {
+        "q_no": 6,
+        "question": "What is the effect of predation on population growth?",
+        "options": {
+            "a": "It increases population growth",
+            "b": "It has no effect on population growth",
+            "c": "It decreases population growth",
+            "d": "It slows down population growth"
+        },
+        "correct_answer": "C. It decreases population growth"
+    },
+    {
+        "q_no": 7,
+        "question": "What is the impact of human hunting on populations?",
+        "options": {
+            "a": "It increases population growth",
+            "b": "It has no effect on population growth",
+            "c": "It decreases population growth",
+            "d": "It slows down population decline"
+        },
+        "correct_answer": "C. It decreases population growth"
+    },
+    {
+        "q_no": 8,
+        "question": "What is ecological succession in ecology?",
+        "options": {
+            "a": "The study of how populations change over time",
+            "b": "The study of individual species behavior",
+            "c": "The process by which an ecosystem changes after disturbance",
+            "d": "The study of the impact of humans on the environment"
+        },
+        "correct_answer": "C. The process by which an ecosystem changes after disturbance"
+    },
+    {
+        "q_no": 9,
+        "question": "What is the role of habitat destruction in population growth?",
+        "options": {
+            "a": "It increases population growth",
+            "b": "It has no effect on population growth",
+            "c": "It decreases population growth",
+            "d": "It slows down population decline"
+        },
+        "correct_answer": "C. It decreases population growth"
+    },
+    {
+        "q_no": 10,
+        "question": "What is the effect of human impact on populations?",
+        "options": {
+            "a": "It increases population growth",
+            "b": "It has no effect on population growth",
+            "c": "It decreases population growth",
+            "d": "It slows down population decline"
+        },
+        "correct_answer": "C. It decreases population growth"
+    },
+    {
+        "q_no": 11,
+        "question": "What is the role of ecological succession in ecosystem development?",
+        "options": {
+            "a": "It increases biodiversity",
+            "b": "It has no effect on ecosystem development",
+            "c": "It decreases biodiversity",
+            "d": "It promotes ecosystem stability"
+        },
+        "correct_answer": "D. It promotes ecosystem stability"
+    },
+    {
+        "q_no": 12,
+        "question": "What is the relationship between ecological succession and ecosystem development?",
+        "options": {
+            "a": "They are mutually exclusive",
+            "b": "Ecological succession leads to ecosystem development",
+            "c": "Ecosystem development leads to ecological succession",
+            "d": "They have no effect on each other"
+        },
+        "correct_answer": "B. Ecological succession leads to ecosystem development"
+    }
+Time Taken: 83.66 seconds | Tokens Produced: 642 | ⚡⚡⚡ Token Speed 7.674 tokens/sec
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+
+Attempt 4 out of 5... llama3.2:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 5,
+        "question": "What is the primary focus of ecology?",
+        "options": {
+            "a": "The study of individual organisms",
+            "b": "The study of populations and their interactions",
+            "c": "The study of ecosystems and their processes",
+            "d": "The study of genetics and evolution"
+        },
+        "correct_answer": "The study of ecosystems and their processes"
+    },
+    {
+        "q_no": 6,
+        "question": "What is the term for the increase in population size due to an increase in birth rates?",
+        "options": {
+            "a": "Logistic growth",
+            "b": "Exponential growth",
+            "c": "Linear growth",
+            "d": "Positive exponential growth"
+        },
+        "correct_answer": "Exponential growth"
+    },
+    {
+        "q_no": 7,
+        "question": "What is the term for the decrease in population size due to an increase in death rates?",
+        "options": {
+            "a": "Logistic growth",
+            "b": "Exponential decline",
+            "c": "Negative exponential decline",
+            "d": "Linear decline"
+        },
+        "correct_answer": "Negative exponential decline"
+    },
+    {
+        "q_no": 8,
+        "question": "What is the primary effect of predation on population growth?",
+        "options": {
+            "a": "An increase in birth rates",
+            "b": "A decrease in death rates",
+            "c": "A reduction in population size",
+            "d": "No effect on population growth"
+        },
+        "correct_answer": "A reduction in population size"
+    },
+    {
+        "q_no": 9,
+        "question": "What is the primary impact of human hunting on populations?",
+        "options": {
+            "a": "An increase in birth rates",
+            "b": "A decrease in death rates",
+            "c": "A reduction in population size",
+            "d": "No effect on population growth"
+        },
+        "correct_answer": "A reduction in population size"
+    },
+    {
+        "q_no": 10,
+        "question": "What is ecological succession?",
+        "options": {
+            "a": "The replacement of one species by another",
+            "b": "The change in population size due to environmental factors",
+            "c": "The sequence of communities that develop over time after disturbance",
+            "d": "The study of genetic variation"
+        },
+        "correct_answer": "The sequence of communities that develop over time after disturbance"
+    },
+    {
+        "q_no": 11,
+        "question": "What is the primary factor in limiting population growth?",
+        "options": {
+            "a": "Predation",
+            "b": "Birth rates",
+            "c": "Death rates",
+            "d": "Environmental factors"
+        },
+        "correct_answer": "Environmental factors"
+    },
+    {
+        "q_no": 12,
+        "question": "What is the primary benefit of understanding population dynamics?",
+        "options": {
+            "a": "To predict population growth",
+            "b": "To manage human impact on populations",
+            "c": "To study individual organisms",
+            "d": "To understand ecosystem processes"
+        },
+        "correct_answer": "To manage human impact on populations"
+    }
+]
+Time Taken: 71.31 seconds | Tokens Produced: 368 | ⚡⚡⚡ Token Speed 5.160 tokens/sec
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+⚠️ Warning: Expected 12 MCQs but got 8...
+
+Attempt 5 out of 5... llama3.2:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the importance of ecological studies in understanding human impact on populations?",
+        "options": {
+            "a": "Understanding population dynamics",
+            "b": "Analyzing the effects of climate change",
+            "c": "Identifying the causes of extinction",
+            "d": "Determining the role of humans in ecosystem balance"
+        },
+        "correct_answer": "Determining the role of humans in ecosystem balance"
+    },
+    {
+        "q_no": 2,
+        "question": "What type of growth is characterized by a slow and steady increase in population size?",
+        "options": {
+            "a": "Logistic growth",
+            "b": "Exponential growth",
+            "c": "Linear growth",
+            "d": "Rapid growth"
+        },
+        "correct_answer": "Logistic growth"
+    },
+    {
+        "q_no": 3,
+        "question": "What is the primary factor that affects population size in an ecosystem?",
+        "options": {
+            "a": "Predation and competition",
+            "b": "Birth rates and death rates",
+            "c": "Environmental factors such as temperature and humidity",
+            "d": "Human impact on populations"
+        },
+        "correct_answer": "Birth rates and death rates"
+    },
+    {
+        "q_no": 4,
+        "question": "What process occurs when a population's growth rate slows down due to limited resources?",
+        "options": {
+            "a": "Logistic growth",
+            "b": "Exponential growth",
+            "c": "Cyclical growth",
+            "d": "Rapid decay"
+        },
+        "correct_answer": "Logistic growth"
+    },
+    {
+        "q_no": 5,
+        "question": "Which of the following is NOT a factor that affects population growth?",
+        "options": {
+            "a": "Predation and competition",
+            "b": "Birth rates and death rates",
+            "c": "Human impact on populations",
+            "d": "Genetic drift"
+        },
+        "correct_answer": "d. Genetic drift"
+    },
+    {
+        "q_no": 6,
+        "question": "What type of ecosystem is characterized by a gradual change in species composition over time?",
+        "options": {
+            "a": "Succession",
+            "b": "Stability",
+            "c": "Equilibrium",
+            "d": "Cycles"
+        },
+        "correct_answer": "Succession"
+    },
+    {
+        "q_no": 7,
+        "question": "What is the primary driver of ecological succession?",
+        "options": {
+            "a": "Climate change",
+            "b": "Human activity",
+            "c": "Natural events such as fires and storms",
+            "d": "Soil quality"
+        },
+        "correct_answer": "c. Natural events such as fires and storms"
+    },
+    {
+        "q_no": 8,
+        "question": "What is the term for the study of the interactions between organisms and their environment?",
+        "options": {
+            "a": "Ecology",
+            "b": "Biology",
+            "c": "Environmental science",
+            "d": "Conservation"
+        },
+        "correct_answer": "a. Ecology"
+    },
+    {
+        "q_no": 9,
+        "question": "What is the term for the movement of species from one region to another?",
+        "options": {
+            "a": "Migration",
+            "b": "Invasion",
+            "c": "Extinction",
+            "d": "Adaptation"
+        },
+        "correct_answer": "a. Migration"
+    },
+    {
+        "q_no": 10,
+        "question": "What is the term for the process by which a population's genetic variation increases over time?",
+        "options": {
+            "a": "Genetic drift",
+            "b": "Gene flow",
+            "c": "Mutation",
+            "d": "Natural selection"
+        },
+        "correct_answer": "a. Genetic drift"
+    },
+    {
+        "q_no": 11,
+        "question": "What is the term for the study of the structure and organization of living organisms?",
+        "options": {
+            "a": "Biology",
+            "b": "Ecology",
+            "c": "Environmental science",
+            "d": "Conservation"
+        },
+        "correct_answer": "a. Biology"
+    },
+    {
+        "q_no": 12,
+        "question": "What is the term for the process by which a population's growth rate slows down due to the presence of limiting factors?",
+        "options": {
+            "a": "Logistic growth",
+            "b": "Exponential growth",
+            "c": "Cyclical growth",
+            "d": "Rapid decay"
+        },
+        "correct_answer": "a. Logistic growth"
+    }
+]
+Time Taken: 74.95 seconds | Tokens Produced: 487 | ⚡⚡⚡ Token Speed 6.498 tokens/sec
+✅✅✅ Successfully generated 12 MCQs. Attempts Needed 5
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   {
+      "q_no": 1,
+      "question": "What is the importance of ecological studies in understanding human impact on populations?",
+      "options": {
+         "a": "Understanding population dynamics",
+         "b": "Analyzing the effects of climate change",
+         "c": "Identifying the causes of extinction",
+         "d": "Determining the role of humans in ecosystem balance"
+      },
+      "correct_answer": "Determining the role of humans in ecosystem balance"
+   },
+   {
+      "q_no": 2,
+      "question": "What type of growth is characterized by a slow and steady increase in population size?",
+      "options": {
+         "a": "Logistic growth",
+         "b": "Exponential growth",
+         "c": "Linear growth",
+         "d": "Rapid growth"
+      },
+      "correct_answer": "Logistic growth"
+   },
+   {
+      "q_no": 3,
+      "question": "What is the primary factor that affects population size in an ecosystem?",
+      "options": {
+         "a": "Predation and competition",
+         "b": "Birth rates and death rates",
+         "c": "Environmental factors such as temperature and humidity",
+         "d": "Human impact on populations"
+      },
+      "correct_answer": "Birth rates and death rates"
+   },
+   {
+      "q_no": 4,
+      "question": "What process occurs when a population's growth rate slows down due to limited resources?",
+      "options": {
+         "a": "Logistic growth",
+         "b": "Exponential growth",
+         "c": "Cyclical growth",
+         "d": "Rapid decay"
+      },
+      "correct_answer": "Logistic growth"
+   },
+   {
+      "q_no": 5,
+      "question": "Which of the following is NOT a factor that affects population growth?",
+      "options": {
+         "a": "Predation and competition",
+         "b": "Birth rates and death rates",
+         "c": "Human impact on populations",
+         "d": "Genetic drift"
+      },
+      "correct_answer": "d. Genetic drift"
+   },
+   {
+      "q_no": 6,
+      "question": "What type of ecosystem is characterized by a gradual change in species composition over time?",
+      "options": {
+         "a": "Succession",
+         "b": "Stability",
+         "c": "Equilibrium",
+         "d": "Cycles"
+      },
+      "correct_answer": "Succession"
+   },
+   {
+      "q_no": 7,
+      "question": "What is the primary driver of ecological succession?",
+      "options": {
+         "a": "Climate change",
+         "b": "Human activity",
+         "c": "Natural events such as fires and storms",
+         "d": "Soil quality"
+      },
+      "correct_answer": "c. Natural events such as fires and storms"
+   },
+   {
+      "q_no": 8,
+      "question": "What is the term for the study of the interactions between organisms and their environment?",
+      "options": {
+         "a": "Ecology",
+         "b": "Biology",
+         "c": "Environmental science",
+         "d": "Conservation"
+      },
+      "correct_answer": "a. Ecology"
+   },
+   {
+      "q_no": 9,
+      "question": "What is the term for the movement of species from one region to another?",
+      "options": {
+         "a": "Migration",
+         "b": "Invasion",
+         "c": "Extinction",
+         "d": "Adaptation"
+      },
+      "correct_answer": "a. Migration"
+   },
+   {
+      "q_no": 10,
+      "question": "What is the term for the process by which a population's genetic variation increases over time?",
+      "options": {
+         "a": "Genetic drift",
+         "b": "Gene flow",
+         "c": "Mutation",
+         "d": "Natural selection"
+      },
+      "correct_answer": "a. Genetic drift"
+   },
+   {
+      "q_no": 11,
+      "question": "What is the term for the study of the structure and organization of living organisms?",
+      "options": {
+         "a": "Biology",
+         "b": "Ecology",
+         "c": "Environmental science",
+         "d": "Conservation"
+      },
+      "correct_answer": "a. Biology"
+   },
+   {
+      "q_no": 12,
+      "question": "What is the term for the process by which a population's growth rate slows down due to the presence of limiting factors?",
+      "options": {
+         "a": "Logistic growth",
+         "b": "Exponential growth",
+         "c": "Cyclical growth",
+         "d": "Rapid decay"
+      },
+      "correct_answer": "a. Logistic growth"
+   }
+]
+TIME for MCQ: 74.949 | ⚡⚡⚡ Token Speed: 6.498 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 536 | TOTAL Time: 413.91
+
+********************************************************************************
+Syllabus NUMBER 8
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Cambridge Grade 8 Mathematics - Algebra - Linear Equations:
+- Solving linear equations using addition and subtraction methods
+- Solving linear equations using multiplication and division methods
+- Graphing linear equations on a coordinate plane
+- Writing and solving linear equations in slope-intercept form
+- Identifying the x and y intercepts of linear equations
+- Applying linear equations to solve problems in real-life situations
+TIME for SYLLABUS: 11.32 | ⚡⚡⚡ Token Speed: 5.83 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 5... llama3.2:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the main purpose of solving linear equations using addition and subtraction methods?",
+        "options": {
+            "a": "To isolate variables",
+            "b": "To graph linear equations",
+            "c": "To simplify expressions",
+            "d": "To solve quadratic equations"
+        },
+        "correct_answer": "To isolate variables"
+    },
+    {
+        "q_no": 2,
+        "question": "Which method is used to solve linear equations using multiplication and division methods?",
+        "options": {
+            "a": "Addition",
+            "b": "Subtraction",
+            "c": "Multiplication",
+            "d": "Division"
+        },
+        "correct_answer": "Division"
+    },
+    {
+        "q_no": 3,
+        "question": "What is the primary purpose of graphing linear equations on a coordinate plane?",
+        "options": {
+            "a": "To solve linear equations",
+            "b": "To identify x and y intercepts",
+            "c": "To find equation slopes",
+            "d": "All of the above"
+        },
+        "correct_answer": "To find equation slopes"
+    },
+    {
+        "q_no": 4,
+        "question": "What is the standard form of a linear equation in slope-intercept form?",
+        "options": {
+            "a": "y = mx + b",
+            "b": "x = my - b",
+            "c": "mx + y = b",
+            "d": "my - x = b"
+        },
+        "correct_answer": "y = mx + b"
+    },
+    {
+        "q_no": 5,
+        "question": "What are the coordinates of an x-intercept in a linear equation?",
+        "options": {
+            "a": "(0, y)",
+            "b": "(x, 0)",
+            "c": "(0, 0)",
+            "d": "(x, x)"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "q_no": 6,
+        "question": "What is the purpose of identifying x and y intercepts in a linear equation?",
+        "options": {
+            "a": "To solve for one variable",
+            "b": "To graph the line",
+            "c": "To find the slope",
+            "d": "To identify the line's position"
+        },
+        "correct_answer": "To identify the line's position"
+    },
+    {
+        "q_no": 7,
+        "question": "How is linear equations applied to solve real-life problems?",
+        "options": {
+            "a": "By graphing the equation",
+            "b": "By solving for a variable",
+            "c": "Both A and B",
+            "d": "Neither A nor B"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "q_no": 8,
+        "question": "What is the main difference between adding and subtracting in linear equations?",
+        "options": {
+            "a": "Adding adds value to both sides",
+            "b": "Subtracting removes value from both sides",
+            "c": "Adding isolates variables, subtracting does not",
+            "d": "Both add and subtract isolate variables"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "q_no": 9,
+        "question": "How is multiplication used in linear equations?",
+        "options": {
+            "a": "To multiply both sides",
+            "b": "To multiply only one side",
+            "c": "Neither A nor B",
+            "d": "Both A and B"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "q_no": 10,
+        "question": "What is the role of division in linear equations?",
+        "options": {
+            "a": "To isolate variables",
+            "b": "To solve for a constant",
+            "c": "Neither A nor B",
+            "d": "Both A and B"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "q_no": 11,
+        "question": "How is linear equations used to model real-life situations?",
+        "options": {
+            "a": "By graphing the equation",
+            "b": "By solving for a variable",
+            "c": "Both A and B",
+            "d": "Neither A nor B"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "q_no": 12,
+        "question": "What is the primary benefit of using linear equations to solve problems?",
+        "options": {
+            "a": "It provides an exact solution",
+            "b": "It offers multiple solutions",
+            "c": "Neither A nor B",
+            "d": "Both A and B"
+        },
+        "correct_answer": "a"
+    }
+]
+Time Taken: 100.76 seconds | Tokens Produced: 508 | ⚡⚡⚡ Token Speed 5.042 tokens/sec
+✅✅✅ Successfully generated 12 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   {
+      "q_no": 1,
+      "question": "What is the main purpose of solving linear equations using addition and subtraction methods?",
+      "options": {
+         "a": "To isolate variables",
+         "b": "To graph linear equations",
+         "c": "To simplify expressions",
+         "d": "To solve quadratic equations"
+      },
+      "correct_answer": "To isolate variables"
+   },
+   {
+      "q_no": 2,
+      "question": "Which method is used to solve linear equations using multiplication and division methods?",
+      "options": {
+         "a": "Addition",
+         "b": "Subtraction",
+         "c": "Multiplication",
+         "d": "Division"
+      },
+      "correct_answer": "Division"
+   },
+   {
+      "q_no": 3,
+      "question": "What is the primary purpose of graphing linear equations on a coordinate plane?",
+      "options": {
+         "a": "To solve linear equations",
+         "b": "To identify x and y intercepts",
+         "c": "To find equation slopes",
+         "d": "All of the above"
+      },
+      "correct_answer": "To find equation slopes"
+   },
+   {
+      "q_no": 4,
+      "question": "What is the standard form of a linear equation in slope-intercept form?",
+      "options": {
+         "a": "y = mx + b",
+         "b": "x = my - b",
+         "c": "mx + y = b",
+         "d": "my - x = b"
+      },
+      "correct_answer": "y = mx + b"
+   },
+   {
+      "q_no": 5,
+      "question": "What are the coordinates of an x-intercept in a linear equation?",
+      "options": {
+         "a": "(0, y)",
+         "b": "(x, 0)",
+         "c": "(0, 0)",
+         "d": "(x, x)"
+      },
+      "correct_answer": "b"
+   },
+   {
+      "q_no": 6,
+      "question": "What is the purpose of identifying x and y intercepts in a linear equation?",
+      "options": {
+         "a": "To solve for one variable",
+         "b": "To graph the line",
+         "c": "To find the slope",
+         "d": "To identify the line's position"
+      },
+      "correct_answer": "To identify the line's position"
+   },
+   {
+      "q_no": 7,
+      "question": "How is linear equations applied to solve real-life problems?",
+      "options": {
+         "a": "By graphing the equation",
+         "b": "By solving for a variable",
+         "c": "Both A and B",
+         "d": "Neither A nor B"
+      },
+      "correct_answer": "c"
+   },
+   {
+      "q_no": 8,
+      "question": "What is the main difference between adding and subtracting in linear equations?",
+      "options": {
+         "a": "Adding adds value to both sides",
+         "b": "Subtracting removes value from both sides",
+         "c": "Adding isolates variables, subtracting does not",
+         "d": "Both add and subtract isolate variables"
+      },
+      "correct_answer": "c"
+   },
+   {
+      "q_no": 9,
+      "question": "How is multiplication used in linear equations?",
+      "options": {
+         "a": "To multiply both sides",
+         "b": "To multiply only one side",
+         "c": "Neither A nor B",
+         "d": "Both A and B"
+      },
+      "correct_answer": "d"
+   },
+   {
+      "q_no": 10,
+      "question": "What is the role of division in linear equations?",
+      "options": {
+         "a": "To isolate variables",
+         "b": "To solve for a constant",
+         "c": "Neither A nor B",
+         "d": "Both A and B"
+      },
+      "correct_answer": "d"
+   },
+   {
+      "q_no": 11,
+      "question": "How is linear equations used to model real-life situations?",
+      "options": {
+         "a": "By graphing the equation",
+         "b": "By solving for a variable",
+         "c": "Both A and B",
+         "d": "Neither A nor B"
+      },
+      "correct_answer": "c"
+   },
+   {
+      "q_no": 12,
+      "question": "What is the primary benefit of using linear equations to solve problems?",
+      "options": {
+         "a": "It provides an exact solution",
+         "b": "It offers multiple solutions",
+         "c": "Neither A nor B",
+         "d": "Both A and B"
+      },
+      "correct_answer": "a"
+   }
+]
+TIME for MCQ: 100.761 | ⚡⚡⚡ Token Speed: 5.042 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 574 | TOTAL Time: 112.09
+
+********************************************************************************
+
+Total Time Taken: 2058.60, Total Tokens Generated: 3622, Avg Total Token Gen Speed: 1.76 tokens/sec
+Total ERROR: 18 
+Total Syllabi: 8 | MCQ Attempt per Syllabus: 5

@@ -1,0 +1,53 @@
+********************************************************************************
+Syllabus NUMBER 1 of 4
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+- Introduction to trigonometric functions and their relationships
+- Defining sine, cosine, and tangent
+- Understanding right triangle trigonometry
+- Identifying and creating trigonometric triangles
+- Solving problems involving angle measurements
+- Applying trigonometry in real-world scenarios
+TIME for SYLLABUS: 8.197 | ⚡⚡⚡ Token Speed: 4.514 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 5 for Syllabus 1 of 4... llama3.2:1b
+🔍🔍🔍 Generated MCQ:
+
+ {"q_no": "1", "question": "Which of the following statements about alcohols is correct?", "options": {"a": "They are highly reactive and tend to displace hydrogen ions from other compounds.", "b": "They are polar molecules due to the presence of a -OH group.", "c": "They are non-polar molecules with no dipole moment.", "d": "They can undergo dehydration reactions."}, "correct_answer": "b"}
+{"q_no": "2", "question": "What is the purpose of adding water to an ether in the presence of a catalyst?", "options": {"a": "To increase its boiling point.", "b": "To break down its -OR group.", "c": "To form a new ether product.", "d": "To purify it from other compounds."}, "correct_answer": "b"}
+{"q_no": "3", "question": "Which type of reaction involves the formation of an ester from an alcohol and a carboxylic acid?", "options": {"a": "Substitution", "b": "Addition", "c": "Oxidation", "d": "Elimination"}, "correct_answer": "d"}
+{"q_no": "4", "question": "Which of the following is a characteristic that distinguishes phenols from alcohols in terms of reactivity?", "options": {"a": "Increased stability due to resonance.", "b": "Lower reactivity due to no lone pairs.", "c": "Higher reactivity due to resonance.", "d": "No difference."}, "correct_answer": "b"}
+{"q_no": "5", "question": "What is the purpose of using a base in an acid-base reaction?", "options": {"a": "To increase its boiling point.", "b": "To break down its -OR group.", "c": "To form a new compound.", "d": "To purify it from other compounds."}, "correct_answer": "b"}
+{"q_no": "6", "question": "Which of the following types of bonds is characteristic of ethers?", "options": {"a": "Hydrogen bonding.", "b": "-OR.", "c": "-NH2.", "d": "-CN."}, "correct_answer": "d"}
+{"q_no": "7", "question": "What is the purpose of adding a catalyst to an acid-catalyzed reaction?", "options": {"a": "To increase its boiling point.", "b": "To break down its -OR group.", "c": "To form a new compound.", "d": "To purify it from other compounds."}, "correct_answer": "b"}
+{"q_no": "8", "question": "Which of the following statements about trigonometric functions is correct?", "options": {"a": "They are all polar molecules.", "b": "They are all non-polar molecules with no dipole moment.", "c": "Some are highly reactive and tend to displace hydrogen ions from other compounds.", "d": "They can undergo dehydration reactions."}, "correct_answer": "c"}
+{"q_no": "9", "question": "What is the purpose of using a solvent in an acid-base reaction?", "options": {"a": "To increase its boiling point.", "b": "To break down its -OR group.", "c": "To form a new compound.", "d": "To purify it from other compounds."}, "correct_answer": "b"}
+{"q_no": "10", "question": "Which of the following types of bonds is characteristic of ethers?", "options": {"a": "-OR.", "b": "-NH2.", "c": "-CN.", "d": "-O-O-."}, "correct_answer": "d"}
+{"q_no": "11", "question": "What is the purpose of adding a base to an acid-catalyzed reaction?", "options": {"a": "To increase its boiling point.", "b": "To break down its -OR group.", "c": "To form a new compound.", "d": "To purify it from other compounds."}, "correct_answer": "b"}
+{"q_no": "12", "question": "Which of the following statements about angle measurements is correct?", "options": {"a": "They are always equal to 90 degrees.", "b": "They can be measured using a protractor.", "c": "Some are significantly larger or smaller than others.", "d": "They can be calculated using trigonometry."}, "correct_answer": "c"}
+Time Taken: 58.28 seconds | Tokens Produced: 509 | ⚡⚡⚡ Token Speed 8.734 tokens/sec
+⚠️ Error: Invalid JSON format...
+
+Attempt 2 out of 5 for Syllabus 1 of 4... llama3.2:1b
+🔍🔍🔍 Generated MCQ:
+
+ {"q_no": "1", "question": "What is the main difference between a trigonometric function and an inverse trigonometric function?", "options": {"a": "Both have periodic graphs", "b": "Both are used to find angles in degrees or radians", "c": "Trigonometric functions have vertical asymptotes while inverse trigonometric functions do not", "d": "Trigonometric functions are derived from the sine and cosine functions while inverse trigonometric functions are derived from the tangent, cotangent, secant, and cosecant functions"}, "correct_answer": "Both have periodic graphs"}
+{"q_no": "2", "question": "What is the range of a hyperbola?", "options": {"a": "-∞, 0", "b": "0, ∞", "c": "<|reserved_special_token_193|>", "d": ">∞"}, "correct_answer": "0, ∞"}
+{"q_no": "3", "question": "What is the definition of a tangent in trigonometry?", "options": {"a": "The ratio of the length of the side opposite the angle to the length of the side adjacent to the angle", "b": "-The ratio of the length of the side adjacent to the angle to the length of the side opposite the angle", "c": "- The sine of an angle in a right triangle divided by the cosine of that angle", "d": "The sine of an angle in a right triangle multiplied by the cosine of that angle divided by the hypotenuse", "e": "None of the above, it is not defined", "correct": "a"}
+{"q_no": "4", "question": "Which trigonometric function has a period of π?", "options": {"a": "Sine", "b": "Cosine", "c": "-1", "d": "Tangent"}, "correct_answer": "Sine"}
+{"q_no": "5", "question": "What is the relationship between the tangent and cotangent functions?", "options": {"a": "Both are reciprocal of each other", "b": "Both are complementary angles in a right triangle", "c": "-1/2", "d": "None of the above, they are not reciprocals", "correct": "a"}
+{"q_no": "6", "question": "What is the difference between an inscribed angle and a central angle?", "options": {"a": "An inscribed angle subtends the same arc as a central angle that subtends it", "b": "-A central angle has twice the measure of the corresponding inscribed angle", "c": "Neither, they have equal measures", "d": "None of the above, it is not defined"}, "correct_answer": "a"}
+{"q_no": "7", "question": "Which trigonometric function represents the tangent of an angle in a right triangle?", "options": {"a": "-1/sqrt(2)", "b": "1/sqrt(2)", "c": "-1/sqrt(3)", "d": "0.5"}, "correct_answer": "-1/sqrt(2)}
+{"q_no": "8", "question": "What is the relationship between sine and cosine in a right triangle?", "options": {"a": "Sine = Cosine", "b": "Sine < Cosine", "c": "Sine > Cosine", "d": "-1/2", "correct": "b"}
+{"q_no": "9", "question": "What is the definition of a secant in trigonometry?", "options": {"a": "The ratio of the length of the side opposite the angle to the length of the side adjacent to the angle", "b": "-The reciprocal of the tangent function divided by the cosine function", "c": "None of the above, it is not defined", "d": "-1/2", "correct": "a"}
+{"q_no": "10", "question": "Which trigonometric function represents the cotangent of an angle in a right triangle?", "options": {"a": "cotangent", "b": "cosecant", "c": "-cotangent", "d": "None of the above, it is not defined"}, "correct": "a"}
+{"q_no": "11", "question": "What is the sum of angles in a quadrilateral?", "options": {"a": 360°, "b": "0", "c": "90", "d": ">2π", "correct": "a"}
+{"q_no": "12", "question": "Which trigonometric function is used to find the angle between two lines?", "options": {"a": "-1/sqrt(3)", "b": "sin^-1(x)", "c": "-cot^-1(x)", "d": "tan^-1(x)", "correct": "a"}
+{"q_no": "13", "question": "What is the definition of a cosecant in trigonometry?", "options": {"a": "The reciprocal of the sine function divided by the cosine function", "b": "-The reciprocal of the tangent function divided by the secant function", "c": "None of the above, it is not defined", "d": "-1/2", "correct": "a"}
+{"q_no": "14", "question": "What is the relationship between sine and cosine in a right triangle when the angle between the two sides is 90°?", "options": {"a": "Sine = Cosine", "b": "Sine < Cosine", "c": "Sine > Cosine", "d": "-1/2", "correct": "b"}
+Time Taken: 80.21 seconds | Tokens Produced: 626 | ⚡⚡⚡ Token Speed 7.805 tokens/sec
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+
+Attempt 3 out of 5 for Syllabus 1 of 4... llama3.2:1b

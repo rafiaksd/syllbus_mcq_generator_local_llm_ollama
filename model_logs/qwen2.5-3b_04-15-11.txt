@@ -1,0 +1,426 @@
+********************************************************************************
+Syllabus NUMBER 1
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Edexcel Grade 12 Mathematics - Calculus - Differentiation:
+- Introduction to the concept of a derivative
+- Notation and rules for differentiation (e.g., power rule, product rule, quotient rule)
+- Differentiation of polynomial functions
+- Differentiation of trigonometric functions
+- Differentiation of exponential and logarithmic functions
+- Applying derivatives to find gradients, tangents, and normals to curves
+- Solving simple optimization problems using differentiation
+TIME for SYLLABUS: 13.995 | ⚡⚡⚡ Token Speed: 4.716 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 14
+Attempt 1 out of 5... qwen2.5:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What does a derivative represent in calculus?",
+        "options": {
+            "a": "The slope of a tangent line at a point on a curve",
+            "b": "The rate of change of a function over time",
+            "c": "The area under the curve of the function",
+            "d": "The maximum value of the function"
+        },
+        "correct_answer": "The slope of a tangent line at a point on a curve"
+    },
+    {
+        "q_no": 2,
+        "question": "Which rule is used to differentiate \(x^3\) in calculus?",
+        "options": {
+            "a": "Power Rule",
+            "b": "Product Rule",
+            "c": "Quotient Rule",
+            "d": "Chain Rule"
+        },
+        "correct_answer": "Power Rule"
+    },
+    {
+        "q_no": 3,
+        "question": "What is the derivative of \(f(x) = x^2 + 5x - 3\) at \(x = 1\)?",
+        "options": {
+            "a": "8",
+            "b": "7",
+            "c": "6",
+            "d": "5"
+        },
+        "correct_answer": "7"
+    },
+    {
+        "q_no": 4,
+        "question": "Which trigonometric function's derivative is \(\sin(x)\)?",
+        "options": {
+            "a": "\(\cos(x)\)",
+            "b": "\(-\sin(x)\)",
+            "c": "\(\tan(x)\)",
+            "d": "\(\sec(x)\)"
+        },
+        "correct_answer": "\(\cos(x)\)"
+    },
+    {
+        "q_no": 5,
+        "question": "What is the derivative of \(f(x) = e^x\) at any point \(x\)?",
+        "options": {
+            "a": "0",
+            "b": "1",
+            "c": "\(-e^x\)",
+            "d": "\(e^x\)"
+        },
+        "correct_answer": "1"
+    },
+    {
+        "q_no": 6,
+        "question": "If \(y = \ln(x)\), what is the derivative of \(y\) with respect to \(x\) at any point \(x > 0\)?",
+        "options": {
+            "a": "\(\frac{1}{x}\)",
+            "b": "-\(\frac{1}{x}\)",
+            "c": "\(\ln(x)\)",
+            "d": "0"
+        },
+        "correct_answer": "\(\frac{1}{x}\)"
+    },
+    {
+        "q_no": 7,
+        "question": "What is the gradient of the tangent to the curve \(y = x^2 + 4x - 5\) at \(x = 3\)?",
+        "options": {
+            "a": "19",
+            "b": "20",
+            "c": "21",
+            "d": "22"
+        },
+        "correct_answer": "20"
+    },
+    {
+        "q_no": 8,
+        "question": "Find the equation of the tangent to the curve \(y = x^3 - 2x + 1\) at the point where \(x = 2\).",
+        "options": {
+            "a": "4x - y - 5 = 0",
+            "b": "8x - y - 13 = 0",
+            "c": "2x - y - 3 = 0",
+            "d": "6x - y + 9 = 0"
+        },
+        "correct_answer": "4x - y - 5 = 0"
+    },
+    {
+        "q_no": 9,
+        "question": "A cylindrical container has a volume of \(V = \pi r^2 h\), where \(r\) is the radius and \(h\) is the height. If \(r = 3\) units and \(h\) changes at a rate of \(0.5\) units per second, what is the rate of change of volume with respect to time when \(h = 4\) units?",
+        "options": {
+            "a": "12\(\pi\)" units³/s,
+            "b": "6\(\pi\)" units³/s,
+            "c": "\(\pi\)" units³/s,
+            "d": "0" units³/s
+        },
+        "correct_answer": "12\(\pi\)" units³/s
+    },
+    {
+        "q_no": 10,
+        "question": "A company produces gadgets at a cost of \(C = 50x + 300\) and sells them at a price of \(P = 100 - x\), where \(x\) is the number of gadgets sold. What is the maximum profit?",
+        "options": {
+            "a": "\(-200\) dollars",
+            "b": "50" dollars,
+            "c": "100" dollars,
+            "d": "200" dollars
+        },
+        "correct_answer": "200" dollars
+    }
+]
+Time Taken: 95.36 seconds | Tokens Produced: 476 | ⚡⚡⚡ Token Speed 4.992 tokens/sec
+⚠️ Error: Invalid JSON format...
+
+Attempt 2 out of 5... qwen2.5:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the derivative of \( f(x) = x^2 \)?",
+        "options": {
+            "a": "\\(f'(x) = 2x\\)",
+            "b": "\\(f'(x) = x\\)",
+            "c": "\\(f'(x) = 3x\\)",
+            "d": "\\(f'(x) = x^2\\)"
+        },
+        "correct_answer": "\\(f'(x) = 2x\\)"
+    },
+    {
+        "q_no": 2,
+        "question": "How do you differentiate \\(g(x) = \sin(x) + \cos(x)\\)?",
+        "options": {
+            "a": "\\(g'(x) = \cos(x) - \sin(x)\\)",
+            "b": "\\(g'(x) = \cos^2(x) + \sin^2(x)\\)",
+            "c": "\\(g'(x) = -\cos(x) + \sin(x)\\)",
+            "d": "\\(g'(x) = 0\\)"
+        },
+        "correct_answer": "\\(g'(x) = \cos(x) - \sin(x)\\)"
+    },
+    {
+        "q_no": 3,
+        "question": "If the derivative of a function \\(h(x)\\) is \\(h'(x) = 4x^2 + 5\\), what is \\(h(x)\\)?",
+        "options": {
+            "a": "\\(h(x) = x^3 + 5x\\)",
+            "b": "\\(h(x) = 2x^3 + 5\\)",
+            "c": "\\(h(x) = x^4 + 5x\\)",
+            "d": "\\(h(x) = x^4 + \frac{5}{2}x\\)"
+        },
+        "correct_answer": "\\(h(x) = x^4 + \frac{5}{2}x\\)"
+    },
+    {
+        "q_no": 4,
+        "question": "What is the gradient of \\(y = e^x\\) at \\(x = 0\\)?",
+        "options": {
+            "a": "1",
+            "b": "e",
+            "c": "\\(e^0\\)",
+            "d": "0"
+        },
+        "correct_answer": "\\(e^0\\)"
+    },
+    {
+        "q_no": 5,
+        "question": "What is the value of \\(h'(x)\\) at \\(x = \frac{\pi}{2}\\) for \\(h(x) = \sin(x) - x\\)?",
+        "options": {
+            "a": "-1",
+            "b": "\\(-1 + 1\\)",
+            "c": "0",
+            "d": "None of the above"
+        },
+        "correct_answer": "-1"
+    },
+    {
+        "q_no": 6,
+        "question": "If a function \\(f(x)\\) has a maximum value at \\(x = a\\), which of the following statements is true about its derivative at that point?",
+        "options": {
+            "a": "The derivative is zero",
+            "b": "The derivative is positive",
+            "c": "The derivative is negative",
+            "d": "Cannot determine without more information"
+        },
+        "correct_answer": "The derivative is zero"
+    },
+    {
+        "q_no": 7,
+        "question": "What is the equation of the tangent line to \\(y = x^2 - 4x + 3\\) at \\(x = 2\\)?",
+        "options": {
+            "a": "\\(y = 2x - 1\\)",
+            "b": "\\(y = x - 1\\)",
+            "c": "\\(y = 2x + 3\\)",
+            "d": "\\(y = x + 1\\)"
+        },
+        "correct_answer": "\\(y = 2x - 1\\)"
+    },
+    {
+        "q_no": 8,
+        "question": "A company’s profit \\(P(x)\\) in thousands of dollars is given by \\(P(x) = x^3 - 6x^2 + 9x + 50\\). What is the marginal profit at \\(x = 4\\)?",
+        "options": {
+            "a": "\\(16\\)",
+            "b": "\\(-16\\)",
+            "c": "None of the above",
+            "d": "\\(0\\)"
+        },
+        "correct_answer": "\\(16\\)"
+    },
+    {
+        "q_no": 9,
+        "question": "The function \\(f(x) = x^3 - 2x^2 + 4x - 5\\) has a critical point at \\(x = k\\). What is the value of \\(k\\)?",
+        "options": {
+            "a": "\\(-1\\)",
+            "b": "\\(0\\)",
+            "c": "\\(1\\)",
+            "d": "None of the above"
+        },
+        "correct_answer": "\\(1\\)"
+    },
+    {
+        "q_no": 10,
+        "question": "If \\(y = \ln(x^2 + 3x - 4)\\), what is \\(y'\\)?",
+        "options": {
+            "a": "\\(\frac{2x + 3}{x^2 + 3x - 4}\\)",
+            "b": "\\(\frac{2x - 3}{x^2 + 3x - 4}\\)",
+            "c": "\\(\frac{x - 1}{x^2 + 3x - 4}\\)",
+            "d": "\\(\frac{2x + 3}{x^2 - 3x - 4}\\)"
+        },
+        "correct_answer": "\\(\frac{2x + 3}{x^2 + 3x - 4}\\)"
+    }
+]
+Time Taken: 116.42 seconds | Tokens Produced: 480 | ⚡⚡⚡ Token Speed 4.123 tokens/sec
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+
+Attempt 3 out of 5... qwen2.5:3b
+********************************************************************************
+Syllabus NUMBER 1
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Edexcel Grade 12 Mathematics - Calculus - Differentiation:
+- Introduction to the concept of differentiation
+- Rules of differentiation (power rule, product rule, quotient rule)
+- Differentiation of trigonometric functions
+- Differentiation of exponential and logarithmic functions
+- Finding gradients and equations of tangents
+- Second derivatives and their applications
+TIME for SYLLABUS: 14.319 | ⚡⚡⚡ Token Speed: 3.632 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 5... qwen2.5:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is differentiation in calculus used for?",
+        "options": {
+            "a": "To find the area under a curve",
+            "b": "To find the slope of a function at any point",
+            "c": "To calculate volumes of solids",
+            "d": "To integrate functions"
+        },
+        "correct_answer": "To find the slope of a function at any point"
+    },
+    {
+        "q_no": 2,
+        "question": "Which differentiation rule requires multiplying by a power?",
+        "options": {
+            "a": "The quotient rule",
+            "b": "The product rule",
+            "c": "The power rule",
+            "d": "The chain rule"
+        },
+        "correct_answer": "The power rule"
+    },
+    {
+        "q_no": 3,
+        "question": "What is the derivative of \( \sin(x) \)?",
+        "options": {
+            "a": "\( \cos(x) \)",
+            "b": "\( -\cos(x) \)",
+            "c": "\( \sin(x) \)",
+            "d": "\( -\sin(x) \)"
+        },
+        "correct_answer": "\( \cos(x) \)"
+    },
+    {
+        "q_no": 4,
+        "question": "What is the derivative of \( e^x \)?",
+        "options": {
+            "a": "\( e^x \)",
+            "b": "\( x \)",
+            "c": "\( 0 \)",
+            "d": "\( -e^x \)"
+        },
+        "correct_answer": "\( e^x \)"
+    },
+    {
+        "q_no": 5,
+        "question": "What is the derivative of \( \ln(x) \)?",
+        "options": {
+            "a": "\( x \)",
+            "b": "\( \frac{1}{x} \)",
+            "c": "\( -\ln(x) \)",
+            "d": "\( 0 \)"
+        },
+        "correct_answer": "\( \frac{1}{x} \)"
+    },
+    {
+        "q_no": 6,
+        "question": "If the first derivative of a function is positive, what does this indicate about its graph?",
+        "options": {
+            "a": "It is decreasing",
+            "b": "It has a local maximum",
+            "c": "It is increasing",
+            "d": "It has a vertical tangent"
+        },
+        "correct_answer": "It is increasing"
+    },
+    {
+        "q_no": 7,
+        "question": "What is the second derivative used for?",
+        "options": {
+            "a": "To find the slope of the curve",
+            "b": "To calculate areas under curves",
+            "c": "To determine concavity and points of inflection",
+            "d": "To solve integration problems"
+        },
+        "correct_answer": "To determine concavity and points of inflection"
+    },
+    {
+        "q_no": 8,
+        "question": "Which differentiation rule allows us to differentiate products of functions?",
+        "options": {
+            "a": "The quotient rule",
+            "b": "The product rule",
+            "c": "The chain rule",
+            "d": "The power rule"
+        },
+        "correct_answer": "The product rule"
+    },
+    {
+        "q_no": 9,
+        "question": "What is the derivative of \( \cos(x) \)?",
+        "options": {
+            "a": "\( -\sin(x) \)",
+            "b": "\( \sin(x) \)",
+            "c": "\( -\cos(x) \)",
+            "d": "\( \cos(x) \)"
+        },
+        "correct_answer": "\( -\sin(x) \)"
+    },
+    {
+        "q_no": 10,
+        "question": "What is the derivative of \( a^x \)?",
+        "options": {
+            "a": "\( a^x \ln(a) \)",
+            "b": "\( a^{x-1} \ln(a) \)",
+            "c": "\( x^a \ln(a) \)",
+            "d": "\( 0 \)"
+        },
+        "correct_answer": "\( a^x \ln(a) \)"
+    },
+    {
+        "q_no": 11,
+        "question": "What is the gradient of the tangent to \( y = x^3 - 2x + 1 \) at \( x = 2 \)?",
+        "options": {
+            "a": "\( -1 \)",
+            "b": "\( 5 \)",
+            "c": "\( -7 \)",
+            "d": "\( 6 \)"
+        },
+        "correct_answer": "\( 5 \)"
+    },
+    {
+        "q_no": 12,
+        "question": "What is the equation of the tangent to \( y = e^x + x \) at \( (0, 1) \)?",
+        "options": {
+            "a": "\( y = -e^x + 1 \)",
+            "b": "\( y = e^x + x \)",
+            "c": "\( y = e^x - x \)",
+            "d": "\( y = e^x + x - 1 \)"
+        },
+        "correct_answer": "\( y = e^x + x \)"
+    }
+]
+Time Taken: 99.44 seconds | Tokens Produced: 534 | ⚡⚡⚡ Token Speed 5.370 tokens/sec
+⚠️ Error: Invalid JSON format...
+
+Attempt 2 out of 5... qwen2.5:3b
+********************************************************************************
+Syllabus NUMBER 1
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Edexcel Grade 12 Mathematics - Calculus - Differentiation:
+- Introduction to the concept of derivatives
+- Differentiation using power rule
+- Differentiation of composite functions (chain rule)
+- Differentiation of product and quotient rules
+- Second derivative and its applications
+- Implicit differentiation
+- Related rates
+
+END IT AFTER CREATING THE SYLLABUS
+TIME for SYLLABUS: 12.814 | ⚡⚡⚡ Token Speed: 4.214 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 14
+Attempt 1 out of 5... qwen2.5:3b

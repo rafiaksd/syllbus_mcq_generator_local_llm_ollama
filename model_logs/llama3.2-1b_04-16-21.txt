@@ -1,0 +1,534 @@
+Using 2 parallel processes.
+********************************************************************************
+********************************************************************************
+
+Syllabus NUMBER 1 of 3 --- | llama3.2:1b
+
+Syllabus NUMBER 2 of 3 --- | llama3.2:1b
+
+
+📝📝📝 GOTTEN SYLLABUS 2 of 3 📝📝📝
+- Introduction to functions in mathematics
+- Understanding function notation (f(a) = a)
+- Representing functions algebraically (a function = f(x)) and conceptually (the relationship between input and output)
+- Identifying domain and range of a function
+- Solving equations for functions
+- Graphing basic linear and quadratic functions
+TIME for SYLLABUS: 9.859 | ⚡⚡⚡ Token Speed: 4.97 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1/4 for Syllabus 2 of 3... | llama3.2:1b
+
+📝📝📝 GOTTEN SYLLABUS 1 of 3 📝📝📝
+- Introduction to exponents and their rules
+- Understanding the concept of positive and negative exponents
+- Rules for multiplying powers with the same base
+- Simplifying expressions with exponents
+- Solving equations involving exponents and powers
+
+- Solving equations involving inverse operations
+- Using exponent properties to simplify expressions
+- Graphing exponential functions on a coordinate plane
+TIME for SYLLABUS: 10.024 | ⚡⚡⚡ Token Speed: 5.786 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 16
+Attempt 1/4 for Syllabus 1 of 3... | llama3.2:1b
+
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What is the product formed when phenol undergoes dehydration?", "options": {"a": "Phenoxide ion", "b": "Ethanol", "c": "Ethylbenzene", "d": "Phenyl acetic acid"}, "correct_answer": "Phenoxide ion"},
+    {"q_no": "2", "question": "Which functional group defines alcohols?", "options": {"a": "Carbonyl (-CO-)", "b": "Hydroxyl (-OH)", "c": "Nitrile (-CN)", "d": "Carboxyl (-COOH)"}, "correct_answer": "Hydroxyl (-OH)"},
+    {"q_no": "3", "question": "Which of the following is NOT a reaction type generally involved in alcohol chemistry?", "options": {"a": "Oxidation", "b": "Hydration", "c": "Reduction", "d": "Halogenation"}, "correct_answer": "Reduction"},
+    {"q_no": "4", "question": "Ethers are classified based on the nature of their alkyl groups bonded to oxygen. Which term refers to ethers with two alkyl groups?", "options": {"a": "Monoethers", "b": "Diethers", "c": "Triethers", "d": "Polyethers"}, "correct_answer": "Diethers"},
+    {"q_no": "5", "question": "What is the product formed when phenol undergoes dehydration?", "options": {"a": "Phenoxide ion", "b": "Ethanol", "c": "Ethylbenzene", "d": "Phenyl acetic acid"}, "correct_answer": "Phenoxide ion"},
+    {"q_no": "6", "question": "Which functional group characterizes ethers?", "options": {"a": "Hydrogen bonding", "b": "-OR", "c": "-NH2", "d": "-CN"}, "correct_answer": "-OR"},
+    {"q_no": "7", "question": "Alcohols and phenols exhibit increased reactivity compared to ethers due to which property?", "options": {"a": "Presence of a lone pair on oxygen", "b": "Presence of a triple bond", "c": "Higher molecular weight", "d": "Absence of double bonds"}, "correct_answer": "Presence of a lone pair on oxygen"},
+    {"q_no": "8", "question": "What type of reaction would likely be performed to synthesize ethers from alcohols?", "options": {"a": "Hydrogenation", "b": "Dehydration", "c": "Hydrolysis", "d": "Substitution"}, "correct_answer": "Dehydration"},
+    {"q_no": "9", "question": "Which characteristic distinguishes phenols from alcohols in terms of reactivity towards electrophiles?", "options": {"a": "Increased stability due to resonance", "b": "Lower reactivity due to no lone pairs", "c": "Higher reactivity due to resonance", "d": "Lower reactivity due to no double bonds"}, "correct_answer": "Increased stability due to resonance"},
+    {"q_no": "10", "question": "Which of the following is a type of inverse operation?", "options": {"a": "Multiplication", "b": "Division", "c": "Exponentiation", "d": "Addition"}, "correct_answer": "Exponentiation"},
+    {"q_no": "11", "question": "What property is an exponentiation?", "options": {"a": "-OR", "b": "+OR", "c": "*OR", "d": "/OR"}, "correct_answer": "*OR"}
+]
+Time Taken: 77.43 seconds | Tokens Produced: 333 | ⚡⚡⚡ Token Speed 4.301 tokens/sec
+⚠️ Warning: Expected 16 MCQs but got 11...
+
+Attempt 2/4 for Syllabus 1 of 3... | llama3.2:1b
+
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What is the main difference between a variable and an attribute in mathematics?", "options": {"a": "Both are variables, both are attributes", "b": "A variable is a letter or symbol used to represent a value, an attribute is a property of an object"}, "correct_answer": "A variable is a letter or symbol used to represent a value, an attribute is a property of an object"},
+    {"q_no": "2", "question": "Which concept is the foundation of algebra?", "options": {"a": "Geometry", "b": "Trigonometry", "c": "Calculus", "d": "Algebra"}, "correct_answer": "Algebra"},
+    {"q_no": "3", "question": "What is a function in mathematics?, and what is its main purpose?", "options": {"a": "A rule that assigns a unique output to each input", "b": "An equation that relates two variables", "c": "A mathematical statement that asserts the existence of one-to-one correspondence between inputs and outputs", "d": "A collection of numbers whose sum is constant"}, "correct_answer": "A function in mathematics is a rule that assigns a unique output to each input"},
+    {"q_no": "4", "question": "What is the difference between a variable and a parameter in algebra?", "options": {"a": "Both are variables, both are parameters", "b": "A variable is an unknown value, a parameter is a given value", "c": "A variable can change its value, a parameter cannot change its value"}, "correct_answer": "A variable is an unknown value, a parameter is a given value"},
+    {"q_no": "5", "question": "Which concept is essential for solving linear equations?", "options": {"a": "Geometry", "b": "Trigonometry", "c": "Algebra", "d": "Number Theory"}, "correct_answer": "Solving linear equations requires the use of variables and constants"},
+    {"q_no": "6", "question": "What is the main difference between a function and an equation?", "options": {"a": "A function assigns a value to each input, an equation relates two variables with equal signs"}, "correct_answer": "A function assigns a value to each input, an equation does not assign values to inputs"},
+    {"q_no": "7", "question": "Which concept is used to represent the unknowns in algebra?", "options": {"a": "Geometry", "b": "Trigonometry", "c": "Algebra", "d": "Number Theory"}, "correct_answer": "Variables are represented using letters or symbols"},
+    {"q_no": "8", "question": "What is the difference between a function and a relation?", "options": {"a": "A function assigns a value to each input, a relation relates two variables without assigning values"}, "correct_answer": "A function assigns a value to each input, a relation does not assign values to inputs"},
+    {"q_no": "9", "question": "Which concept is essential for graphing functions?", "options": {"a": "Geometry", "b": "Trigonometry", "c": "Algebra", "d": "Number Theory"}, "correct_answer": "Graphs are used to visualize and analyze functions"},
+    {"q_no": "10", "question": "What is the main difference between a function and a variable?", "options": {"a": "Both are variables, both are functions", "b": "A function assigns a value to each input, a variable changes its value over time"}, "correct_answer": "A function assigns a unique output to each input, a variable can change its value"},
+    {"q_no": "11", "question": "Which concept is used to represent the relationship between two variables?", "options": {"a": "Geometry", "b": "Trigonometry", "c": "Algebra", "d": "Number Theory"}, "correct_answer": "Equations relate two variables with equal signs"},
+    {"q_no": "12", "question": "What is the difference between a function and a relation?", "options": {"a": "A function assigns a value to each input, a relation does not assign values to inputs"}, "correct_answer": "A function assigns a unique output to each input, a relation relates two variables without assigning values"}
+]
+Time Taken: 102.15 seconds | Tokens Produced: 549 | ⚡⚡⚡ Token Speed 5.374 tokens/sec
+✅✅✅ Successfully generated 12 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 2 of 3
+[
+   {
+      "q_no": "1",
+      "question": "What is the main difference between a variable and an attribute in mathematics?",
+      "options": {
+         "a": "Both are variables, both are attributes",
+         "b": "A variable is a letter or symbol used to represent a value, an attribute is a property of an object"
+      },
+      "correct_answer": "A variable is a letter or symbol used to represent a value, an attribute is a property of an object"
+   },
+   {
+      "q_no": "2",
+      "question": "Which concept is the foundation of algebra?",
+      "options": {
+         "a": "Geometry",
+         "b": "Trigonometry",
+         "c": "Calculus",
+         "d": "Algebra"
+      },
+      "correct_answer": "Algebra"
+   },
+   {
+      "q_no": "3",
+      "question": "What is a function in mathematics?, and what is its main purpose?",
+      "options": {
+         "a": "A rule that assigns a unique output to each input",
+         "b": "An equation that relates two variables",
+         "c": "A mathematical statement that asserts the existence of one-to-one correspondence between inputs and outputs",
+         "d": "A collection of numbers whose sum is constant"
+      },
+      "correct_answer": "A function in mathematics is a rule that assigns a unique output to each input"
+   },
+   {
+      "q_no": "4",
+      "question": "What is the difference between a variable and a parameter in algebra?",
+      "options": {
+         "a": "Both are variables, both are parameters",
+         "b": "A variable is an unknown value, a parameter is a given value",
+         "c": "A variable can change its value, a parameter cannot change its value"
+      },
+      "correct_answer": "A variable is an unknown value, a parameter is a given value"
+   },
+   {
+      "q_no": "5",
+      "question": "Which concept is essential for solving linear equations?",
+      "options": {
+         "a": "Geometry",
+         "b": "Trigonometry",
+         "c": "Algebra",
+         "d": "Number Theory"
+      },
+      "correct_answer": "Solving linear equations requires the use of variables and constants"
+   },
+   {
+      "q_no": "6",
+      "question": "What is the main difference between a function and an equation?",
+      "options": {
+         "a": "A function assigns a value to each input, an equation relates two variables with equal signs"
+      },
+      "correct_answer": "A function assigns a value to each input, an equation does not assign values to inputs"
+   },
+   {
+      "q_no": "7",
+      "question": "Which concept is used to represent the unknowns in algebra?",
+      "options": {
+         "a": "Geometry",
+         "b": "Trigonometry",
+         "c": "Algebra",
+         "d": "Number Theory"
+      },
+      "correct_answer": "Variables are represented using letters or symbols"
+   },
+   {
+      "q_no": "8",
+      "question": "What is the difference between a function and a relation?",
+      "options": {
+         "a": "A function assigns a value to each input, a relation relates two variables without assigning values"
+      },
+      "correct_answer": "A function assigns a value to each input, a relation does not assign values to inputs"
+   },
+   {
+      "q_no": "9",
+      "question": "Which concept is essential for graphing functions?",
+      "options": {
+         "a": "Geometry",
+         "b": "Trigonometry",
+         "c": "Algebra",
+         "d": "Number Theory"
+      },
+      "correct_answer": "Graphs are used to visualize and analyze functions"
+   },
+   {
+      "q_no": "10",
+      "question": "What is the main difference between a function and a variable?",
+      "options": {
+         "a": "Both are variables, both are functions",
+         "b": "A function assigns a value to each input, a variable changes its value over time"
+      },
+      "correct_answer": "A function assigns a unique output to each input, a variable can change its value"
+   },
+   {
+      "q_no": "11",
+      "question": "Which concept is used to represent the relationship between two variables?",
+      "options": {
+         "a": "Geometry",
+         "b": "Trigonometry",
+         "c": "Algebra",
+         "d": "Number Theory"
+      },
+      "correct_answer": "Equations relate two variables with equal signs"
+   },
+   {
+      "q_no": "12",
+      "question": "What is the difference between a function and a relation?",
+      "options": {
+         "a": "A function assigns a value to each input, a relation does not assign values to inputs"
+      },
+      "correct_answer": "A function assigns a unique output to each input, a relation relates two variables without assigning values"
+   }
+]
+TIME for MCQ: 102.149 | ⚡⚡⚡ Token Speed: 5.375 tokens/sec
+TOTAL Tokens for Syllabus 2 & its MCQ: 598 | TOTAL Time: 112.03
+
+********************************************************************************
+
+Syllabus NUMBER 3 of 3 --- | llama3.2:1b
+
+📝📝📝 GOTTEN SYLLABUS 3 of 3 📝📝📝
+- Introduction to the photoelectric effect
+- Light and energy concepts
+- Electron behavior in the presence of light
+- Wave-particle duality and uncertainty principle
+- Energy levels and quantization
+- Experimental observation of the photoelectric effect
+
+- Mathematical formulation of the problem
+- Wave function and Schrödinger equation
+- Time-independent and time-dependent perturbation theory
+- Calculus and differentiation in quantum mechanics
+- Review of wave functions and their properties
+
+- Quantum numbers and energy levels
+- Probability amplitudes and expectation values
+- Angular momentum and spin
+- Energy conservation and selection rules
+- Applications to quantum field theory
+
+- Experimental verification of the photoelectric effect
+- Theoretical models and interpretations
+- Implications for our understanding of matter and radiation
+TIME for SYLLABUS: 14.474 | ⚡⚡⚡ Token Speed: 8.291 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 38
+Attempt 1/4 for Syllabus 3 of 3... | llama3.2:1b
+
+🔍🔍🔍 Generated MCQ:
+
+ []
+
+{"q_no": "1", "question": "What is the effect of raising 2 to the power of an odd number?", "options": {"a": "Decreases", "b": "Increases", "c": "Remains unchanged"}, "correct_answer": "Increases"},
+{"q_no": "2", "question": "Which property is NOT typically associated with exponents due to their negative nature?", "options": {"a": "Multiplication of like bases", "b": "Division of unlike bases", "c": "Exponentiation of numbers greater than 10", "d": "-1"}, "correct_answer": "Exponentiation of numbers greater than 10"},
+{"q_no": "3", "question": "What is the result of raising a base to the power of zero?", "options": {"a": "1", "b": "Any number", "c": "Undefined", "d": "Infinity"}, "correct_answer": "Undefined"},
+{"q_no": "4", "question": "Which operation has an inverse operation that results in 1 when applied to any value?", "options": {"a": "Exponentiation with a positive exponent", "b": "Inversion of the coefficient", "c": "-Exponentiation with a negative exponent", "d": "Negative exponent"}, "correct_answer": "Exponentiation with a positive exponent"},
+{"q_no": "5", "question": "When does the rule for dividing powers with the same base apply?", "options": {"a": "Both positive and negative exponents are present", "b": "Only when both bases are raised to an even power", "c": "Only when one of the bases is raised to an odd power", "d": "Only when both bases are raised to a fractional power"}, "correct_answer": "Both positive and negative exponents are present"},
+{"q_no": "6", "question": "What property defines the effect of exponentiation on negative numbers?", "options": {"a": "Remains unchanged", "b": "-1", "c": "+1", "d": "Undefined"}, "correct_answer": "-1"}
+{"q_no": "7", "question": "Which operation has a unique relationship with exponents?", "options": {"a": "Exponentiation with a negative exponent is equivalent to taking the reciprocal of the base raised to that power", "b": "Inverse operation of exponentiation", "c": "-Exponentiation with an even positive exponent is equal to 1", "d": "-1"}, "correct_answer": "Inverse operation of exponentiation"}
+{"q_no": "8", "question": "What property defines the effect of raising a number greater than one to the power of zero?", "options": {"a": "Remains unchanged", "b": "Increases by 10^0 = 1", "c": "-Decreases by 10^0 = 1", "d": "-2"}, "correct_answer": "Remains unchanged"}
+{"q_no": "9", "question": "Which operation has a unique relationship with negative exponents?", "options": {"a": "Inverse operation of exponentiation is equivalent to taking the reciprocal of the base raised to that power", "b": "-Exponentiation with an even positive exponent is equal to 1", "c": "Exponentiation with a fractional exponent is not defined for non-integer bases", "d": "Negative exponent is only present when the base is -1"}, "correct_answer": "Inverse operation of exponentiation"}
+{"q_no": "10", "question": "What effect does raising 2 to an even power have on its value?", "options": {"a": "Increases", "b": "Remains unchanged", "c": "-Decreases by a fixed amount", "d": "Undefined"}, "correct_answer": "Increases"}
+{"q_no": "11", "question": "Which operation has a unique relationship with negative bases in exponentiation?", "options": {"a": "Inverse operation of exponentiation is equivalent to taking the reciprocal of the base raised to that power", "b": "-Exponentiation with an even positive exponent is equal to 1", "c": "Exponentiation with an odd positive exponent is only for non-integer bases", "d": "Negative exponent is only present when the base is -1"}, "correct_answer": "Inverse operation of exponentiation"}
+{"q_no": "12", "question": "What property defines the effect of negative exponents?", "options": {"a": "-Remains unchanged", "b": "+1", "c": "-1", "d": "Undefined"}, "correct_answer": "-1"}
+{"q_no": "13", "question": "Which operation has a unique relationship with bases greater than 1 in exponentiation?", "options": {"a": "Inverse operation of exponentiation is equivalent to taking the reciprocal of the base raised to that power", "b": "Exponentiation with an even positive exponent is equal to 1", "c": "Negative exponent is only present when the base is -1", "d": "-1"}, "correct_answer": "Inverse operation of exponentiation"}
+{"q_no": "14", "question": "What effect does raising a number less than one to the power of zero have on its value?", "options": {"a": "Increases by 10^0 = 1", "b": "-Decreases by 10^0 = 1", "c": "+1", "d": "-2"}, "correct_answer": "Remains unchanged"}
+{"q_no": "15", "question": "Which operation has a unique relationship with positive exponents?", "options": {"a": "Inverse operation of exponentiation is equivalent to taking the reciprocal of the base raised to that power", "b": "+1", "c": "-1", "d": "Undefined"}, "correct_answer": "+1"}
+{"q_no": "16", "question": "What property defines the effect of raising 10 to a positive power?", "options": {"a": "+"Remains unchanged", "b": "-Decreases by a fixed amount", "c": "-Increases by a fixed amount", "d": "+1"}, "correct_answer": "+1"}
+Time Taken: 125.73 seconds | Tokens Produced: 707 | ⚡⚡⚡ Token Speed 5.623 tokens/sec
+⚠️ Warning: Expected 16 MCQs but got 11...
+⚠️ Error: Invalid JSON format...
+
+Attempt 3/4 for Syllabus 1 of 3... | llama3.2:1b
+
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": "1", "question": "What is the primary factor that determines whether an electron will be emitted or not in a hydrogen atom?", "options": {"a": "Electron speed", "b": "Electron energy", "c": "Electron orientation", "d": "Electron spin"}, "correct_answer": "Electron energy"},
+    {
+        "q_no": "2", "question": "Which principle states that the probability of finding an electron in a particular quantum state is proportional to the square of the absolute value of its wave function?", "options": {"a": "Heisenberg's uncertainty principle", "b": "Wave-particle duality", "c": "Quantization of energy", "d": "Uncertainty relation"}, "correct_answer": "Uncertainty relation"},
+    {
+        "q_no": "3", "question": "What is the term for the process by which an electron moves from a higher-energy state to a lower-energy state?", "options": {"a": "Absorption of light", "b": "Emission of light", "c": "Transit", "d": "Transition"}, "correct_answer": "Transition"},
+    {
+        "q_no": "4", "question": "Which physical principle relates to the behavior of electrons in atoms and explains why they are attracted to each other?", "options": {"a": "Bohr model", "b": "Rutherford model", "c": "Quantum mechanics", "d": "Classical physics"}, "correct_answer": "Bohr model"},
+    {
+        "q_no": "5", "question": "What is the term for the energy difference between two closely spaced energy levels in a hydrogen atom?", "options": {"a": "Energy level spacing", "b": "Energy difference", "c": "Transition energy", "d": "Quantum number"}, "correct_answer": "Energy difference"},
+    {
+        "q_no": "6", "question": "Which principle states that the total energy of a quantum system remains constant if no external forces are applied?", "options": {"a": "Heisenberg's uncertainty principle", "b": "Wave-particle duality", "c": "Quantization of energy", "d": "Uncertainty relation"}, "correct_answer": "Uncertainty principle"},
+    {
+        "q_no": "7", "question": "What is the term for the process by which an electron jumps from a higher-energy state to a lower-energy state?", "options": {"a": "Absorption of light", "b": "Emission of light", "c": "Transition", "d": "Ionization"}, "correct_answer": "Transition"},
+    {
+        "q_no": "8", "question": "Which physical principle relates to the behavior of electrons in atoms and explains why they are attracted to each other?", "options": {"a": "Bohr model", "b": "Rutherford model", "c": "Quantum mechanics", "d": "Classical physics"}, "correct_answer": "Bohr model"},
+    {
+        "q_no": "9", "question": "What is the term for the energy difference between two adjacent energy levels in a hydrogen atom?", "options": {"a": "Energy level spacing", "b": "Energy difference", "c": "Transition energy", "d": "Quantum number"}, "correct_answer": "Energy difference"},
+    {
+        "q_no": "10", "question": "Which principle states that the probability of finding an electron in a particular quantum state is proportional to the square of the absolute value of its wave function?", "options": {"a": "Heisenberg's uncertainty principle", "b": "Wave-particle duality", "c": "Quantization of energy", "d": "Uncertainty relation"}, "correct_answer": "Uncertainty relation"},
+    {
+        "q_no": "11", "question": "What is the term for the process by which an electron moves from a lower-energy state to a higher-energy state?", "options": {"a": "Absorption of light", "b": "Emission of light", "c": "Transition", "d": "Ionization"}, "correct_answer": "Transition"},
+    {
+        "q_no": "12", "question": "Which physical principle relates to the behavior of electrons in atoms and explains why they are attracted to each other?", "options": {"a": "Bohr model", "b": "Rutherford model", "c": "Quantum mechanics", "d": "Classical physics"}, "correct_answer": "Bohr model"},
+    {
+        "q_no": "13", "question": "What is the term for the energy difference between two adjacent energy levels in a hydrogen atom?", "options": {"a": "Energy level spacing", "b": "Energy difference", "c": "Transition energy", "d": "Quantum number"}, "correct_answer": "Energy difference"},
+    {
+        "q_no": "14", "question": "Which principle states that the probability of finding an electron in a particular quantum state is proportional to the square of the absolute value of its wave function?", "options": {"a": "Heisenberg's uncertainty principle", "b": "Wave-particle duality", "c": "Quantization of energy", "d": "Uncertainty relation"}, "correct_answer": "Uncertainty relation"},
+    {
+        "q_no": "15", "question": "What is the term for the process by which an electron moves from a lower-energy state to a higher-energy state?", "options": {"a": "Absorption of light", "b": "Emission of light", "c": "Transition", "d": "Ionization"}, "correct_answer": "Transition"},
+    {
+        "q_no": "16", "question": "Which physical principle relates to the behavior of electrons in atoms and explains why they are attracted to each other?", "options": {"a": "Bohr model", "b": "Rutherford model", "c": "Quantum mechanics", "d": "Classical physics"}, "correct_answer": "Bohr model"},
+    {
+        "q_no": "17", "question": "What is the term for the energy difference between two adjacent energy levels in a hydrogen atom?", "options": {"a": "Energy level spacing", "b": "Energy difference", "c": "Transition energy", "d": "Quantum number"}, "correct_answer": "Energy difference"},
+    {
+        "q_no": "18", "question": "Which principle states that the probability of finding an electron in a particular quantum state is proportional to the square of the absolute value of its wave function?", "options": {"a": "Heisenberg's uncertainty principle", "b": "Wave-particle duality", "c": "Quantization of energy", "d": "Uncertainty relation"}, "correct_answer": "Uncertainty relation"},
+    {
+        "q_no": "19", "question": "What is the term for the process by which an electron moves from a lower-energy state to a higher-energy state?", "options": {"a": "Absorption of light", "b": "Emission of light", "c": "Transition", "d": "Ionization"}, "correct_answer": "Transition"},
+    {
+        "q_no": "20", "question": "Which physical principle relates to the behavior of electrons in atoms and explains why they are attracted to each other?", "options": {"a": "Bohr model", "b": "Rutherford model", "c": "Quantum mechanics", "d": "Classical physics"}, "correct_answer": "Bohr model"}
+    ]
+
+Given the list of questions, we can determine that question 3 and 20 are a duplicate.
+Time Taken: 150.36 seconds | Tokens Produced: 846 | ⚡⚡⚡ Token Speed 5.627 tokens/sec
+⚠️ Error: Invalid JSON format...
+
+Attempt 2/4 for Syllabus 3 of 3... | llama3.2:1b
+
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What is the effect of raising 2 to the power of -3?", "options": {"a": "-8", "b": "-16", "c": "8", "d": "16"}, "correct_answer": "-8"},
+    {"q_no": "2", "question": "When does an exponential expression with a negative exponent become positive?", "options": {"a": "When the base is greater than 1", "b": "When the base is less than or equal to 1", "c": "The value remains the same", "d": "Negative values are not applicable"}, "correct_answer": "When the base is less than or equal to 1"},
+    {"q_no": "3", "question": "Solve for x in the equation 2^x = 4 when x is an integer?", "options": {"a": "x=2", "b": "x=-1", "c": "x cannot be determined", "d": "x=0"}, "correct_answer": "x=2"},
+    {"q_no": "4", "question": "What is the value of 2^(-6)?", "options": {"a": "64/3", "b": "-64/3", "c": "64/9", "d": "32/9"}, "correct_answer": "-64/3"},
+    {"q_no": "5", "question": "Solve for x in the equation 2^x = e^1 when x is an integer?", "options": {"a": "x=0", "b": "x=-1", "c": "x cannot be determined", "d": "x=1"}, "correct_answer": "x=1"},
+    {"q_no": "6", "question": "What is the value of 2^(3x)?", "options": {"a": "8", "b": "16", "c": "32", "d": "64"}, "correct_answer": "8"},
+    {"q_no": "7", "question": "Solve for x in the equation 2^(-2x) = 1/4 when x is an integer?", "options": {"a": "x=0", "b": "x=-1", "c": "x cannot be determined", "d": "x=1/2"}, "correct_answer": "x=1"},
+    {"q_no": "8", "question": "What is the value of 2^(x+3)?", "options": {"a": "5.6572*10^(-1)", "b": "-0.35712*10^(-1)", "c": "1.5874*10^(-1)", "d": "8.38784*10^(-1"}}, "correct_answer": "8.38784*10^(-1)"},
+    {"q_no": "9", "question": "Solve for x in the equation 2^(3x) = e^4 when x is an integer?", "options": {"a": "x=0", "b": "x=-1", "c": "x cannot be determined", "d": "x=2"}, "correct_answer": "x=2"},
+    {"q_no": "10", "question": "What is the value of 2^(3-2x)?", "options": {"a": "4.2425*10^(-1)", "b": "-0.12245*10^(-1)", "c": "1.24425*10^(-1)", "d": "8.124225*10^(-1"}}, "correct_answer": "1.24425*10^(-1)"},
+    {"q_no": "11", "question": "Solve for x in the equation 2^(x/3) = 4 when x is an integer?", "options": {"a": "0", "b": "1", "c": "2", "d": "3"}, "correct_answer": "0"},
+    {"q_no": "12", "question": "What is the value of 2^(-5x)?", "options": {"a": "8", "b": "16", "c": "32", "d": "64"}, "correct_answer": "-1/32"},
+    {"q_no": "13", "question": "Solve for x in the equation 2^3x = 2*e^2 when x is an integer?", "options": {"a": "0", "b": "1", "c": "2", "d": "3"}, "correct_answer": "0"},
+    {"q_no": "14", "question": "What is the value of 2^(x-4)?", "options": {"a": "-100", "b": "-99", "c": "-98", "d": "-97"}, "correct_answer": "1/99"},
+    {"q_no": "15", "question": "Solve for x in the equation 2^(-3x) = 1/8 when x is an integer?", "options": {"a": "0", "b": "1", "c": "2", "d": "3"}, "correct_answer": "0"},
+    {"q_no": "16", "question": "What is the value of 2^(-4x)?", "options": {"a": "8/9", "b": "-32/9", "c": "32/9", "d": "64/9"}, "correct_answer": "-1/3"} }
+Time Taken: 131.27 seconds | Tokens Produced: 433 | ⚡⚡⚡ Token Speed 3.299 tokens/sec
+⚠️ Warning: Expected 16 MCQs but got 11...
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+
+Attempt 4/4 for Syllabus 1 of 3... | llama3.2:1b
+
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "Which property is typically associated with alcohols in terms of their -OH group?", "options": {"a": "High boiling points", "b": "Formation of esters via dehydration", "c": "Miscibility with water", "d": "Low reactivity towards halogens"}, "correct_answer": "Miscibility with water"},
+    {"q_no": "2", "question": "What type of reaction involves the removal of a water molecule from an alcohol?", "options": {"a": "Hydrogenation", "b": "Dehydration", "c": "Hydrolysis", "d": "Substitution"}, "correct_answer": "Dehydration"},
+    {"q_no": "3", "question": "Which characteristic distinguishes alcohols from ethers in terms of their functional groups?", "options": {"a": "Presence of -OH group", "b": "-OR", "c": "-NH2", "d": "-CN"}, "correct_answer": "Presence of -OH group"},
+    {"q_no": "4", "question": "Which reaction type would be expected to form a phenoxide ion from an alcohol?", "options": {"a": "Hydration", "b": "Dehydration", "c": "Hydrolysis", "d": "Substitution"}, "correct_answer": "Dehydration"},
+    {"q_no": "5", "question": "What is the typical reactivity pattern of alcohols compared to ethers?", "options": {"a": "Increased stability due to resonance", "b": "Lower reactivity due to no lone pairs", "c": "Higher reactivity due to resonance", "d": "Lower reactivity due to no double bonds"}, "correct_answer": "Higher reactivity due to resonance"},
+    {"q_no": "6", "question": "Which characteristic allows ethers to be less reactive than alcohols?", "options": {"a": "Increased stability due to resonance", "b": "Lower reactivity due to no lone pairs", "c": "Higher reactivity due to resonance", "d": "Lower reactivity due to no double bonds"}, "correct_answer": "Lower reactivity due to no double bonds"},
+    {"q_no": "7", "question": "Which type of reaction involves the removal of an oxygen atom from an alcohol?", "options": {"a": "Hydrogenation", "b": "Dehydration", "c": "Hydrolysis", "d": "Substitution"}, "correct_answer": "Dehydration"},
+    {"q_no": "8", "question": "Which characteristic distinguishes ethers from alcohols in terms of their functional groups?", "options": {"a": "-OR", "b": "-NH2", "c": "-CN", "d": "-OH"}, "correct_answer": "-OR"},
+    {"q_no": "9", "question": "What is the typical boiling point comparison between alcohols and ethers?", "options": {"a": "Higher boiling points", "b": "Lower boiling points", "c": "No difference in boiling points", "d": "Intermolecular hydrogen bonding"}, "correct_answer": "Higher boiling points"},
+    {"q_no": "10", "question": "Which reaction type would be expected to form an ether from an alcohol?", "options": {"a": "Hydration", "b": "Dehydration", "c": "Hydrolysis", "d": "Substitution"}, "correct_answer": "Dehydration"},
+    {"q_no": "11", "question": "Which characteristic allows ethers to be more reactive than alcohols?", "options": {"a": "Increased stability due to resonance", "b": "Lower reactivity due to no lone pairs", "c": "Higher reactivity due to resonance", "d": "Lower reactivity due to no double bonds"}, "correct_answer": "Higher reactivity due to resonance"},
+    {"q_no": "12", "question": "Which characteristic distinguishes alcohols from ethers in terms of their functional groups?", "options": {"a": "-OR", "b": "-NH2", "c": "-CN", "d": "-OH"}, "correct_answer": "-OR"},
+    {"q_no": "13", "question": "What is the typical reactivity pattern of alcohols compared to ethers?", "options": {"a": "Higher stability due to resonance", "b": "Lower stability due to resonance", "c": "Increased reactivity due to resonance", "d": "Decreased reactivity due to resonance"}, "correct_answer": "Higher stability due to resonance"},
+    {"q_no": "14", "question": "Which characteristic allows ethers to be more reactive than alcohols?", "options": {"a": "-OR", "b": "-NH2", "c": "-CN", "d": "-OH"}, "correct_answer": "-OR"}
+]
+Time Taken: 118.19 seconds | Tokens Produced: 490 | ⚡⚡⚡ Token Speed 4.146 tokens/sec
+⚠️ Error: Invalid JSON format...
+⚠️ Warning: Expected 38 MCQs but got 14...
+
+Attempt 3/4 for Syllabus 3 of 3... | llama3.2:1b
+
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What is the key concept in understanding exponents?", "options": {"a": "Reciprocal of an expression", "b": "Sum and difference of numbers", "c": "Product of two factors", "d": "Quotient of two expressions"}, "correct_answer": "Understanding the concept of positive and negative exponents"},
+    {"q_no": "2", "question": "Which rule states that when multiplying powers with the same base, add the exponents?", "options": {"a": "-a^b = a^(-b)", "b": "*a^(b+c) =", "c": "/a^(bc)"}, "correct_answer": "*a^(b+c)"},
+    {"q_no": "3", "question": "What is the key to simplifying expressions with exponents when multiplying?", "options": {"a": "Distribute the exponent outside the parentheses first", "b": "Rewrite all terms with base 10 as the new base", "c": "Use the product rule (i.e., a^m * b^n = ab^m)", "d": "Use the quotient rule (i.e., a^m / b^n = a^(m-n))"}, "correct_answer": "Rewrite all terms with base 10 as the new base"},
+    {"q_no": "4", "question": "What is the key to simplifying expressions with exponents when dividing?", "options": {"a": "Distribute the exponent outside the parentheses first", "b": "Rewrite all terms with base 10 as the new base", "c": "Use the quotient rule (i.e., a^m / b^n = a^(m-n))", "d": "Use the product rule (i.e., a^m * b^n = ab^m)"}, "correct_answer": "Rewrite all terms with base 10 as the new base"},
+    {"q_no": "5", "question": "What is the key to solving equations involving exponents and powers?", "options": {"a": "Use exponent properties to simplify expressions", "b": "Graph exponential functions on a coordinate plane", "c": "Solve equations using inverse operations", "d": "Add and subtract exponents of the same base"}, "correct_answer": "Use exponent properties to simplify expressions"},
+    {"q_no": "6", "question": "What is the key to graphing exponential functions on a coordinate plane?", "options": {"a": "Reciprocal of an expression", "b": "-x^2 + 4x - 3 =", "c": "Quotient of two expressions", "d": "Product of two factors"}, "correct_answer": "Plot the x and y intercepts"},
+    {"q_no": "7", "question": "What is the key to solving equations involving inverse operations?", "options": {"a": "-x + 2 =", "b": "3x^2 - 4 =", "c": "8/x + 1 =", "d": "x^2 + 5x - 6"}, "correct_answer": "-x + 2"},
+    {"q_no": "8", "question": "What is the key to using exponent properties to simplify expressions?", "options": {"a": "*a^(b+c) =", "b": "/a^(bc)"}, "correct_answer": "*a^(b+c)"},
+    {"q_no": "9", "question": "What is the key to adding and subtracting exponents of the same base?", "options": {"a": "+x^2 - 3x + 1 =", "b": "-5x + 2 =", "c": "/x^(-1) + x^(2+1)"}, "correct_answer": "+x^2 - 3x + 1"},
+    {"q_no": "10", "question": "What is the key to multiplying two expressions with the same base?", "options": {"a": "*2^3 =", "b": "/4^2"}, "correct_answer": "*2^3"},
+    {"q_no": "11", "question": "What is the key to dividing an expression by one with a non-zero exponent?", "options": {"a": "/x^(-1) + 3x^(2+1)"}, "correct_answer": "/x^(-1) + 3x^(2+1)"},
+    {"q_no": "12", "question": "What is the key to simplifying expressions with exponents when dividing?", "options": {"a": "*2^4 =", "b": "-5x^(-2) =", "c": "/9x^(-1) + x^(3+1)"}, "correct_answer": "*2^4"},
+    {"q_no": "13", "question": "What is the key to solving equations involving inverse operations?", "options": {"a": "-4x^3 - 6 =", "b": "5x^(-3) + x^2 =", "c": "x^2 / 4 + 1 =", "d": "2x^2 - 3x - 1"}, "correct_answer": "-4x^3 - 6"},
+    {"q_no": "14", "question": "What is the key to using exponent properties to simplify expressions?", "options": {"a": "*(-2)^5 =", "b": "/3^(-1) * (-4)"}, "correct_answer": "*(-2)^5"},
+    {"q_no": "15", "question": "What is the key to adding and subtracting exponents of different bases?", "options": {"a": "+/3^2 + 2 =", "b": "/4^2 - x^(1+1)"}, "correct_answer": "+/3^2 + 2"},
+    {"q_no": "16", "question": "What is the key to multiplying two expressions with different bases?", "options": {"a": "*3^2 * 5 =", "b": "/4^(-1) * x^(2+1)"}, "correct_answer": "*3^2 * 5"}
+Time Taken: 190.92 seconds | Tokens Produced: 601 | ⚡⚡⚡ Token Speed 3.148 tokens/sec
+⚠️ Warning: Expected 16 MCQs but got 11...
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+
+⚠️ Warning: After 4 attempts returning longest valid response.
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 1 of 3
+[
+   {
+      "q_no": "1",
+      "question": "What is the product formed when phenol undergoes dehydration?",
+      "options": {
+         "a": "Phenoxide ion",
+         "b": "Ethanol",
+         "c": "Ethylbenzene",
+         "d": "Phenyl acetic acid"
+      },
+      "correct_answer": "Phenoxide ion"
+   },
+   {
+      "q_no": "2",
+      "question": "Which functional group defines alcohols?",
+      "options": {
+         "a": "Carbonyl (-CO-)",
+         "b": "Hydroxyl (-OH)",
+         "c": "Nitrile (-CN)",
+         "d": "Carboxyl (-COOH)"
+      },
+      "correct_answer": "Hydroxyl (-OH)"
+   },
+   {
+      "q_no": "3",
+      "question": "Which of the following is NOT a reaction type generally involved in alcohol chemistry?",
+      "options": {
+         "a": "Oxidation",
+         "b": "Hydration",
+         "c": "Reduction",
+         "d": "Halogenation"
+      },
+      "correct_answer": "Reduction"
+   },
+   {
+      "q_no": "4",
+      "question": "Ethers are classified based on the nature of their alkyl groups bonded to oxygen. Which term refers to ethers with two alkyl groups?",
+      "options": {
+         "a": "Monoethers",
+         "b": "Diethers",
+         "c": "Triethers",
+         "d": "Polyethers"
+      },
+      "correct_answer": "Diethers"
+   },
+   {
+      "q_no": "5",
+      "question": "What is the product formed when phenol undergoes dehydration?",
+      "options": {
+         "a": "Phenoxide ion",
+         "b": "Ethanol",
+         "c": "Ethylbenzene",
+         "d": "Phenyl acetic acid"
+      },
+      "correct_answer": "Phenoxide ion"
+   },
+   {
+      "q_no": "6",
+      "question": "Which functional group characterizes ethers?",
+      "options": {
+         "a": "Hydrogen bonding",
+         "b": "-OR",
+         "c": "-NH2",
+         "d": "-CN"
+      },
+      "correct_answer": "-OR"
+   },
+   {
+      "q_no": "7",
+      "question": "Alcohols and phenols exhibit increased reactivity compared to ethers due to which property?",
+      "options": {
+         "a": "Presence of a lone pair on oxygen",
+         "b": "Presence of a triple bond",
+         "c": "Higher molecular weight",
+         "d": "Absence of double bonds"
+      },
+      "correct_answer": "Presence of a lone pair on oxygen"
+   },
+   {
+      "q_no": "8",
+      "question": "What type of reaction would likely be performed to synthesize ethers from alcohols?",
+      "options": {
+         "a": "Hydrogenation",
+         "b": "Dehydration",
+         "c": "Hydrolysis",
+         "d": "Substitution"
+      },
+      "correct_answer": "Dehydration"
+   },
+   {
+      "q_no": "9",
+      "question": "Which characteristic distinguishes phenols from alcohols in terms of reactivity towards electrophiles?",
+      "options": {
+         "a": "Increased stability due to resonance",
+         "b": "Lower reactivity due to no lone pairs",
+         "c": "Higher reactivity due to resonance",
+         "d": "Lower reactivity due to no double bonds"
+      },
+      "correct_answer": "Increased stability due to resonance"
+   },
+   {
+      "q_no": "10",
+      "question": "Which of the following is a type of inverse operation?",
+      "options": {
+         "a": "Multiplication",
+         "b": "Division",
+         "c": "Exponentiation",
+         "d": "Addition"
+      },
+      "correct_answer": "Exponentiation"
+   },
+   {
+      "q_no": "11",
+      "question": "What property is an exponentiation?",
+      "options": {
+         "a": "-OR",
+         "b": "+OR",
+         "c": "*OR",
+         "d": "/OR"
+      },
+      "correct_answer": "*OR"
+   }
+]
+TIME for MCQ: 77.427 | ⚡⚡⚡ Token Speed: 4.301 tokens/sec
+TOTAL Tokens for Syllabus 1 & its MCQ: 391 | TOTAL Time: 535.39
+
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What is the primary difference between alcohols and ethers in terms of reactivity?", "options": {"a": "Presence of a carbonyl group", "b": "Presence of an alkyl group on oxygen", "c": "No polar functional groups", "d": "Presence of a lone pair on oxygen"}, "correct_answer": "Presence of -OH group"},
+    {"q_no": "2", "question": "Which type of reaction involves the loss of an electron from an atom in the presence of light?", "options": {"a": "Nucleophilic substitution", "b": "Electrophilic addition", "c": "Hydration", "d": "Dehydration"}, "correct_answer": "Nucleophilic substitution"},
+    {"q_no": "3", "question": "What is the primary function of an ether in terms of chemical properties?", "options": {"a": "To form esters via dehydration", "b": "To show miscibility with water", "c": "To exhibit high boiling points", "d": "To have high reactivity towards halogens"}, "correct_answer": "To show miscibility with water"},
+    {"q_no": "4", "question": "Which type of functional group is characteristic of phenols?", "options": {"a": "-OR", "b": "-NH2", "c": "-CN", "d": "-OH"}, "correct_answer": "-OR"},
+    {"q_no": "5", "question": "What is the primary effect of dehydration in the synthesis of ethers?", "options": {"a": "Formation of esters via dehydration", "b": "Formation of alcohols", "c": "Formation of phenols", "d": "Synthesis of diethers"}, "correct_answer": "Dehydration"},
+    {"q_no": "6", "question": "Which type of radiation is known for its ability to pass through solid materials?", "options": {"a": "Gamma rays", "b": "X-rays", "c": "Ultraviolet light", "d": "Infrared light"}, "correct_answer": "Ultraviolet light"},
+    {"q_no": "7", "question": "What is the primary reason for the similarity in properties between alcohols and ethers?", "options": {"a": "Presence of polar functional groups", "b": "Presence of no polar functional groups", "c": "Presence of -OH group", "d": "Presence of alkyl group on oxygen"}, "correct_answer": "Presence of -OH group"},
+    {"q_no": "8", "question": "Which type of energy transfer occurs when an electron is excited by light?", "options": {"a": "Electron emission", "b": "Photon absorption", "c": "Energy transfer to the valence shell", "d": "Energy transfer to other orbitals"}, "correct_answer": "Photon absorption"},
+    {"q_no": "9", "question": "What is the primary difference between wave-particle duality and uncertainty principle?", "options": {"a": "Wave-particle duality involves the ability of particles to exhibit both wave-like and particle-like behavior", "b": "Uncertainty principle involves the inability to measure certain properties simultaneously with infinite precision", "c": "Both principles involve the inherent uncertainty in measurements", "d": "One principle is related to energy, while the other is related to time"}, "correct_answer": "Wave-particle duality involves the ability of particles to exhibit both wave-like and particle-like behavior"},
+    {"q_no": "10", "question": "Which type of energy levels corresponds to electrons in a molecule?", "options": {"a": "Spherical", "b": "Triangular", "c": "Boxed", "d": "Point"}, "correct_answer": "Triangular"},
+    {"q_no": "11", "question": "What is the primary reason for the high reactivity of alcohols?", "options": {"a": "Presence of -OH group", "b": "Presence of polar functional groups", "c": "Presence of alkyl group on oxygen", "d": "Presence of no polar functional groups"}, "correct_answer": "Presence of -OH group"},
+    {"q_no": "12", "question": "Which type of reaction involves the formation or breaking of a covalent bond?", "options": {"a": "Hydrogenation", "b": "Dehydration", "c": "Hydrolysis", "d": "Substitution"}, "correct_answer": "Hydrolysis"},
+    {"q_no": "13", "question": "What is the primary function of an ether in terms of chemical properties?", "options": {"a": "To form esters via dehydration", "b": "To show miscibility with water", "c": "To exhibit high boiling points", "d": "To have low reactivity towards halogens"}, "correct_answer": "To show miscibility with water"},
+    {"q_no": "14", "question": "Which type of radiation is known for its ability to cause ionization in matter?", "options": {"a": "Gamma rays", "b": "X-rays", "c": "Ultraviolet light", "d": "Infrared light"}, "correct_answer": "Ultraviolet light"}
+Time Taken: 156.39 seconds | Tokens Produced: 570 | ⚡⚡⚡ Token Speed 3.645 tokens/sec
+⚠️ Error: Invalid JSON format...
+⚠️ Warning: Expected 38 MCQs but got 14...
+⚠️ Error: Invalid JSON format...
+
+Attempt 4/4 for Syllabus 3 of 3... | llama3.2:1b
+

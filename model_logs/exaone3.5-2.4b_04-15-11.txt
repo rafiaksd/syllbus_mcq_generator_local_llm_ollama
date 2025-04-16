@@ -1,0 +1,868 @@
+********************************************************************************
+Syllabus NUMBER 1
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Edexcel Grade 12 Mathematics - Calculus - Differentiation:
+- Definition and interpretation of derivatives
+- Techniques for differentiation (power rule, product rule, quotient rule)
+- Applying derivatives to find maxima and minima
+- Implicit differentiation problems
+- Higher-order derivatives and their applications
+- Interpreting derivatives graphically and practically
+TIME for SYLLABUS: 11.523 | ⚡⚡⚡ Token Speed: 4.339 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 5... exaone3.5:2.4b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What does the derivative represent geometrically?",
+        "options": {
+            "a": "The slope of a tangent line at a point",
+            "b": "The area under a curve",
+            "c": "The frequency of a function",
+            "d": "The total distance traveled"
+        },
+        "correct_answer": "The slope of a tangent line at a point"
+    },
+    {
+        "q_no": 2,
+        "question": "Which rule would you use to differentiate \( x^3 \)?",
+        "options": {
+            "a": "Chain rule",
+            "b": "Power rule",
+            "c": "Quotient rule",
+            "d": "Logarithmic differentiation"
+        },
+        "correct_answer": "Power rule"
+    },
+    {
+        "q_no": 3,
+        "question": "Which technique would be appropriate to find the derivative of \( f(x) = e^x \) sin(x)?",
+        "options": {
+            "a": "Product rule",
+            "b": "Quotient rule",
+            "c": "Logarithmic differentiation",
+            "d": "Chain rule followed by product rule"
+        },
+        "correct_answer": "Product rule"
+    },
+    {
+        "q_no": 4,
+        "question": "Given \( y = x^2 + x \), what is \( y' \) at \( x = 1 \)?",
+        "options": {
+            "a": "3",
+            "b": "2",
+            "c": "5",
+            "d": "4"
+        },
+        "correct_answer": "2"
+    },
+    {
+        "q_no": 5,
+        "question": "Identify the correct application of higher-order derivatives.",
+        "options": {
+            "a": "Finding the rate of change of acceleration",
+            "b": "Measuring instantaneous velocity",
+            "c": "Measuring instantaneous temperature",
+            "d": "Calculating marginal product of labor"
+        },
+        "correct_answer": "Finding the rate of change of acceleration"
+    },
+    {
+        "q_no": 6,
+        "question": "What does a negative value of the derivative indicate about a function?",
+        "options": {
+            "a": "The function is increasing",
+            "b": "The function is decreasing",
+            "c": "The function has a maximum",
+            "d": "The function is constant"
+        },
+        "correct_answer": "The function is decreasing"
+    },
+    {
+        "q_no": 7,
+        "question": "Which implicit differentiation technique is used for \( x^2 + y^2 = 1 \)?",
+        "options": {
+            "a": "Differentiate both sides with respect to x only",
+            "b": "Differentiate both sides with respect to y only",
+            "c": "Differentiate implicitly with respect to both x and y",
+            "d": "No differentiation needed as it's already solved"
+        },
+        "correct_answer": "Differentiate implicitly with respect to both x and y"
+    },
+    {
+        "q_no": 8,
+        "question": "What is the practical interpretation of the first derivative \( f'(x) \) graph?",
+        "options": {
+            "a": "The area under the curve",
+            "b": "The slope of tangent lines",
+            "c": "The maximum value of the function",
+            "d": "The distance between successive peaks"
+        },
+        "correct_answer": "The slope of tangent lines"
+    },
+    {
+        "q_no": 9,
+        "question": "Which scenario correctly applies finding maxima using derivatives?",
+        "options": {
+            "a": "Finding where the slope is zero",
+            "b": "Finding where the slope changes from positive to negative",
+            "c": "Identifying inflection points",
+            "d": "Determining the area under the curve"
+        },
+        "correct_answer": "Finding where the slope changes from positive to negative"
+    },
+    {
+        "q_no": 10,
+        "question": "Which rule would be incorrect for differentiating \( f(x) = \sin(x^2) \)?",
+        "options": {
+            "a": "Chain rule",
+            "b": "Product rule",
+            "c": "Logarithmic differentiation",
+            "d": "Direct substitution rule"
+        },
+        "correct_answer": "Direct substitution rule"
+    },
+    {
+        "q_no": 11,
+        "question": "In practical applications, which scenario correctly demonstrates marginal analysis?",
+        "options": {
+            "a": "Calculating total cost",
+            "b": "Determining average profit",
+            "c": "Measuring marginal cost",
+            "d": "Evaluating market demand elasticity"
+        },
+        "correct_answer": "Measuring marginal cost"
+    },
+    {
+        "q_no": 12,
+        "question": "For \( y = e^{x^2} \), what is the nature of the second derivative \( y'' \) at \( x = 0 \)?",
+        "options": {
+            "a": "Positive",
+            "b": "Negative",
+            "c": "Zero",
+            "d": "Infinite"
+        },
+        "correct_answer": "Zero"
+    }
+]
+Time Taken: 98.44 seconds | Tokens Produced: 548 | ⚡⚡⚡ Token Speed 5.567 tokens/sec
+⚠️ Error: Invalid JSON format...
+
+Attempt 2 out of 5... exaone3.5:2.4b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What does the derivative of a function represent graphically?",
+        "options": {
+            "a": "The rate of change of the function",
+            "b": "The total area under the curve",
+            "c": "The inverse function",
+            "d": "The minimum value of the function"
+        },
+        "correct_answer": "The rate of change of the function"
+    },
+    {
+        "q_no": 2,
+        "question": "Which rule is used to differentiate a function of the form \(u(x) \cdot v(x)\)?",
+        "options": {
+            "a": "Chain Rule",
+            "b": "Product Rule",
+            "c": "Quotient Rule",
+            "d": "Sum Rule"
+        },
+        "correct_answer": "Product Rule"
+    },
+    {
+        "q_no": 3,
+        "question": "Which technique involves applying the derivative rule repeatedly?",
+        "options": {
+            "a": "Substitution Rule",
+            "b": "Implicit Differentiation",
+            "c": "Trigonometric Differentiation",
+            "d": "Logarithmic Differentiation"
+        },
+        "correct_answer": "Logarithmic Differentiation"
+    },
+    {
+        "q_no": 4,
+        "question": "Identify the scenario where higher-order derivatives are particularly useful?",
+        "options": {
+            "a": "Determining instantaneous velocity",
+            "b": "Analyzing inflection points",
+            "c": "Predicting future trends in economic data",
+            "d": "Estimating the boiling point of substances"
+        },
+        "correct_answer": "Analyzing inflection points"
+    },
+    {
+        "q_no": 5,
+        "question": "What does interpreting a first derivative graphically typically show?",
+        "options": {
+            "a": "Changes in acceleration",
+            "b": "Increases and decreases of the function",
+            "c": "Local extrema points",
+            "d": "Absolute maxima and minima"
+        },
+        "correct_answer": "Increases and decreases of the function"
+    },
+    {
+        "q_no": 6,
+        "question": "Which rule is applied when differentiating composite functions \( f(g(x)) \)?",
+        "options": {
+            "a": "Quotient Rule",
+            "b": "Chain Rule",
+            "c": "Power Rule",
+            "d": "Derivative of Product Rule"
+        },
+        "correct_answer": "Chain Rule"
+    },
+    {
+        "q_no": 7,
+        "question": "In finding maxima and minima using derivatives, what must be checked about the derivative's sign?",
+        "options": {
+            "a": "It must always be zero",
+            "b": "It indicates regions where the function might peak or trough",
+            "c": "It simplifies to constant values",
+            "d": "It equals the original function's derivative"
+        },
+        "correct_answer": "It indicates regions where the function might peak or trough"
+    },
+    {
+        "q_no": 8,
+        "question": "What does a positive second derivative imply graphically?",
+        "options": {
+            "a": "The function is concave down",
+            "b": "The function is concave up",
+            "c": "It indicates a discontinuity",
+            "d": "It shows symmetry about the y-axis"
+        },
+        "correct_answer": "The function is concave up"
+    },
+    {
+        "q_no": 9,
+        "question": "Which application involves interpreting derivatives using real-world scenarios?",
+        "options": {
+            "a": "Engineering stress analysis",
+            "b": "Analyzing population growth models",
+            "c": "Calculating interest rates",
+            "d": "Determining gravitational forces"
+        },
+        "correct_answer": "Engineering stress analysis"
+    },
+    {
+        "q_no": 10,
+        "question": "What scenario best demonstrates the use of implicit differentiation?",
+        "options": {
+            "a": "Finding x and y values directly from equations",
+            "b": "Differentiating equations implicitly involving multiple variables",
+            "c": "Solving simple algebraic equations",
+            "d": "Calculating probabilities for independent events"
+        },
+        "correct_answer": "Differentiating equations implicitly involving multiple variables"
+    },
+    {
+        "q_no": 11,
+        "question": "Which of the following correctly describes the purpose of logarithmic differentiation?",
+        "options": {
+            "a": "To simplify derivatives of complex expressions",
+            "b": "To determine points of inflection",
+            "c": "To solve polynomial equations",
+            "d": "To approximate linear functions"
+        },
+        "correct_answer": "To simplify derivatives of complex expressions"
+    }
+    ,
+    {
+        "q_no": 12,
+        "question": "What technique is utilized when analyzing functions defined implicitly by equations?",
+        "options": {
+            "a": "Substitution",
+            "b": "Implicit Differentiation",
+            "c": "Direct Differentiation",
+            "d": "Integration"
+        },
+        "correct_answer": "Implicit Differentiation"
+    }
+    
+}
+Time Taken: 102.00 seconds | Tokens Produced: 525 | ⚡⚡⚡ Token Speed 5.147 tokens/sec
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+
+Attempt 3 out of 5... exaone3.5:2.4b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What does the derivative represent graphically?",
+        "options": {
+            "a": "The rate of change of the function's area under the curve",
+            "b": "The instantaneous velocity of the function",
+            "c": "The frequency of function peaks",
+            "d": "The total accumulation of function values"
+        },
+        "correct_answer": "The instantaneous velocity of the function"
+    },
+    {
+        "q_no": 2,
+        "question": "Which rule is used to differentiate expressions involving multiplication of functions?",
+        "options": {
+            "a": "Chain rule",
+            "b": "Sum rule",
+            "c": "Product rule",
+            "d": "Quotient rule"
+        },
+        "correct_answer": "Product rule"
+    },
+    {
+        "q_no": 3,
+        "question": "What technique is essential for differentiating complex functions like products of several variables?",
+        "options": {
+            "a": "Integration techniques",
+            "b": "Substitution method",
+            "c": "Sum rule",
+            "d": "Partial derivatives"
+        },
+        "correct_answer": "Partial derivatives"
+    },
+    {
+        "q_no": 4,
+        "question": "Which application of derivatives helps identify points where a function has critical points (maxima, minima)?",
+        "options": {
+            "a": "Integration",
+            "b": "Finding roots",
+            "c": "Determining intervals of increase/decrease",
+            "d": "Evaluating function values"
+        },
+        "correct_answer": "Determining intervals of increase/decrease"
+    },
+    {
+        "q_no": 5,
+        "question": "In implicit differentiation, what rule is primarily applied when differentiating terms like y^n?",
+        "options": {
+            "a": "Power rule",
+            "b": "Sum rule",
+            "c": "Quotient rule",
+            "d": "Chain rule"
+        },
+        "correct_answer": "Power rule"
+    },
+    {
+        "q_no": 6,
+        "question": "What do higher-order derivatives indicate about the behavior of a function near its critical points?",
+        "options": {
+            "a": "Its rate of change at inflection points",
+            "b": "Its acceleration",
+            "c": "Changes in concavity",
+            "d": "Its marginal increase/decrease"
+        },
+        "correct_answer": "Changes in concavity"
+    },
+    {
+        "q_no": 7,
+        "question": "Which interpretation involves visually assessing function behavior through graphs of derivatives?",
+        "options": {
+            "a": "Analyzing marginal effects",
+            "b": "Plotting function curves",
+            "c": "Determining inflection points directly",
+            "d": "Comparing function values over intervals"
+        },
+        "correct_answer": "Plotting function curves"
+    },
+    {
+        "q_no": 8,
+        "question": "When applying derivatives practically, which method can help understand marginal cost or benefit?",
+        "options": {
+            "a": "Integration",
+            "b": "Partial derivatives",
+            "c": "Higher-order derivatives",
+            "d": "Direct summation"
+        },
+        "correct_answer": "Partial derivatives"
+    },
+    {
+        "q_no": 9,
+        "question": "Which technique is crucial for handling implicit differentiation involving exponential functions?",
+        "options": {
+            "a": "Logarithmic differentiation",
+            "b": "Quotient rule",
+            "c": "Chain rule",
+            "d": "Sum rule"
+        },
+        "correct_answer": "Chain rule"
+    },
+    {
+        "q_no": 10,
+        "question": "What aspect of function behavior is determined by examining the sign changes of its first derivative?",
+        "options": {
+            "a": "Area under the curve",
+            "b": "Critical points",
+            "c": "Direction of change",
+            "d": "Concavity"
+        },
+        "correct_answer": "Direction of change"
+    },
+    {
+        "q_no": 11,
+        "question": "Which application of derivatives allows for analyzing marginal revenue changes?",
+        "options": {
+            "a": "Integration",
+            "b": "Marginal derivatives",
+            "c": "Total derivatives",
+            "d": "Initial value calculations"
+        },
+        "correct_answer": "Marginal derivatives"
+    },
+    {
+        "q_no": 12,
+        "question": "What rule is used to find the derivative of an inverse function?",
+        "options": {
+            "a": "Chain rule",
+            "b": "Derivative of an inverse",
+            "c": "Arctangent function",
+            "d": "Logarithmic derivative"
+        },
+        "correct_answer": "Chain rule"
+    }
+]
+Time Taken: 95.96 seconds | Tokens Produced: 474 | ⚡⚡⚡ Token Speed 4.939 tokens/sec
+✅✅✅ Successfully generated 12 MCQs. Attempts Needed 3
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   {
+      "q_no": 1,
+      "question": "What does the derivative represent graphically?",
+      "options": {
+         "a": "The rate of change of the function's area under the curve",
+         "b": "The instantaneous velocity of the function",
+         "c": "The frequency of function peaks",
+         "d": "The total accumulation of function values"
+      },
+      "correct_answer": "The instantaneous velocity of the function"
+   },
+   {
+      "q_no": 2,
+      "question": "Which rule is used to differentiate expressions involving multiplication of functions?",
+      "options": {
+         "a": "Chain rule",
+         "b": "Sum rule",
+         "c": "Product rule",
+         "d": "Quotient rule"
+      },
+      "correct_answer": "Product rule"
+   },
+   {
+      "q_no": 3,
+      "question": "What technique is essential for differentiating complex functions like products of several variables?",
+      "options": {
+         "a": "Integration techniques",
+         "b": "Substitution method",
+         "c": "Sum rule",
+         "d": "Partial derivatives"
+      },
+      "correct_answer": "Partial derivatives"
+   },
+   {
+      "q_no": 4,
+      "question": "Which application of derivatives helps identify points where a function has critical points (maxima, minima)?",
+      "options": {
+         "a": "Integration",
+         "b": "Finding roots",
+         "c": "Determining intervals of increase/decrease",
+         "d": "Evaluating function values"
+      },
+      "correct_answer": "Determining intervals of increase/decrease"
+   },
+   {
+      "q_no": 5,
+      "question": "In implicit differentiation, what rule is primarily applied when differentiating terms like y^n?",
+      "options": {
+         "a": "Power rule",
+         "b": "Sum rule",
+         "c": "Quotient rule",
+         "d": "Chain rule"
+      },
+      "correct_answer": "Power rule"
+   },
+   {
+      "q_no": 6,
+      "question": "What do higher-order derivatives indicate about the behavior of a function near its critical points?",
+      "options": {
+         "a": "Its rate of change at inflection points",
+         "b": "Its acceleration",
+         "c": "Changes in concavity",
+         "d": "Its marginal increase/decrease"
+      },
+      "correct_answer": "Changes in concavity"
+   },
+   {
+      "q_no": 7,
+      "question": "Which interpretation involves visually assessing function behavior through graphs of derivatives?",
+      "options": {
+         "a": "Analyzing marginal effects",
+         "b": "Plotting function curves",
+         "c": "Determining inflection points directly",
+         "d": "Comparing function values over intervals"
+      },
+      "correct_answer": "Plotting function curves"
+   },
+   {
+      "q_no": 8,
+      "question": "When applying derivatives practically, which method can help understand marginal cost or benefit?",
+      "options": {
+         "a": "Integration",
+         "b": "Partial derivatives",
+         "c": "Higher-order derivatives",
+         "d": "Direct summation"
+      },
+      "correct_answer": "Partial derivatives"
+   },
+   {
+      "q_no": 9,
+      "question": "Which technique is crucial for handling implicit differentiation involving exponential functions?",
+      "options": {
+         "a": "Logarithmic differentiation",
+         "b": "Quotient rule",
+         "c": "Chain rule",
+         "d": "Sum rule"
+      },
+      "correct_answer": "Chain rule"
+   },
+   {
+      "q_no": 10,
+      "question": "What aspect of function behavior is determined by examining the sign changes of its first derivative?",
+      "options": {
+         "a": "Area under the curve",
+         "b": "Critical points",
+         "c": "Direction of change",
+         "d": "Concavity"
+      },
+      "correct_answer": "Direction of change"
+   },
+   {
+      "q_no": 11,
+      "question": "Which application of derivatives allows for analyzing marginal revenue changes?",
+      "options": {
+         "a": "Integration",
+         "b": "Marginal derivatives",
+         "c": "Total derivatives",
+         "d": "Initial value calculations"
+      },
+      "correct_answer": "Marginal derivatives"
+   },
+   {
+      "q_no": 12,
+      "question": "What rule is used to find the derivative of an inverse function?",
+      "options": {
+         "a": "Chain rule",
+         "b": "Derivative of an inverse",
+         "c": "Arctangent function",
+         "d": "Logarithmic derivative"
+      },
+      "correct_answer": "Chain rule"
+   }
+]
+TIME for MCQ: 95.961 | ⚡⚡⚡ Token Speed: 4.94 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 524 | TOTAL Time: 307.95
+
+********************************************************************************
+Syllabus NUMBER 2
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Cambridge Grade 10 Physics - Waves - Electromagnetic Spectrum:
+- Introduction to electromagnetic waves and their properties
+- Frequency, wavelength, and speed relationships
+- Overview of the electromagnetic spectrum classification
+- Detailed analysis of visible light spectrum regions
+- Applications of electromagnetic waves in technology
+- Interaction of electromagnetic waves with matter
+TIME for SYLLABUS: 8.668 | ⚡⚡⚡ Token Speed: 6.23 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 5... exaone3.5:2.4b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "Which characteristic distinguishes visible light from other parts of the electromagnetic spectrum?",
+        "options": {
+            "a": "Higher frequency",
+            "b": "Lower frequency",
+            "c": "Longer wavelength",
+            "d": "Shorter wavelength"
+        },
+        "correct_answer": "Higher frequency"
+    },
+    {
+        "q_no": 2,
+        "question": "What relationship correctly describes the energy (E), frequency (ν), and wavelength (λ) of electromagnetic waves?",
+        "options": {
+            "a": "E = νλ",
+            "b": "E = √(νλ)",
+            "c": "E = c/λ",
+            "d": "E = h/λ"
+        },
+        "correct_answer": "E = c/λ"
+    },
+    {
+        "q_no": 3,
+        "question": "Which type of electromagnetic wave has the longest wavelength on the electromagnetic spectrum?",
+        "options": {
+            "a": "Ultraviolet",
+            "b": "Visible light",
+            "c": "Radio waves",
+            "d": "Microwaves"
+        },
+        "correct_answer": "Radio waves"
+    },
+    {
+        "q_no": 4,
+        "question": "How do X-rays differ from ultraviolet radiation in terms of their interaction with matter?",
+        "options": {
+            "a": "X-rays penetrate deeper into materials due to lower frequency.",
+            "b": "Ultraviolet radiation penetrates deeper into materials due to lower frequency.",
+            "c": "Both travel at similar depths due to comparable frequencies.",
+            "d": "Neither penetrate materials; they only reflect off surfaces."
+        },
+        "correct_answer": "X-rays penetrate deeper into materials due to lower frequency."
+    },
+    {
+        "q_no": 5,
+        "question": "Which application relies heavily on understanding the properties of microwaves?",
+        "options": {
+            "a": "Medical imaging with MRI",
+            "b": "Communication via satellite",
+            "c": "Biological spectroscopy",
+            "d": "High-frequency sound wave treatment"
+        },
+        "correct_answer": "Communication via satellite"
+    },
+    {
+        "q_no": 6,
+        "question": "What is the primary function of infrared radiation in everyday technology?",
+        "options": {
+            "a": "Cooling devices",
+            "b": "Heating elements",
+            "c": "Visibility detection",
+            "d": "Optical fiber transmission"
+        },
+        "correct_answer": "Heating elements"
+    },
+    {
+        "q_no": 7,
+        "question": "Which spectrum region is predominantly associated with gamma rays?",
+        "options": {
+            "a": "Ultraviolet",
+            "b": "X-rays",
+            "c": "Radio waves",
+            "d": "Visible light"
+        },
+        "correct_answer": "X-rays"
+    },
+    {
+        "q_no": 8,
+        "question": "Which statement best describes the use of infrared spectroscopy in analytical chemistry?",
+        "options": {
+            "a": "It detects changes in electrical conductivity of materials.",
+            "b": "It measures absorption bands corresponding to molecular vibrations.",
+            "c": "It measures thermal conductivity changes in gases.",
+            "d": "It assesses electrical resistance variations."
+        },
+        "correct_answer": "It measures absorption bands corresponding to molecular vibrations."
+    },
+    {
+        "q_no": 9,
+        "question": "What is a key application of radar technology utilizing electromagnetic waves?",
+        "options": {
+            "a": "Medical imaging",
+            "b": "Weather forecasting",
+            "c": "Telecommunications",
+            "d": "Fluid dynamics analysis"
+        },
+        "correct_answer": "Weather forecasting"
+    },
+    {
+        "q_no": 10,
+        "question": "How does visible light interact with matter differently compared to infrared light?",
+        "options": {
+            "a": "Visible light is absorbed by metals, while infrared light is reflected.",
+            "b": "Both visible and infrared light are reflected equally by opaque materials.",
+            "c": "Infrared light causes thermal expansion while visible light does not.",
+            "d": "Visible light interacts differently based on color rather than wavelength."
+        },
+        "correct_answer": "Infrared light causes thermal expansion while visible light does not."
+    },
+    {
+        "q_no": 11,
+        "question": "Which electromagnetic wave carries information in digital communication systems?",
+        "options": {
+            "a": "Ultraviolet",
+            "b": "Radio waves",
+            "c": "Microwaves",
+            "d": "Visible light"
+        },
+        "correct_answer": "Microwaves"
+    },
+    {
+        "q_no": 12,
+        "question": "What principle underlies the operation of lasers used in medical treatments?",
+        "options": {
+            "a": "Supernova effect",
+            "b": "Electromagnetic resonance",
+            "c": "Black hole mechanics",
+            "d": "Quantum entanglement"
+        },
+        "correct_answer": "Electromagnetic resonance"
+    }
+]
+Time Taken: 97.68 seconds | Tokens Produced: 526 | ⚡⚡⚡ Token Speed 5.385 tokens/sec
+✅✅✅ Successfully generated 12 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   {
+      "q_no": 1,
+      "question": "Which characteristic distinguishes visible light from other parts of the electromagnetic spectrum?",
+      "options": {
+         "a": "Higher frequency",
+         "b": "Lower frequency",
+         "c": "Longer wavelength",
+         "d": "Shorter wavelength"
+      },
+      "correct_answer": "Higher frequency"
+   },
+   {
+      "q_no": 2,
+      "question": "What relationship correctly describes the energy (E), frequency (\u03bd), and wavelength (\u03bb) of electromagnetic waves?",
+      "options": {
+         "a": "E = \u03bd\u03bb",
+         "b": "E = \u221a(\u03bd\u03bb)",
+         "c": "E = c/\u03bb",
+         "d": "E = h/\u03bb"
+      },
+      "correct_answer": "E = c/\u03bb"
+   },
+   {
+      "q_no": 3,
+      "question": "Which type of electromagnetic wave has the longest wavelength on the electromagnetic spectrum?",
+      "options": {
+         "a": "Ultraviolet",
+         "b": "Visible light",
+         "c": "Radio waves",
+         "d": "Microwaves"
+      },
+      "correct_answer": "Radio waves"
+   },
+   {
+      "q_no": 4,
+      "question": "How do X-rays differ from ultraviolet radiation in terms of their interaction with matter?",
+      "options": {
+         "a": "X-rays penetrate deeper into materials due to lower frequency.",
+         "b": "Ultraviolet radiation penetrates deeper into materials due to lower frequency.",
+         "c": "Both travel at similar depths due to comparable frequencies.",
+         "d": "Neither penetrate materials; they only reflect off surfaces."
+      },
+      "correct_answer": "X-rays penetrate deeper into materials due to lower frequency."
+   },
+   {
+      "q_no": 5,
+      "question": "Which application relies heavily on understanding the properties of microwaves?",
+      "options": {
+         "a": "Medical imaging with MRI",
+         "b": "Communication via satellite",
+         "c": "Biological spectroscopy",
+         "d": "High-frequency sound wave treatment"
+      },
+      "correct_answer": "Communication via satellite"
+   },
+   {
+      "q_no": 6,
+      "question": "What is the primary function of infrared radiation in everyday technology?",
+      "options": {
+         "a": "Cooling devices",
+         "b": "Heating elements",
+         "c": "Visibility detection",
+         "d": "Optical fiber transmission"
+      },
+      "correct_answer": "Heating elements"
+   },
+   {
+      "q_no": 7,
+      "question": "Which spectrum region is predominantly associated with gamma rays?",
+      "options": {
+         "a": "Ultraviolet",
+         "b": "X-rays",
+         "c": "Radio waves",
+         "d": "Visible light"
+      },
+      "correct_answer": "X-rays"
+   },
+   {
+      "q_no": 8,
+      "question": "Which statement best describes the use of infrared spectroscopy in analytical chemistry?",
+      "options": {
+         "a": "It detects changes in electrical conductivity of materials.",
+         "b": "It measures absorption bands corresponding to molecular vibrations.",
+         "c": "It measures thermal conductivity changes in gases.",
+         "d": "It assesses electrical resistance variations."
+      },
+      "correct_answer": "It measures absorption bands corresponding to molecular vibrations."
+   },
+   {
+      "q_no": 9,
+      "question": "What is a key application of radar technology utilizing electromagnetic waves?",
+      "options": {
+         "a": "Medical imaging",
+         "b": "Weather forecasting",
+         "c": "Telecommunications",
+         "d": "Fluid dynamics analysis"
+      },
+      "correct_answer": "Weather forecasting"
+   },
+   {
+      "q_no": 10,
+      "question": "How does visible light interact with matter differently compared to infrared light?",
+      "options": {
+         "a": "Visible light is absorbed by metals, while infrared light is reflected.",
+         "b": "Both visible and infrared light are reflected equally by opaque materials.",
+         "c": "Infrared light causes thermal expansion while visible light does not.",
+         "d": "Visible light interacts differently based on color rather than wavelength."
+      },
+      "correct_answer": "Infrared light causes thermal expansion while visible light does not."
+   },
+   {
+      "q_no": 11,
+      "question": "Which electromagnetic wave carries information in digital communication systems?",
+      "options": {
+         "a": "Ultraviolet",
+         "b": "Radio waves",
+         "c": "Microwaves",
+         "d": "Visible light"
+      },
+      "correct_answer": "Microwaves"
+   },
+   {
+      "q_no": 12,
+      "question": "What principle underlies the operation of lasers used in medical treatments?",
+      "options": {
+         "a": "Supernova effect",
+         "b": "Electromagnetic resonance",
+         "c": "Black hole mechanics",
+         "d": "Quantum entanglement"
+      },
+      "correct_answer": "Electromagnetic resonance"
+   }
+]
+TIME for MCQ: 97.676 | ⚡⚡⚡ Token Speed: 5.385 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 580 | TOTAL Time: 106.36
+
+********************************************************************************
+Syllabus NUMBER 3
+

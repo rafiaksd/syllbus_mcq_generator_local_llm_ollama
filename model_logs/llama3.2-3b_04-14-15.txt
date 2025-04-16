@@ -1,0 +1,140 @@
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the definition of differentiation in calculus?",
+        "options": {
+            "a": "The process of finding the rate of change of a function",
+            "b": "The calculation of the area under a curve",
+            "c": "The integration of a function to find its inverse",
+            "d": "The manipulation of functions to simplify them"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 2,
+        "question": "Which rule is used to differentiate functions that have the form f(x)^n?",
+        "options": {
+            "a": "Power Rule",
+            "b": "Chain Rule",
+            "c": "Product Rule",
+            "d": "Quotient Rule"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 3,
+        "question": "What is the formula for implicit differentiation of a function with multiple variables?",
+        "options": {
+            "a": "\\frac{dy}{dx} = \\frac{\\partial f}{\\partial x}",
+            "b": "\\frac{dy}{dx} = \\frac{\\partial f}{\\partial y}",
+            "c": "\\frac{d^2y}{dx^2} = \\frac{\\partial^2f}{\\partial x\\partial y}",
+            "d": "\\frac{d^2y}{dx^2} = \\frac{\\partial^2f}{\\partial y^2}"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 4,
+        "question": "What is the formula for differentiating trigonometric functions?",
+        "options": {
+            "a": "\\frac{d}{dx}(sin(x)) = cos(x)",
+            "b": "\\frac{d}{dx}(cos(x)) = -sin(x)",
+            "c": "\\frac{d}{dx}(tan(x)) = sec^2(x)",
+            "d": "\\frac{d}{dx}(cosec(x)) = -cot(x)"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 5,
+        "question": "What is the formula for differentiating exponential functions?",
+        "options": {
+            "a": "\\frac{d}{dx}(e^x) = e^x",
+            "b": "\\frac{d}{dx}(e^{-x}) = -e^{-x}",
+            "c": "\\frac{d}{dx}(a^x) = a^x \ln(a)",
+            "d": "\\frac{d}{dx}(a^{-x}) = -a^{-x} \ln(a)"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "q_no": 6,
+        "question": "What is the formula for differentiating optimization problems involving derivatives?",
+        "options": {
+            "a": "\\frac{d}{dx}(f(x)) = f'(x)",
+            "b": "\\frac{d}{dx}(g(x)) = g'(x)\\cdot x",
+            "c": "\\frac{d}{dx}(h(x)) = h'(x)\\cdot (x-1)^2",
+            "d": "\\frac{d}{dx}(k(x)) = k'(x)\\cdot (x-2)^3"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 7,
+        "question": "How is the behavior of a function analyzed using its first derivative?",
+        "options": {
+            "a": "By finding the critical points",
+            "b": "By determining the maximum and minimum values",
+            "c": "By identifying the increasing and decreasing intervals",
+            "d": "By calculating the area under the curve"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "q_no": 8,
+        "question": "What is the formula for higher-order derivatives of functions?",
+        "options": {
+            "a": "\\frac{d^2y}{dx^2} = f''(x)",
+            "b": "\\frac{d^3y}{dx^3} = f'''(x)",
+            "c": "\\frac{d^n y}{dx^n} = f^{(n)}(x)",
+            "d": "\\frac{d^{n+1} y}{dx^{n+1}} = f^{(n+1)}(x)"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "q_no": 9,
+        "question": "What is the formula for the second derivative of a function?",
+        "options": {
+            "a": "\\frac{d^2y}{dx^2} = f''(x)",
+            "b": "\\frac{d^3y}{dx^3} = f'''(x)",
+            "c": "\\frac{d^n y}{dx^n} = f^{(n)}(x)",
+            "d": "\\frac{d^{n+1} y}{dx^{n+1}} = f^{(n+1)}(x)"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 10,
+        "question": "What is the formula for the third derivative of a function?",
+        "options": {
+            "a": "\\frac{d^2y}{dx^2} = f''(x)",
+            "b": "\\frac{d^3y}{dx^3} = f'''(x)",
+            "c": "\\frac{d^n y}{dx^n} = f^{(n)}(x)",
+            "d": "\\frac{d^{n+1} y}{dx^{n+1}} = f^{(n+1)}(x)"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "q_no": 11,
+        "question": "What is the formula for the nth derivative of a function?",
+        "options": {
+            "a": "\\frac{d^2y}{dx^2} = f''(x)",
+            "b": "\\frac{d^3y}{dx^3} = f'''(x)",
+            "c": "\\frac{d^n y}{dx^n} = f^{(n)}(x)",
+            "d": "\\frac{d^{n+1} y}{dx^{n+1}} = f^{(n+1)}(x)"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "q_no": 12,
+        "question": "What is the formula for the (n+1)th derivative of a function?",
+        "options": {
+            "a": "\\frac{d^2y}{dx^2} = f''(x)",
+            "b": "\\frac{d^3y}{dx^3} = f'''(x)",
+            "c": "\\frac{d^n y}{dx^n} = f^{(n)}(x)",
+            "d": "\\frac{d^{n+1} y}{dx^{n+1}} = f^{(n+1)}(x)"
+        },
+        "correct_answer": "d"
+    }
+]
+Time Taken: 129.48 seconds | Tokens Produced: 493 | ⚡⚡⚡ Token Speed 3.807 tokens/sec
+⚠️ Error: Invalid JSON format...
+
+Attempt 2 out of 6...

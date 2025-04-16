@@ -1,0 +1,224 @@
+Using 1 parallel processes.
+********************************************************************************
+
+Syllabus NUMBER 1 of 5 --- | llama3.2:3b
+
+📝📝📝 GOTTEN SYLLABUS 1 of 5 📝📝📝
+Syllabus for IB Grade 11 Mathematics - Trigonometry - Angle Measurement:
+- Defining degrees and radians
+- Converting between degrees and radians
+- Measuring angles using a protractor
+- Calculating the measure of an angle in a right triangle
+- Understanding radian measures and their relationship to degree measurements
+TIME for SYLLABUS: 14.691 | ⚡⚡⚡ Token Speed: 3.335 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 10
+Attempt 1/4 for Syllabus 1 of 5... | llama3.2:3b
+
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "Which unit is commonly used to express angles in trigonometry?", "options": {"a": "Degrees", "b": "Radians", "c": "Gradians", "d": "Reverts"}, "correct_answer": "Degrees"},
+    {"q_no": "2", "question": "What is the formula for converting degrees to radians?", "options": {"a": "^{\circ} = \frac{\pi}{180} \times ^{\circ}", "b": "\radians = \frac{1}{\pi}\times^\circ", "c": "\^{\circ} = \frac{180}{\pi} \times ^\circ", "d": "\radians = ^{\circ} \times \frac{\pi}{180}"}, "correct_answer": "^{\circ} = \frac{\pi}{180} \times ^{\circ}"},
+    {"q_no": "3", "question": "What tool is used to measure angles accurately in trigonometry?", "options": {"a": "Protractor", "b": "Compass", "c": "Squarimeter", "d": "Scale"}, "correct_answer": "Protractor"},
+    {"q_no": "4", "question": "What formula is used to calculate the measure of an angle in a right triangle?", "options": {"a": "\cos B = \frac{a}{b}", "b": "\sin A = \frac{a}{c}", "c": "\tan C = \frac{a}{c}", "d": "\frac{A}{100}=\frac{\sin A}{\cos A}\times\frac{90^\circ}{\pi rads}"}}, 
+    {"q_no": "5", "question": "How is radian measure related to degree measurement?", "options": {"a": "\radians = \frac{\pi}{180} \times ^{\circ}", "b": "\^{\circ} = \frac{180}{\pi}\times^\circ", "c": "\sin(\radians) = cos(\radians)", "d": "\cos(\radians)=\sin(\radians)"}, "correct_answer": "\^{\circ} = \frac{180}{\pi} \times ^\circ"},
+    {"q_no": "6", "question": "What is the formula for calculating sin(A) using cos(A)?", "options": {"a": "\sin A = \cos A", "b": "\cos A=\sin A", "c": "\frac{\sin A}{\cos A}=\tan A", "d": "\cos^2A + \sin^2A=1"}, "correct_answer": "\sin A = \cos A"},
+    {"q_no": "7", "question": "What is the definition of radian measure?", "options": {"a": "\radians = \frac{\pi}{180} \times ^{\circ}", "b": "Radians are used to express angles in a more accurate way than degrees.", "c": "Radian measure is an angle that subtends an arc of 1 unit on the unit circle.", "d": "\cos(\theta) = \sin(\theta)"}, "correct_answer": "Radians are used to express angles in a more accurate way than degrees."},
+    {"q_no": "8", "question": "What formula is used for converting radians to degrees?", "options": {"a": "\radians = \frac{\pi}{180} \times ^\circ", "b": "\^{\circ}=\frac{180}{\pi}\times^\circ", "c": "\cos(\theta)=\sin(\theta)", "d": "Radians are the same as degrees"}, "correct_answer": "\^{\circ} = \frac{180}{\pi} \times ^\circ"},
+    {"q_no": "9", "question": "What tool is used to measure radian angles accurately?", "options": {"a": "Protractor", "b": "Compass", "c": "Squarimeter", "d": "Scale"}, "correct_answer": "Protractor"},
+    {"q_no": "10", "question": "How are angle measurements in trigonometry calculated?", "options": {"a": "\frac{A}{100}=\frac{\sin A}{\cos A}\times\frac{90^\circ}{\pi rads}", "b": "Radians are equal to the measure of an angle.", "c": "Degrees and radians are interchangeable in trigonometry.", "d": "\cos(\theta) = \sin(\theta)"}, "correct_answer": "\frac{A}{100}=\frac{\sin A}{\cos A}\times\frac{90^\circ}{\pi rads}"}
+]
+Time Taken: 115.29 seconds | Tokens Produced: 370 | ⚡⚡⚡ Token Speed 3.209 tokens/sec
+⚠️ Error: Invalid JSON format...
+
+Attempt 2/4 for Syllabus 1 of 5... | llama3.2:3b
+
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "Which unit is typically used for measuring angles in mathematics?", "options": {"a": "Radians", "b": "Degrees", "c": "Gradians", "d": "Refractive Index"}, "correct_answer": "Degrees"},
+    {"q_no": "2", "question": "What conversion factor can be used to convert degrees to radians?", "options": {"a": "180^\circ = \pi rad", "b": "\frac{\pi}{180}^{\circ}", "c": "1^\circ = \frac{1}{\pi}$ rad", "d": "$\pi$ rad = $180^\circ$", "correct_answer": "b"},
+    {"q_no": "3", "question": "What tool is commonly used to measure the size of an angle?", "options": {"a": "Protractor", "b": "Ruler", "c": "Pencil", "d": "Eraser"}, "correct_answer": "a"},
+    {"q_no": "4", "question": "Which formula can be used to calculate the measure of an angle in a right triangle?", "options": {"a": "tan(angle) = opposite/adjacent", "b": "sin(angle) = opposite/hypotenuse", "c": "cos(angle) = adjacent/hypotenuse", "d": "sec(angle) = hypotenuse/adjacent"}, "correct_answer": "a"},
+    {"q_no": "5", "question": "What is the relationship between radian measures and degree measurements?", "options": {"a": "Radian measures are equal to degree measurements times \frac{\pi}{180}", "b": "Degree measurements are equal to radian measures divided by \frac{\pi}{180}", "c": "Radian measures and degree measurements are not directly related", "d": "Radian measures are twice degree measurements"}, "correct_answer": "a"},
+    {"q_no": "6", "question": "What type of measurement is often used to express angles in mathematics?", "options": {"a": "Degrees", "b": "Radians", "c": "Gradians", "d": "Refractive Index"}, "correct_answer": "a"},
+    {"q_no": "7", "question": "Which unit can be used to measure the size of an angle in mathematics?", "options": {"a": "Radians", "b": "Degrees", "c": "Gradians", "d": "Refractive Index"}, "correct_answer": "a"},
+    {"q_no": "8", "question": "Which formula can be used to convert degrees to radians?", "options": {"a": "\frac{\pi}{180}^{\circ}", "b": "$\pi$ rad = $180^\circ$", "c": "1^\circ = \frac{1}{\pi}$ rad", "d": "180^\circ = \pi rad"}, "correct_answer": "a"},
+    {"q_no": "9", "question": "What tool is commonly used to measure the size of an angle in a triangle?", "options": {"a": "Protractor", "b": "Ruler", "c": "Pencil", "d": "Eraser"}, "correct_answer": "a"},
+    {"q_no": "10", "question": "Which unit is often used to measure the size of an angle in mathematics?", "options": {"a": "Radians", "b": "Degrees", "c": "Gradians", "d": "Refractive Index"}, "correct_answer": "b"}
+Time Taken: 103.49 seconds | Tokens Produced: 325 | ⚡⚡⚡ Token Speed 3.140 tokens/sec
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+
+Attempt 3/4 for Syllabus 1 of 5... | llama3.2:3b
+
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What unit is used to measure the size of angles?", "options": {"a": "Radians", "b": "Degrees", "c": "Gradians", "d": "Refractive Index"}, "correct_answer": "Degrees"},
+    {"q_no": "2", "question": "Which conversion factor can be used to convert degrees to radians?", "options": {"a": "1° = π/180 rad", "b": "1° = 1/57.3 rad", "c": "1° = π/36 rad", "d": "1° = 1/2.71 rad"}, "correct_answer": "1° = π/180 rad"},
+    {"q_no": "3", "question": "What tool is used to measure angles?", "options": {"a": "Calculator", "b": "Protractor", "c": "Compass", "d": "Scale"}, "correct_answer": "Protractor"},
+    {"q_no": "4", "question": "Which trigonometric ratio can be used to find the measure of an angle in a right triangle?", "options": {"a": "Sine", "b": "Cosine", "c": "Tangent", "d": "Cotangent"}, "correct_answer": "Sin"},
+    {"q_no": "5", "question": "What is the relationship between radian measures and degree measurements?", "options": {"a": "1 rad = 180°", "b": "1 rad = π/2°", "c": "1 rad = 57.3°", "d": "1 rad = 10.47°"}, "correct_answer": "1 rad = π/180°"},
+    {"q_no": "6", "question": "Which trigonometric ratio is used to find the length of the adjacent side in a right triangle?", "options": {"a": "Sine", "b": "Cosine", "c": "Tangent", "d": "Cotangent"}, "correct_answer": "Cos"},
+    {"q_no": "7", "question": "What is the measure of an angle that forms a 90-degree angle in a right triangle?", "options": {"a": "0°", "b": "30°", "c": "45°", "d": "60°"}, "correct_answer": "90°"},
+    {"q_no": "8", "question": "Which trigonometric ratio can be used to find the length of the opposite side in a right triangle?", "options": {"a": "Sine", "b": "Cosine", "c": "Tangent", "d": "Cotangent"}, "correct_answer": "Sin"},
+    {"q_no": "9", "question": "What is the relationship between radian measures and trigonometric ratios?", "options": {"a": "1 rad = 2π/trigonometric ratio", "b": "1 rad = π/2/trigonometric ratio", "c": "1 rad = π/trigonometric ratio", "d": "1 rad = 2/trigonometric ratio"}, "correct_answer": "1 rad = π/trigonometric ratio"},
+    {"q_no": "10", "question": "Which trigonometric ratio is used to find the length of the hypotenuse in a right triangle?", "options": {"a": "Sine", "b": "Cosine", "c": "Tangent", "d": "Cotangent"}, "correct_answer": "Cos"}
+]
+Time Taken: 101.48 seconds | Tokens Produced: 325 | ⚡⚡⚡ Token Speed 3.203 tokens/sec
+✅✅✅ Successfully generated 10 MCQs. Attempts Needed 3
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 1 of 5
+[
+   {
+      "q_no": "1",
+      "question": "What unit is used to measure the size of angles?",
+      "options": {
+         "a": "Radians",
+         "b": "Degrees",
+         "c": "Gradians",
+         "d": "Refractive Index"
+      },
+      "correct_answer": "Degrees"
+   },
+   {
+      "q_no": "2",
+      "question": "Which conversion factor can be used to convert degrees to radians?",
+      "options": {
+         "a": "1\u00b0 = \u03c0/180 rad",
+         "b": "1\u00b0 = 1/57.3 rad",
+         "c": "1\u00b0 = \u03c0/36 rad",
+         "d": "1\u00b0 = 1/2.71 rad"
+      },
+      "correct_answer": "1\u00b0 = \u03c0/180 rad"
+   },
+   {
+      "q_no": "3",
+      "question": "What tool is used to measure angles?",
+      "options": {
+         "a": "Calculator",
+         "b": "Protractor",
+         "c": "Compass",
+         "d": "Scale"
+      },
+      "correct_answer": "Protractor"
+   },
+   {
+      "q_no": "4",
+      "question": "Which trigonometric ratio can be used to find the measure of an angle in a right triangle?",
+      "options": {
+         "a": "Sine",
+         "b": "Cosine",
+         "c": "Tangent",
+         "d": "Cotangent"
+      },
+      "correct_answer": "Sin"
+   },
+   {
+      "q_no": "5",
+      "question": "What is the relationship between radian measures and degree measurements?",
+      "options": {
+         "a": "1 rad = 180\u00b0",
+         "b": "1 rad = \u03c0/2\u00b0",
+         "c": "1 rad = 57.3\u00b0",
+         "d": "1 rad = 10.47\u00b0"
+      },
+      "correct_answer": "1 rad = \u03c0/180\u00b0"
+   },
+   {
+      "q_no": "6",
+      "question": "Which trigonometric ratio is used to find the length of the adjacent side in a right triangle?",
+      "options": {
+         "a": "Sine",
+         "b": "Cosine",
+         "c": "Tangent",
+         "d": "Cotangent"
+      },
+      "correct_answer": "Cos"
+   },
+   {
+      "q_no": "7",
+      "question": "What is the measure of an angle that forms a 90-degree angle in a right triangle?",
+      "options": {
+         "a": "0\u00b0",
+         "b": "30\u00b0",
+         "c": "45\u00b0",
+         "d": "60\u00b0"
+      },
+      "correct_answer": "90\u00b0"
+   },
+   {
+      "q_no": "8",
+      "question": "Which trigonometric ratio can be used to find the length of the opposite side in a right triangle?",
+      "options": {
+         "a": "Sine",
+         "b": "Cosine",
+         "c": "Tangent",
+         "d": "Cotangent"
+      },
+      "correct_answer": "Sin"
+   },
+   {
+      "q_no": "9",
+      "question": "What is the relationship between radian measures and trigonometric ratios?",
+      "options": {
+         "a": "1 rad = 2\u03c0/trigonometric ratio",
+         "b": "1 rad = \u03c0/2/trigonometric ratio",
+         "c": "1 rad = \u03c0/trigonometric ratio",
+         "d": "1 rad = 2/trigonometric ratio"
+      },
+      "correct_answer": "1 rad = \u03c0/trigonometric ratio"
+   },
+   {
+      "q_no": "10",
+      "question": "Which trigonometric ratio is used to find the length of the hypotenuse in a right triangle?",
+      "options": {
+         "a": "Sine",
+         "b": "Cosine",
+         "c": "Tangent",
+         "d": "Cotangent"
+      },
+      "correct_answer": "Cos"
+   }
+]
+TIME for MCQ: 101.475 | ⚡⚡⚡ Token Speed: 3.203 tokens/sec
+TOTAL Tokens for Syllabus 1 & its MCQ: 374 | TOTAL Time: 334.97
+
+********************************************************************************
+
+Syllabus NUMBER 2 of 5 --- | llama3.2:3b
+
+📝📝📝 GOTTEN SYLLABUS 2 of 5 📝📝📝
+Syllabus for Cambridge Grade 8 Mathematics - Geometry - Angles and Their Properties:
+- Introduction to angles
+- Types of angles (acute, obtuse, right)
+- Properties of angles in a triangle
+- Sum of interior angles of a triangle
+- Linear pairs and complementary angles
+- Exterior angles and angle relationships
+TIME for SYLLABUS: 10.738 | ⚡⚡⚡ Token Speed: 4.75 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1/4 for Syllabus 2 of 5... | llama3.2:3b
+
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What is the term for an acute angle that is greater than 90 degrees but less than 180 degrees?", "options": {"a": "Obtuse", "b": "Right", "c": "Acute", "d": "Straight"}, "correct_answer": "Obtuse"},
+    {"q_no": "2", "question": "Which type of angle measures exactly 90 degrees and is used in many geometric calculations?", "options": {"a": "Acute", "b": "Right", "c": "Obtuse", "d": "Straight"}, "correct_answer": "Right"},
+    {"q_no": "3", "question": "In a triangle, what property must be true for the three angles to add up to 180 degrees?", "options": {"a": "The sum of interior angles is always greater than 180 degrees", "b": "The sum of interior angles is always less than 180 degrees", "c": "The sum of interior angles equals exactly 180 degrees", "d": "The sum of interior angles can vary depending on the triangle type"}, "correct_answer": "The sum of interior angles equals exactly 180 degrees"},
+    {"q_no": "4", "question": "What is the relationship between a linear pair and two adjacent angles?", "options": {"a": "They add up to 180 degrees", "b": "They are complementary", "c": "They are supplementary", "d": "They are equivalent"}, "correct_answer": "They add up to 180 degrees"},
+    {"q_no": "5", "question": "What happens when an exterior angle of a triangle is formed?", "options": {"a": "The sum of the interior angles increases", "b": "The sum of the interior angles decreases", "c": "No effect on the interior angles", "d": "The interior angles become equivalent"}, "correct_answer": "The sum of the interior angles does not change"},
+    {"q_no": "6", "question": "Which property applies to all linear pairs?", "options": {"a": "They are supplementary", "b": "They are complementary", "c": "They add up to 180 degrees and can be adjacent or non-adjacent", "d": "They can only be adjacent"}, "correct_answer": "They add up to 180 degrees and can be adjacent or non-adjacent"},
+    {"q_no": "7", "question": "What is the relationship between an exterior angle of a triangle and its corresponding interior angles?", "options": {"a": "The exterior angle equals the sum of the corresponding interior angles", "b": "The exterior angle is greater than both corresponding interior angles", "c": "No effect on each other's value", "d": "The exterior angle can be equal to one or more corresponding interior angles"}, "correct_answer": "The exterior angle equals the sum of the corresponding interior angles"},
+    {"q_no": "8", "question": "Which property defines complementary angles?", "options": {"a": "They add up to 90 degrees", "b": "They are adjacent and have equal values", "c": "They form a linear pair", "d": "They form a right angle"}, "correct_answer": "They add up to 90 degrees"},
+    {"q_no": "9", "question": "Which property is true for supplementary angles?", "options": {"a": "They are adjacent and have equal values", "b": "They add up to 180 degrees", "c": "They form a linear pair", "d": "They can only be complementary"}, "correct_answer": "They add up to 180 degrees"},
+    {"q_no": "10", "question": "What is the relationship between two adjacent angles in a triangle?", "options": {"a": "They are supplementary", "b": "They are complementary", "c": "One angle equals 90 degrees and the other angle has no specific value", "d": "The sum of the values is irrelevant"}, "correct_answer": "They add up to 180 degrees"},
+    {"q_no": "11", "question": "What property applies to corresponding angles in a triangle?", "options": {"a": "Their sums are always greater than 90 degrees", "b": "No effect on each other's value", "c": "The exterior angle of one is equal to the sum of both interior angles of another", "d": "They can only be adjacent"}, "correct_answer": "The exterior angle of one equals the sum of both interior angles of another"},
+    {"q_no": "12", "question": "Which property defines vertical angles?", "options": {"a": "They are equal to 90 degrees and always opposite each other", "b": "They have no specific value or relationship", "c": "One angle has a specific value while the other is unknown", "d": "The two angles can be complementary"}, "correct_answer": "They are equal in both measures, regardless of being adjacent or non-adjacent"}
+Time Taken: 122.54 seconds | Tokens Produced: 633 | ⚡⚡⚡ Token Speed 5.166 tokens/sec
+⚠️ Error: Invalid JSON format...
+
+Attempt 2/4 for Syllabus 2 of 5... | llama3.2:3b
+

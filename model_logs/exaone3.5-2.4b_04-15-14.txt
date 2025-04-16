@@ -1,0 +1,1268 @@
+********************************************************************************
+Syllabus NUMBER 1
+
+********************************************************************************
+Syllabus NUMBER 1
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Edexcel Grade 12 Mathematics - Calculus - Differentiation:
+- Definition of derivative
+- Limits and continuity
+- Power rule differentiation
+- Product rule application
+- Quotient rule application
+- Chain rule application
+- Solving differentiation problems involving polynomials and trigonometric functions
+TIME for SYLLABUS: 4.878 | ⚡⚡⚡ Token Speed: 8.815 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 14
+Attempt 1 out of 5 for Syllabus 1... exaone3.5:2.4b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "Which scenario best describes the derivative of a function represented graphically by a straight line?", "options": {"a": "Constant", "b": "Linear", "c": "Quadratic", "d": "Exponential"}, "correct_answer": "b"},
+    {"q_no": "2", "question": "What is the result when applying the power rule to differentiate f(x) = x^n?", "options": {"a": "n*x^(n-1)", "b": "x^(n+1)", "c": "nx^n", "d": "n+1"}, "correct_answer": "c"},
+    {"q_no": "3", "question": "Which rule applies when differentiating a product of two functions, u(x) and v(x)?", "options": {"a": "Sum Rule", "b": "Product Rule", "c": "Quotient Rule", "d": "Chain Rule"}, "correct_answer": "b"},
+    {"q_no": "4", "question": "To differentiate a quotient of functions, say u(x)/v(x), which rule is correctly applied?", "options": {"a": "Sum Rule", "b": "Quotient Rule", "c": "Power Rule", "d": "Chain Rule"}, "correct_answer": "b"},
+    {"q_no": "5", "question": "Applying the chain rule to f(g(x)) would yield which of the following derivatives?", "options": {"a": "g'(x)*f'(g(x))", "b": "g(x)*f'(g(x))", "c": "f'(g(x))*g'(x)", "d": "g'(x)*g(x)"}, "correct_answer": "a"},
+    {"q_no": "6", "question": "Which scenario involves solving differentiation problems that include both polynomial and trigonometric functions?", "options": {"a": "Differentiating a polynomial function only", "b": "Solving differentiation problems involving polynomials and trigonometric functions", "c": "Integrating a polynomial function", "d": "Evaluating limits at infinity"}, "correct_answer": "b"},
+    {"q_no": "7", "question": "Identify which type of derivative calculation might be least directly involved in evaluating derivatives of simple trigonometric expressions like sin(x)?", "options": {"a": "Chain Rule", "b": "Sum Rule", "c": "Product Rule", "d": "Basic Limit Definition"}, "correct_answer": "b"},
+    {"q_no": "8", "question": "What rule is primarily used when differentiating expressions involving exponential terms like e^x?", "options": {"a": "Power Rule", "b": "Chain Rule", "c": "Product Rule", "d": "Logarithmic Differentiation"}, "correct_answer": "a"},
+    {"q_no": "9", "question": "In differentiating sin(2x) using the chain rule, what component is directly multiplied by the derivative of 2x?", "options": {"a": "sin(x)", "b": "cos(x)", "c": "tan(x)", "d": "-cos(x)"}, "correct_answer": "a"},
+    {"q_no": "10", "question": "Which differentiation problem typically doesn't require the quotient rule for solving?", "options": {"a": "Identifying derivatives of logarithmic functions", "b": "Finding derivatives of quotients involving trigonometric functions", "c": "Dealing with exponential growth/decay", "d": "Evaluating integrals"}, "correct_answer": "a"}
+]
+Time Taken: 84.32 seconds | Tokens Produced: 334 | ⚡⚡⚡ Token Speed 3.961 tokens/sec
+⚠️ Warning: Expected 14 MCQs but got 10...
+
+Attempt 2 out of 5 for Syllabus 1... exaone3.5:2.4b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"qno": "1", "question": "Which statement correctly describes the derivative of a function representing position with respect to time?", "options": {"a": "Instantaneous rate of change", "b": "Cumulative sum of changes", "c": "Area under velocity curve", "d": "Maximum speed"}, "correct_answer": "a"},
+    {"qno": "2", "question": "What is the limit of the function f(x) = sin(x)/x as x approaches zero?", "options": {"a": "0", "b": "π/2", "c": "-π/2", "d": "∞"}, "correct_answer": "a"},
+    {"qno": "3", "question": "The derivative of f(x) = x^3 is", "options": {"a": "3x^2", "b": "2x^3", "c": "3x", "d": "x^2"}, "correct_answer": "a"},
+    {"qno": "4", "question": "Given u = sin(x) and v = cos(x), what is the derivative of uv using the product rule?", "options": {"a": "sin(x)cos(x) - cos(x)sin(x)", "b": "2sin(x)cos(x)", "c": "-sin(x)cos(x)", "d": "sin^2(x) + cos^2(x)"}, "correct_answer": "a"},
+    {"qno": "5", "question": "When applying the quotient rule to differentiate f(x) = (tan(x))/(sec(x))", "options": {"a": "(sec^2(x) + tan^2(x))/sec^2(x)", "b": "sec^2(x) + tan^2(x)", "c": "(tan(x))sec^2(x)", "d": "1/(sec^2(x) + tan^2(x))"}, "correct_answer": "a"},
+    {"qno": "6", "question": "Which function involves applying the chain rule?", "options": {"a": "f(g(x)) = (e^x)^2", "b": "f(g(x)) = ln(cos(x))", "c": "f(g(x)) = sin(e^x)", "d": "f(g(x)) = cos(tan(x))"}, "correct_answer": "d"},
+    {"qno": "7", "question": "The derivative of f(x) = sin^3(x) would involve", "options": {"a": "Power rule", "b": "Chain rule", "c": "Product rule", "d": "Quotient rule"}, "correct_answer": "b"},
+    {"qno": "8", "question": "Which scenario best fits solving a differentiation problem involving both polynomials and trigonometric functions?", "options": {"a": "Finding dy/dx for y = sin(3x^2) + x^3", "b": "Integrating x^2 + cos(x)", "c": "Finding max/min values of f(x) = sin(x) + cos^2(x)", "d": "Calculating dy/dx for y = ln(x)"}, "correct_answer": "a"},
+    {"qno": "9", "question": "What does the derivative of f(x) = cos(x^2) signify geometrically?", "options": {"a": "Rate of change of cosine with respect to square of x", "b": "Change in cosine value over x", "c": "Change in square of x in respect of cosine", "d": "Area under cosine curve"}, "correct_answer": "a"},
+    {"qno": "10", "question": "Which rule would be appropriate for differentiating g(x) = e^(x^2)?", "options": {"a": "Chain rule", "b": "Product rule", "c": "Power rule", "d": "Quotient rule"}, "correct_answer": "a"},
+    {"qno": "11", "question": "What distinguishes the differentiation process for f(x) = e^x sin(x) from simpler functions?", "options": {"a": "It necessitates applying both product rule and chain rule", "b": "It requires integration over a range", "c": "It involves differentiation twice", "d": "It simplifies due to linearity"}, "correct_answer": "a"},
+    {"qno": "12", "question": "Which expression represents the derivative of h(x) = cos(2x) using appropriate differentiation rules?", "options": {"a": "-2sin(2x)", "b": "sin(2x)", "c": "sin(x)", "d": "-sin(x)"}, "correct_answer": "a"}
+]
+
+This comprehensive JSON structure provides a detailed overview of differentiation questions categorized by concept clarity and relevance, enhancing understanding and proficiency in calculus topics.
+Time Taken: 105.78 seconds | Tokens Produced: 440 | ⚡⚡⚡ Token Speed 4.159 tokens/sec
+⚠️ Warning: Expected 14 MCQs but got 10...
+⚠️ Error: Invalid JSON format...
+
+Attempt 3 out of 5 for Syllabus 1... exaone3.5:2.4b
+********************************************************************************
+Syllabus NUMBER 1
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Edexcel Grade 12 Mathematics - Calculus - Differentiation:
+- Definition and geometric interpretation of derivative
+- Power rule for differentiation
+- Product rule application
+- Quotient rule for differentiation
+- Chain rule explanation
+- Solving differentiation problems
+- Applications of derivatives in optimization
+TIME for SYLLABUS: 8.007 | ⚡⚡⚡ Token Speed: 5.62 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 14
+Attempt 1 out of 5 for Syllabus 1... exaone3.5:2.4b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What does the derivative of a function represent geometrically?", "options": {"a": "The slope of the tangent line", "b": "The area under the curve", "c": "The maximum value of the function", "d": "The distance between two points"}, "correct_answer": "The slope of the tangent line"},
+    {"q_no": "2", "question": "Which rule is used to differentiate a function that is a power of another function?", "options": {"a": "Chain rule", "b": "Power rule", "c": "Quotient rule", "d": "Trigonometric substitution"}, "correct_answer": "Power rule"},
+    {"q_no": "3", "question": "What principle applies when differentiating a product of two functions?", "options": {"a": "Product rule", "b": "Derivative rule", "c": "Logarithmic differentiation", "d": "Integration by parts"}, "correct_answer": "Product rule"},
+    {"q_no": "4", "question": "Which rule is used to find the derivative of a quotient of two functions?", "options": {"a": "Sum rule", "b": "Quotient rule", "c": "Chain rule", "d": "Substitution rule"}, "correct_answer": "Quotient rule"},
+    {"q_no": "5", "question": "Applying the chain rule involves differentiating a function composed with itself. Which statement is true about chain rule usage?", "options": {"a": "It only applies to polynomial functions.", "b": "It is used when differentiating composite functions by multiplying by the derivative of the outer function.", "c": "It negates the derivative of the inner function.", "d": "It simplifies the differentiation process to a single derivative."}, "correct_answer": "It is used when differentiating composite functions by multiplying by the derivative of the outer function."},
+    {"q_no": "6", "question": "Which scenario best illustrates the application of derivatives in optimization?", "options": {"a": "Finding the minimum cost for a product given its production cost function.", "b": "Determining the maximum height reached by a projectile.", "c": "Calculating the moment of inertia of a solid cylinder.", "d": "Finding the volume of a spherical tank"}, "correct_answer": "Finding the minimum cost for a product given its production cost function."},
+    {"q_no": "7", "question": "Given two differentiable functions f(x) and g(x), which rule would be incorrectly applied if used incorrectly?", "options": {"a": "Product rule yields g(x) * f'(x)", "b": "Quotient rule yields f'(g(x))/g'(x)", "c": "Chain rule correctly applied as f'(g(x)) * g'(x)", "d": "Power rule applies only when functions involve x^n"}, "correct_answer": "Given two differentiable functions f(x) and g(x), if incorrectly applied, the product rule yielding g(x) * f'(x) would be wrong unless misapplied."},
+    {"q_no": "8", "question": "What property of a function makes its derivative optimal (minimum or maximum) according to differentiation principles?", "options": {"a": "Concavity and convexity", "b": "Area under curves", "c": "Periodic nature", "d": "Symmetry"}, "correct_answer": "Concavity and convexity"},
+    {"q_no": "9", "question": "Identifying a situation where the derivative helps find a rate of change not directly observable:", "options": {"a": "Calculating total distance traveled by a car", "b": "Determining the speed variation in a fluid flow", "c": "Measuring instantaneous velocity", "d": "Calculating the average velocity"}, "correct_answer": "Determining the speed variation in a fluid flow"},
+    {"q_no": "10", "question": "Which derivative application helps identify points where a function's gradient equals zero?", "options": {"a": "Integration methods", "b": "Numerical differentiation", "c": "Partial derivatives", "d": "Critical points"}, "correct_answer": "Critical points"}
+]
+Time Taken: 94.70 seconds | Tokens Produced: 492 | ⚡⚡⚡ Token Speed 5.196 tokens/sec
+⚠️ Warning: Expected 14 MCQs but got 10...
+
+Attempt 2 out of 5 for Syllabus 1... exaone3.5:2.4b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What does the geometric interpretation of the derivative represent?", "options": {"a": "Rate of change of position", "b": "Area under a curve", "c": "Velocity of an object", "d": "Slope of tangent line at a point"}, "correct_answer": "Slope of tangent line at a point"},
+    {"q_no": "2", "question": "Which rule is NOT used for differentiating products of functions?", "options": {"a": "Product rule", "b": "Quotient rule", "c": "Chain rule", "d": "Integration"}, "correct_answer": "Integration"},
+    {"q_no": "3", "question": "What characterizes the power rule's application in differentiation?", "options": {"a": "Derivative of xn is n*xn−1", "b": "Derivative of xn−1 is n−1*xn", "c": "Derivative of xn+1 is (n+1)*xn", "d": "Derivative of xn−2 is n−2*xn−3"}, "correct_answer": "Derivative of xn is n*xn−1"},
+    {"q_no": "4", "question": "Which rule involves finding the derivative of two interdependent functions?", "options": {"a": "Chain rule", "b": "Product rule", "c": "Quotient rule", "d": "Mean Value Theorem"}, "correct_answer": "Chain rule"},
+    {"q_no": "5", "question": "What application leverages derivatives for optimization problems?", "options": {"a": "Determining maximum values", "b": "Finding minimum costs", "c": "Measuring volume", "d": "Calculating moments"}, "correct_answer": "Determining maximum values"},
+    {"q_no": "6", "question": "Which derivative rule deals directly with quotients of functions?", "options": {"a": "Product rule", "b": "Quotient rule", "c": "Power rule", "d": "Mean Value Theorem"}, "correct_answer": "Quotient rule"},
+    {"q_no": "7", "question": "How is the derivative of a composite function typically expressed?", "options": {"a": "Derivative of outer function times derivative of inner function", "b": "Derivative of outer function minus inner function", "c": "Sum of derivatives of outer and inner functions", "d": "Product of derivatives of outer and inner functions"}, "correct_answer": "Derivative of outer function times derivative of inner function"},
+    {"q_no": "8", "question": "Which type of function derivative is typically straightforward and simple to calculate?", "options": {"a": "Quotient rule involving simple polynomial functions", "b": "Chain rule involving trigonometric functions", "c": "Power rule for simple powers", "d": "Derivative of exponential function"}, "correct_answer": "Power rule for simple powers"},
+    {"q_no": "9", "question": "What does solving differentiation problems primarily involve?", "options": {"a": "Applying rules sequentially", "b": "Identifying critical points", "c": "Finding maximum/minimum values", "d": "Determining area under curves"}, "correct_answer": "Applying rules sequentially"},
+    {"q_no": "10", "question": "Which scenario involves optimization through differentiation?", "options": {"a": "Finding the shortest distance between two points", "b": "Determining profit margins", "c": "Calculating total mass", "d": "Measuring electrical resistance"}, "correct_answer": "Determining profit margins"},
+    {"q_no": "11", "question": "What does the chain rule specifically focus on when differentiating composite functions?", "options": {"a": "The outer function's derivative times the inner function's derivative", "b": "The product of outer and inner functions' derivatives", "c": "The ratio of outer and inner functions", "d": "The sum of outer and inner functions"}, "correct_answer": "The outer function's derivative times the inner function's derivative"},
+    {"q_no": "12", "question": "Which type of derivative rule is typically used when differentiating ratios of functions?", "options": {"a": "Chain rule", "b": "Quotient rule", "c": "Product rule", "d": "Mean Value Theorem"}, "correct_answer": "Quotient rule"},
+    {"q_no": "13", "question": "What aspect distinguishes differentiating complex rational functions from simpler ones?", "options": {"a": "Applying the quotient rule twice", "b": "Applying the product rule", "c": "Differentiating separately based on exponents", "d": "Integration over intervals"}, "correct_answer": "Applying the quotient rule twice"},
+    {"q_no": "14", "question": "Which derivative application helps find critical points by setting derivatives equal to zero?", "options": {"a": "Finding inflection points", "b": "Identifying maxima/minima", "c": "Calculating derivatives of polynomial functions", "d": "Evaluating integrals"}, "correct_answer": "Identifying maxima/minima"}
+]
+Time Taken: 119.37 seconds | Tokens Produced: 548 | ⚡⚡⚡ Token Speed 4.591 tokens/sec
+✅✅✅ Successfully generated 14 MCQs. Attempts Needed 2
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 1
+[
+   {
+      "q_no": "1",
+      "question": "What does the geometric interpretation of the derivative represent?",
+      "options": {
+         "a": "Rate of change of position",
+         "b": "Area under a curve",
+         "c": "Velocity of an object",
+         "d": "Slope of tangent line at a point"
+      },
+      "correct_answer": "Slope of tangent line at a point"
+   },
+   {
+      "q_no": "2",
+      "question": "Which rule is NOT used for differentiating products of functions?",
+      "options": {
+         "a": "Product rule",
+         "b": "Quotient rule",
+         "c": "Chain rule",
+         "d": "Integration"
+      },
+      "correct_answer": "Integration"
+   },
+   {
+      "q_no": "3",
+      "question": "What characterizes the power rule's application in differentiation?",
+      "options": {
+         "a": "Derivative of xn is n*xn\u22121",
+         "b": "Derivative of xn\u22121 is n\u22121*xn",
+         "c": "Derivative of xn+1 is (n+1)*xn",
+         "d": "Derivative of xn\u22122 is n\u22122*xn\u22123"
+      },
+      "correct_answer": "Derivative of xn is n*xn\u22121"
+   },
+   {
+      "q_no": "4",
+      "question": "Which rule involves finding the derivative of two interdependent functions?",
+      "options": {
+         "a": "Chain rule",
+         "b": "Product rule",
+         "c": "Quotient rule",
+         "d": "Mean Value Theorem"
+      },
+      "correct_answer": "Chain rule"
+   },
+   {
+      "q_no": "5",
+      "question": "What application leverages derivatives for optimization problems?",
+      "options": {
+         "a": "Determining maximum values",
+         "b": "Finding minimum costs",
+         "c": "Measuring volume",
+         "d": "Calculating moments"
+      },
+      "correct_answer": "Determining maximum values"
+   },
+   {
+      "q_no": "6",
+      "question": "Which derivative rule deals directly with quotients of functions?",
+      "options": {
+         "a": "Product rule",
+         "b": "Quotient rule",
+         "c": "Power rule",
+         "d": "Mean Value Theorem"
+      },
+      "correct_answer": "Quotient rule"
+   },
+   {
+      "q_no": "7",
+      "question": "How is the derivative of a composite function typically expressed?",
+      "options": {
+         "a": "Derivative of outer function times derivative of inner function",
+         "b": "Derivative of outer function minus inner function",
+         "c": "Sum of derivatives of outer and inner functions",
+         "d": "Product of derivatives of outer and inner functions"
+      },
+      "correct_answer": "Derivative of outer function times derivative of inner function"
+   },
+   {
+      "q_no": "8",
+      "question": "Which type of function derivative is typically straightforward and simple to calculate?",
+      "options": {
+         "a": "Quotient rule involving simple polynomial functions",
+         "b": "Chain rule involving trigonometric functions",
+         "c": "Power rule for simple powers",
+         "d": "Derivative of exponential function"
+      },
+      "correct_answer": "Power rule for simple powers"
+   },
+   {
+      "q_no": "9",
+      "question": "What does solving differentiation problems primarily involve?",
+      "options": {
+         "a": "Applying rules sequentially",
+         "b": "Identifying critical points",
+         "c": "Finding maximum/minimum values",
+         "d": "Determining area under curves"
+      },
+      "correct_answer": "Applying rules sequentially"
+   },
+   {
+      "q_no": "10",
+      "question": "Which scenario involves optimization through differentiation?",
+      "options": {
+         "a": "Finding the shortest distance between two points",
+         "b": "Determining profit margins",
+         "c": "Calculating total mass",
+         "d": "Measuring electrical resistance"
+      },
+      "correct_answer": "Determining profit margins"
+   },
+   {
+      "q_no": "11",
+      "question": "What does the chain rule specifically focus on when differentiating composite functions?",
+      "options": {
+         "a": "The outer function's derivative times the inner function's derivative",
+         "b": "The product of outer and inner functions' derivatives",
+         "c": "The ratio of outer and inner functions",
+         "d": "The sum of outer and inner functions"
+      },
+      "correct_answer": "The outer function's derivative times the inner function's derivative"
+   },
+   {
+      "q_no": "12",
+      "question": "Which type of derivative rule is typically used when differentiating ratios of functions?",
+      "options": {
+         "a": "Chain rule",
+         "b": "Quotient rule",
+         "c": "Product rule",
+         "d": "Mean Value Theorem"
+      },
+      "correct_answer": "Quotient rule"
+   },
+   {
+      "q_no": "13",
+      "question": "What aspect distinguishes differentiating complex rational functions from simpler ones?",
+      "options": {
+         "a": "Applying the quotient rule twice",
+         "b": "Applying the product rule",
+         "c": "Differentiating separately based on exponents",
+         "d": "Integration over intervals"
+      },
+      "correct_answer": "Applying the quotient rule twice"
+   },
+   {
+      "q_no": "14",
+      "question": "Which derivative application helps find critical points by setting derivatives equal to zero?",
+      "options": {
+         "a": "Finding inflection points",
+         "b": "Identifying maxima/minima",
+         "c": "Calculating derivatives of polynomial functions",
+         "d": "Evaluating integrals"
+      },
+      "correct_answer": "Identifying maxima/minima"
+   }
+]
+TIME for MCQ: 119.364 | ⚡⚡⚡ Token Speed: 4.591 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 593 | TOTAL Time: 222.08
+
+********************************************************************************
+Syllabus NUMBER 2
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Cambridge Grade 10 Physics - Waves - Electromagnetic Spectrum:
+- Definition and properties of electromagnetic waves
+- Comparison of visible light spectrum components
+- Wave behavior in different mediums
+- Speed of electromagnetic waves across spectrums
+- Applications of electromagnetic spectrum in technology
+- Interaction of light with matter
+TIME for SYLLABUS: 9.35 | ⚡⚡⚡ Token Speed: 5.454 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 5 for Syllabus 2... exaone3.5:2.4b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What characteristic distinguishes electromagnetic waves from mechanical waves?", "options": {"a": "Electromagnetic waves can travel through vacuum", "b": "Electromagnetic waves require medium", "c": "Electromagnetic waves are not longitudinal", "d": "Electromagnetic waves have no wavelength"}, "correct_answer": "Electromagnetic waves can travel through vacuum"},
+    {"q_no": "2", "question": "Which color in the visible light spectrum typically has the highest energy?", "options": {"a": "Green", "b": "Blue", "c": "Red", "d": "Orange"}, "correct_answer": "Blue"},
+    {"q_no": "3", "question": "Electromagnetic waves with wavelengths longer than infrared are classified as", "options": {"a": "Radio waves", "b": "Ultraviolet", "c": "Microwave", "d": "Visible light"}, "correct_answer": "Radio waves"},
+    {"q_no": "4", "question": "What phenomenon explains why radio waves do not bend significantly when passing through air?", "options": {"a": "Refraction", "b": "Absorption", "c": "Scattering", "d": "Reflection"}, "correct_answer": "Absorption"},
+    {"q_no": "5", "question": "Which part of the electromagnetic spectrum is primarily used for communication technologies like Wi-Fi?", "options": {"a": "Ultraviolet", "b": "Microwaves", "c": "Infrared", "d": "X-rays"}, "correct_answer": "Microwaves"},
+    {"q_no": "6", "question": "What property of light causes reflection and refraction phenomena?", "options": {"a": "Electric charge", "b": "Magnetic dipole moment", "c": "Wave nature", "d": "Mass"}, "correct_answer": "Wave nature"},
+    {"q_no": "7", "question": "In terms of electromagnetic wave behavior, which medium allows waves to pass through without significant absorption?", "options": {"a": "Water", "b": "Air", "c": "Concrete", "d": "Rubber"}, "correct_answer": "Air"},
+    {"q_no": "8", "question": "Compared to visible light, what frequency range corresponds to microwaves?"? "options": {"a": "20-30 GHz", "b": "750 MHz", "c": "100 MHz", "d": "600 MHz"}, "correct_answer": "20-30 GHz"},
+    {"q_no": "9", "question": "What term best describes the interaction between electromagnetic waves and matter at the molecular level?"? "options": {"a": "Transmission", "b": "Absorption", "c": "Scattering", "d": "Reflection"}, "correct_answer": "Absorption"},
+    {"q_no": "10", "question": "Which type of electromagnetic radiation does not support the formation of standing waves?", "options": {"a": "Radio waves", "b": "Microwaves", "c": "Visible light", "d": "X-rays"}, "correct_answer": "Visible light"},
+    {"q_no": "11", "question": "When light passes from air into glass, what phenomenon explains its deflection?"? "options": {"a": "Reflection", "b": "Refraction", "c": "Interference", "d": "Dispersion"}, "correct_answer": "Refraction"},
+    {"q_no": "12", "question": "How do lasers fall within the electromagnetic spectrum?", "options": {"a": "As radio waves", "b": "As infrared waves", "c": "As visible light", "d": "As microwaves"}, "correct_answer": "As visible light"},
+    {"q_no": "13", "question": "Which application primarily utilizes ultraviolet radiation for sterilization purposes?", "options": {"a": "Water purification", "b": "Medical treatments", "c": "Cooking", "d": "Fishing gear"}, "correct_answer": "Medical treatments"},
+    {"q_no": "14", "question": "Which spectrum component is most efficiently absorbed by chlorophyll molecules for photosynthesis?", "options": {"a": "Microwave", "b": "Radio waves", "c": "Visible light", "d": "X-rays"}, "correct_answer": "Visible light"}
+]
+Time Taken: 117.93 seconds | Tokens Produced: 415 | ⚡⚡⚡ Token Speed 3.519 tokens/sec
+⚠️ Error: Invalid JSON format...
+
+Attempt 2 out of 5 for Syllabus 2... exaone3.5:2.4b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "Which type of electromagnetic wave has the highest energy and shortest wavelength?", "options": {"a": "Radio waves", "b": "Microwaves", "c": "Ultraviolet light", "d": "X-rays"}, "correct_answer": "X-rays"},
+    {"q_no": "2", "question": "What phenomenon describes the bending of light waves as they pass from one medium to another with different densities?", "options": {"a": "Reflection", "b": "Refraction", "c": "Diffraction", "d": "Interference"}, "correct_answer": "Refraction"},
+    {"q_no": "3", "question": "Which part of the electromagnetic spectrum is primarily used for communication technologies like Wi-Fi?", "options": {"a": "Infrared", "b": "Microwaves", "c": "Ultraviolet", "d": "Radio waves"}, "correct_answer": "Radio waves"},
+    {"q_no": "4", "question": "Comparing visible light to infrared light, which typically interacts less strongly with matter?", "options": {"a": "Visible light", "b": "Infrared light", "c": "Ultraviolet light", "d": "Both interact similarly"}, "correct_answer": "Infrared light"},
+    {"q_no": "5", "question": "What property characterizes electromagnetic waves so that different parts of the spectrum exhibit varying frequencies?", "options": {"a": "Speed", "b": "Intensity", "c": "Frequency", "d": "Direction"}, "correct_answer": "Frequency"},
+    {"q_no": "6", "question": "Which wave component of the electromagnetic spectrum is essential for photography?" , "options": {"a": "Ultraviolet", "b": "Gamma rays", "c": "Visible light", "d": "Alpha particles"}, "correct_answer": "Visible light"},
+    {"q_no": "7", "question": "What phenomenon explains why we can see objects illuminated by sunlight or artificial light sources?", "options": {"a": "Absorption", "b": "Reflection", "c": "Scattering", "d": "Transmission"}, "correct_answer": "Absorption"},
+    {"q_no": "8", "question": "Which type of electromagnetic wave requires dense materials for significant absorption, making it useful in medical imaging techniques like MRI?", "options": {"a": "Microwaves", "b": "Radio waves", "c": "X-rays", "d": "Infrared"}, "correct_answer": "X-rays"},
+    {"q_no": "9", "question": "Comparing visible light with radio waves, which typically exhibit more predictable propagation through space?", "options": {"a": "Visible light", "b": "Radio waves", "c": "Both equally", "d": "Neither"}, "correct_answer": "Radio waves"},
+    {"q_no": "10", "question": "What principle underlies the ability of electromagnetic waves to cause ionization in matter?", "options": {"a": "High intensity", "b": "Frequency", "c": "Amplitude", "d": "Thermal energy"}, "correct_answer": "Frequency"},
+    {"q_no": "11", "question": "Which interaction involves the transfer of light energy absorbed by molecules without altering their vibrational frequencies?", "options": {"a": "Scattering", "b": "Absorption", "c": "Reflection", "d": "Transmission"}, "correct_answer": "Absorption"},
+    {"q_no": "12", "question": "What characteristic distinguishes gamma rays from visible light in terms of frequency range?", "options": {"a": "Lower frequency", "b": "Higher frequency", "c": "Equal frequency", "d": "Irrelevant difference"}, "correct_answer": "Higher frequency"},
+    {"q_no": "13", "question": "Which wave type is used in remote sensing technologies due to its ability to penetrate non-porous materials?", "options": {"a": "Ultraviolet", "b": "Microwaves", "c": "Infrared", "d": "Radio waves"}, "correct_answer": "Infrared"},
+    {"q_no": "14", "question": "What aspect of electromagnetic waves contributes significantly to atmospheric conditions and weather phenomena?", "options": {"a": "Intensity", "b": "Frequency", "c": "Wavelength", "d": "Speed"}, "correct_answer": "Frequency"}
+]
+Time Taken: 112.93 seconds | Tokens Produced: 433 | ⚡⚡⚡ Token Speed 3.834 tokens/sec
+✅✅✅ Successfully generated 14 MCQs. Attempts Needed 2
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 2
+[
+   {
+      "q_no": "1",
+      "question": "Which type of electromagnetic wave has the highest energy and shortest wavelength?",
+      "options": {
+         "a": "Radio waves",
+         "b": "Microwaves",
+         "c": "Ultraviolet light",
+         "d": "X-rays"
+      },
+      "correct_answer": "X-rays"
+   },
+   {
+      "q_no": "2",
+      "question": "What phenomenon describes the bending of light waves as they pass from one medium to another with different densities?",
+      "options": {
+         "a": "Reflection",
+         "b": "Refraction",
+         "c": "Diffraction",
+         "d": "Interference"
+      },
+      "correct_answer": "Refraction"
+   },
+   {
+      "q_no": "3",
+      "question": "Which part of the electromagnetic spectrum is primarily used for communication technologies like Wi-Fi?",
+      "options": {
+         "a": "Infrared",
+         "b": "Microwaves",
+         "c": "Ultraviolet",
+         "d": "Radio waves"
+      },
+      "correct_answer": "Radio waves"
+   },
+   {
+      "q_no": "4",
+      "question": "Comparing visible light to infrared light, which typically interacts less strongly with matter?",
+      "options": {
+         "a": "Visible light",
+         "b": "Infrared light",
+         "c": "Ultraviolet light",
+         "d": "Both interact similarly"
+      },
+      "correct_answer": "Infrared light"
+   },
+   {
+      "q_no": "5",
+      "question": "What property characterizes electromagnetic waves so that different parts of the spectrum exhibit varying frequencies?",
+      "options": {
+         "a": "Speed",
+         "b": "Intensity",
+         "c": "Frequency",
+         "d": "Direction"
+      },
+      "correct_answer": "Frequency"
+   },
+   {
+      "q_no": "6",
+      "question": "Which wave component of the electromagnetic spectrum is essential for photography?",
+      "options": {
+         "a": "Ultraviolet",
+         "b": "Gamma rays",
+         "c": "Visible light",
+         "d": "Alpha particles"
+      },
+      "correct_answer": "Visible light"
+   },
+   {
+      "q_no": "7",
+      "question": "What phenomenon explains why we can see objects illuminated by sunlight or artificial light sources?",
+      "options": {
+         "a": "Absorption",
+         "b": "Reflection",
+         "c": "Scattering",
+         "d": "Transmission"
+      },
+      "correct_answer": "Absorption"
+   },
+   {
+      "q_no": "8",
+      "question": "Which type of electromagnetic wave requires dense materials for significant absorption, making it useful in medical imaging techniques like MRI?",
+      "options": {
+         "a": "Microwaves",
+         "b": "Radio waves",
+         "c": "X-rays",
+         "d": "Infrared"
+      },
+      "correct_answer": "X-rays"
+   },
+   {
+      "q_no": "9",
+      "question": "Comparing visible light with radio waves, which typically exhibit more predictable propagation through space?",
+      "options": {
+         "a": "Visible light",
+         "b": "Radio waves",
+         "c": "Both equally",
+         "d": "Neither"
+      },
+      "correct_answer": "Radio waves"
+   },
+   {
+      "q_no": "10",
+      "question": "What principle underlies the ability of electromagnetic waves to cause ionization in matter?",
+      "options": {
+         "a": "High intensity",
+         "b": "Frequency",
+         "c": "Amplitude",
+         "d": "Thermal energy"
+      },
+      "correct_answer": "Frequency"
+   },
+   {
+      "q_no": "11",
+      "question": "Which interaction involves the transfer of light energy absorbed by molecules without altering their vibrational frequencies?",
+      "options": {
+         "a": "Scattering",
+         "b": "Absorption",
+         "c": "Reflection",
+         "d": "Transmission"
+      },
+      "correct_answer": "Absorption"
+   },
+   {
+      "q_no": "12",
+      "question": "What characteristic distinguishes gamma rays from visible light in terms of frequency range?",
+      "options": {
+         "a": "Lower frequency",
+         "b": "Higher frequency",
+         "c": "Equal frequency",
+         "d": "Irrelevant difference"
+      },
+      "correct_answer": "Higher frequency"
+   },
+   {
+      "q_no": "13",
+      "question": "Which wave type is used in remote sensing technologies due to its ability to penetrate non-porous materials?",
+      "options": {
+         "a": "Ultraviolet",
+         "b": "Microwaves",
+         "c": "Infrared",
+         "d": "Radio waves"
+      },
+      "correct_answer": "Infrared"
+   },
+   {
+      "q_no": "14",
+      "question": "What aspect of electromagnetic waves contributes significantly to atmospheric conditions and weather phenomena?",
+      "options": {
+         "a": "Intensity",
+         "b": "Frequency",
+         "c": "Wavelength",
+         "d": "Speed"
+      },
+      "correct_answer": "Frequency"
+   }
+]
+TIME for MCQ: 112.933 | ⚡⚡⚡ Token Speed: 3.834 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 484 | TOTAL Time: 240.23
+
+********************************************************************************
+Syllabus NUMBER 3
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for IB Grade 10 Biology - Ecology - Population Dynamics:
+- Concepts of population structure and diversity
+- Factors influencing population growth (Malthusian growth model)
+- Carrying capacity and logistic growth curves
+- Population dynamics models (exponential vs logistic)
+- Impact of environmental factors on population size
+- Case studies of population dynamics in ecosystems
+TIME for SYLLABUS: 9.436 | ⚡⚡⚡ Token Speed: 5.935 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 5 for Syllabus 3... exaone3.5:2.4b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What term describes the organized arrangement of different species within a habitat?", "options": {"a": "Ecosystem", "b": "Population", "c": "Community", "d": "Biome"}, "correct_answer": "Community"},
+    {"q_no": "2", "question": "Which model predicts unlimited population growth due to proportional increase in resources regardless of population size?", "options": {"a": "Exponential Model", "b": "Logistic Model", "c": "Carrying Capacity Model", "d": "Demographic Transition Model"}, "correct_answer": "Exponential Model"},
+    {"q_no": "3", "question": "What factor primarily determines the maximum number of individuals an environment can sustainably support?", "options": {"a": "Carrying Capacity", "b": "Biomass", "c": "Genetic Diversity", "d": "Ecosystem Succession"}, "correct_answer": "Carrying Capacity"},
+    {"q_no": "4", "question": "Which growth model assumes that population growth slows as it approaches the carrying capacity due to resource limitation?", "options": {"a": "Exponential Growth", "b": "Logistic Growth", "c": "Allee Effect", "d": "Trophic Cascade"}, "correct_answer": "Logistic Growth"},
+    {"q_no": "5", "question": "Which environmental factor typically causes a decrease in population size?", "options": {"a": "Climate Change", "b": "Habitat Destruction", "c": "Predator-Prey Balance", "d": "Genetic Diversity"}, "correct_answer": "Climate Change"},
+    {"q_no": "6", "question": "What scenario illustrates the impact of environmental changes on population dynamics through example studies?", "options": {"a": "Urban Expansion", "b": "Overfishing", "c": "Coral Bleaching", "d": "Wildfire Impact"}, "correct_answer": "Urban Expansion"},
+    {"q_no": "7", "question": "How does biotic resistance affect population growth according to ecological theories?", "options": {"a": "By decreasing competition", "b": "Through increased predation", "c": "Reducing disease transmission", "d": "By enhancing nutrient cycling"}, "correct_answer": "Through increased predation"},
+    {"q_no": "8", "question": "In a logistic growth curve, what does 'K' represent?", "options": {"a": "Initial Population Size", "b": "Intrinsic Growth Rate", "c": "Carrying Capacity", "d": "Environmental Resistance"}, "correct_answer": "Carrying Capacity"},
+    {"q_no": "9", "question": "What mechanism would explain rapid population growth followed by a sharp decline due to limited resources?", "options": {"a": "Exponential Growth", "b": "Logistic Growth", "c": "Pest Outbreak", "d": "Competitive Exclusion"}, "correct_answer": "Logistic Growth"},
+    {"q_no": "10", "question": "Which scenario highlights the influence of human activities on population diversity through ecosystem disruption?", "options": {"a": "Introduction of Invasive Species", "b": "Renewable Resource Extraction", "c": "Renewable Energy Adoption", "d": "Renewable Resource Conservation"}, "correct_answer": "Introduction of Invasive Species"},
+    {"q_no": "11", "question": "Which term refers to the ecological interaction between species competing for the same resources?", "options": {"a": "Commensalism", "b": "Competition", "c": "Mutualism", "d": "Parasitism"}, "correct_answer": "Competition"},
+    {"q_no": "12", "question": "In a given ecosystem, what indicator can show a decrease in genetic diversity due to population bottlenecks?", "options": {"a": "Genetic Variance", "b": "Migration Rates", "c": "Population Size", "d": "Species Richness"}, "correct_answer": "Population Size"},
+    {"q_no": "13", "question": "How does deforestation affect the population dynamics of both species within the ecosystem and those in neighboring ecosystems?", "options": {"a": "Limits species diversity through habitat destruction", "b": "Increases food availability", "c": "Enhances genetic diversity", "d": "Promotes natural migration patterns"}, "correct_answer": "Limits species diversity through habitat destruction"},
+    {"q_no": "14", "question": "What concept measures the rate at which resources are consumed relative to the carrying capacity of an ecosystem?", "options": {"a": "Resource Utilization Rate", "b": "Population Density", "c": "Biomass Conversion", "d": "Environmental Resilience"}, "correct_answer": "Population Density"}
+]
+Time Taken: 112.42 seconds | Tokens Produced: 489 | ⚡⚡⚡ Token Speed 4.350 tokens/sec
+✅✅✅ Successfully generated 14 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 3
+[
+   {
+      "q_no": "1",
+      "question": "What term describes the organized arrangement of different species within a habitat?",
+      "options": {
+         "a": "Ecosystem",
+         "b": "Population",
+         "c": "Community",
+         "d": "Biome"
+      },
+      "correct_answer": "Community"
+   },
+   {
+      "q_no": "2",
+      "question": "Which model predicts unlimited population growth due to proportional increase in resources regardless of population size?",
+      "options": {
+         "a": "Exponential Model",
+         "b": "Logistic Model",
+         "c": "Carrying Capacity Model",
+         "d": "Demographic Transition Model"
+      },
+      "correct_answer": "Exponential Model"
+   },
+   {
+      "q_no": "3",
+      "question": "What factor primarily determines the maximum number of individuals an environment can sustainably support?",
+      "options": {
+         "a": "Carrying Capacity",
+         "b": "Biomass",
+         "c": "Genetic Diversity",
+         "d": "Ecosystem Succession"
+      },
+      "correct_answer": "Carrying Capacity"
+   },
+   {
+      "q_no": "4",
+      "question": "Which growth model assumes that population growth slows as it approaches the carrying capacity due to resource limitation?",
+      "options": {
+         "a": "Exponential Growth",
+         "b": "Logistic Growth",
+         "c": "Allee Effect",
+         "d": "Trophic Cascade"
+      },
+      "correct_answer": "Logistic Growth"
+   },
+   {
+      "q_no": "5",
+      "question": "Which environmental factor typically causes a decrease in population size?",
+      "options": {
+         "a": "Climate Change",
+         "b": "Habitat Destruction",
+         "c": "Predator-Prey Balance",
+         "d": "Genetic Diversity"
+      },
+      "correct_answer": "Climate Change"
+   },
+   {
+      "q_no": "6",
+      "question": "What scenario illustrates the impact of environmental changes on population dynamics through example studies?",
+      "options": {
+         "a": "Urban Expansion",
+         "b": "Overfishing",
+         "c": "Coral Bleaching",
+         "d": "Wildfire Impact"
+      },
+      "correct_answer": "Urban Expansion"
+   },
+   {
+      "q_no": "7",
+      "question": "How does biotic resistance affect population growth according to ecological theories?",
+      "options": {
+         "a": "By decreasing competition",
+         "b": "Through increased predation",
+         "c": "Reducing disease transmission",
+         "d": "By enhancing nutrient cycling"
+      },
+      "correct_answer": "Through increased predation"
+   },
+   {
+      "q_no": "8",
+      "question": "In a logistic growth curve, what does 'K' represent?",
+      "options": {
+         "a": "Initial Population Size",
+         "b": "Intrinsic Growth Rate",
+         "c": "Carrying Capacity",
+         "d": "Environmental Resistance"
+      },
+      "correct_answer": "Carrying Capacity"
+   },
+   {
+      "q_no": "9",
+      "question": "What mechanism would explain rapid population growth followed by a sharp decline due to limited resources?",
+      "options": {
+         "a": "Exponential Growth",
+         "b": "Logistic Growth",
+         "c": "Pest Outbreak",
+         "d": "Competitive Exclusion"
+      },
+      "correct_answer": "Logistic Growth"
+   },
+   {
+      "q_no": "10",
+      "question": "Which scenario highlights the influence of human activities on population diversity through ecosystem disruption?",
+      "options": {
+         "a": "Introduction of Invasive Species",
+         "b": "Renewable Resource Extraction",
+         "c": "Renewable Energy Adoption",
+         "d": "Renewable Resource Conservation"
+      },
+      "correct_answer": "Introduction of Invasive Species"
+   },
+   {
+      "q_no": "11",
+      "question": "Which term refers to the ecological interaction between species competing for the same resources?",
+      "options": {
+         "a": "Commensalism",
+         "b": "Competition",
+         "c": "Mutualism",
+         "d": "Parasitism"
+      },
+      "correct_answer": "Competition"
+   },
+   {
+      "q_no": "12",
+      "question": "In a given ecosystem, what indicator can show a decrease in genetic diversity due to population bottlenecks?",
+      "options": {
+         "a": "Genetic Variance",
+         "b": "Migration Rates",
+         "c": "Population Size",
+         "d": "Species Richness"
+      },
+      "correct_answer": "Population Size"
+   },
+   {
+      "q_no": "13",
+      "question": "How does deforestation affect the population dynamics of both species within the ecosystem and those in neighboring ecosystems?",
+      "options": {
+         "a": "Limits species diversity through habitat destruction",
+         "b": "Increases food availability",
+         "c": "Enhances genetic diversity",
+         "d": "Promotes natural migration patterns"
+      },
+      "correct_answer": "Limits species diversity through habitat destruction"
+   },
+   {
+      "q_no": "14",
+      "question": "What concept measures the rate at which resources are consumed relative to the carrying capacity of an ecosystem?",
+      "options": {
+         "a": "Resource Utilization Rate",
+         "b": "Population Density",
+         "c": "Biomass Conversion",
+         "d": "Environmental Resilience"
+      },
+      "correct_answer": "Population Density"
+   }
+]
+TIME for MCQ: 112.421 | ⚡⚡⚡ Token Speed: 4.35 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 545 | TOTAL Time: 121.87
+
+********************************************************************************
+Syllabus NUMBER 4
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Cambridge Grade 8 Mathematics - Algebra - Linear Equations:
+- Definition and representation of linear equations
+- Solving linear equations graphically
+- Finding solutions algebraically through isolation methods
+- Equation manipulation: addition, subtraction, multiplication, division
+- Solving equations involving variables on both sides
+- Word problems translating to linear equations
+TIME for SYLLABUS: 9.878 | ⚡⚡⚡ Token Speed: 5.264 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 5 for Syllabus 4... exaone3.5:2.4b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What is represented graphically by a linear equation?", "options": {"a": "A circle", "b": "A straight line", "c": "A parabola", "d": "A square"}, "correct_answer": "A straight line"},
+    {"q_no": "2", "question": "Which method isolates the variable to solve a linear equation like 2x + 3 = 7?", "options": {"a": "Graphical Method", "b": "Addition Method", "c": "Multiplication Method", "d": "Subtraction Method"}, "correct_answer": "Subtraction Method"},
+    {"q_no": "3", "question": "Which equation manipulation involves multiplying both sides by a variable expression?", "options": {"a": "Addition", "b": "Multiplication", "c": "Division", "d": "Squaring"}, "correct_answer": "Multiplication"},
+    {"q_no": "4", "question": "What property is crucial for solving equations involving variables on both sides, e.g., x + 4 = x + 5?", "options": {"a": "Cancellation", "b": "Commutativity", "c": "Associativity", "d": "Distributivity"}, "correct_answer": "Cancellation"},
+    {"q_no": "5", "question": "When translating word problems into linear equations, what typically connects different parts of a sentence?", "options": {"a": "Logical conjunctions", "b": "Equations with fractions", "c": "Variables on both sides", "d": "Multiplication signs"}, "correct_answer": "Logical conjunctions"},
+    {"q_no": "6", "question": "Which method directly isolates the variable without changing signs?", "options": {"a": "Addition", "b": "Subtraction", "c": "Division", "d": "Square Root"}, "correct_answer": "Subtraction Method"},
+    {"q_no": "7", "question": "What mathematical operation helps in simplifying equations like 3x = 9x + 6?", "options": {"a": "Exponentiation", "b": "Division", "c": "Multiplication", "d": "Addition"}, "correct_answer": "Division"},
+    {"q_no": "8", "question": "Which equation manipulation allows rearranging equations without changing their equality?", "options": {"a": "Multiplication", "b": "Division", "c": "Addition", "d": "Subtraction"}, "correct_answer": "Division"},
+    {"q_no": "9", "question": "In solving word problems related to linear equations, what term describes changing conditions into numbers?", "options": {"a": "Contextualization", "b": "Substitution", "c": "Equation Solving", "d": "Variable Isolation"}, "correct_answer": "Substitution"},
+    {"q_no": "10", "question": "Which algebraic method is used when equations are rewritten by changing all operations to their opposites?", "options": {"a": "Completing the Square", "b": "Transformation", "c": "Factoring", "d": "Quadratic Formula"}, "correct_answer": "Transformation"},
+    {"q_no": "11", "question": "What algebraic principle supports isolating a variable in equations like x/4 = 2?", "options": {"a": "Exponents", "b": "Fractions", "c": "Exponentials", "d": "Radicals"}, "correct_answer": "Fractions"},
+    {"q_no": "12", "question": "Which equation manipulation is critical for converting equations involving variables on both sides into simpler forms?", "options": {"a": "Subtraction", "b": "Multiplication", "c": "Division", "d": "Integration"}, "correct_answer": "Subtraction"},
+    {"q_no": "13", "question": "When solving equations with variables on both sides like x + 5 = 3x - 2, what process ensures equality?", "options": {"a": "Logical Deduction", "b": "Division", "c": "Addition", "d": "Multiplication"}, "correct_answer": "Addition"},
+    {"q_no": "14", "question": "Which technique involves replacing a verbal statement with algebraic expressions to form equations?", "options": {"a": "Translation", "b": "Substitution", "c": "Expansion", "d": "Contraction"}, "correct_answer": "Translation"}
+]
+Time Taken: 106.21 seconds | Tokens Produced: 423 | ⚡⚡⚡ Token Speed 3.983 tokens/sec
+✅✅✅ Successfully generated 14 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 4
+[
+   {
+      "q_no": "1",
+      "question": "What is represented graphically by a linear equation?",
+      "options": {
+         "a": "A circle",
+         "b": "A straight line",
+         "c": "A parabola",
+         "d": "A square"
+      },
+      "correct_answer": "A straight line"
+   },
+   {
+      "q_no": "2",
+      "question": "Which method isolates the variable to solve a linear equation like 2x + 3 = 7?",
+      "options": {
+         "a": "Graphical Method",
+         "b": "Addition Method",
+         "c": "Multiplication Method",
+         "d": "Subtraction Method"
+      },
+      "correct_answer": "Subtraction Method"
+   },
+   {
+      "q_no": "3",
+      "question": "Which equation manipulation involves multiplying both sides by a variable expression?",
+      "options": {
+         "a": "Addition",
+         "b": "Multiplication",
+         "c": "Division",
+         "d": "Squaring"
+      },
+      "correct_answer": "Multiplication"
+   },
+   {
+      "q_no": "4",
+      "question": "What property is crucial for solving equations involving variables on both sides, e.g., x + 4 = x + 5?",
+      "options": {
+         "a": "Cancellation",
+         "b": "Commutativity",
+         "c": "Associativity",
+         "d": "Distributivity"
+      },
+      "correct_answer": "Cancellation"
+   },
+   {
+      "q_no": "5",
+      "question": "When translating word problems into linear equations, what typically connects different parts of a sentence?",
+      "options": {
+         "a": "Logical conjunctions",
+         "b": "Equations with fractions",
+         "c": "Variables on both sides",
+         "d": "Multiplication signs"
+      },
+      "correct_answer": "Logical conjunctions"
+   },
+   {
+      "q_no": "6",
+      "question": "Which method directly isolates the variable without changing signs?",
+      "options": {
+         "a": "Addition",
+         "b": "Subtraction",
+         "c": "Division",
+         "d": "Square Root"
+      },
+      "correct_answer": "Subtraction Method"
+   },
+   {
+      "q_no": "7",
+      "question": "What mathematical operation helps in simplifying equations like 3x = 9x + 6?",
+      "options": {
+         "a": "Exponentiation",
+         "b": "Division",
+         "c": "Multiplication",
+         "d": "Addition"
+      },
+      "correct_answer": "Division"
+   },
+   {
+      "q_no": "8",
+      "question": "Which equation manipulation allows rearranging equations without changing their equality?",
+      "options": {
+         "a": "Multiplication",
+         "b": "Division",
+         "c": "Addition",
+         "d": "Subtraction"
+      },
+      "correct_answer": "Division"
+   },
+   {
+      "q_no": "9",
+      "question": "In solving word problems related to linear equations, what term describes changing conditions into numbers?",
+      "options": {
+         "a": "Contextualization",
+         "b": "Substitution",
+         "c": "Equation Solving",
+         "d": "Variable Isolation"
+      },
+      "correct_answer": "Substitution"
+   },
+   {
+      "q_no": "10",
+      "question": "Which algebraic method is used when equations are rewritten by changing all operations to their opposites?",
+      "options": {
+         "a": "Completing the Square",
+         "b": "Transformation",
+         "c": "Factoring",
+         "d": "Quadratic Formula"
+      },
+      "correct_answer": "Transformation"
+   },
+   {
+      "q_no": "11",
+      "question": "What algebraic principle supports isolating a variable in equations like x/4 = 2?",
+      "options": {
+         "a": "Exponents",
+         "b": "Fractions",
+         "c": "Exponentials",
+         "d": "Radicals"
+      },
+      "correct_answer": "Fractions"
+   },
+   {
+      "q_no": "12",
+      "question": "Which equation manipulation is critical for converting equations involving variables on both sides into simpler forms?",
+      "options": {
+         "a": "Subtraction",
+         "b": "Multiplication",
+         "c": "Division",
+         "d": "Integration"
+      },
+      "correct_answer": "Subtraction"
+   },
+   {
+      "q_no": "13",
+      "question": "When solving equations with variables on both sides like x + 5 = 3x - 2, what process ensures equality?",
+      "options": {
+         "a": "Logical Deduction",
+         "b": "Division",
+         "c": "Addition",
+         "d": "Multiplication"
+      },
+      "correct_answer": "Addition"
+   },
+   {
+      "q_no": "14",
+      "question": "Which technique involves replacing a verbal statement with algebraic expressions to form equations?",
+      "options": {
+         "a": "Translation",
+         "b": "Substitution",
+         "c": "Expansion",
+         "d": "Contraction"
+      },
+      "correct_answer": "Translation"
+   }
+]
+TIME for MCQ: 106.205 | ⚡⚡⚡ Token Speed: 3.983 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 475 | TOTAL Time: 116.09
+
+********************************************************************************
+
+Total Time Taken: 700.29, Total Tokens Generated: 2097, Avg Total Token Gen Speed: 2.99 tokens/sec
+Total ERROR: 2 
+Total Syllabi: 4 | Total Success MCQ : 4 MCQ Attempt per Syllabus: 5
+********************************************************************************
+Syllabus NUMBER 1 of 4
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Edexcel Grade 12 Mathematics - Calculus - Differentiation:
+- Definition and interpretation of the derivative
+- Techniques for differentiating polynomial functions
+- Derivatives of exponential and logarithmic functions
+- Chain rule application for composite functions
+- Product and quotient rules for differentiation
+- Geometric interpretation of derivative as slope
+- Application of derivatives in optimization problems
+TIME for SYLLABUS: 9.05 | ⚡⚡⚡ Token Speed: 6.409 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 14
+Attempt 1 out of 5 for Syllabus 1/4... exaone3.5:2.4b
+********************************************************************************
+Syllabus NUMBER 1 of 4
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Edexcel Grade 12 Mathematics - Calculus - Differentiation:
+- Definition and concept of differentiation
+- Rules of differentiation (power rule, product rule, quotient rule)
+- Differentiating polynomial functions
+- Applying derivatives to find rates of change and slopes of tangents
+- Solving optimization problems using differentiation
+- Geometric interpretation of derivative graphs
+TIME for SYLLABUS: 9.017 | ⚡⚡⚡ Token Speed: 5.989 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 5 for Syllabus 1 of 4... exaone3.5:2.4b
+********************************************************************************
+Syllabus NUMBER 1 of 4
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Edexcel Grade 12 Mathematics - Calculus - Differentiation:
+- Definition and notation of differentiation
+- Fundamental Theorem of Calculus
+- Derivatives of basic functions (polynomials, exponentials, logarithms, trigonometric)
+- Chain rule application
+- Derivatives involving piecewise functions
+- Geometric interpretation of derivatives (tangent lines, increasing/decreasing intervals)
+- Applications in optimization problems
+TIME for SYLLABUS: 9.35 | ⚡⚡⚡ Token Speed: 5.668 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 14
+Attempt 1 out of 5 for Syllabus 1 of 4... exaone3.5:2.4b
+🔍🔍🔍 Generated MCQ:
+
+ Here are 2 MCQs generated for each line from the syllabus for Edexcel Grade 12 Mathematics - Calculus - Differentiation:
+
+### Definition and Notation of Differentiation
+1. **What does the notation \( f'(x) \) represent?**
+   - A) The value of \( f(x) \) at \( x \)
+   - B) The slope of \( f(x) \) at \( x \)
+   - C) The area under \( f(x) \) from \( x \) to infinity
+   - D) The integral of \( f(x) \) from \( x \) to infinity
+
+2. **Which of the following is NOT a correct notation for derivative?**
+   - A) \( \frac{dy}{dx} \)
+   - B) \( f'(x) \)
+   - C) \( \frac{d}{dx}y \)
+   - D) \( df \)
+
+### Fundamental Theorem of Calculus
+1. **Which statement correctly captures part of the Fundamental Theorem of Calculus?**
+   - A) \( \int_{a}^{b} f(x) \, dx \) is equal to \( F(b) - F(a) \) where \( F \) is an antiderivative of \( f \).
+   - B) \( \frac{d}{dx} \int_{a}^{x} f(t) \, dt = f(x) \)
+   - C) \( \int_{a}^{b} f(x) \, dx = \sum_{k=a}^{b} f(k) \)
+   - D) \( \frac{d}{dx} \left[ \frac{1}{x} \right] = \ln|x| \)
+
+2. **Which scenario correctly uses the Fundamental Theorem of Calculus?**
+   - A) Finding \( \int_{0}^{1} e^{-x^2} \, dx \) involves differentiating \( \frac{1}{2} e^{-x^2} \) and evaluating it at bounds.
+   - B) Evaluating \( \int_{2}^{5} (2x + 3) \, dx \) requires finding \( f'(x) \) where \( f(x) = \frac{1}{2} (2x)^2 + \frac{3}{2}x \).
+   - C) Determining \( \frac{d}{dx} \left( \int_{1}^{x} x \, dx \right) \) requires integration with respect to \( x \).
+   - D) Solving \( \frac{d}{dx} \left( \frac{1}{x} \right) \) directly gives \( -\frac{1}{x^2} \).
+
+### Derivatives of Basic Functions
+1. **What is the derivative of \( e^x \)?**
+   - A) \( e^x \)
+   - B) \( e^{-x} \)
+   - C) \( e^{x^2} \)
+   - D) \( \frac{1}{x} \)
+
+2. **Which function simplifies to \( \ln(1+x) \) after differentiation?**
+   - A) \( \frac{x^2}{1+x} \)
+   - B) \( \frac{1}{1+x} \)
+   - C) \( \ln(x^2 + 1) \)
+   - D) \( \frac{x}{x^2 + 1} \)
+
+### Chain Rule Application
+1. **Which scenario correctly applies the Chain Rule?**
+   - A) \( \frac{d}{dx} [e^{x^2}] = e^{x^2} \cdot \frac{d}{dx}(x^2) \)
+   - B) \( \frac{d}{dx} [sin(x^3)] = cos(x^3) \cdot \frac{d}{dx}(x^3) \)
+   - C) \( \frac{d}{dx} [cos^{-1}(x)] = -\frac{1}{\sqrt{1-x^2}} \)
+   - D) \( \frac{d}{dx} [e^{sin^3(x)}] = e^{sin^3(x)} \cdot cos^2(x) \)
+
+2. **If \( y = \sin(\ln(x)) \), what is \( \frac{dy}{dx} \) using the Chain Rule?**
+   - A) \( \cos(\ln(x)) \cdot \frac{1}{x} \)
+   - B) \( \cos(\ln(x)) \cdot \frac{\cos(\ln(x))}{x} \)
+   - C) \( -\cos(\ln(x)) \cdot \frac{1}{x} \)
+   - D) \( \cos(\ln(x)) \cdot \frac{d}{dx}(\ln(x)) \)
+
+### Higher Differentiation Techniques
+1. **What is the derivative of \( x^n \)?**
+   - A) \( nx^{n-1} \)
+   - B) \( nx^{n+1} \)
+   - C) \( nx^n \)
+   - D) \( nx^{n-2} \)
+
+2. **Which derivative correctly identifies the highest power term?**
+   - A) \( \frac{d^2}{dx^2} (x^3) = \frac{d^2}{dx^2} (3x^2) \)
+   - B) \( \frac{d^3}{dx^3} (e^x) = \frac{d^3}{dx^3} (e^{x^2}) \)
+   - C) \( \frac{d}{dx} (x^4) = \frac{d}{dx} (4x^3) \)
+   - D) \( \frac{d^2}{dx^2} (\sin^3(x)) = \frac{d}{dx} (\cos^3(x)) \)
+
+These questions aim to assess understanding of key differentiation concepts within calculus.
+Time Taken: 125.25 seconds | Tokens Produced: 536 | ⚡⚡⚡ Token Speed 4.279 tokens/sec
+⚠️ Error: Invalid JSON format...
+
+Attempt 2 out of 5 for Syllabus 1 of 4... exaone3.5:2.4b
+********************************************************************************
+Syllabus NUMBER 1 of 4
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for IB Grade 9 Mathematics - Geometry - Trigonometry:
+- Definitions and properties of trigonometric ratios (sin, cos, tan)
+- Applications of sine and cosine in right triangles
+- Understanding and calculating trigonometric values in special triangles
+- Law of sines and law of cosines for solving triangles
+- Trigonometric identities and simplification techniques
+- Solving real-world trigonometric problems involving angles and distances
+TIME for SYLLABUS: 10.03 | ⚡⚡⚡ Token Speed: 6.381 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 5 for Syllabus 1 of 4... exaone3.5:2.4b
+🔍🔍🔍 Generated MCQ:
+
+ Certainly! Here are two multiple-choice questions (MCQs) generated for each segment of the syllabus you provided for IB Grade 9 Mathematics - Geometry - Trigonometry:
+
+### Definitions and Properties of Trigonometric Ratios (sin, cos, tan)
+1. **Which trigonometric ratio defines an angle within a right triangle where the sine is equal to the ratio of the adjacent side to the hypotenuse?**
+   - A) Cosine (cos)
+   - B) Tangent (tan)
+   - C) Sine (sin)
+   - D) Cotangent (cot)
+   **Correct Answer:** C) Sine (sin)
+
+2. **Identify which trigonometric identity simplifies the calculation of sin(θ) given cos(θ) = x?**
+   - A) sin2θ + cos2θ = 1
+   - B) sin θ = √(1 - cos2θ)
+   - C) sin θ = √(cos2θ - 1)
+   - D) sin θ = cos θ
+   **Correct Answer:** B) sin θ = √(1 - cos2θ)
+
+### Applications of Sine and Cosine in Right Triangles
+3. **If a right triangle has a hypotenuse of length 25 units and an angle measuring 30 degrees, what is the length of the side adjacent to the angle?**
+   - A) 24 units
+   - B) 23 units
+   - C) 25 units
+   - D) 22 units
+   **Correct Answer:** A) 24 units
+
+4. **Given that sin(θ) = cos(θ) in a right triangle, determine θ if θ is between 0° and 90°.**
+   - A) 30°
+   - B) 45°
+   - C) 60°
+   - D) π/6 radians
+   **Correct Answer:** B) 45°
+
+### Understanding Trigonometric Values in Special Triangles
+5. **In an isosceles triangle with angles 50° and 70°, find the measure of the third angle.**
+   - A) 50°
+   - B) 70°
+   - C) 60°
+   - D) 80°
+   **Correct Answer:** C) 60°
+
+### Law of Sines and Law of Cosines for Solving Triangles
+6. **If a triangle has sides a = 10 units, b = 15 units, and angle A opposite side a is 30°, find angle B using the Law of Sines.**
+   - A) 45°
+   - B) 60°
+   - C) 75°
+   - D) 90°
+   **Correct Answer:** B) 60°
+
+### Trigonometric Identities and Simplification Techniques
+7. **Simplify the expression sec(θ) - tan(θ)/cot(θ) assuming sec(θ) = √3.**
+   - A) √3/3
+   - B) √3
+   - C) 3√3
+   - D) None of these
+   **Correct Answer:** B) √3
+
+### Real-World Trigonometric Problems Involving Angles and Distances
+8. **A ladder leans against a wall making an angle of elevation of 60° with the ground. If the ladder reaches a point on the ground that is 12 meters away from the base of the wall, calculate the height of the ladder above the ground.**
+   - A) 12 meters
+   - B) √132 meters
+   - C) √246 meters
+   - D) √23 meters
+   **Correct Answer:** B) √132 meters
+
+These questions aim to test various concepts related to trigonometry as outlined in the syllabus for IB Grade 9 Mathematics - Geometry - Trigonometry.
+Time Taken: 96.71 seconds | Tokens Produced: 461 | ⚡⚡⚡ Token Speed 4.767 tokens/sec
+⚠️ Error: Invalid JSON format...
+
+Attempt 2 out of 5 for Syllabus 1 of 4... exaone3.5:2.4b
+🔍🔍🔍 Generated MCQ:
+
+ Here are two Multiple Choice Questions (MCQs) for each line of the syllabus provided for IB Grade 9 Mathematics – Geometry - Trigonometry:
+
+### Definitions and properties of trigonometric ratios (sin, cos, tan)
+**MCQ 1:** Which trigonometric ratio represents the ratio of the opposite side to the hypotenuse in a right triangle?
+- **A)** tan
+- **B)** sec
+- **C)** cos
+- **D)** cot
+**Correct Answer:** A) tan
+
+**MCQ 2:** The sine function gives the ratio of the length of the side adjacent to an angle to the length of the hypotenuse in a right triangle. Which angle does this relate to?
+- **A)** 45 degrees
+- **B)** 60 degrees
+- **C)** 30 degrees
+- **D)** 90 degrees
+**Correct Answer:** D) 90 degrees
+
+### Applications of sine and cosine in right triangles
+**MCQ 3:** If \(\cos(\theta) = \frac{3}{5}\) in a right triangle, what is \(\sin(\theta)\)?
+- **A)** \(\frac{4}{5}\)
+- **B)** \(\frac{12}{13}\)
+- **C)** \(\frac{3}{5}\)
+- **D)** \(\frac{4}{7}\)
+**Correct Answer:** B) \(\frac{12}{13}\)
+
+**MCQ 4:** Given \(\sin(60^\circ) = \frac{\sqrt{3}}{2}\), calculate \(\cos(60^\circ)\).
+- **A)** \(\frac{\sqrt{3}}{3}\)
+- **B)** \(\frac{1}{2}\)
+- **C)** \(\frac{\sqrt{3}}{4}\)
+- **D)** \(\frac{3}{4}\)
+**Correct Answer:** B) \(\frac{1}{2}\)
+
+### Understanding and calculating trigonometric values in special triangles
+**MCQ 5:** In an equilateral triangle where each angle measures \(60^\circ\), what is \(\tan(60^\circ)\)?
+- **A)** \(\sqrt{3}\)
+- **B)** \(2\sqrt{3}\)
+- **C)** \(-\sqrt{3}\)
+- **D)** \(\frac{1}{\sqrt{3}}\)
+**Correct Answer:** A) \(\sqrt{3}\)
+
+**MCQ 6:** For a 30-60-90 triangle with the shortest side (opposite the \(30^\circ\) angle) equal to 5 units, calculate \(\sin(30^\circ)\).
+- **A)** \(\frac{1}{2}\)
+- **B)** \(\frac{5}{\sqrt{2}}\)
+- **C)** \(\sqrt{3}\)
+- **D)** \(\frac{\sqrt{3}}{2}\)
+**Correct Answer:** A) \(\frac{1}{2}\)
+
+### Law of Sines and Law of Cosines for Solving Triangles
+**MCQ 7:** Given \(\sin(\alpha) = \frac{3}{5}\) in a triangle \(\alpha\), \(\sin(\beta) = \frac{4}{5}\), and \(\alpha + \beta = 120^\circ\), find \(\cos(\beta)\).
+- **A)** \(\frac{4}{5}\)
+- **B)** \(-\frac{4}{5}\)
+- **C)** \(\frac{3}{5}\)
+- **D)** \(-\frac{3}{5}\)
+**Correct Answer:** D) \(-\frac{3}{5}\)
+
+**MCQ 8:** In triangle \(ABC\), \(\cos(A) = \frac{4}{5}\), \(BC = 5\), and \(AB = 7\). Find \(AC\) using the Law of Cosines.
+- **A)** \(3\)
+- **B)** \(4\)
+- **C)** \(5\)
+- **D)** \(7\)
+**Correct Answer:** B) \(4\)
+
+### Trigonometric Identities and Simplification Techniques
+**MCQ 9:** Simplify \(\sin^2(\theta) + \cos^2(\theta)\).
+- **A)** \(\sin(\theta)\cos(\theta)\)
+- **B)** \(2\)
+- **C)** \(\sec^2(\theta)\)
+- **D)** \(\csc^2(\theta)\)
+**Correct Answer:** B) \(2\)
+
+**MCQ 10:** Prove \(\tan^2(\theta) + 1 = \sec^2(\theta)\) using known trigonometric identities.
+- **A)** \(\cos^2(\theta) + \sin^2(\theta) = 1\)
+- **B)** \(\sin^2(\theta) = \tan^2(\theta)\)
+- **C)** \(\sin(\theta)\cos(\theta) = \tan(\theta)\sec(\theta)\)
+- **D)** \(\tan(\theta) = \frac{\sin(\theta)}{\cos(\theta)}\)
+**Correct Answer:** A) \(\cos^2(\theta) + \sin^2(\theta) = 1\)
+
+These questions cover foundational concepts and application scenarios typically encountered in IB Grade 9 Mathematics – Geometry.
+Time Taken: 118.97 seconds | Tokens Produced: 433 | ⚡⚡⚡ Token Speed 3.640 tokens/sec
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+
+Attempt 3 out of 5 for Syllabus 1 of 4... exaone3.5:2.4b
+🔍🔍🔍 Generated MCQ:
+
+ Here are 2 MCQs generated for each section of the IB Grade 9 Mathematics syllabus focusing on Geometry - Trigonometry:
+
+### Definitions and Properties of Trigonometric Ratios (sin, cos, tan)
+**MCQ 1:** Which of the following correctly defines cosine (\(\cos\)) in a right triangle adjacent to angle \( \theta \)?
+a) \(\cos(\theta) = \frac{\text{Adjacent}}{\text{Hypotenuse}}\)
+b) \(\cos(\theta) = \frac{\text{Opposite}}{\text{Hypotenuse}}\)
+c) \(\cos(\theta) = \frac{\text{Opposite}}{\text{Adjacent}}\)
+d) \(\cos(\theta) = \frac{\text{Hypotenuse}}{\text{Opposite}}\)
+
+**MCQ 2:** Which trigonometric ratio does NOT directly relate to sides in a right triangle?
+a) \(\tan(\theta) = \frac{\text{Opposite}}{\text{Adjacent}}\)
+b) \(\sin(\theta) = \frac{\text{Adjacent}}{\text{Hypotenuse}}\)
+c) \(\cos(\theta) = \frac{\text{Hypotenuse}}{\text{Adjacent}}\)
+d) \(\csc(\theta) = \frac{\text{Hypotenuse}}{\text{Opposite}}\)
+
+### Applications of Sine and Cosine in Right Triangles
+**MCQ 3:** If \(\sin(\theta) = \frac{3}{5}\), then what is \(\cos(\theta)\) if \(\theta\) is in the first quadrant?
+a) \(\frac{4}{5}\)
+b) \(\frac{3}{5}\)
+c) \(\frac{5}{4}\)
+d) \(\frac{1}{5}\)
+
+**MCQ 4:** Given \(\cos(\theta) = \frac{1}{2}\) in a right triangle, determine \(\sin(\theta)\) assuming \(\theta\) is acute:
+a) \(\frac{\sqrt{3}}{2}\)
+b) \(\frac{1}{\sqrt{3}}\)
+c) \(\sqrt{3}\)
+d) \(\frac{\sqrt{2}}{2}\)
+
+### Understanding Trigonometric Values in Special Triangles
+**MCQ 5:** In a special triangle (30°-60°-90° triangle), what is the value of \(\tan(60^\circ)\)?
+a) \(\sqrt{3}\)
+b) \(\frac{1}{\sqrt{3}}\)
+c) \(3\)
+d) \(\sqrt{2}\)
+
+**MCQ 6:** In an isosceles right triangle, which trigonometric value is equal to \(\sqrt{2}\)?
+a) \(\sin(\theta)\) where \(\theta = 45^\circ\)
+b) \(\cos(\theta)\) where \(\theta = 45^\circ\)
+c) \(\tan(\theta)\) where \(\theta = 45^\circ\)
+d) \(\csc(\theta)\) where \(\theta = 45^\circ\)
+
+### Law of Sines and Law of Cosines for Solving Triangles
+**MCQ 7:** If \(\triangle ABC\) has sides \(a = 5\), \(b = 7\), and \(\angle C = 60^\circ\), what is \(\cos(C)\)?
+a) \(\frac{5}{\sqrt{49}}\)
+b) \(\frac{7}{\sqrt{5}}\)
+c) \(\frac{7}{\sqrt{49}}\)
+d) \(\frac{5}{\sqrt{35}}\)
+
+**MCQ 8:** Given \(\triangle DEF\) with \(\angle D = 90^\circ\), \(d = 8\), \(e = 6\), calculate \(\cos(E)\):
+a) \(\frac{6}{8}\)
+b) \(\frac{8}{10}\)
+c) \(\frac{8}{6}\)
+d) \(\frac{6}{8}\sqrt{3}\)
+
+### Trigonometric Identities and Simplification Techniques
+**MCQ 9:** Simplify \(\sin(75^\circ)\) using known trigonometric identities.
+a) \(\frac{\sqrt{6} + \sqrt{2}}{4}\)
+b) \(\frac{\sqrt{6} - \sqrt{2}}{4}\)
+c) \(\frac{\sqrt{3} + \sqrt{2}}{4}\)
+d) \(\frac{\sqrt{3} - \sqrt{2}}{4}\)
+
+**MCQ 10:** Use the Pythagorean identity to verify \(\cos^2(\theta) + \sin^2(\theta) = 1\) for \(\theta = 45^\circ\):
+a) \(\cos(45^\circ)^2 + \sin(45^\circ)^2 = 2\)
+b) \(\cos(45^\circ)^2 + \sin(45^\circ)^2 = 1\)
+c) \(\cos(45^\circ)^2 + \sin(45^\circ)^2 = \frac{9}{4}\)
+d) \(\cos(45^\circ)^2 + \sin(45^\circ)^2 = \frac{1}{2}\)
+
+These questions aim to assess understanding and application of fundamental trigonometric concepts in IB Mathematics.
+Time Taken: 472.79 seconds | Tokens Produced: 374 | ⚡⚡⚡ Token Speed 0.791 tokens/sec
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+
+Attempt 4 out of 5 for Syllabus 1 of 4... exaone3.5:2.4b
+********************************************************************************
+Syllabus NUMBER 1 of 4
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for IB Grade 9 Mathematics - Geometry - Trigonometry:
+- Definitions and properties of trigonometric functions
+- Unit circle and trigonometric identities
+- Angle measurement conversions and relationships
+- Laws of trigonometry (sin, cos, tan)
+- Solving trigonometric equations
+- Application of trigonometry in real-world scenarios
+TIME for SYLLABUS: 8.68 | ⚡⚡⚡ Token Speed: 5.415 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12

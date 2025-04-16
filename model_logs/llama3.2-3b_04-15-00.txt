@@ -1,0 +1,2150 @@
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the primary function of Punnett squares in Mendelian genetics?",
+        "options": {
+            "a": "To determine the probability of genetic recombination",
+            "b": "To predict the genotype of offspring based on parental genotypes",
+            "c": "To analyze the expression of recessive alleles",
+            "d": "To identify dominant alleles"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "q_no": 2,
+        "question": "What is the role of DNA in gene expression?",
+        "options": {
+            "a": "DNA contains the genetic information for protein synthesis",
+            "b": "DNA serves as a template for RNA transcription",
+            "c": "DNA regulates gene expression through epigenetic modifications",
+            "d": "DNA provides structural support to chromosomes"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "q_no": 3,
+        "question": "What is the primary difference between a dominant and recessive allele?",
+        "options": {
+            "a": "A dominant allele will always be expressed over a recessive allele",
+            "b": "A recessive allele can only be expressed when both alleles are homozygous recessive",
+            "c": "A dominant allele has a greater effect on gene expression than a recessive allele",
+            "d": "A recessive allele is always silenced in the presence of a dominant allele"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "q_no": 4,
+        "question": "What type of ratio is used to describe phenotypic ratios?",
+        "options": {
+            "a": "Genotypic ratio",
+            "b": "Phenotypic ratio",
+            "c": "Mendelian ratio",
+            "d": "Dominant-recessive ratio"
+        },
+        "correct_answer": "B"
+    }
+]
+Time Taken: 55.86 seconds | Tokens Produced: 215 | ⚡⚡⚡ Token Speed 3.849 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 4...
+
+Attempt 2 out of 5... llama3.2:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What are the primary focus of Mendel's laws of inheritance?",
+        "options": {
+            "a": "The role of DNA in gene expression",
+            "b": "The study of genetic probability and Punnett squares",
+            "c": "The prediction of trait inheritance using Mendelian genetics",
+            "d": "The description of dominant and recessive alleles"
+        },
+        "correct_answer": "The study of genetic probability and Punnett squares"
+    },
+    {
+        "q_no": 2,
+        "question": "What is the primary function of a Punnett square in genetics?",
+        "options": {
+            "a": "To predict the outcome of genetic crossing",
+            "b": "To determine the probability of genetic mutations",
+            "c": "To identify dominant and recessive alleles",
+            "d": "To calculate the frequency of alleles"
+        },
+        "correct_answer": "To predict the outcome of genetic crossing"
+    },
+    {
+        "q_no": 3,
+        "question": "What is the primary role of DNA in gene expression?",
+        "options": {
+            "a": "To regulate protein synthesis",
+            "b": "To control cell growth and division",
+            "c": "To store genetic information",
+            "d": "To respond to environmental stimuli"
+        },
+        "correct_answer": "To store genetic information"
+    },
+    {
+        "q_no": 4,
+        "question": "What determines the expression of dominant or recessive alleles?",
+        "options": {
+            "a": "The number of copies of the allele",
+            "b": "The location of the allele on the chromosome",
+            "c": "The type of environment the cell is in",
+            "d": "The interaction with other genes"
+        },
+        "correct_answer": "The type of environment the cell is in"
+    },
+    {
+        "q_no": 5,
+        "question": "What type of alleles are expressed when an individual has two copies of the same allele?",
+        "options": {
+            "a": "Recessive alleles",
+            "b": "Dominant alleles",
+            "c": "Co-dominant alleles",
+            "d": "Incomplete dominant alleles"
+        },
+        "correct_answer": "Co-dominant alleles"
+    },
+    {
+        "q_no": 6,
+        "question": "What is the ratio of phenotypic and genotypic expression in Mendelian genetics?",
+        "options": {
+            "a": "1:1",
+            "b": "3:1",
+            "c": "5:1",
+            "d": "9:3:3:1"
+        },
+        "correct_answer": "9:3:3:1"
+    },
+    {
+        "q_no": 7,
+        "question": "How do you calculate the probability of an allele being expressed?",
+        "options": {
+            "a": "Using a Punnett square",
+            "b": "By calculating the frequency of alleles",
+            "c": "By determining the dominance of alleles",
+            "d": "By analyzing genetic mutations"
+        },
+        "correct_answer": "Using a Punnett square"
+    },
+    {
+        "q_no": 8,
+        "question": "What is the role of phenotypic ratios in Mendelian genetics?",
+        "options": {
+            "a": "To predict trait inheritance",
+            "b": "To determine genetic probability",
+            "c": "To calculate allele frequency",
+            "d": "To identify dominant and recessive alleles"
+        },
+        "correct_answer": "To predict trait inheritance"
+    },
+    {
+        "q_no": 9,
+        "question": "What type of traits are influenced by Mendelian genetics?",
+        "options": {
+            "a": "Environmental traits",
+            "b": "Genetic traits",
+            "c": "Epigenetic traits",
+            "d": "All of the above"
+        },
+        "correct_answer": "All of the above"
+    },
+    {
+        "q_no": 10,
+        "question": "How do you predict trait inheritance in Mendelian genetics?",
+        "options": {
+            "a": "By analyzing genetic probability",
+            "b": "By determining phenotypic ratios",
+            "c": "By using Punnett squares",
+            "d": "By calculating allele frequency"
+        },
+        "correct_answer": "By using Punnett squares"
+    },
+    {
+        "q_no": 11,
+        "question": "What is the primary use of Mendelian genetics?",
+        "options": {
+            "a": "To understand genetic mutations",
+            "b": "To predict trait inheritance",
+            "c": "To determine genetic probability",
+            "d": "To analyze genetic variation"
+        },
+        "correct_answer": "To predict trait inheritance"
+    },
+    {
+        "q_no": 12,
+        "question": "What is the main application of Mendelian genetics in real-world scenarios?",
+        "options": {
+            "a": "In breeding programs for agriculture",
+            "b": "In forensic science and DNA analysis",
+            "c": "In medical research and disease diagnosis",
+            "d": "All of the above"
+        },
+        "correct_answer": "All of the above"
+    }]
+Time Taken: 87.97 seconds | Tokens Produced: 554 | ⚡⚡⚡ Token Speed 6.298 tokens/sec
+✅✅✅ Successfully generated 12 MCQs. Attempts Needed 2
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   {
+      "q_no": 1,
+      "question": "What are the primary focus of Mendel's laws of inheritance?",
+      "options": {
+         "a": "The role of DNA in gene expression",
+         "b": "The study of genetic probability and Punnett squares",
+         "c": "The prediction of trait inheritance using Mendelian genetics",
+         "d": "The description of dominant and recessive alleles"
+      },
+      "correct_answer": "The study of genetic probability and Punnett squares"
+   },
+   {
+      "q_no": 2,
+      "question": "What is the primary function of a Punnett square in genetics?",
+      "options": {
+         "a": "To predict the outcome of genetic crossing",
+         "b": "To determine the probability of genetic mutations",
+         "c": "To identify dominant and recessive alleles",
+         "d": "To calculate the frequency of alleles"
+      },
+      "correct_answer": "To predict the outcome of genetic crossing"
+   },
+   {
+      "q_no": 3,
+      "question": "What is the primary role of DNA in gene expression?",
+      "options": {
+         "a": "To regulate protein synthesis",
+         "b": "To control cell growth and division",
+         "c": "To store genetic information",
+         "d": "To respond to environmental stimuli"
+      },
+      "correct_answer": "To store genetic information"
+   },
+   {
+      "q_no": 4,
+      "question": "What determines the expression of dominant or recessive alleles?",
+      "options": {
+         "a": "The number of copies of the allele",
+         "b": "The location of the allele on the chromosome",
+         "c": "The type of environment the cell is in",
+         "d": "The interaction with other genes"
+      },
+      "correct_answer": "The type of environment the cell is in"
+   },
+   {
+      "q_no": 5,
+      "question": "What type of alleles are expressed when an individual has two copies of the same allele?",
+      "options": {
+         "a": "Recessive alleles",
+         "b": "Dominant alleles",
+         "c": "Co-dominant alleles",
+         "d": "Incomplete dominant alleles"
+      },
+      "correct_answer": "Co-dominant alleles"
+   },
+   {
+      "q_no": 6,
+      "question": "What is the ratio of phenotypic and genotypic expression in Mendelian genetics?",
+      "options": {
+         "a": "1:1",
+         "b": "3:1",
+         "c": "5:1",
+         "d": "9:3:3:1"
+      },
+      "correct_answer": "9:3:3:1"
+   },
+   {
+      "q_no": 7,
+      "question": "How do you calculate the probability of an allele being expressed?",
+      "options": {
+         "a": "Using a Punnett square",
+         "b": "By calculating the frequency of alleles",
+         "c": "By determining the dominance of alleles",
+         "d": "By analyzing genetic mutations"
+      },
+      "correct_answer": "Using a Punnett square"
+   },
+   {
+      "q_no": 8,
+      "question": "What is the role of phenotypic ratios in Mendelian genetics?",
+      "options": {
+         "a": "To predict trait inheritance",
+         "b": "To determine genetic probability",
+         "c": "To calculate allele frequency",
+         "d": "To identify dominant and recessive alleles"
+      },
+      "correct_answer": "To predict trait inheritance"
+   },
+   {
+      "q_no": 9,
+      "question": "What type of traits are influenced by Mendelian genetics?",
+      "options": {
+         "a": "Environmental traits",
+         "b": "Genetic traits",
+         "c": "Epigenetic traits",
+         "d": "All of the above"
+      },
+      "correct_answer": "All of the above"
+   },
+   {
+      "q_no": 10,
+      "question": "How do you predict trait inheritance in Mendelian genetics?",
+      "options": {
+         "a": "By analyzing genetic probability",
+         "b": "By determining phenotypic ratios",
+         "c": "By using Punnett squares",
+         "d": "By calculating allele frequency"
+      },
+      "correct_answer": "By using Punnett squares"
+   },
+   {
+      "q_no": 11,
+      "question": "What is the primary use of Mendelian genetics?",
+      "options": {
+         "a": "To understand genetic mutations",
+         "b": "To predict trait inheritance",
+         "c": "To determine genetic probability",
+         "d": "To analyze genetic variation"
+      },
+      "correct_answer": "To predict trait inheritance"
+   },
+   {
+      "q_no": 12,
+      "question": "What is the main application of Mendelian genetics in real-world scenarios?",
+      "options": {
+         "a": "In breeding programs for agriculture",
+         "b": "In forensic science and DNA analysis",
+         "c": "In medical research and disease diagnosis",
+         "d": "All of the above"
+      },
+      "correct_answer": "All of the above"
+   }
+]
+TIME for MCQ: 87.965 | ⚡⚡⚡ Token Speed: 6.298 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 605 | TOTAL Time: 155.60
+
+********************************************************************************
+Syllabus NUMBER 5
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for State Board Grade 10 Physics - Electricity:
+- Introduction to electric circuits
+- Components of an electric circuit (resistors, capacitors, inductors)
+- Series and parallel circuits
+- Types of electric current (DC, AC) and voltage
+- Resistance and ohm's law
+- Electric power and energy conversion
+TIME for SYLLABUS: 11.459 | ⚡⚡⚡ Token Speed: 4.189 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 5... llama3.2:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the primary function of an electric circuit?",
+        "options": {
+            "a": "To generate heat",
+            "b": "To transmit energy",
+            "c": "To control voltage",
+            "d": "To dissipate power"
+        },
+        "correct_answer": "To transmit energy"
+    },
+    {
+        "q_no": 2,
+        "question": "Which of the following is NOT a type of electric current?",
+        "options": {
+            "a": "DC",
+            "b": "AC",
+            "c": "Thermal current",
+            "d": "Electromagnetic current"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "q_no": 3,
+        "question": "What is the relationship between voltage, current, and resistance in an electric circuit?",
+        "options": {
+            "a": "V = IR",
+            "b": "I = VR",
+            "c": "R = V/I",
+            "d": "V + I = R"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "q_no": 4,
+        "question": "What is the primary function of a resistor in an electric circuit?",
+        "options": {
+            "a": "To generate voltage",
+            "b": "To transmit current",
+            "c": "To control current flow",
+            "d": "To dissipate power"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "q_no": 5,
+        "question": "What is the difference between a series circuit and a parallel circuit?",
+        "options": {
+            "a": "Series circuits have multiple paths for current flow",
+            "b": "Parallel circuits have multiple paths for voltage drop",
+            "c": "Series circuits have more resistance, parallel circuits have less",
+            "d": "Series circuits have more voltage, parallel circuits have more current"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 6,
+        "question": "What is the primary function of a capacitor in an electric circuit?",
+        "options": {
+            "a": "To store energy",
+            "b": "To dissipate power",
+            "c": "To control current flow",
+            "d": "To generate voltage"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 7,
+        "question": "What is the primary function of an inductor in an electric circuit?",
+        "options": {
+            "a": "To store energy",
+            "b": "To dissipate power",
+            "c": "To control current flow",
+            "d": "To generate voltage"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 8,
+        "question": "What is the relationship between DC and AC currents?",
+        "options": {
+            "a": "DC currents are more stable than AC currents",
+            "b": "AC currents are more stable than DC currents",
+            "c": "The direction of current flow in AC is alternating",
+            "d": "The speed of current flow in AC is faster"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "q_no": 9,
+        "question": "What is the primary function of an electric power source?",
+        "options": {
+            "a": "To generate heat",
+            "b": "To transmit energy",
+            "c": "To control voltage",
+            "d": "To dissipate power"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "q_no": 10,
+        "question": "What is the primary function of an electric motor?",
+        "options": {
+            "a": "To generate heat",
+            "b": "To transmit energy",
+            "c": "To control voltage",
+            "d": "To convert electrical energy into mechanical energy"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "q_no": 11,
+        "question": "What is the primary function of an electric generator?",
+        "options": {
+            "a": "To generate heat",
+            "b": "To transmit energy",
+            "c": "To control voltage",
+            "d": "To convert mechanical energy into electrical energy"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "q_no": 12,
+        "question": "What is the relationship between electric power and energy conversion?",
+        "options": {
+            "a": "Electric power is more efficient than energy conversion",
+            "b": "Energy conversion is more efficient than electric power",
+            "c": "The efficiency of electric power depends on the load",
+            "d": "The efficiency of energy conversion depends on the type of load"
+        },
+        "correct_answer": "c"
+    }
+Time Taken: 104.20 seconds | Tokens Produced: 519 | ⚡⚡⚡ Token Speed 4.981 tokens/sec
+⚠️ Error: Invalid JSON format...
+
+Attempt 2 out of 5... llama3.2:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the primary function of a resistor in an electric circuit?",
+        "options": {
+            "a": "To store energy",
+            "b": "To convert voltage to current",
+            "c": "To reduce current flow",
+            "d": "To increase voltage"
+        },
+        "correct_answer": "To reduce current flow"
+    },
+    {
+        "q_no": 2,
+        "question": "What is the definition of an inductor in an electric circuit?",
+        "options": {
+            "a": "A component that stores energy",
+            "b": "A component that reduces current flow",
+            "c": "A component that increases voltage",
+            "d": "A component that has no effect on current"
+        },
+        "correct_answer": "A component that stores energy"
+    },
+    {
+        "q_no": 3,
+        "question": "What is the difference between a series and parallel circuit?",
+        "options": {
+            "a": "Series circuits have more components",
+            "b": "Parallel circuits are easier to build",
+            "c": "Series circuits reduce total voltage",
+            "d": "Parallel circuits increase total current"
+        },
+        "correct_answer": "Series circuits reduce total voltage"
+    },
+    {
+        "q_no": 4,
+        "question": "What is the unit of measurement for electric current?",
+        "options": {
+            "a": "Ampere",
+            "b": "Volts",
+            "c": "Ohms",
+            "d": "Watt"
+        },
+        "correct_answer": "Ampere"
+    },
+    {
+        "q_no": 5,
+        "question": "What is the relationship between voltage, current, and resistance?",
+        "options": {
+            "a": "I = V/R",
+            "b": "V = I*R",
+            "c": "R = V/I",
+            "d": "V = R*I"
+        },
+        "correct_answer": "I = V/R"
+    },
+    {
+        "q_no": 6,
+        "question": "What is the definition of electric power?",
+        "options": {
+            "a": "The rate at which energy is transferred",
+            "b": "The rate at which voltage is applied",
+            "c": "The rate at which current flows",
+            "d": "The rate at which resistance changes"
+        },
+        "correct_answer": "The rate at which energy is transferred"
+    },
+    {
+        "q_no": 7,
+        "question": "What is the difference between DC and AC currents?",
+        "options": {
+            "a": "DC current flows in one direction",
+            "b": "AC current oscillates in both directions",
+            "c": "DC current has a higher frequency",
+            "d": "AC current has a lower voltage"
+        },
+        "correct_answer": "AC current oscillates in both directions"
+    },
+    {
+        "q_no": 8,
+        "question": "What is the unit of measurement for electric energy?",
+        "options": {
+            "a": "Joule",
+            "b": "Volts",
+            "c": "Ohms",
+            "d": "Watt"
+        },
+        "correct_answer": "Joule"
+    },
+    {
+        "q_no": 9,
+        "question": "What is the relationship between resistance and voltage?",
+        "options": {
+            "a": "R = V/I",
+            "b": "V = R*I",
+            "c": "I = V/R",
+            "d": "R = I^2"
+        },
+        "correct_answer": "R = V/I"
+    },
+    {
+        "q_no": 10,
+        "question": "What is the definition of ohm's law?",
+        "options": {
+            "a": "The relationship between voltage and resistance",
+            "b": "The relationship between current and voltage",
+            "c": "The relationship between resistance and energy",
+            "d": "The relationship between voltage and energy"
+        },
+        "correct_answer": "The relationship between voltage and resistance"
+    },
+    {
+        "q_no": 11,
+        "question": "What is the purpose of a capacitor in an electric circuit?",
+        "options": {
+            "a": "To store energy",
+            "b": "To reduce current flow",
+            "c": "To increase voltage",
+            "d": "To filter AC signals"
+        },
+        "correct_answer": "To store energy"
+    }
+]
+Time Taken: 71.07 seconds | Tokens Produced: 471 | ⚡⚡⚡ Token Speed 6.627 tokens/sec
+⚠️ Error: Invalid JSON format...
+⚠️ Warning: Expected 12 MCQs but got 11...
+
+Attempt 3 out of 5... llama3.2:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the fundamental principle of electricity?",
+        "options": {
+            "a": "Electric current flows from positive to negative",
+            "b": "Electric charge is always conserved",
+            "c": "Electric potential is a force that can be felt",
+            "d": "Electric field lines always point towards positive charges"
+        },
+        "correct_answer": "Electric field lines always point towards positive charges"
+    },
+    {
+        "q_no": 2,
+        "question": "What are the three components of an electric circuit?",
+        "options": {
+            "a": "Conductor, resistor, and capacitor",
+            "b": "Insulator, conductor, and resistor",
+            "c": "Capacitor, inductor, and switch",
+            "d": "Battery, wire, and switch"
+        },
+        "correct_answer": "Battery, wire, and switch"
+    },
+    {
+        "q_no": 3,
+        "question": "What is the difference between a series circuit and a parallel circuit?",
+        "options": {
+            "a": "Series circuits have multiple paths for current to flow",
+            "b": "Parallel circuits have multiple paths for current to flow",
+            "c": "Series circuits are easier to analyze than parallel circuits",
+            "d": "Parallel circuits are always more efficient"
+        },
+        "correct_answer": "Series circuits have multiple paths for current to flow"
+    },
+    {
+        "q_no": 4,
+        "question": "What is the relationship between voltage and resistance?",
+        "options": {
+            "a": "Voltage is directly proportional to resistance",
+            "b": "Voltage is inversely proportional to resistance",
+            "c": "Resistance is a measure of a conductor's ability to conduct electricity",
+            "d": "Current is always zero in an ideal circuit"
+        },
+        "correct_answer": "Resistance is a measure of a conductor's ability to conduct electricity"
+    }
+]
+Time Taken: 34.26 seconds | Tokens Produced: 231 | ⚡⚡⚡ Token Speed 6.743 tokens/sec
+⚠️ Error: Invalid JSON format...
+⚠️ Warning: Expected 12 MCQs but got 11...
+⚠️ Warning: Expected 12 MCQs but got 4...
+
+Attempt 4 out of 5... llama3.2:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the definition of an electric circuit?",
+        "options": {
+            "a": "A closed loop of conductive material",
+            "b": "A device that converts energy into motion",
+            "c": "A type of electrical current",
+            "d": "A measure of resistance"
+        },
+        "correct_answer": "A closed loop of conductive material"
+    },
+    {
+        "q_no": 2,
+        "question": "What is the primary function of a resistor in an electric circuit?",
+        "options": {
+            "a": "To increase voltage",
+            "b": "To decrease current",
+            "c": "To maintain a constant current",
+            "d": "To convert energy into motion"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "q_no": 3,
+        "question": "What is the difference between a series circuit and a parallel circuit?",
+        "options": {
+            "a": "Series circuits have multiple paths for current flow",
+            "b": "Parallel circuits have only one path for current flow",
+            "c": "Both series and parallel circuits have the same resistance",
+            "d": "Series circuits have higher voltage"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "q_no": 4,
+        "question": "What is ohm's law?",
+        "options": {
+            "a": "I = V/R",
+            "b": "V = I/R",
+            "c": "R = V/I",
+            "d": "I^2 = V^2"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "q_no": 5,
+        "question": "What is the difference between DC and AC current?",
+        "options": {
+            "a": "DC current flows in one direction only",
+            "b": "AC current flows in both directions",
+            "c": "Both types of current are used in motors",
+            "d": "AC current has higher voltage"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 6,
+        "question": "What is electric power?",
+        "options": {
+            "a": "The rate at which energy is transferred",
+            "b": "The rate at which work is done",
+            "c": "The rate at which current flows",
+            "d": "The rate at which voltage is applied"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 7,
+        "question": "What is the conversion of electrical energy into mechanical energy?",
+        "options": {
+            "a": "Electric motor",
+            "b": "Generator",
+            "c": "Transformer",
+            "d": "Resistor"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 8,
+        "question": "What is the type of energy associated with the motion of charged particles?",
+        "options": {
+            "a": "Kinetic energy",
+            "b": "Potential energy",
+            "c": "Electromagnetic energy",
+            "d": "Thermal energy"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "q_no": 9,
+        "question": "What is the unit of measurement for electric current?",
+        "options": {
+            "a": "Amperes (A)",
+            "b": "Volts (V)",
+            "c": "Ohms (Ω)",
+            "d": "Watts (W)"
+        },
+        "correct_answer": "a"
+    ],
+    {
+        "q_no": 10,
+        "question": "What is the unit of measurement for electric voltage?",
+        "options": {
+            "a": "Volts (V)",
+            "b": "Amperes (A)",
+            "c": "Ohms (Ω)",
+            "d": "Watts (W)"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 11,
+        "question": "What is the relationship between voltage, current, and resistance?",
+        "options": {
+            "a": "V = I/R",
+            "b": "I = V/R",
+            "c": "R = V/I",
+            "d": "I^2 = V^2"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "q_no": 12,
+        "question": "What is the purpose of a transformer in an electric circuit?",
+        "options": {
+            "a": "To increase voltage",
+            "b": "To decrease current",
+            "c": "To maintain a constant current",
+            "d": "To convert energy into motion"
+        },
+        "correct_answer": "a"
+    }
+]
+Time Taken: 75.12 seconds | Tokens Produced: 476 | ⚡⚡⚡ Token Speed 6.337 tokens/sec
+⚠️ Error: Invalid JSON format...
+⚠️ Warning: Expected 12 MCQs but got 11...
+⚠️ Warning: Expected 12 MCQs but got 4...
+⚠️ Error: Invalid JSON format...
+
+Attempt 5 out of 5... llama3.2:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the primary function of resistors in an electric circuit?",
+        "options": {
+            "a": "To increase voltage",
+            "b": "To decrease current",
+            "c": "To control the flow of electrons",
+            "d": "To produce a magnetic field"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "q_no": 2,
+        "question": "What type of current flows in a conductor when no external voltage is applied?",
+        "options": {
+            "a": "DC",
+            "b": "AC",
+            "c": "None",
+            "d": "Static"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "q_no": 3,
+        "question": "What is the ratio of voltage to current in an electric circuit?",
+        "options": {
+            "a": "Pascal",
+            "b": "Ohm",
+            "c": "Siemens",
+            "d": "Newton"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "q_no": 4,
+        "question": "What is the unit of measurement for electric power?",
+        "options": {
+            "a": "Volt",
+            "b": "Ampere",
+            "c": "Watt",
+            "d": "Ohm"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "q_no": 5,
+        "question": "What is the primary function of capacitors in an electric circuit?",
+        "options": {
+            "a": "To store energy",
+            "b": "To filter signals",
+            "c": "To regulate voltage",
+            "d": "To produce a magnetic field"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 6,
+        "question": "What is the unit of measurement for capacitance?",
+        "options": {
+            "a": "Farad",
+            "b": "Ampere",
+            "c": "Volt",
+            "d": "Ohm"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 7,
+        "question": "What is the primary function of inductors in an electric circuit?",
+        "options": {
+            "a": "To store energy",
+            "b": "To regulate current",
+            "c": "To produce a magnetic field",
+            "d": "To filter signals"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 8,
+        "question": "What is the type of electric circuit where components are connected in series?",
+        "options": {
+            "a": "Parallel",
+            "b": "Series",
+            "c": "Combination",
+            "d": "Hybrid"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "q_no": 9,
+        "question": "What is the type of electric circuit where components are connected in parallel?",
+        "options": {
+            "a": "Series",
+            "b": "Parallel",
+            "c": "Combination",
+            "d": "Hybrid"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "q_no": 10,
+        "question": "What is the unit of measurement for resistance?",
+        "options": {
+            "a": "Ohm",
+            "b": "Volt",
+            "c": "Ampere",
+            "d": "Farad"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 11,
+        "question": "What is the ratio of voltage to current in an electric circuit?",
+        "options": {
+            "a": "Pascal",
+            "b": "Ohm",
+            "c": "Siemens",
+            "d": "Newton"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "q_no": 12,
+        "question": "What is the type of electric current that flows in one direction only?",
+        "options": {
+            "a": "AC",
+            "b": "DC",
+            "c": "Both",
+            "d": "None"
+        },
+        "correct_answer": "b"
+Time Taken: 71.77 seconds | Tokens Produced: 384 | ⚡⚡⚡ Token Speed 5.351 tokens/sec
+⚠️ Error: Invalid JSON format...
+⚠️ Warning: Expected 12 MCQs but got 11...
+⚠️ Warning: Expected 12 MCQs but got 4...
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+
+⚠️ Warning: After 5 attempts returning longest valid response.
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   {
+      "q_no": 1,
+      "question": "What is the primary function of a resistor in an electric circuit?",
+      "options": {
+         "a": "To store energy",
+         "b": "To convert voltage to current",
+         "c": "To reduce current flow",
+         "d": "To increase voltage"
+      },
+      "correct_answer": "To reduce current flow"
+   },
+   {
+      "q_no": 2,
+      "question": "What is the definition of an inductor in an electric circuit?",
+      "options": {
+         "a": "A component that stores energy",
+         "b": "A component that reduces current flow",
+         "c": "A component that increases voltage",
+         "d": "A component that has no effect on current"
+      },
+      "correct_answer": "A component that stores energy"
+   },
+   {
+      "q_no": 3,
+      "question": "What is the difference between a series and parallel circuit?",
+      "options": {
+         "a": "Series circuits have more components",
+         "b": "Parallel circuits are easier to build",
+         "c": "Series circuits reduce total voltage",
+         "d": "Parallel circuits increase total current"
+      },
+      "correct_answer": "Series circuits reduce total voltage"
+   },
+   {
+      "q_no": 4,
+      "question": "What is the unit of measurement for electric current?",
+      "options": {
+         "a": "Ampere",
+         "b": "Volts",
+         "c": "Ohms",
+         "d": "Watt"
+      },
+      "correct_answer": "Ampere"
+   },
+   {
+      "q_no": 5,
+      "question": "What is the relationship between voltage, current, and resistance?",
+      "options": {
+         "a": "I = V/R",
+         "b": "V = I*R",
+         "c": "R = V/I",
+         "d": "V = R*I"
+      },
+      "correct_answer": "I = V/R"
+   },
+   {
+      "q_no": 6,
+      "question": "What is the definition of electric power?",
+      "options": {
+         "a": "The rate at which energy is transferred",
+         "b": "The rate at which voltage is applied",
+         "c": "The rate at which current flows",
+         "d": "The rate at which resistance changes"
+      },
+      "correct_answer": "The rate at which energy is transferred"
+   },
+   {
+      "q_no": 7,
+      "question": "What is the difference between DC and AC currents?",
+      "options": {
+         "a": "DC current flows in one direction",
+         "b": "AC current oscillates in both directions",
+         "c": "DC current has a higher frequency",
+         "d": "AC current has a lower voltage"
+      },
+      "correct_answer": "AC current oscillates in both directions"
+   },
+   {
+      "q_no": 8,
+      "question": "What is the unit of measurement for electric energy?",
+      "options": {
+         "a": "Joule",
+         "b": "Volts",
+         "c": "Ohms",
+         "d": "Watt"
+      },
+      "correct_answer": "Joule"
+   },
+   {
+      "q_no": 9,
+      "question": "What is the relationship between resistance and voltage?",
+      "options": {
+         "a": "R = V/I",
+         "b": "V = R*I",
+         "c": "I = V/R",
+         "d": "R = I^2"
+      },
+      "correct_answer": "R = V/I"
+   },
+   {
+      "q_no": 10,
+      "question": "What is the definition of ohm's law?",
+      "options": {
+         "a": "The relationship between voltage and resistance",
+         "b": "The relationship between current and voltage",
+         "c": "The relationship between resistance and energy",
+         "d": "The relationship between voltage and energy"
+      },
+      "correct_answer": "The relationship between voltage and resistance"
+   },
+   {
+      "q_no": 11,
+      "question": "What is the purpose of a capacitor in an electric circuit?",
+      "options": {
+         "a": "To store energy",
+         "b": "To reduce current flow",
+         "c": "To increase voltage",
+         "d": "To filter AC signals"
+      },
+      "correct_answer": "To store energy"
+   }
+]
+TIME for MCQ: 71.069 | ⚡⚡⚡ Token Speed: 6.627 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 519 | TOTAL Time: 367.90
+
+********************************************************************************
+Syllabus NUMBER 6
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for CBSE Grade 9 Chemistry - Chemical Reactions - Redox Reactions:
+- Definition and types of redox reactions
+- Oxidation and reduction processes
+- Electron transfer in redox reactions
+- Identifying redox reactions from balanced equations
+- Applications of redox reactions in everyday life
+TIME for SYLLABUS: 11.721 | ⚡⚡⚡ Token Speed: 3.839 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 10
+Attempt 1 out of 5... llama3.2:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the definition of a redox reaction?",
+        "options": {
+            "a": "A chemical reaction that involves the transfer of electrons",
+            "b": "A chemical reaction that involves the gain or loss of oxygen",
+            "c": "A chemical reaction that involves the change in color",
+            "d": "A chemical reaction that involves the release of heat"
+        },
+        "correct_answer": "A chemical reaction that involves the transfer of electrons"
+    },
+    {
+        "q_no": 2,
+        "question": "What are the two main processes involved in a redox reaction?",
+        "options": {
+            "a": "Oxidation and reduction",
+            "b": "Acid-base neutralization and precipitation",
+            "c": "Decomposition and synthesis",
+            "d": "Melting and boiling"
+        },
+        "correct_answer": "Oxidation and reduction"
+    },
+    {
+        "q_no": 3,
+        "question": "What is electron transfer in a redox reaction?",
+        "options": {
+            "a": "The loss of electrons by one substance",
+            "b": "The gain of electrons by another substance",
+            "c": "The transfer of electrons from one substance to another",
+            "d": "The conversion of one substance into another"
+        },
+        "correct_answer": "The transfer of electrons from one substance to another"
+    },
+    {
+        "q_no": 4,
+        "question": "How can you identify a redox reaction from a balanced equation?",
+        "options": {
+            "a": "By looking for the gain or loss of oxygen",
+            "b": "By looking for the transfer of electrons",
+            "c": "By looking for the change in color",
+            "d": "By looking for the release of heat"
+        },
+        "correct_answer": "By looking for the transfer of electrons"
+    }
+]
+Time Taken: 57.59 seconds | Tokens Produced: 231 | ⚡⚡⚡ Token Speed 4.011 tokens/sec
+⚠️ Warning: Expected 10 MCQs but got 4...
+
+Attempt 2 out of 5... llama3.2:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the definition of redox reaction?",
+        "options": {
+            "a": "A chemical reaction that involves the transfer of electrons",
+            "b": "A physical reaction that involves the change in state",
+            "c": "A biological reaction that involves the breakdown of molecules",
+            "d": "A nuclear reaction that involves the fusion of atoms"
+        },
+        "correct_answer": "A chemical reaction that involves the transfer of electrons"
+    },
+    {
+        "q_no": 2,
+        "question": "What are the two main components of a redox reaction?",
+        "options": {
+            "a": "Oxidation and reduction",
+            "b": "Reduction and oxidation",
+            "c": "Acid and base",
+            "d": "Salt and water"
+        },
+        "correct_answer": "Oxidation and reduction"
+    },
+    {
+        "q_no": 3,
+        "question": "What is electron transfer in redox reactions?",
+        "options": {
+            "a": "The loss of electrons by one substance",
+            "b": "The gain of electrons by another substance",
+            "c": "The movement of electrons from one substance to another",
+            "d": "The absence of electrons in a substance"
+        },
+        "correct_answer": "The movement of electrons from one substance to another"
+    },
+    {
+        "q_no": 4,
+        "question": "What is the purpose of identifying redox reactions from balanced equations?",
+        "options": {
+            "a": "To predict the products of a reaction",
+            "b": "To determine the rate of a reaction",
+            "c": "To identify the reactants and products",
+            "d": "To understand the mechanisms of a reaction"
+        },
+        "correct_answer": "To identify the reactants and products"
+    },
+    {
+        "q_no": 5,
+        "question": "How do redox reactions affect the environment?",
+        "options": {
+            "a": "They reduce pollution",
+            "b": "They increase waste production",
+            "c": "They conserve natural resources",
+            "d": "They harm aquatic life"
+        },
+        "correct_answer": "They harm aquatic life"
+    },
+    {
+        "q_no": 6,
+        "question": "What is the role of redox reactions in energy production?",
+        "options": {
+            "a": "To produce clean energy",
+            "b": "To generate electricity",
+            "c": "To power vehicles",
+            "d": "To provide heat and light"
+        },
+        "correct_answer": "To generate electricity"
+    },
+    {
+        "q_no": 7,
+        "question": "How do redox reactions relate to corrosion?",
+        "options": {
+            "a": "They prevent corrosion",
+            "b": "They cause corrosion",
+            "c": "They have no effect on corrosion",
+            "d": "They are a natural process"
+        },
+        "correct_answer": "They cause corrosion"
+    },
+    {
+        "q_no": 8,
+        "question": "What is the importance of understanding redox reactions in everyday life?",
+        "options": {
+            "a": "To improve air quality",
+            "b": "To develop new technologies",
+            "c": "To understand chemical reactions",
+            "d": "To prevent environmental pollution"
+        },
+        "correct_answer": "To develop new technologies"
+    },
+    {
+        "q_no": 9,
+        "question": "How do redox reactions affect human health?",
+        "options": {
+            "a": "They promote healthy living",
+            "b": "They cause diseases",
+            "c": "They have no effect on human health",
+            "d": "They can lead to infections"
+        },
+        "correct_answer": "They cause diseases"
+    },
+    {
+        "q_no": 10,
+        "question": "What is the potential of redox reactions in solving environmental problems?",
+        "options": {
+            "a": "To reduce pollution",
+            "b": "To increase waste production",
+            "c": "To conserve natural resources",
+            "d": "To generate clean energy"
+        },
+        "correct_answer": "To reduce pollution"
+Time Taken: 67.51 seconds | Tokens Produced: 467 | ⚡⚡⚡ Token Speed 6.918 tokens/sec
+⚠️ Warning: Expected 10 MCQs but got 4...
+⚠️ Error: Invalid JSON format...
+
+Attempt 3 out of 5... llama3.2:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What are the two types of redox reactions?",
+        "options": {
+            "a": "Reduction and oxidation",
+            "b": "Synthesis and decomposition",
+            "c": "Single displacement and double displacement",
+            "d": "Combustion and exothermic reactions"
+        },
+        "correct_answer": "Reduction and oxidation"
+    },
+    {
+        "q_no": 2,
+        "question": "What is the process by which an atom loses electrons?",
+        "options": {
+            "a": "Oxidation",
+            "b": "Reduction",
+            "c": "Electron transfer",
+            "d": "Ionization"
+        },
+        "correct_answer": "Oxidation"
+    },
+    {
+        "q_no": 3,
+        "question": "What is electron transfer in redox reactions?",
+        "options": {
+            "a": "The movement of electrons from one atom to another",
+            "b": "The gain or loss of electrons by an atom",
+            "c": "The transfer of energy between atoms",
+            "d": "The formation of new bonds"
+        },
+        "correct_answer": "The movement of electrons from one atom to another"
+    },
+    {
+        "q_no": 4,
+        "question": "How can you identify a redox reaction from a balanced equation?",
+        "options": {
+            "a": "By checking the number of oxygen atoms",
+            "b": "By identifying the change in oxidation state",
+            "c": "By calculating the enthalpy change",
+            "d": "By balancing the molecular weights"
+        },
+        "correct_answer": "By identifying the change in oxidation state"
+    }
+]
+Time Taken: 28.52 seconds | Tokens Produced: 183 | ⚡⚡⚡ Token Speed 6.417 tokens/sec
+⚠️ Warning: Expected 10 MCQs but got 4...
+⚠️ Error: Invalid JSON format...
+⚠️ Warning: Expected 10 MCQs but got 4...
+
+Attempt 4 out of 5... llama3.2:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the primary purpose of oxidation in redox reactions?",
+        "options": {
+            "a": "To gain electrons",
+            "b": "To lose electrons",
+            "c": "To neutralize a substance",
+            "d": "To form a new compound"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "q_no": 2,
+        "question": "What is the term for the loss of one or more electrons by an atom, molecule, or ion in a redox reaction?",
+        "options": {
+            "a": "Reduction",
+            "b": "Oxidation",
+            "c": "Neutralization",
+            "d": "Deposition"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "q_no": 3,
+        "question": "Which of the following is an example of a redox reaction?",
+        "options": {
+            "a": "Combustion of methane gas",
+            "b": "Neutralization of hydrochloric acid with sodium hydroxide",
+            "c": "Hydrogenation of ethylene",
+            "d": "Ion exchange between sodium and calcium ions"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 4,
+        "question": "What is the term for the gain of one or more electrons by an atom, molecule, or ion in a redox reaction?",
+        "options": {
+            "a": "Oxidation",
+            "b": "Reduction",
+            "c": "Neutralization",
+            "d": "Deposition"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "q_no": 5,
+        "question": "What is the primary mechanism by which redox reactions occur?",
+        "options": {
+            "a": "Electron transfer between atoms or molecules",
+            "b": "Ion exchange between ions in solution",
+            "c": "Neutralization of acids and bases",
+            "d": "Combination of elements to form compounds"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 6,
+        "question": "Which of the following statements is true about oxidation states?",
+        "options": {
+            "a": "Oxidation state can change when a substance reacts with another substance",
+            "b": "Oxidation state cannot change within a compound",
+            "c": "Oxidation state remains constant regardless of conditions",
+            "d": "Oxidation state is only applicable to elements in compounds"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 7,
+        "question": "What is the term for the loss of a single electron by an atom, molecule, or ion during a redox reaction?",
+        "options": {
+            "a": "Reduction",
+            "b": "Oxidation",
+            "c": "Neutralization",
+            "d": "-1 oxidation state"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "q_no": 8,
+        "question": "Which of the following is an example of a redox reaction that involves the transfer of oxygen?",
+        "options": {
+            "a": "Combustion of methane gas",
+            "b": "Neutralization of hydrochloric acid with sodium hydroxide",
+            "c": "Photosynthesis in plants",
+            "d": "Hydrolysis of water"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "q_no": 9,
+        "question": "What is the term for the gain of electrons by an atom, molecule, or ion during a redox reaction?",
+        "options": {
+            "a": "Reduction",
+            "b": "Oxidation",
+            "c": "Neutralization",
+            "d": "+1 oxidation state"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 10,
+        "question": "Which of the following statements is true about redox reactions in everyday life?",
+        "options": {
+            "a": "Redox reactions are rare in everyday life",
+            "b": "Redox reactions occur only in chemical compounds",
+            "c": "Redox reactions are essential for many biological processes and technologies",
+            "d": "Redox reactions have no practical applications"
+        },
+        "correct_answer": "c"
+    }
+]
+Time Taken: 71.44 seconds | Tokens Produced: 457 | ⚡⚡⚡ Token Speed 6.397 tokens/sec
+✅✅✅ Successfully generated 10 MCQs. Attempts Needed 4
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   {
+      "q_no": 1,
+      "question": "What is the primary purpose of oxidation in redox reactions?",
+      "options": {
+         "a": "To gain electrons",
+         "b": "To lose electrons",
+         "c": "To neutralize a substance",
+         "d": "To form a new compound"
+      },
+      "correct_answer": "b"
+   },
+   {
+      "q_no": 2,
+      "question": "What is the term for the loss of one or more electrons by an atom, molecule, or ion in a redox reaction?",
+      "options": {
+         "a": "Reduction",
+         "b": "Oxidation",
+         "c": "Neutralization",
+         "d": "Deposition"
+      },
+      "correct_answer": "b"
+   },
+   {
+      "q_no": 3,
+      "question": "Which of the following is an example of a redox reaction?",
+      "options": {
+         "a": "Combustion of methane gas",
+         "b": "Neutralization of hydrochloric acid with sodium hydroxide",
+         "c": "Hydrogenation of ethylene",
+         "d": "Ion exchange between sodium and calcium ions"
+      },
+      "correct_answer": "a"
+   },
+   {
+      "q_no": 4,
+      "question": "What is the term for the gain of one or more electrons by an atom, molecule, or ion in a redox reaction?",
+      "options": {
+         "a": "Oxidation",
+         "b": "Reduction",
+         "c": "Neutralization",
+         "d": "Deposition"
+      },
+      "correct_answer": "b"
+   },
+   {
+      "q_no": 5,
+      "question": "What is the primary mechanism by which redox reactions occur?",
+      "options": {
+         "a": "Electron transfer between atoms or molecules",
+         "b": "Ion exchange between ions in solution",
+         "c": "Neutralization of acids and bases",
+         "d": "Combination of elements to form compounds"
+      },
+      "correct_answer": "a"
+   },
+   {
+      "q_no": 6,
+      "question": "Which of the following statements is true about oxidation states?",
+      "options": {
+         "a": "Oxidation state can change when a substance reacts with another substance",
+         "b": "Oxidation state cannot change within a compound",
+         "c": "Oxidation state remains constant regardless of conditions",
+         "d": "Oxidation state is only applicable to elements in compounds"
+      },
+      "correct_answer": "a"
+   },
+   {
+      "q_no": 7,
+      "question": "What is the term for the loss of a single electron by an atom, molecule, or ion during a redox reaction?",
+      "options": {
+         "a": "Reduction",
+         "b": "Oxidation",
+         "c": "Neutralization",
+         "d": "-1 oxidation state"
+      },
+      "correct_answer": "b"
+   },
+   {
+      "q_no": 8,
+      "question": "Which of the following is an example of a redox reaction that involves the transfer of oxygen?",
+      "options": {
+         "a": "Combustion of methane gas",
+         "b": "Neutralization of hydrochloric acid with sodium hydroxide",
+         "c": "Photosynthesis in plants",
+         "d": "Hydrolysis of water"
+      },
+      "correct_answer": "c"
+   },
+   {
+      "q_no": 9,
+      "question": "What is the term for the gain of electrons by an atom, molecule, or ion during a redox reaction?",
+      "options": {
+         "a": "Reduction",
+         "b": "Oxidation",
+         "c": "Neutralization",
+         "d": "+1 oxidation state"
+      },
+      "correct_answer": "a"
+   },
+   {
+      "q_no": 10,
+      "question": "Which of the following statements is true about redox reactions in everyday life?",
+      "options": {
+         "a": "Redox reactions are rare in everyday life",
+         "b": "Redox reactions occur only in chemical compounds",
+         "c": "Redox reactions are essential for many biological processes and technologies",
+         "d": "Redox reactions have no practical applications"
+      },
+      "correct_answer": "c"
+   }
+]
+TIME for MCQ: 71.435 | ⚡⚡⚡ Token Speed: 6.397 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 502 | TOTAL Time: 236.80
+
+********************************************************************************
+Syllabus NUMBER 7
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for IB Grade 10 Biology - Ecology:
+- Introduction to ecological concepts and systems
+- Understanding population growth models (e.g. exponential growth)
+- Limiting factors and environmental impact on population size
+- Effects of predation and competition on population dynamics
+- Case studies in ecology: real-world examples of population dynamics
+TIME for SYLLABUS: 11.157 | ⚡⚡⚡ Token Speed: 4.571 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 10
+Attempt 1 out of 5... llama3.2:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the definition of ecological concepts and systems?",
+        "options": {
+            "a": "The study of living organisms and their environment",
+            "b": "The impact of human activity on the environment",
+            "c": "The relationship between organisms and their ecosystem",
+            "d": "The balance between predator and prey"
+        },
+        "correct_answer": "The study of living organisms and their environment"
+    },
+    {
+        "q_no": 2,
+        "question": "What type of growth model is used to describe population growth?",
+        "options": {
+            "a": "Exponential",
+            "b": "Logistic",
+            "c": "Linear",
+            "d": "Quadratic"
+        },
+        "correct_answer": "Exponential"
+    },
+    {
+        "q_no": 3,
+        "question": "What is a limiting factor in population dynamics?",
+        "options": {
+            "a": "The availability of food and water",
+            "b": "The presence of predators",
+            "c": "The absence of predators",
+            "d": "The availability of habitat"
+        },
+        "correct_answer": "The absence of predators"
+    },
+    {
+        "q_no": 4,
+        "question": "What is the effect of predation on population dynamics?",
+        "options": {
+            "a": "It increases population size",
+            "b": "It decreases population size",
+            "c": "It has no effect on population size",
+            "d": "It increases competition for resources"
+        },
+        "correct_answer": "It decreases population size"
+    },
+    {
+        "q_no": 5,
+        "question": "What is the main impact of human activity on population dynamics?",
+        "options": {
+            "a": "It has no significant impact",
+            "b": "It increases population size",
+            "c": "It decreases population size",
+            "d": "It alters habitat and resource availability"
+        },
+        "correct_answer": "It alters habitat and resource availability"
+    }
+]
+Time Taken: 57.26 seconds | Tokens Produced: 228 | ⚡⚡⚡ Token Speed 3.982 tokens/sec
+⚠️ Warning: Expected 10 MCQs but got 5...
+
+Attempt 2 out of 5... llama3.2:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the primary function of an ecosystem in ecology?",
+        "options": {
+            "a": "To produce oxygen through photosynthesis",
+            "b": "To provide a habitat for organisms to live and grow",
+            "c": "To regulate the Earth's temperature",
+            "d": "To maintain the balance of nutrients"
+        },
+        "correct_answer": "To provide a habitat for organisms to live and grow"
+    },
+    {
+        "q_no": 2,
+        "question": "What is exponential growth in population dynamics?",
+        "options": {
+            "a": "A decrease in population size over time",
+            "b": "An increase in population size that grows faster as the population gets larger",
+            "c": "A stable population size without any changes",
+            "d": "A sudden drop in population size"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "q_no": 3,
+        "question": "Which of the following is an example of a limiting factor?",
+        "options": {
+            "a": "Abundant food supply",
+            "b": "Harsh climate conditions",
+            "c": "Access to clean water",
+            "d": "Low predator population"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "q_no": 4,
+        "question": "What is the effect of predation on a population?",
+        "options": {
+            "a": "An increase in population size due to more predators",
+            "b": "A decrease in population size due to fewer prey",
+            "c": "No effect on population dynamics",
+            "d": "A stable population size with no changes"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "q_no": 5,
+        "question": "What is a case study in ecology?",
+        "options": {
+            "a": "A scientific experiment to test a hypothesis",
+            "b": "A real-world example of population dynamics to learn from",
+            "c": "A statistical analysis of population data",
+            "d": "A theoretical model of ecosystem behavior"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "q_no": 6,
+        "question": "What is the primary factor that affects population growth?",
+        "options": {
+            "a": "Predation and competition",
+            "b": "Environmental factors such as food supply and climate",
+            "c": "Human activities such as habitat destruction",
+            "d": "Genetic factors such as mutation rates"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "q_no": 7,
+        "question": "What is the concept of carrying capacity in ecology?",
+        "options": {
+            "a": "The maximum number of individuals a species can support",
+            "b": "The minimum number of individuals a species needs to survive",
+            "c": "The average number of individuals a species has",
+            "d": "The fluctuating population size over time"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "q_no": 8,
+        "question": "What is the role of competition in population dynamics?",
+        "options": {
+            "a": "An increase in population size due to more resources",
+            "b": "A decrease in population size due to fewer resources",
+            "c": "No effect on population growth",
+            "d": "A stable population size with no changes"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "q_no": 9,
+        "question": "What is the primary goal of conservation efforts in ecology?",
+        "options": {
+            "a": "To protect endangered species",
+            "b": "To preserve ecosystems and biodiversity",
+            "c": "To reduce human impact on the environment",
+            "d": "To promote sustainable resource use"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "q_no": 10,
+        "question": "What is the importance of understanding population growth models in ecology?",
+        "options": {
+            "a": "To predict population size with accuracy",
+            "b": "To understand the impact of environmental factors on populations",
+            "c": "To develop effective conservation strategies",
+            "d": "To study the behavior of individual organisms"
+        },
+        "correct_answer": "C"
+    }]
+Time Taken: 67.75 seconds | Tokens Produced: 506 | ⚡⚡⚡ Token Speed 7.468 tokens/sec
+✅✅✅ Successfully generated 10 MCQs. Attempts Needed 2
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   {
+      "q_no": 1,
+      "question": "What is the primary function of an ecosystem in ecology?",
+      "options": {
+         "a": "To produce oxygen through photosynthesis",
+         "b": "To provide a habitat for organisms to live and grow",
+         "c": "To regulate the Earth's temperature",
+         "d": "To maintain the balance of nutrients"
+      },
+      "correct_answer": "To provide a habitat for organisms to live and grow"
+   },
+   {
+      "q_no": 2,
+      "question": "What is exponential growth in population dynamics?",
+      "options": {
+         "a": "A decrease in population size over time",
+         "b": "An increase in population size that grows faster as the population gets larger",
+         "c": "A stable population size without any changes",
+         "d": "A sudden drop in population size"
+      },
+      "correct_answer": "B"
+   },
+   {
+      "q_no": 3,
+      "question": "Which of the following is an example of a limiting factor?",
+      "options": {
+         "a": "Abundant food supply",
+         "b": "Harsh climate conditions",
+         "c": "Access to clean water",
+         "d": "Low predator population"
+      },
+      "correct_answer": "B"
+   },
+   {
+      "q_no": 4,
+      "question": "What is the effect of predation on a population?",
+      "options": {
+         "a": "An increase in population size due to more predators",
+         "b": "A decrease in population size due to fewer prey",
+         "c": "No effect on population dynamics",
+         "d": "A stable population size with no changes"
+      },
+      "correct_answer": "B"
+   },
+   {
+      "q_no": 5,
+      "question": "What is a case study in ecology?",
+      "options": {
+         "a": "A scientific experiment to test a hypothesis",
+         "b": "A real-world example of population dynamics to learn from",
+         "c": "A statistical analysis of population data",
+         "d": "A theoretical model of ecosystem behavior"
+      },
+      "correct_answer": "B"
+   },
+   {
+      "q_no": 6,
+      "question": "What is the primary factor that affects population growth?",
+      "options": {
+         "a": "Predation and competition",
+         "b": "Environmental factors such as food supply and climate",
+         "c": "Human activities such as habitat destruction",
+         "d": "Genetic factors such as mutation rates"
+      },
+      "correct_answer": "B"
+   },
+   {
+      "q_no": 7,
+      "question": "What is the concept of carrying capacity in ecology?",
+      "options": {
+         "a": "The maximum number of individuals a species can support",
+         "b": "The minimum number of individuals a species needs to survive",
+         "c": "The average number of individuals a species has",
+         "d": "The fluctuating population size over time"
+      },
+      "correct_answer": "A"
+   },
+   {
+      "q_no": 8,
+      "question": "What is the role of competition in population dynamics?",
+      "options": {
+         "a": "An increase in population size due to more resources",
+         "b": "A decrease in population size due to fewer resources",
+         "c": "No effect on population growth",
+         "d": "A stable population size with no changes"
+      },
+      "correct_answer": "B"
+   },
+   {
+      "q_no": 9,
+      "question": "What is the primary goal of conservation efforts in ecology?",
+      "options": {
+         "a": "To protect endangered species",
+         "b": "To preserve ecosystems and biodiversity",
+         "c": "To reduce human impact on the environment",
+         "d": "To promote sustainable resource use"
+      },
+      "correct_answer": "B"
+   },
+   {
+      "q_no": 10,
+      "question": "What is the importance of understanding population growth models in ecology?",
+      "options": {
+         "a": "To predict population size with accuracy",
+         "b": "To understand the impact of environmental factors on populations",
+         "c": "To develop effective conservation strategies",
+         "d": "To study the behavior of individual organisms"
+      },
+      "correct_answer": "C"
+   }
+]
+TIME for MCQ: 67.751 | ⚡⚡⚡ Token Speed: 7.469 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 557 | TOTAL Time: 136.18
+
+********************************************************************************
+Syllabus NUMBER 8
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Cambridge Grade 8 Mathematics - Algebra - Linear Equations:
+- Solving linear equations with one variable
+- Simplifying algebraic expressions involving linear terms
+- Graphing linear equations on a coordinate plane
+- Identifying and extending patterns using linear sequences
+- Solving linear equations in word problems
+- Using inverse operations to solve linear equations
+TIME for SYLLABUS: 11.784 | ⚡⚡⚡ Token Speed: 4.752 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 5... llama3.2:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "Why is solving linear equations with one variable important for mathematical problem-solving?",
+        "options": {
+            "a": "It helps find missing values in a table",
+            "b": "It allows us to model real-world situations",
+            "c": "It enables the solution of equations with multiple variables",
+            "d": "It is a fundamental skill for algebraic manipulations"
+        },
+        "correct_answer": "It is a fundamental skill for algebraic manipulations"
+    },
+    {
+        "q_no": 2,
+        "question": "What is the first step in simplifying algebraic expressions involving linear terms?",
+        "options": {
+            "a": "Combining like terms",
+            "b": "Factoring out common factors",
+            "c": "Solving for variables",
+            "d": "Dividing both sides of an equation by a constant"
+        },
+        "correct_answer": "Simplifying the expression by removing parentheses"
+    },
+    {
+        "q_no": 3,
+        "question": "What type of graph is used to represent linear equations on a coordinate plane?",
+        "options": {
+            "a": "Circle graph",
+            "b": "Bar graph",
+            "c": "Line graph",
+            "d": "Scatter plot"
+        },
+        "correct_answer": "Line graph"
+    },
+    {
+        "q_no": 4,
+        "question": "What is the main purpose of identifying and extending patterns using linear sequences?",
+        "options": {
+            "a": "To make predictions about future values",
+            "b": "To identify relationships between variables",
+            "c": "To solve quadratic equations",
+            "d": "To find the mean of a dataset"
+        },
+        "correct_answer": "To predict future values in a sequence"
+    },
+    {
+        "q_no": 5,
+        "question": "What type of equation is used to represent word problems?",
+        "options": {
+            "a": "Linear equation",
+            "b": "Quadratic equation",
+            "c": "Exponential equation",
+            "d": "Polynomial equation"
+        },
+        "correct_answer": "Word problem equation (not explicitly defined)"
+    },
+    {
+        "q_no": 6,
+        "question": "What is the purpose of using inverse operations to solve linear equations?",
+        "options": {
+            "a": "To isolate variables on one side",
+            "b": "To eliminate decimals or fractions",
+            "c": "To simplify complex expressions",
+            "d": "To find the slope-intercept form"
+        },
+        "correct_answer": "To isolate variables on one side of an equation"
+    },
+    {
+        "q_no": 7,
+        "question": "What is a key characteristic of linear equations?",
+        "options": {
+            "a": "They have multiple solutions",
+            "b": "They can be graphed on a coordinate plane",
+            "c": "They always have an infinite number of solutions",
+            "d": "They are only used for simple calculations"
+        },
+        "correct_answer": "They can be graphed on a coordinate plane"
+    },
+    {
+        "q_no": 8,
+        "question": "What is the main difference between linear and non-linear sequences?",
+        "options": {
+            "a": "The rate of change is constant",
+            "b": "The rate of change is variable",
+            "c": "The sequence has a pattern but not a rule",
+            "d": "The sequence has no pattern"
+        },
+        "correct_answer": "The rate of change is constant in linear sequences and variable in non-linear sequences"
+    },
+    {
+        "q_no": 9,
+        "question": "What type of equation is used to represent word problems?",
+        "options": {
+            "a": "Linear equation",
+            "b": "Quadratic equation",
+            "c": "Exponential equation",
+            "d": "Polynomial equation"
+        },
+        "correct_answer": "Word problem equation (not explicitly defined)"
+    },
+    {
+        "q_no": 10,
+        "question": "What is the purpose of identifying and extending patterns using linear sequences?",
+        "options": {
+            "a": "To make predictions about future values",
+            "b": "To identify relationships between variables",
+            "c": "To solve quadratic equations",
+            "d": "To find the mean of a dataset"
+        },
+        "correct_answer": "To predict future values in a sequence"
+    },
+    {
+        "q_no": 11,
+        "question": "What type of operation is used to solve linear equations?",
+        "options": {
+            "a": "Multiplication",
+            "b": "Division",
+            "c": "Addition and subtraction",
+            "d": "Inverse operations"
+        },
+        "correct_answer": "Inverse operations"
+    },
+    {
+        "q_no": 12,
+        "question": "What is a key characteristic of linear equations?",
+        "options": {
+            "a": "They have multiple solutions",
+            "b": "They can be graphed on a coordinate plane",
+            "c": "They always have an infinite number of solutions",
+            "d": "They are only used for simple calculations"
+        },
+        "correct_answer": "They can be graphed on a coordinate plane"
+    }
+]
+Time Taken: 107.13 seconds | Tokens Produced: 598 | ⚡⚡⚡ Token Speed 5.582 tokens/sec
+✅✅✅ Successfully generated 12 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   {
+      "q_no": 1,
+      "question": "Why is solving linear equations with one variable important for mathematical problem-solving?",
+      "options": {
+         "a": "It helps find missing values in a table",
+         "b": "It allows us to model real-world situations",
+         "c": "It enables the solution of equations with multiple variables",
+         "d": "It is a fundamental skill for algebraic manipulations"
+      },
+      "correct_answer": "It is a fundamental skill for algebraic manipulations"
+   },
+   {
+      "q_no": 2,
+      "question": "What is the first step in simplifying algebraic expressions involving linear terms?",
+      "options": {
+         "a": "Combining like terms",
+         "b": "Factoring out common factors",
+         "c": "Solving for variables",
+         "d": "Dividing both sides of an equation by a constant"
+      },
+      "correct_answer": "Simplifying the expression by removing parentheses"
+   },
+   {
+      "q_no": 3,
+      "question": "What type of graph is used to represent linear equations on a coordinate plane?",
+      "options": {
+         "a": "Circle graph",
+         "b": "Bar graph",
+         "c": "Line graph",
+         "d": "Scatter plot"
+      },
+      "correct_answer": "Line graph"
+   },
+   {
+      "q_no": 4,
+      "question": "What is the main purpose of identifying and extending patterns using linear sequences?",
+      "options": {
+         "a": "To make predictions about future values",
+         "b": "To identify relationships between variables",
+         "c": "To solve quadratic equations",
+         "d": "To find the mean of a dataset"
+      },
+      "correct_answer": "To predict future values in a sequence"
+   },
+   {
+      "q_no": 5,
+      "question": "What type of equation is used to represent word problems?",
+      "options": {
+         "a": "Linear equation",
+         "b": "Quadratic equation",
+         "c": "Exponential equation",
+         "d": "Polynomial equation"
+      },
+      "correct_answer": "Word problem equation (not explicitly defined)"
+   },
+   {
+      "q_no": 6,
+      "question": "What is the purpose of using inverse operations to solve linear equations?",
+      "options": {
+         "a": "To isolate variables on one side",
+         "b": "To eliminate decimals or fractions",
+         "c": "To simplify complex expressions",
+         "d": "To find the slope-intercept form"
+      },
+      "correct_answer": "To isolate variables on one side of an equation"
+   },
+   {
+      "q_no": 7,
+      "question": "What is a key characteristic of linear equations?",
+      "options": {
+         "a": "They have multiple solutions",
+         "b": "They can be graphed on a coordinate plane",
+         "c": "They always have an infinite number of solutions",
+         "d": "They are only used for simple calculations"
+      },
+      "correct_answer": "They can be graphed on a coordinate plane"
+   },
+   {
+      "q_no": 8,
+      "question": "What is the main difference between linear and non-linear sequences?",
+      "options": {
+         "a": "The rate of change is constant",
+         "b": "The rate of change is variable",
+         "c": "The sequence has a pattern but not a rule",
+         "d": "The sequence has no pattern"
+      },
+      "correct_answer": "The rate of change is constant in linear sequences and variable in non-linear sequences"
+   },
+   {
+      "q_no": 9,
+      "question": "What type of equation is used to represent word problems?",
+      "options": {
+         "a": "Linear equation",
+         "b": "Quadratic equation",
+         "c": "Exponential equation",
+         "d": "Polynomial equation"
+      },
+      "correct_answer": "Word problem equation (not explicitly defined)"
+   },
+   {
+      "q_no": 10,
+      "question": "What is the purpose of identifying and extending patterns using linear sequences?",
+      "options": {
+         "a": "To make predictions about future values",
+         "b": "To identify relationships between variables",
+         "c": "To solve quadratic equations",
+         "d": "To find the mean of a dataset"
+      },
+      "correct_answer": "To predict future values in a sequence"
+   },
+   {
+      "q_no": 11,
+      "question": "What type of operation is used to solve linear equations?",
+      "options": {
+         "a": "Multiplication",
+         "b": "Division",
+         "c": "Addition and subtraction",
+         "d": "Inverse operations"
+      },
+      "correct_answer": "Inverse operations"
+   },
+   {
+      "q_no": 12,
+      "question": "What is a key characteristic of linear equations?",
+      "options": {
+         "a": "They have multiple solutions",
+         "b": "They can be graphed on a coordinate plane",
+         "c": "They always have an infinite number of solutions",
+         "d": "They are only used for simple calculations"
+      },
+      "correct_answer": "They can be graphed on a coordinate plane"
+   }
+]
+TIME for MCQ: 107.131 | ⚡⚡⚡ Token Speed: 5.582 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 654 | TOTAL Time: 118.93
+
+********************************************************************************
+
+Total Time Taken: 1480.47, Total Tokens Generated: 4226, Avg Total Token Gen Speed: 2.85 tokens/sec
+Total ERROR: 13 
+Total Syllabi: 8 | MCQ Attempt per Syllabus: 5

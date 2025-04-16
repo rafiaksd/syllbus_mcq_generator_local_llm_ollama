@@ -1,0 +1,956 @@
+********************************************************************************
+Syllabus NUMBER 1
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Edexcel Grade 12 Mathematics - Calculus - Differentiation:
+- Rules of differentiation (power rule, product rule, quotient rule, chain rule)
+- Differentiation of trigonometric, exponential, and logarithmic functions
+- Implicit differentiation
+- Related rates problems
+- Applications of differentiation (optimization, curve sketching)
+- Higher order derivatives
+
+END
+TIME for SYLLABUS: 15.86 | ⚡⚡⚡ Token Speed: 3.09 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 5... gemma3
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "Which of the following best describes the power rule of differentiation?",
+        "options": {
+            "a": "d/dx (x^n) = x^n + 1",
+            "b": "d/dx (x^n) = nx^(n-1)",
+            "c": "d/dx (x^n) = 1/x^(n-1)",
+            "d": "d/dx (x^n) = x^n + 1"
+        },
+        "correct_answer": "d/dx (x^n) = nx^(n-1)"
+    },
+    {
+        "q_no": 2,
+        "question": "The product rule states that the derivative of a product of two functions is equal to...",
+        "options": {
+            "a": "The sum of the derivatives of the two functions",
+            "b": "The product of the derivatives of the two functions",
+            "c": "The derivative of the first function multiplied by the second function",
+            "d": "The sum of the derivatives of the two functions"
+        },
+        "correct_answer": "d/dx (uv) = u'v + uv'"
+    },
+    {
+        "q_no": 3,
+        "question": "What is the derivative of sin(x)?",
+        "options": {
+            "a": "cos(x)",
+            "b": "sin(x)",
+            "c": "-cos(x)",
+            "d": "tan(x)"
+        },
+        "correct_answer": "cos(x)"
+    },
+    {
+        "q_no": 4,
+        "question": "The derivative of e^x is:",
+        "options": {
+            "a": "e^x",
+            "b": "e^(-x)",
+            "c": "1/x",
+            "d": "e^x"
+        },
+        "correct_answer": "e^x"
+    },
+    {
+        "q_no": 5,
+        "question": "What does implicit differentiation involve?",
+        "options": {
+            "a": "Differentiating only linear functions",
+            "b": "Differentiating functions with explicit variables",
+            "c": "Differentiating functions where both variables are dependent",
+            "d": "Differentiating functions with only one variable"
+        },
+        "correct_answer": "Differentiating functions where both variables are dependent"
+    },
+    {
+        "q_no": 6,
+        "question": "A related rates problem involves...",
+        "options": {
+            "a": "Finding the slope of a straight line",
+            "b": "Determining the area of a complex shape",
+            "c": "Relating the rates of change of two or more variables",
+            "d": "Solving algebraic equations"
+        },
+        "correct_answer": "Relating the rates of change of two or more variables"
+    },
+    {
+        "q_no": 7,
+        "question": "What is the second derivative of cos(x)?",
+        "options": {
+            "a": "sin(x)",
+            "b": "-sin(x)",
+            "c": "tan(x)",
+            "d": "-cos(x)"
+        },
+        "correct_answer": "-sin(x)"
+    },
+    {
+        "q_no": 8,
+        "question": "Optimization problems utilize differentiation to find...",
+        "options": {
+            "a": "The maximum or minimum value of a function",
+            "b": "The area of a circle",
+            "c": "The volume of a cube",
+            "d": "The surface area of a sphere"
+        },
+        "correct_answer": "The maximum or minimum value of a function"
+    },
+    {
+        "q_no": 9,
+        "question": "Curve sketching involves determining...",
+        "options": {
+            "a": "The number of solutions to an equation",
+            "b": "The intervals where a function is increasing or decreasing",
+            "c": "The equation of a tangent line to a curve",
+            "d": "The area under a curve"
+        },
+        "correct_answer": "The intervals where a function is increasing or decreasing"
+    },
+    {
+        "q_no": 10,
+        "question": "What is the derivative of ln(x)?",
+        "options": {
+            "a": "1/x",
+            "b": "x",
+            "c": "e^x",
+            "d": "1"
+        },
+        "correct_answer": "1/x"
+    },
+    {
+        "q_no": 11,
+        "question": "Higher-order derivatives represent the rate of change of...",
+        "options": {
+            "a": "The original function",
+            "b": "The first derivative",
+            "c": "The second derivative",
+            "d": "The function's value at a point"
+        },
+        "correct_answer": "The second derivative"
+    },
+    {
+        "q_no": 12,
+        "question": "If f'(x) = 0, then f(x) is at a...",
+        "options": {
+            "a": "Maximum value",
+            "b": "Minimum value",
+            "c": "Local maximum",
+            "d": "Inflection point"
+        },
+        "correct_answer": "Local maximum"
+    }
+]
+Time Taken: 139.24 seconds | Tokens Produced: 500 | ⚡⚡⚡ Token Speed 3.591 tokens/sec
+✅✅✅ Successfully generated 12 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   {
+      "q_no": 1,
+      "question": "Which of the following best describes the power rule of differentiation?",
+      "options": {
+         "a": "d/dx (x^n) = x^n + 1",
+         "b": "d/dx (x^n) = nx^(n-1)",
+         "c": "d/dx (x^n) = 1/x^(n-1)",
+         "d": "d/dx (x^n) = x^n + 1"
+      },
+      "correct_answer": "d/dx (x^n) = nx^(n-1)"
+   },
+   {
+      "q_no": 2,
+      "question": "The product rule states that the derivative of a product of two functions is equal to...",
+      "options": {
+         "a": "The sum of the derivatives of the two functions",
+         "b": "The product of the derivatives of the two functions",
+         "c": "The derivative of the first function multiplied by the second function",
+         "d": "The sum of the derivatives of the two functions"
+      },
+      "correct_answer": "d/dx (uv) = u'v + uv'"
+   },
+   {
+      "q_no": 3,
+      "question": "What is the derivative of sin(x)?",
+      "options": {
+         "a": "cos(x)",
+         "b": "sin(x)",
+         "c": "-cos(x)",
+         "d": "tan(x)"
+      },
+      "correct_answer": "cos(x)"
+   },
+   {
+      "q_no": 4,
+      "question": "The derivative of e^x is:",
+      "options": {
+         "a": "e^x",
+         "b": "e^(-x)",
+         "c": "1/x",
+         "d": "e^x"
+      },
+      "correct_answer": "e^x"
+   },
+   {
+      "q_no": 5,
+      "question": "What does implicit differentiation involve?",
+      "options": {
+         "a": "Differentiating only linear functions",
+         "b": "Differentiating functions with explicit variables",
+         "c": "Differentiating functions where both variables are dependent",
+         "d": "Differentiating functions with only one variable"
+      },
+      "correct_answer": "Differentiating functions where both variables are dependent"
+   },
+   {
+      "q_no": 6,
+      "question": "A related rates problem involves...",
+      "options": {
+         "a": "Finding the slope of a straight line",
+         "b": "Determining the area of a complex shape",
+         "c": "Relating the rates of change of two or more variables",
+         "d": "Solving algebraic equations"
+      },
+      "correct_answer": "Relating the rates of change of two or more variables"
+   },
+   {
+      "q_no": 7,
+      "question": "What is the second derivative of cos(x)?",
+      "options": {
+         "a": "sin(x)",
+         "b": "-sin(x)",
+         "c": "tan(x)",
+         "d": "-cos(x)"
+      },
+      "correct_answer": "-sin(x)"
+   },
+   {
+      "q_no": 8,
+      "question": "Optimization problems utilize differentiation to find...",
+      "options": {
+         "a": "The maximum or minimum value of a function",
+         "b": "The area of a circle",
+         "c": "The volume of a cube",
+         "d": "The surface area of a sphere"
+      },
+      "correct_answer": "The maximum or minimum value of a function"
+   },
+   {
+      "q_no": 9,
+      "question": "Curve sketching involves determining...",
+      "options": {
+         "a": "The number of solutions to an equation",
+         "b": "The intervals where a function is increasing or decreasing",
+         "c": "The equation of a tangent line to a curve",
+         "d": "The area under a curve"
+      },
+      "correct_answer": "The intervals where a function is increasing or decreasing"
+   },
+   {
+      "q_no": 10,
+      "question": "What is the derivative of ln(x)?",
+      "options": {
+         "a": "1/x",
+         "b": "x",
+         "c": "e^x",
+         "d": "1"
+      },
+      "correct_answer": "1/x"
+   },
+   {
+      "q_no": 11,
+      "question": "Higher-order derivatives represent the rate of change of...",
+      "options": {
+         "a": "The original function",
+         "b": "The first derivative",
+         "c": "The second derivative",
+         "d": "The function's value at a point"
+      },
+      "correct_answer": "The second derivative"
+   },
+   {
+      "q_no": 12,
+      "question": "If f'(x) = 0, then f(x) is at a...",
+      "options": {
+         "a": "Maximum value",
+         "b": "Minimum value",
+         "c": "Local maximum",
+         "d": "Inflection point"
+      },
+      "correct_answer": "Local maximum"
+   }
+]
+TIME for MCQ: 139.234 | ⚡⚡⚡ Token Speed: 3.591 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 549 | TOTAL Time: 155.11
+
+********************************************************************************
+Syllabus NUMBER 2
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Cambridge Grade 10 Physics - Waves - Electromagnetic Spectrum:
+- Overview of the electromagnetic spectrum
+- Wavelength and frequency relationships
+- Properties of different regions of the spectrum
+- Wave behavior: reflection, refraction, diffraction
+- Applications of the electromagnetic spectrum
+- Safety considerations regarding electromagnetic radiation
+TIME for SYLLABUS: 12.295 | ⚡⚡⚡ Token Speed: 3.904 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 5... gemma3
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "Which of the following best describes the electromagnetic spectrum?",
+        "options": {
+            "a": "A range of all types of waves",
+            "b": "Only visible light waves",
+            "c": "Waves with low energy only",
+            "d": "Waves that travel through a vacuum"
+        },
+        "correct_answer": "A range of all types of waves"
+    },
+    {
+        "q_no": 2,
+        "question": "What is the relationship between wavelength and frequency in electromagnetic waves?",
+        "options": {
+            "a": "They are inversely proportional",
+            "b": "They are directly proportional",
+            "c": "They have no relationship",
+            "d": "They are equal"
+        },
+        "correct_answer": "They are inversely proportional"
+    },
+    {
+        "q_no": 3,
+        "question": "Which region of the electromagnetic spectrum has the longest wavelengths?",
+        "options": {
+            "a": "Gamma rays",
+            "b": "Radio waves",
+            "c": "Ultraviolet rays",
+            "d": "X-rays"
+        },
+        "correct_answer": "Radio waves"
+    },
+    {
+        "q_no": 4,
+        "question": "What happens when a wave encounters a new medium?",
+        "options": {
+            "a": "It continues traveling at the same speed",
+            "b": "It changes direction due to reflection",
+            "c": "It loses energy",
+            "d": "It disappears"
+        },
+        "correct_answer": "It changes direction due to reflection"
+    },
+    {
+        "q_no": 5,
+        "question": "Which of the following is a property of diffraction?",
+        "options": {
+            "a": "The bending of waves around an obstacle",
+            "b": "The splitting of white light into its component colors",
+            "c": "The bouncing of waves off a surface",
+            "d": "The combination of waves to create a new wave"
+        },
+        "correct_answer": "The splitting of white light into its component colors"
+    },
+    {
+        "q_no": 6,
+        "question": "What is a primary application of the electromagnetic spectrum?",
+        "options": {
+            "a": "Heating water",
+            "b": "Communication technologies",
+            "c": "Plant photosynthesis",
+            "d": "Building bridges"
+        },
+        "correct_answer": "Communication technologies"
+    },
+    {
+        "q_no": 7,
+        "question": "What is a key safety consideration when exposed to high-intensity electromagnetic radiation?",
+        "options": {
+            "a": "Increased energy production",
+            "b": "Potential damage to DNA",
+            "c": "Enhanced vitamin absorption",
+            "d": "Improved vision"
+        },
+        "correct_answer": "Potential damage to DNA"
+    },
+    {
+        "q_no": 8,
+        "question": "Which region of the electromagnetic spectrum is associated with sunburns?",
+        "options": {
+            "a": "Infrared radiation",
+            "b": "Visible light",
+            "c": "Ultraviolet radiation",
+            "d": "Radio waves"
+        },
+        "correct_answer": "Ultraviolet radiation"
+    },
+    {
+        "q_no": 9,
+        "question": "What does refraction describe?",
+        "options": {
+            "a": "The reflection of waves",
+            "b": "The bending of waves as they pass from one medium to another",
+            "c": "The absorption of waves by a medium",
+            "d": "The scattering of waves"
+        },
+        "correct_answer": "The bending of waves as they pass from one medium to another"
+    },
+    {
+        "q_no": 10,
+        "question": "Which part of the spectrum has the highest frequency?",
+        "options": {
+            "a": "Microwaves",
+            "b": "Infrared",
+            "c": "Gamma rays",
+            "d": "Visible light"
+        },
+        "correct_answer": "Gamma rays"
+    },
+    {
+        "q_no": 11,
+        "question": "What is the defining characteristic of waves?",
+        "options": {
+            "a": "They have a fixed location",
+            "b": "They are disturbances that transfer energy",
+            "c": "They always travel at the same speed",
+            "d": "They are always composed of particles"
+        },
+        "correct_answer": "They are disturbances that transfer energy"
+    },
+    {
+        "q_no": 12,
+        "question": "Which of the following is NOT a characteristic of a wave?",
+        "options": {
+            "a": "Wavelength",
+            "b": "Frequency",
+            "c": "Mass",
+            "d": "Amplitude"
+        },
+        "correct_answer": "Mass"
+    }
+]
+Time Taken: 133.85 seconds | Tokens Produced: 510 | ⚡⚡⚡ Token Speed 3.810 tokens/sec
+✅✅✅ Successfully generated 12 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   {
+      "q_no": 1,
+      "question": "Which of the following best describes the electromagnetic spectrum?",
+      "options": {
+         "a": "A range of all types of waves",
+         "b": "Only visible light waves",
+         "c": "Waves with low energy only",
+         "d": "Waves that travel through a vacuum"
+      },
+      "correct_answer": "A range of all types of waves"
+   },
+   {
+      "q_no": 2,
+      "question": "What is the relationship between wavelength and frequency in electromagnetic waves?",
+      "options": {
+         "a": "They are inversely proportional",
+         "b": "They are directly proportional",
+         "c": "They have no relationship",
+         "d": "They are equal"
+      },
+      "correct_answer": "They are inversely proportional"
+   },
+   {
+      "q_no": 3,
+      "question": "Which region of the electromagnetic spectrum has the longest wavelengths?",
+      "options": {
+         "a": "Gamma rays",
+         "b": "Radio waves",
+         "c": "Ultraviolet rays",
+         "d": "X-rays"
+      },
+      "correct_answer": "Radio waves"
+   },
+   {
+      "q_no": 4,
+      "question": "What happens when a wave encounters a new medium?",
+      "options": {
+         "a": "It continues traveling at the same speed",
+         "b": "It changes direction due to reflection",
+         "c": "It loses energy",
+         "d": "It disappears"
+      },
+      "correct_answer": "It changes direction due to reflection"
+   },
+   {
+      "q_no": 5,
+      "question": "Which of the following is a property of diffraction?",
+      "options": {
+         "a": "The bending of waves around an obstacle",
+         "b": "The splitting of white light into its component colors",
+         "c": "The bouncing of waves off a surface",
+         "d": "The combination of waves to create a new wave"
+      },
+      "correct_answer": "The splitting of white light into its component colors"
+   },
+   {
+      "q_no": 6,
+      "question": "What is a primary application of the electromagnetic spectrum?",
+      "options": {
+         "a": "Heating water",
+         "b": "Communication technologies",
+         "c": "Plant photosynthesis",
+         "d": "Building bridges"
+      },
+      "correct_answer": "Communication technologies"
+   },
+   {
+      "q_no": 7,
+      "question": "What is a key safety consideration when exposed to high-intensity electromagnetic radiation?",
+      "options": {
+         "a": "Increased energy production",
+         "b": "Potential damage to DNA",
+         "c": "Enhanced vitamin absorption",
+         "d": "Improved vision"
+      },
+      "correct_answer": "Potential damage to DNA"
+   },
+   {
+      "q_no": 8,
+      "question": "Which region of the electromagnetic spectrum is associated with sunburns?",
+      "options": {
+         "a": "Infrared radiation",
+         "b": "Visible light",
+         "c": "Ultraviolet radiation",
+         "d": "Radio waves"
+      },
+      "correct_answer": "Ultraviolet radiation"
+   },
+   {
+      "q_no": 9,
+      "question": "What does refraction describe?",
+      "options": {
+         "a": "The reflection of waves",
+         "b": "The bending of waves as they pass from one medium to another",
+         "c": "The absorption of waves by a medium",
+         "d": "The scattering of waves"
+      },
+      "correct_answer": "The bending of waves as they pass from one medium to another"
+   },
+   {
+      "q_no": 10,
+      "question": "Which part of the spectrum has the highest frequency?",
+      "options": {
+         "a": "Microwaves",
+         "b": "Infrared",
+         "c": "Gamma rays",
+         "d": "Visible light"
+      },
+      "correct_answer": "Gamma rays"
+   },
+   {
+      "q_no": 11,
+      "question": "What is the defining characteristic of waves?",
+      "options": {
+         "a": "They have a fixed location",
+         "b": "They are disturbances that transfer energy",
+         "c": "They always travel at the same speed",
+         "d": "They are always composed of particles"
+      },
+      "correct_answer": "They are disturbances that transfer energy"
+   },
+   {
+      "q_no": 12,
+      "question": "Which of the following is NOT a characteristic of a wave?",
+      "options": {
+         "a": "Wavelength",
+         "b": "Frequency",
+         "c": "Mass",
+         "d": "Amplitude"
+      },
+      "correct_answer": "Mass"
+   }
+]
+TIME for MCQ: 133.845 | ⚡⚡⚡ Token Speed: 3.81 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 558 | TOTAL Time: 146.15
+
+********************************************************************************
+Syllabus NUMBER 3
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for CBSE Grade 12 Mathematics - Algebra - Linear Equations
+- Solving linear equations in one variable
+- Solving systems of linear equations
+- Applications of linear equations
+- Graphing linear equations
+- Inequalities
+- Introduction to quadratic equations
+TIME for SYLLABUS: 10.923 | ⚡⚡⚡ Token Speed: 3.662 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 5... gemma3
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the primary goal when solving a linear equation in one variable?",
+        "options": {
+            "a": "To find the slope of the line.",
+            "b": "To isolate the variable and determine its value.",
+            "c": "To create a system of two equations.",
+            "d": "To graph the equation on a coordinate plane."
+        },
+        "correct_answer": "To isolate the variable and determine its value."
+    },
+    {
+        "q_no": 2,
+        "question": "If 2x + 5 = 11, what is the value of x?",
+        "options": {
+            "a": "3",
+            "b": "8",
+            "c": "7",
+            "d": "5"
+        },
+        "correct_answer": "3"
+    },
+    {
+        "q_no": 3,
+        "question": "What is a system of linear equations?",
+        "options": {
+            "a": "A single linear equation.",
+            "b": "Two or more linear equations.",
+            "c": "An equation with two variables.",
+            "d": "A quadratic equation."
+        },
+        "correct_answer": "Two or more linear equations."
+    },
+    {
+        "q_no": 4,
+        "question": "Which method is commonly used to solve a system of linear equations?",
+        "options": {
+            "a": "Addition and subtraction",
+            "b": "Multiplying the equations",
+            "c": "Substituting one equation into another",
+            "d": "Calculating the area of a triangle"
+        },
+        "correct_answer": "Substituting one equation into another"
+    },
+    {
+        "q_no": 5,
+        "question": "An application of linear equations involves calculating the cost of tickets for a movie and popcorn.  If a movie ticket costs $10 and popcorn costs $5, what equation represents the total cost (C) for x tickets and y boxes of popcorn?",
+        "options": {
+            "a": "C = 10 + 5x",
+            "b": "C = 10x + 5",
+            "c": "C = 5x + 10",
+            "d": "C = 5 + 10x"
+        },
+        "correct_answer": "C = 10x + 5"
+    },
+    {
+        "q_no": 6,
+        "question": "What is the definition of a linear equation?",
+        "options": {
+            "a": "An equation with a variable raised to the power of two",
+            "b": "An equation where the highest power of the variable is 1.",
+            "c": "An equation with two variables.",
+            "d": "An equation with no variables."
+        },
+        "correct_answer": "An equation where the highest power of the variable is 1."
+    },
+    {
+        "q_no": 7,
+        "question": "Which of the following represents a system of linear equations?",
+        "options": {
+            "a": "y = 2x + 1",
+            "b": "x + y = 5",
+            "c": "x^2 + y^2 = 9",
+            "d": "y = x^2"
+        },
+        "correct_answer": "x + y = 5"
+    },
+    {
+        "q_no": 8,
+        "question": "Graphing a linear equation involves plotting points to represent the relationship between x and y.  What is the key characteristic of a linear equation when graphed?",
+        "options": {
+            "a": "It forms a circle.",
+            "b": "It forms a straight line.",
+            "c": "It forms a parabola.",
+            "d": "It forms a triangle."
+        },
+        "correct_answer": "It forms a straight line."
+    },
+    {
+        "q_no": 9,
+        "question": "Solving inequalities involves finding the values of x that satisfy a certain condition.  Which symbol is used to represent 'greater than' in an inequality?",
+        "options": {
+            "a": ">",
+            "b": "<",
+            "c": "=",
+            "d": "+"
+        },
+        "correct_answer": ">"
+    },
+    {
+        "q_no": 10,
+        "question": "What is the solution set of the inequality 3x + 2 < 7?",
+        "options": {
+            "a": "x < 3",
+            "b": "x > 3",
+            "c": "x < 5",
+            "d": "x > 5"
+        },
+        "correct_answer": "x < 5"
+    }
+]
+Time Taken: 124.14 seconds | Tokens Produced: 519 | ⚡⚡⚡ Token Speed 4.181 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 10...
+
+Attempt 2 out of 5... gemma3
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "Which of the following is the primary method for solving linear equations in one variable?",
+        "options": {
+            "a": "Using trigonometric functions",
+            "b": "Applying the quadratic formula",
+            "c": "Isolating the variable on one side of the equation",
+            "d": "Using complex numbers"
+        },
+        "correct_answer": "Isolating the variable on one side of the equation"
+    },
+    {
+        "q_no": 2,
+        "question": "If 2x + 5 = 11, what is the value of x?",
+        "options": {
+            "a": "3",
+            "b": "4",
+            "c": "6",
+            "d": "8"
+        },
+        "correct_answer": "3"
+    },
+    {
+        "q_no": 3,
+        "question": "What is the definition of a system of linear equations?",
+        "options": {
+            "a": "A single equation with multiple variables",
+            "b": "Two or more linear equations involving the same variables",
+            "c": "A non-linear equation with one variable",
+            "d": "A geometric shape with straight lines"
+        },
+        "correct_answer": "Two or more linear equations involving the same variables"
+    },
+    {
+        "q_no": 4,
+        "question": "Which method is commonly used to solve a system of linear equations graphically?",
+        "options": {
+            "a": "Substitution",
+            "b": "Elimination",
+            "c": "Graphing",
+            "d": "Calculus"
+        },
+        "correct_answer": "Graphing"
+    },
+    {
+        "q_no": 5,
+        "question": "What is the main application of linear equations in real-world scenarios?",
+        "options": {
+            "a": "Predicting weather patterns",
+            "b": "Modeling and solving problems involving relationships between variables",
+            "c": "Calculating the area of complex shapes",
+            "d": "Analyzing stock market trends"
+        },
+        "correct_answer": "Modeling and solving problems involving relationships between variables"
+    },
+    {
+        "q_no": 6,
+        "question": "Which of the following represents the graph of a linear equation?",
+        "options": {
+            "a": "A circle",
+            "b": "A parabola",
+            "c": "A straight line",
+            "d": "An ellipse"
+        },
+        "correct_answer": "A straight line"
+    },
+    {
+        "q_no": 7,
+        "question": "What is the first step when solving a linear inequality?",
+        "options": {
+            "a": "Multiply both sides by a constant",
+            "b": "Combine like terms",
+            "c": "Distribute",
+            "d": "Isolate the variable"
+        },
+        "correct_answer": "Isolate the variable"
+    },
+    {
+        "q_no": 8,
+        "question": "What is the general form of a quadratic equation?",
+        "options": {
+            "a": "ax + b = 0",
+            "b": "ax² + bx + c = 0",
+            "c": "x² + y² = r",
+            "d": "x = y"
+        },
+        "correct_answer": "ax² + bx + c = 0"
+    },
+    {
+        "q_no": 9,
+        "question": "What is the discriminant of a quadratic equation (b² - 4ac) used for?",
+        "options": {
+            "a": "Determining the number of solutions",
+            "b": "Finding the vertex of the parabola",
+            "c": "Calculating the area under the curve",
+            "d": "Solving for x"
+        },
+        "correct_answer": "Determining the number of solutions"
+    },
+    {
+        "q_no": 10,
+        "question": "Which of the following represents a linear equation?",
+        "options": {
+            "a": "y = x²",
+            "b": "y = 2x + 1",
+            "c": "y = √x",
+            "d": "y = |x|"
+        },
+        "correct_answer": "y = 2x + 1"
+    }
+]
+Time Taken: 117.69 seconds | Tokens Produced: 448 | ⚡⚡⚡ Token Speed 3.807 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 10...
+⚠️ Warning: Expected 12 MCQs but got 10...
+
+Attempt 3 out of 5... gemma3
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the primary goal when solving linear equations in one variable?",
+        "options": {
+            "a": "To find the value of the variable that satisfies the equation.",
+            "b": "To simplify the equation by adding constants.",
+            "c": "To create a quadratic equation.",
+            "d": "To graph the equation."
+        },
+        "correct_answer": "To find the value of the variable that satisfies the equation."
+    },
+    {
+        "q_no": 2,
+        "question": "If 2x + 5 = 11, what is the value of x?",
+        "options": {
+            "a": "3",
+            "b": "7",
+            "c": "4",
+            "d": "6"
+        },
+        "correct_answer": "3"
+    },
+    {
+        "q_no": 3,
+        "question": "Which method is used to solve a system of linear equations?",
+        "options": {
+            "a": "Subtraction",
+            "b": "Elimination",
+            "c": "Multiplication",
+            "d": "Division"
+        },
+        "correct_answer": "Elimination"
+    },
+    {
+        "q_no": 4,
+        "question": "A system of linear equations has no solution. What does this indicate?",
+        "options": {
+            "a": "The lines intersect at one point.",
+            "b": "The lines are parallel.",
+            "c": "The lines are coincident.",
+            "d": "The lines have infinite solutions"
+        },
+        "correct_answer": "The lines are parallel."
+    },
+    {
+        "q_no": 5,
+        "question": "What is the equation of a straight line in slope-intercept form?",
+        "options": {
+            "a": "Ax + By = C",
+            "b": "y = mx + c",
+            "c": "x = y",
+            "d": "y = x"
+        },
+        "correct_answer": "y = mx + c"
+    },
+    {
+        "q_no": 6,
+        "question": "What is the slope of a line that passes through the points (1, 2) and (3, 6)?",
+        "options": {
+            "a": "1",
+            "b": "2",
+            "c": "3",
+            "d": "4"
+        },
+        "correct_answer": "2"
+    },
+    {
+        "q_no": 7,
+        "question": "Which inequality represents the solution to the statement ‘x + 2 > 5’?",
+        "options": {
+            "a": "x > 3",
+            "b": "x < 3",
+            "c": "x > 7",
+            "d": "x < 7"
+        },
+        "correct_answer": "x > 3"
+    },
+    {
+        "q_no": 8,
+        "question": "What is the definition of a quadratic equation?",
+        "options": {
+            "a": "An equation where the highest power of the variable is 1.",
+            "b": "An equation of the form ax² + bx + c = 0.",
+            "c": "An equation with only one variable.",
+            "d": "An equation where the solution is an integer."
+        },
+        "correct_answer": "An equation of the form ax² + bx + c = 0."
+    },
+    {
+        "q_no": 9,
+        "question": "Which of the following is a quadratic equation?",
+        "options": {
+            "a": "2x + 3 = 0",
+            "b": "x² - 5x + 6 = 0",
+            "c": "x + 4 = 0",
+            "d": "3x = 0"
+        },
+        "correct_answer": "x² - 5x + 6 = 0"
+    },
+    {
+        "q_no": 10,
+        "question": "What is the standard form of a quadratic equation?",
+        "options": {
+            "a": "y = mx + c",
+            "b": "ax² + bx + c = 0",
+            "c": "x = y",
+            "d": "y = x²"
+        },
+        "correct_answer": "ax² + bx + c = 0"
+    }
+]
+Time Taken: 116.31 seconds | Tokens Produced: 460 | ⚡⚡⚡ Token Speed 3.955 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 10...
+⚠️ Warning: Expected 12 MCQs but got 10...
+⚠️ Warning: Expected 12 MCQs but got 10...
+
+Attempt 4 out of 5... gemma3

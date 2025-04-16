@@ -1,0 +1,448 @@
+********************************************************************************
+Syllabus NUMBER 1
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+- Introduction to differentiation rules (Power Rule, Product Rule, Quotient Rule)
+- Finding derivative of composite functions
+- Product rule and chain rule applications
+- Implicit differentiation techniques
+- Examples of differentiation problems in calculus
+- Solutions to examples involving differentiation problems
+TIME for SYLLABUS: 6.432 | ⚡⚡⚡ Token Speed: 6.529 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 5... llama3.2:1b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "Why is cellular respiration important for living organisms?",
+        "options": {"a": "It produces glucose for energy storage", "b": "It converts food into usable energy", "c": "It allows movement in cells", "d": "It helps absorb sunlight"},
+        "correct_answer": "It converts food into usable energy"
+    },
+    {
+        "q_no": 2,
+        "question": "What is the definition of cellular respiration?",
+        "options": {"a": "The breakdown of glucose to release energy", "b": "The absorption of oxygen in the lungs", "c": "The creation of new cells from old ones", "d": "The conversion of proteins into glucose"},
+        "correct_answer": "The breakdown of glucose to release energy"
+    },
+    {
+        "q_no": 3,
+        "question": "What is the end product of glycolysis from one glucose molecule?",
+        "options": {"a": "Two ethanol molecules", "b": "Two pyruvate molecules", "c": "Four ATP molecules", "d": "One glucose molecule"},
+        "correct_answer": "Two pyruvate molecules"
+    },
+    {
+        "q_no": 4,
+        "question": "Where does glycolysis occur in the cell?",
+        "options": {"a": "In the mitochondria", "b": "In the nucleus", "c": "In the cytoplasm", "d": "In the endoplasmic reticulum"},
+        "correct_answer": "In the cytoplasm"
+    },
+    {
+        "q_no": 5,
+        "question": "What is the process by which glucose is converted into energy?",
+        "options": {"a": "Glycolysis", "b": "Fermentation", "c": "Photosynthesis", "d": "Respiration"},
+        "correct_answer": "Respiration"
+    },
+    {
+        "q_no": 6,
+        "question": "What is the byproduct of glycolysis?",
+        "options": {"a": "Two pyruvate molecules", "b": "Four ATP molecules", "c": "Glucose molecule", "d": "Water molecule"},
+        "correct_answer": "Water molecule"
+    },
+    {
+        "q_no": 7,
+        "question": "What is the role of mitochondria in cellular respiration?",
+        "options": {"a": "To produce ATP for energy", "b": "To generate proteins", "c": "To synthesize nucleic acids", "d": "To transport molecules across cell membranes"},
+        "correct_answer": "To produce ATP for energy"
+    },
+    {
+        "q_no": 8,
+        "question": "What is the primary function of the citric acid cycle?",
+        "options": {"a": "To synthesize glucose", "b": "To break down glucose", "c": "To generate ATP", "d": "To repair DNA"},
+        "correct_answer": "To break down glucose"
+    },
+    {
+        "q_no": 9,
+        "question": "What is the key difference between glycolysis and cellular respiration?",
+        "options": {"a": "Glycolysis takes place in the cytoplasm", "b": "Cellular respiration produces energy", "c": "Glycolysis occurs after cellular respiration", "d": "Both occur in the mitochondria"},
+        "correct_answer": "Glycolysis takes place in the cytoplasm"
+    },
+    {
+        "q_no": 10,
+        "question": "What is the role of oxygen in cellular respiration?",
+        "options": {"a": "It is a reactant", "b": "It is an enzyme", "c": "It is a product", "d": "It helps to release energy"},
+        "correct_answer": "It is a reactant"
+    },
+    {
+        "q_no": 11,
+        "question": "What is the main difference between cellular respiration and photosynthesis?",
+        "options": {"a": "Cellular respiration occurs in the mitochondria", "b": "Photosynthesis produces oxygen", "c": "Glycolysis occurs after cellular respiration", "d": "Both occur in the cytoplasm"},
+        "correct_answer": "Cellular respiration occurs in the mitochondria"
+    },
+    {
+        "q_no": 12,
+        "question": "What is the final product of cellular respiration?",
+        "options": {"a": "Four ATP molecules", "b": "Two pyruvate molecules", "c": "One glucose molecule", "d": "Water molecule"},
+        "correct_answer": "Four ATP molecules"
+    }
+]
+Time Taken: 54.89 seconds | Tokens Produced: 476 | ⚡⚡⚡ Token Speed 8.671 tokens/sec
+✅✅✅ Successfully generated 12 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   {
+      "q_no": 1,
+      "question": "Why is cellular respiration important for living organisms?",
+      "options": {
+         "a": "It produces glucose for energy storage",
+         "b": "It converts food into usable energy",
+         "c": "It allows movement in cells",
+         "d": "It helps absorb sunlight"
+      },
+      "correct_answer": "It converts food into usable energy"
+   },
+   {
+      "q_no": 2,
+      "question": "What is the definition of cellular respiration?",
+      "options": {
+         "a": "The breakdown of glucose to release energy",
+         "b": "The absorption of oxygen in the lungs",
+         "c": "The creation of new cells from old ones",
+         "d": "The conversion of proteins into glucose"
+      },
+      "correct_answer": "The breakdown of glucose to release energy"
+   },
+   {
+      "q_no": 3,
+      "question": "What is the end product of glycolysis from one glucose molecule?",
+      "options": {
+         "a": "Two ethanol molecules",
+         "b": "Two pyruvate molecules",
+         "c": "Four ATP molecules",
+         "d": "One glucose molecule"
+      },
+      "correct_answer": "Two pyruvate molecules"
+   },
+   {
+      "q_no": 4,
+      "question": "Where does glycolysis occur in the cell?",
+      "options": {
+         "a": "In the mitochondria",
+         "b": "In the nucleus",
+         "c": "In the cytoplasm",
+         "d": "In the endoplasmic reticulum"
+      },
+      "correct_answer": "In the cytoplasm"
+   },
+   {
+      "q_no": 5,
+      "question": "What is the process by which glucose is converted into energy?",
+      "options": {
+         "a": "Glycolysis",
+         "b": "Fermentation",
+         "c": "Photosynthesis",
+         "d": "Respiration"
+      },
+      "correct_answer": "Respiration"
+   },
+   {
+      "q_no": 6,
+      "question": "What is the byproduct of glycolysis?",
+      "options": {
+         "a": "Two pyruvate molecules",
+         "b": "Four ATP molecules",
+         "c": "Glucose molecule",
+         "d": "Water molecule"
+      },
+      "correct_answer": "Water molecule"
+   },
+   {
+      "q_no": 7,
+      "question": "What is the role of mitochondria in cellular respiration?",
+      "options": {
+         "a": "To produce ATP for energy",
+         "b": "To generate proteins",
+         "c": "To synthesize nucleic acids",
+         "d": "To transport molecules across cell membranes"
+      },
+      "correct_answer": "To produce ATP for energy"
+   },
+   {
+      "q_no": 8,
+      "question": "What is the primary function of the citric acid cycle?",
+      "options": {
+         "a": "To synthesize glucose",
+         "b": "To break down glucose",
+         "c": "To generate ATP",
+         "d": "To repair DNA"
+      },
+      "correct_answer": "To break down glucose"
+   },
+   {
+      "q_no": 9,
+      "question": "What is the key difference between glycolysis and cellular respiration?",
+      "options": {
+         "a": "Glycolysis takes place in the cytoplasm",
+         "b": "Cellular respiration produces energy",
+         "c": "Glycolysis occurs after cellular respiration",
+         "d": "Both occur in the mitochondria"
+      },
+      "correct_answer": "Glycolysis takes place in the cytoplasm"
+   },
+   {
+      "q_no": 10,
+      "question": "What is the role of oxygen in cellular respiration?",
+      "options": {
+         "a": "It is a reactant",
+         "b": "It is an enzyme",
+         "c": "It is a product",
+         "d": "It helps to release energy"
+      },
+      "correct_answer": "It is a reactant"
+   },
+   {
+      "q_no": 11,
+      "question": "What is the main difference between cellular respiration and photosynthesis?",
+      "options": {
+         "a": "Cellular respiration occurs in the mitochondria",
+         "b": "Photosynthesis produces oxygen",
+         "c": "Glycolysis occurs after cellular respiration",
+         "d": "Both occur in the cytoplasm"
+      },
+      "correct_answer": "Cellular respiration occurs in the mitochondria"
+   },
+   {
+      "q_no": 12,
+      "question": "What is the final product of cellular respiration?",
+      "options": {
+         "a": "Four ATP molecules",
+         "b": "Two pyruvate molecules",
+         "c": "One glucose molecule",
+         "d": "Water molecule"
+      },
+      "correct_answer": "Four ATP molecules"
+   }
+]
+TIME for MCQ: 54.894 | ⚡⚡⚡ Token Speed: 8.671 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 518 | TOTAL Time: 61.34
+
+********************************************************************************
+Syllabus NUMBER 2
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Prompt: Syllabus for Cambridge Grade 10 Physics - Waves - Electromagnetic Spectrum:
+- Introduction to the principles of wave physics
+- Understanding wave properties and behaviors
+- Electromagnetic spectrum definition and types (optical, radio, microwaves, etc.)
+- Identifying key characteristics of electromagnetic radiation
+- Measuring electromagnetic radiation using instruments
+- Calculating energies associated with electromagnetic waves
+TIME for SYLLABUS: 6.328 | ⚡⚡⚡ Token Speed: 8.849 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 5... llama3.2:1b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the primary function of cellular respiration?",
+        "options": {
+            "a": "To synthesize new proteins",
+            "b": "To generate energy for the cell through redox reactions",
+            "c": "To break down food into glucose and oxygen",
+            "d": "To synthesize ATP from ADP"
+        },
+        "correct_answer": "To generate energy for the cell through redox reactions"
+    },
+    {
+        "q_no": 2,
+        "question": "What is the term for the process of breaking down glucose into pyruvate?",
+        "options": {
+            "a": "Glycolysis",
+            "b": "Citric acid cycle",
+            "c": "Electron transport chain",
+            "d": "Respiration"
+        },
+        "correct_answer": "Glycolysis"
+    },
+    {
+        "q_no": 3,
+        "question": "Where is glycolysis typically found in the cell?",
+        "options": {
+            "a": "In the mitochondria",
+            "b": "In the cytoplasm",
+            "c": "In the endoplasmic reticulum",
+            "d": "In the nucleus"
+        },
+        "correct_answer": "In the cytoplasm"
+    },
+    {
+        "q_no": 4,
+        "question": "What is the term for a wave that travels through a vacuum?",
+        "options": {
+            "a": "Mechanical wave",
+            "b": "Electromagnetic wave",
+            "c": "Optical wave",
+            "d": "Acoustic wave"
+        },
+        "correct_answer": "Electromagnetic wave"
+    },
+    {
+        "q_no": 5,
+        "question": "What is the term for a type of electromagnetic radiation with a wavelength of 10 microns?",
+        "options": {
+            "a": "Gamma radiation",
+            "b": "X-rays",
+            "c": "UV radiation",
+            "d": "Infrared radiation"
+        },
+        "correct_answer": "UV radiation"
+    },
+    {
+        "q_no": 6,
+        "question": "What is the term for a device used to measure the intensity of electromagnetic radiation?",
+        "options": {
+            "a": "Spectrometer",
+            "b": "Thermometer",
+            "c": "Oscilloscope",
+            "d": "Radiation meter"
+        },
+        "correct_answer": "Spectrometer"
+    }
+]
+Time Taken: 33.43 seconds | Tokens Produced: 237 | ⚡⚡⚡ Token Speed 7.089 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 6...
+
+Attempt 2 out of 5... llama3.2:1b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the primary function of a generator in physics?",
+        "options": {
+            "a": "To convert mechanical energy into electrical energy",
+            "b": "To transmit power over long distances without losing energy",
+            "c": "To store energy for later use",
+            "d": "To produce heat through friction"
+        },
+        "correct_answer": "To convert mechanical energy into electrical energy"
+    },
+    {
+        "q_no": 2,
+        "question": "What is the difference between a conductor and an insulator?",
+        "options": {
+            "a": "A conductor allows electricity to flow easily, while an insulator blocks it",
+            "b": "A conductor conducts heat, while an insulator retains heat",
+            "c": "A conductor transfers energy quickly, while an insulator slows it down",
+            "d": "A conductor is a good conductor of electricity, while an insulator is a poor one"
+        },
+        "correct_answer": "A conductor allows electricity to flow easily"
+    },
+    {
+        "q_no": 3,
+        "question": "What is the name of the phenomenon in which electromagnetic waves are reflected off a surface?",
+        "options": {
+            "a": "Reflection",
+            "b": "Refraction",
+            "c": "Transmission",
+            "d": "Diffraction"
+        },
+        "correct_answer": "Reflection"
+    },
+    {
+        "q_no": 4,
+        "question": "What is the unit of measurement for energy transferred by electromagnetic waves?",
+        "options": {
+            "a": "Joule",
+            "b": "Kilojoule",
+            "c": "Megajoule",
+            "d": "Gigajoule"
+        },
+        "correct_answer": "Joule"
+    },
+    {
+        "q_no": 5,
+        "question": "Which of the following is an example of electromagnetic radiation?",
+        "options": {
+            "a": "Radio waves",
+            "b": "Infrared light",
+            "c": "Visible light",
+            "d": "Ultraviolet light"
+        },
+        "correct_answer": "Radio waves"
+    },
+    {
+        "q_no": 6,
+        "question": "What is the primary application of electromagnetic radiation in medical imaging?",
+        "options": {
+            "a": "To treat diseases using radiation",
+            "b": "To diagnose conditions using images",
+            "c": "To sterilize equipment using heat",
+            "d": "To generate electricity using generators"
+        },
+        "correct_answer": "To diagnose conditions using images"
+    }
+]
+Time Taken: 26.23 seconds | Tokens Produced: 282 | ⚡⚡⚡ Token Speed 10.753 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 6...
+⚠️ Warning: Expected 12 MCQs but got 6...
+
+Attempt 3 out of 5... llama3.2:1b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What are the two main stages in cellular respiration?",
+        "options": {
+            "a": "Glucose breakdown and oxygen absorption",
+            "b": "Protein synthesis and cell division",
+            "c": "Carbon dioxide release and ATP production",
+            "d": "Nitrogen fixation and amino acid synthesis"
+        },
+        "correct_answer": "Glucose breakdown and oxygen absorption"
+    },
+    {
+        "q_no": 2,
+        "question": "Which of the following is a primary function of glycolysis?",
+        "options": {
+            "a": "To produce ATP from glucose",
+            "b": "To synthesize proteins",
+            "c": "To break down complex molecules into simpler ones",
+            "d": "To generate heat in the cell"
+        },
+        "correct_answer": "To produce ATP from glucose"
+    },
+    {
+        "q_no": 3,
+        "question": "Which type of electromagnetic radiation has a wavelength shorter than 400 nanometers?",
+        "options": {
+            "a": "Radio waves",
+            "b": "Infrared radiation",
+            "c": "Visible light",
+            "d": "Ultraviolet radiation"
+        },
+        "correct_answer": "Visible light"
+    },
+    {
+        "q_no": 4,
+        "question": "What is the term for the process by which electromagnetic waves are generated?",
+        "options": {
+            "a": "Decomposition of electromagnetic radiation",
+            "b": "Conversion of electrical energy into electromagnetic radiation",
+            "c": "Transmission of electromagnetic waves through a medium",
+            "d": "Absorption of electromagnetic radiation"
+        },
+        "correct_answer": "Conversion of electrical energy into electromagnetic radiation"
+    }
+]
+Time Taken: 17.88 seconds | Tokens Produced: 191 | ⚡⚡⚡ Token Speed 10.680 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 6...
+⚠️ Warning: Expected 12 MCQs but got 6...
+⚠️ Warning: Expected 12 MCQs but got 4...
+
+Attempt 4 out of 5... llama3.2:1b

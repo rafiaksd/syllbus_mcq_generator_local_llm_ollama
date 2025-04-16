@@ -1,0 +1,859 @@
+********************************************************************************
+Syllabus NUMBER 1
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Edexcel Grade 12 Mathematics - Calculus - Differentiation:
+- Introductions to calculus concepts
+- Functions and their representations
+- Limits, derivatives of basic functions
+- Tangents and slopes of curves
+- Derivatives as rates of change
+- Applications of differentiation in real-world scenarios
+- Integration techniques
+- The Fundamental Theorem of Calculus
+- Improper integrals
+- Differential equations
+- Geometric applications of calculus
+TIME for SYLLABUS: 4.094 | ⚡⚡⚡ Token Speed: 15.878 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 22
+Attempt 1 out of 1...
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the definition of a function?",
+        "options": [
+            "A function is a rule that assigns to each input exactly one output.",
+            "B. A function is a set of ordered pairs where every element in the domain has exactly one output associated with it.",
+            "C. A function is a relation where each element in the first set (domain) corresponds uniquely and exclusively to elements in the second set (range).",
+            "D. A function is an operation that takes two inputs and produces only one output."
+        ],
+        "correct_answer": "A function is a rule that assigns to each input exactly one output.",
+        "options_array": [
+            [a, b],
+            [c, d]
+        ]
+    },
+    {
+        "q_no": 2,
+        "question": "What is the difference between a function and an equation?",
+        "options": [
+            "A. A function is a relation where each element in the domain has exactly one output.",
+            "B. An equation involves numbers, variables, and operators while a function involves only two variables.",
+            "C. Functions can be visualized using points on a graph, whereas equations do not.",
+            "D. Functions are used to describe relationships between variables, while equations represent equality."
+        ],
+        "correct_answer": "A function is a relation where each element in the domain has exactly one output.",
+        "options_array": [
+            [a, b],
+            [c, d]
+        ]
+    },
+    {
+        "q_no": 3,
+        "question": "What is the difference between linear and non-linear functions?",
+        "options": [
+            "A. Linear functions have a slope of zero.",
+            "B. Non-linear functions do not involve arithmetic operations."
+            "C. The graph of a linear function is always straight line, while that of a nonlinear function is curved.",
+            "D. A linear function is used to represent points moving in a straight path, whereas a non-linear function can describe any relationship between variables."
+        ],
+        "correct_answer": "The graph of a linear function is always straight line, while that of a nonlinear function is curved.",
+        "options_array": [
+            [a, b],
+            [c, d]
+        ]
+    },
+    {
+        "q_no": 4,
+        "question": "What is the definition of a derivative?",
+        "options": [
+            "A. A value where the graph of the function is concave up.",
+            "B. The slope of a tangent line at any point on a curve.",
+            "C. The rate of change of a function at a specific value of its input.",
+            "D. A mathematical operation that involves both variables."
+        ],
+        "correct_answer": "The slope of a tangent line at any point on a curve.",
+        "options_array": [
+            [a, b],
+            [c, d]
+        ]
+    }
+]
+Time Taken: 17.06 seconds | Tokens Produced: 399 | ⚡⚡⚡ Token Speed 23.392 tokens/sec
+⚠️ Error: Invalid JSON format...
+
+👏👏👏  FINAL MCQ  👏👏👏
+{
+   "error": "\u274c Error: Failed to generate valid MCQs after 1 attempts.",
+   "attempts": 1
+}
+TIME for MCQ: 0 | ⚡⚡⚡ Token Speed: 0 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 65 | TOTAL Time: 21.16
+
+********************************************************************************
+Syllabus NUMBER 2
+
+********************************************************************************
+Syllabus NUMBER 1
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Cambridge Edexcel Grade 12 Mathematics - Calculus - Differentiation:
+- Introduction to differentiation as a tool for solving problems
+- Understanding functions and their graphs
+- Defining the derivative of a function
+- Applying derivatives in various contexts (maxima, minima)
+- Solving word problems involving derivatives
+
+Do not deviate from this structure. Do not add any titles, headings, or explanations.
+TIME for SYLLABUS: 3.924 | ⚡⚡⚡ Token Speed: 15.802 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 10
+Attempt 1 out of 1...
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "Definition and importance of differential calculus",
+        "options": [
+            "The study of change and its rate of change in mathematics.",
+            "The process of finding the slope of a curve at any point.",
+            "The use of derivatives to describe changes in functions."
+        ],
+        "correct_answer": "The study of change and its rate of change in mathematics."
+    },
+    {
+        "q_no": 2,
+        "question": "What is the meaning of differentiating a function?",
+        "options": [
+            "To find the slope of a curve at any point.",
+            "To find the derivative of a function.",
+            "To represent changes in functions by their derivatives."
+        ],
+        "correct_answer": "To find the derivative of a function."
+    },
+    {
+        "q_no": 3,
+        "question": "What is the concept of the derivative?",
+        "options": [
+            "The process of finding the slope of a curve at any point.",
+            "To represent changes in functions by their derivatives.",
+            "The study of change and its rate of change in mathematics."
+        ],
+        "correct_answer": "The process of finding the slope of a curve at any point."
+    },
+    {
+        "q_no": 4,
+        "question": "Where does differentiation occur?",
+        "options": [
+            "In the domain of real numbers",
+            "In the range of real numbers",
+            "In the x-axis and y-axis",
+            "On the coordinate plane"
+        ],
+        "correct_answer": "On the coordinate plane"
+    }
+]
+Time Taken: 11.68 seconds | Tokens Produced: 206 | ⚡⚡⚡ Token Speed 17.630 tokens/sec
+⚠️ Warning: Expected 10 MCQs but got 4...
+
+⚠️ Warning: After 1 attempts returning longest valid response.
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   {
+      "q_no": 1,
+      "question": "Definition and importance of differential calculus",
+      "options": [
+         "The study of change and its rate of change in mathematics.",
+         "The process of finding the slope of a curve at any point.",
+         "The use of derivatives to describe changes in functions."
+      ],
+      "correct_answer": "The study of change and its rate of change in mathematics."
+   },
+   {
+      "q_no": 2,
+      "question": "What is the meaning of differentiating a function?",
+      "options": [
+         "To find the slope of a curve at any point.",
+         "To find the derivative of a function.",
+         "To represent changes in functions by their derivatives."
+      ],
+      "correct_answer": "To find the derivative of a function."
+   },
+   {
+      "q_no": 3,
+      "question": "What is the concept of the derivative?",
+      "options": [
+         "The process of finding the slope of a curve at any point.",
+         "To represent changes in functions by their derivatives.",
+         "The study of change and its rate of change in mathematics."
+      ],
+      "correct_answer": "The process of finding the slope of a curve at any point."
+   },
+   {
+      "q_no": 4,
+      "question": "Where does differentiation occur?",
+      "options": [
+         "In the domain of real numbers",
+         "In the range of real numbers",
+         "In the x-axis and y-axis",
+         "On the coordinate plane"
+      ],
+      "correct_answer": "On the coordinate plane"
+   }
+]
+TIME for MCQ: 11.684 | ⚡⚡⚡ Token Speed: 17.631 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 268 | TOTAL Time: 15.62
+
+********************************************************************************
+Syllabus NUMBER 2
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Cambridge Grade 10 Physics - Waves - Electromagnetic Spectrum:
+
+- Definition of waves and electromagnetic spectrum
+- Introduction to wave motion
+- Understanding frequency, wavelength, and speed
+- Observing electromagnetic radiation through a telescope or spectroscope
+- Visualizing light propagation in different media
+- Analyzing color spectra and their patterns
+- Solving problems related to the electromagnetic spectrum
+- Interpreting data from various sources on the electromagnetic spectrum
+TIME for SYLLABUS: 4.062 | ⚡⚡⚡ Token Speed: 17.233 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 16
+Attempt 1 out of 1...
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "Why is cellular respiration important for living organisms?",
+        "options": [
+            "It produces glucose for energy storage",
+            "It converts food into usable energy",
+            "It allows movement in cells",
+            "It helps absorb sunlight"
+        ],
+        "correct_answer": "It converts food into usable energy"
+    },
+    {
+        "q_no": 2,
+        "question": "What is the definition of cellular respiration?",
+        "options": [
+            "The breakdown of glucose to release energy",
+            "The absorption of oxygen in the lungs",
+            "The creation of new cells from old ones",
+            "The conversion of proteins into glucose"
+        ],
+        "correct_answer": "The breakdown of glucose to release energy"
+    },
+    {
+        "q_no": 3,
+        "question": "What is the end product of glycolysis from one glucose molecule?",
+        "options": [
+            "Two ethanol molecules",
+            "Two pyruvate molecules",
+            "Four ATP molecules",
+            "One glucose molecule"
+        ],
+        "correct_answer": "Two pyruvate molecules"
+    },
+    {
+        "q_no": 4,
+        "question": "Where does glycolysis occur in the cell?",
+        "options": [
+            "In the mitochondria",
+            "In the nucleus",
+            "In the cytoplasm",
+            "In the endoplasmic reticulum"
+        ],
+        "correct_answer": "In the cytoplasm"
+    }
+]
+Time Taken: 11.97 seconds | Tokens Produced: 166 | ⚡⚡⚡ Token Speed 13.873 tokens/sec
+⚠️ Warning: Expected 16 MCQs but got 4...
+
+⚠️ Warning: After 1 attempts returning longest valid response.
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   {
+      "q_no": 1,
+      "question": "Why is cellular respiration important for living organisms?",
+      "options": [
+         "It produces glucose for energy storage",
+         "It converts food into usable energy",
+         "It allows movement in cells",
+         "It helps absorb sunlight"
+      ],
+      "correct_answer": "It converts food into usable energy"
+   },
+   {
+      "q_no": 2,
+      "question": "What is the definition of cellular respiration?",
+      "options": [
+         "The breakdown of glucose to release energy",
+         "The absorption of oxygen in the lungs",
+         "The creation of new cells from old ones",
+         "The conversion of proteins into glucose"
+      ],
+      "correct_answer": "The breakdown of glucose to release energy"
+   },
+   {
+      "q_no": 3,
+      "question": "What is the end product of glycolysis from one glucose molecule?",
+      "options": [
+         "Two ethanol molecules",
+         "Two pyruvate molecules",
+         "Four ATP molecules",
+         "One glucose molecule"
+      ],
+      "correct_answer": "Two pyruvate molecules"
+   },
+   {
+      "q_no": 4,
+      "question": "Where does glycolysis occur in the cell?",
+      "options": [
+         "In the mitochondria",
+         "In the nucleus",
+         "In the cytoplasm",
+         "In the endoplasmic reticulum"
+      ],
+      "correct_answer": "In the cytoplasm"
+   }
+]
+TIME for MCQ: 11.965 | ⚡⚡⚡ Token Speed: 13.874 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 236 | TOTAL Time: 16.04
+
+********************************************************************************
+
+Total Time Taken: 31.66, Total Tokens Generated: 504, Avg Total Token Gen Speed: 15.92 tokens/sec
+Total ERROR: 2 | Total Syllabi: 3 | MCQ Attempt per Syllabus: 1
+********************************************************************************
+Syllabus NUMBER 1
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Edexcel Grade 12 Mathematics - Calculus - Differentiation:
+- Introduction to derivatives and their applications in mathematics
+- Basic rules of differentiation
+- Quotient rule and chain rule
+- Implicit differentiation
+- Differentiating polynomial functions
+- Applications of differentiation, including maxima/minima, tangents, and areas under curves
+TIME for SYLLABUS: 3.581 | ⚡⚡⚡ Token Speed: 13.404 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 2...
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the definition of a derivative?",
+        "options": ["It's an instantaneous rate of change", "It's related to the tangent of the function at a point"],
+        "correct_answer": "It's an instantaneous rate of change"
+    },
+    {
+        "q_no": 2,
+        "question": "What is the quotient rule in mathematics?",
+        "options": ["The formula for finding the derivative of a fraction"], 
+        "correct_answer": "The formula for finding the derivative of a fraction"
+    },
+    {
+        "q_no": 3,
+        "question": "Which of the following expressions represents \(y\) as a function of \(x\) in this graph?",
+        "options": ["\(y = x^2\)", " \(y = \ln(x)\)", " \(y = x + 1\) ", " \(y = x - 3\)"],
+        "correct_answer": "The second one: \(y = \ln(x)\)"
+    },
+    {
+        "q_no": 4,
+        "question": "What is the formula for differentiating a polynomial function?",
+        "options": ["\(y = ax^2 + bx + c\)", " \(y = (x+a)(x+b)\)"],
+        "correct_answer": "The sum rule"
+    }
+]
+Time Taken: 10.51 seconds | Tokens Produced: 151 | ⚡⚡⚡ Token Speed 14.362 tokens/sec
+⚠️ Error: Invalid JSON format...
+
+Attempt 2 out of 2...
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "Define and explain the concept of a derivative.",
+        "options": ["A. The sum of two functions.", "B. A measure of change in a function over an interval.", "C. The area under the curve.", "D. A number that represents velocity at any point in time"],
+        "correct_answer": "B. A measure of change in a function over an interval."
+    },
+    {
+        "q_no": 2,
+        "question": "Calculate the derivative of \( f(x) = x^3 + 4x - 7 \).",
+        "options": ["A. (3)(x+1)", "B. (x+1)^2", "C. 3x^2 + 4", "D. 3x + 3"],
+        "correct_answer": "C. 3x^2 + 4"
+    },
+    {
+        "q_no": 3,
+        "question": "What is the formula for implicit differentiation?",
+        "options": ["A. (f(x))^a", "B. (f(x))^b", "C. f(x) - g(x)", "D. f(x) + g(x)"],
+        "correct_answer": "A. (f(x))^a"
+    },
+    {
+        "q_no": 4,
+        "question": "Find the derivative of \( y = \sin(2x) \).",
+        "options": ["A. 2\cos(2x)", "B. 2\sin(2x)", "C. 2\cos(x)", "D. 2\sin(x)"],
+        "correct_answer": "B. 2\sin(2x)"
+    }
+]
+Time Taken: 8.29 seconds | Tokens Produced: 154 | ⚡⚡⚡ Token Speed 18.578 tokens/sec
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+
+👏👏👏  FINAL MCQ  👏👏👏
+{
+   "error": "\u274c Error: Failed to generate valid MCQs after 2 attempts.",
+   "attempts": 2
+}
+TIME for MCQ: 0 | ⚡⚡⚡ Token Speed: 0 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 48 | TOTAL Time: 22.39
+
+********************************************************************************
+Syllabus NUMBER 2
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Cambridge Grade 10 Mathematics - Waves - Electromagnetic Spectrum:
+- Introduction to the electromagnetic spectrum
+- Understanding the different types of waves
+- Differentiating between visible light and infrared
+- Exploring wave properties in various media
+- Solving problems related to the electromagnetic spectrum
+TIME for SYLLABUS: 3.591 | ⚡⚡⚡ Token Speed: 12.81 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 10
+Attempt 1 out of 2...
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the difference between visible light and ultraviolet rays?",
+        "options": [
+            "Visible light includes colors of red, orange, yellow, green, blue, indigo, and violet.",
+            "Ultraviolet rays are also known as UV light or UV radiation."
+        ],
+        "correct_answer": "Ultraviolet rays are also known as UV light or UV radiation.",
+        "question": "When a wave travels through air, what type of waves does it create?",
+        "options": [
+            "Sound waves are produced by vibrating particles in liquids and gases.",
+            "A wave created when a wave moves through air is called an infrasound wave."
+        ],
+        "correct_answer": "A wave created when a wave moves through air is called an infrasound wave.",
+        "question": "What property of matter causes it to vibrate?",
+        "options": [
+            "The presence of atoms in matter leads to the existence of molecular vibrations.",
+            "Matter has a definite shape and size."
+        ],
+        "correct_answer": "Matter has a definite shape and size.",
+        "question": "In which part of an electromagnetic wave is the energy maximum?",
+        "options": [
+            "At its peak, the energy level is maximized.",
+            "The intensity of an electromagnetic wave increases with time as it propagates through space."
+        ],
+        "correct_answer": "At its peak, the energy level is maximized.",
+        "question": "What is meant by phase velocity?",
+        "options": [
+            "A measure of how fast a wave travels in water.",
+            "The speed at which an electromagnetic wave moves from one point to another."
+        ],
+        "correct_answer": "The speed at which an electromagnetic wave moves from one point to another.",
+        "question": "What is the difference between light and radio waves?",
+        "options": [
+            "Light can travel through matter.",
+            "Radio waves are used in mobile phones, while X-rays are used in medicine."
+        ],
+        "correct_answer": "Light can travel through matter.",
+        "question": "What are some examples of electromagnetic radiation?",
+        "options": [
+            "Visible light",
+            "Infrared radiation",
+            "X-rays",
+            "Radio waves"
+        ],
+        "correct_answer": "Visible light",
+        "q_no": 2,
+        "question": "Where does electromagnetic wave propagation begin?",
+        "options": [
+            "At the source of an electric current.",
+            "At the destination of a radio signal."
+        ],
+        "correct_answer": "At the source of an electric current.",
+        "question": "What is the speed of electromagnetic waves in air at 20°C?",
+        "options": [
+            "The speed of light in vacuum",
+            "In air, it varies from approximately 3 × 10^8 to 1.07×10^8 meters per second.",
+            "The speed of electromagnetic waves in water is faster than in air."
+        ],
+        "correct_answer": "In air, it varies from approximately 3 × 10^8 to 1.07×10^8 meters per second.",
+        "q_no": 3,
+        "question": "What are some common examples of electromagnetic waves?",
+        "options": [
+            "Visible light",
+            "Radio waves",
+            "X-rays",
+            "Infrared"
+        ],
+        "correct_answer": "Visible light",
+        "question": "At what frequency is X-rays emitted?",
+        "options": [
+            "The speed of X-ray radiation.",
+            "X-rays are emitted at frequencies ranging from approximately 1.5 to 3×10^14 Hz.",
+            "When an electron moves through electric and magnetic fields."
+        ],
+        "correct_answer": "X-rays are emitted at frequencies ranging from approximately 1.5 to 3×10^14 Hz."
+    }
+]
+Time Taken: 19.65 seconds | Tokens Produced: 474 | ⚡⚡⚡ Token Speed 24.118 tokens/sec
+⚠️ Warning: Expected 10 MCQs but got 1...
+
+Attempt 2 out of 2...
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 5,
+        "question": "What is the name of the electromagnetic spectrum?",
+        "options": ["Visible Light", "Infrared", "Radio Waves", "X-rays"],
+        "correct_answer": "Electromagnetic Spectrum"
+    },
+    {
+        "q_no": 6,
+        "question": "Differentiate between visible light and infrared",
+        "options": [
+            "Visible light is blue in color.",
+            "Visible light has a shorter wavelength.",
+            "Infrared is longer wavelength than visible light.",
+            "Visible light travels faster through air.",
+            "None of the above."
+        ],
+        "correct_answer": "Visible light has a shorter wavelength"
+    },
+    {
+        "q_no": 7,
+        "question": "What are some properties of electromagnetic waves?",
+        "options": [
+            "Speed, frequency, polarization",
+            "Color, temperature, energy",
+            "Frequency, amplitude, direction",
+            "Energy, brightness, color",
+            "None of the above."
+        ],
+        "correct_answer": "Color, frequency, energy"
+    },
+    {
+        "q_no": 8,
+        "question": "What is an example of a wave?",
+        "options": ["a) A wave on a guitar string", "b) An electromagnetic wave", "c) A light source", "d) A river"],
+        "correct_answer": "an) An electromagnetic wave"
+    },
+    {
+        "q_no": 9,
+        "question": "What is an example of a light source?",
+        "options": ["a) A car", "b) A ball", "c) A rock", "d) An electron"],
+        "correct_answer": "b) A ball"
+    }
+]
+Time Taken: 8.18 seconds | Tokens Produced: 178 | ⚡⚡⚡ Token Speed 21.752 tokens/sec
+⚠️ Warning: Expected 10 MCQs but got 1...
+⚠️ Warning: Expected 10 MCQs but got 5...
+
+⚠️ Warning: After 2 attempts returning longest valid response.
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   {
+      "q_no": 5,
+      "question": "What is the name of the electromagnetic spectrum?",
+      "options": [
+         "Visible Light",
+         "Infrared",
+         "Radio Waves",
+         "X-rays"
+      ],
+      "correct_answer": "Electromagnetic Spectrum"
+   },
+   {
+      "q_no": 6,
+      "question": "Differentiate between visible light and infrared",
+      "options": [
+         "Visible light is blue in color.",
+         "Visible light has a shorter wavelength.",
+         "Infrared is longer wavelength than visible light.",
+         "Visible light travels faster through air.",
+         "None of the above."
+      ],
+      "correct_answer": "Visible light has a shorter wavelength"
+   },
+   {
+      "q_no": 7,
+      "question": "What are some properties of electromagnetic waves?",
+      "options": [
+         "Speed, frequency, polarization",
+         "Color, temperature, energy",
+         "Frequency, amplitude, direction",
+         "Energy, brightness, color",
+         "None of the above."
+      ],
+      "correct_answer": "Color, frequency, energy"
+   },
+   {
+      "q_no": 8,
+      "question": "What is an example of a wave?",
+      "options": [
+         "a) A wave on a guitar string",
+         "b) An electromagnetic wave",
+         "c) A light source",
+         "d) A river"
+      ],
+      "correct_answer": "an) An electromagnetic wave"
+   },
+   {
+      "q_no": 9,
+      "question": "What is an example of a light source?",
+      "options": [
+         "a) A car",
+         "b) A ball",
+         "c) A rock",
+         "d) An electron"
+      ],
+      "correct_answer": "b) A ball"
+   }
+]
+TIME for MCQ: 8.183 | ⚡⚡⚡ Token Speed: 21.753 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 224 | TOTAL Time: 31.44
+
+********************************************************************************
+Syllabus NUMBER 3
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for CBSE Grade 12 Chemistry - Organic Chemistry - Alcohols, Phenols, and Ethers:
+- Introduction to the concept of alcohols, phenols, and ethers
+- Structure and properties of alcohols, phenols, and ethers
+- Identification and preparation of alcohols, phenols, and ethers
+- Preparation of esters from alcohols and phenols
+- Preparation of ethers using reactions with alcohols and phenols
+- Solubility and physical properties of alcohols, phenols, and ethers
+- Conjugate acids and bases in organic chemistry
+- Reaction mechanisms for the formation of alcohols, phenols, and ethers
+
+Do not deviate from this structure. Do not add any titles, headings, or explanations.
+
+Please let me know if you have any other requests!
+TIME for SYLLABUS: 5.746 | ⚡⚡⚡ Token Speed: 19.665 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 16
+Attempt 1 out of 2...
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 5,
+        "question": "What is the formula of ethanol?",
+        "options": ["CH4O", "C2H6O", "C3H8O", "C4H10O"],
+        "correct_answer": "CH4O"
+    },
+    {
+        "q_no": 6,
+        "question": "What is the molecular formula of benzene?",
+        "options": ["C6H6", "C7H8", "C8H10", "C9H12"],
+        "correct_answer": "C7H8"
+    },
+    {
+        "q_no": 7,
+        "question": "What is the chemical formula of ethane?",
+        "options": ["C2H6", "C3H6", "C4H6", "C5H6"],
+        "correct_answer": "C2H6"
+    },
+    {
+        "q_no": 8,
+        "question": "What is the chemical formula of benzene?",
+        "options": ["C2H6", "C3H8", "C4H10", "C5H10"],
+        "correct_answer": "C6H14"
+    },
+    {
+        "q_no": 9,
+        "question": "What is the chemical formula of ethyl alcohol?",
+        "options": ["C2H3O2-", "C3H8O2-", "C4H10O2-"],
+        "correct_answer": "C2H6O2-"
+    },
+    {
+        "q_no": 10,
+        "question": "What is the chemical formula of ethanolamine?",
+        "options": ["CH4O", "C2H5OH", "C3H8O2-"],
+        "correct_answer": "C3H8O2-"
+    },
+    {
+        "q_no": 11,
+        "question": "What is the molecular formula of ethyl acetate?",
+        "options": ["C6H7O2-", "C7H9O2-", "C8H10O2-"],
+        "correct_answer": "C7H8O2-"
+    },
+    {
+        "q_no": 12,
+        "question": "What is the molecular formula of acetone?",
+        "options": ["CH3COOH", "C3H7OH", "C4H9OH"],
+        "correct_answer": "C3H7OH"
+    }
+]
+Time Taken: 15.65 seconds | Tokens Produced: 153 | ⚡⚡⚡ Token Speed 9.776 tokens/sec
+⚠️ Warning: Expected 16 MCQs but got 8...
+
+Attempt 2 out of 2...
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "Why is alcohols, phenols, and ethers important for living organisms?",
+        "options": [
+            "It produces glucose for energy storage",
+            "It converts food into usable energy",
+            "It allows movement in cells",
+            "It helps absorb sunlight"
+        ],
+        "correct_answer": "It produces glucose for energy storage"
+    },
+    {
+        "q_no": 2,
+        "question": "What is the definition of alcohols?",
+        "options": [
+            "The breakdown of glucose to release energy",
+            "The absorption of oxygen in the lungs",
+            "The creation of new cells from old ones",
+            "The conversion of proteins into glucose"
+        ],
+        "correct_answer": "The breakdown of glucose to release energy"
+    },
+    {
+        "q_no": 3,
+        "question": "What is the end product of phenols in alcohols?",
+        "options": [
+            "Two ethanol molecules",
+            "Two pyruvate molecules",
+            "Four ATP molecules",
+            "One glucose molecule"
+        ],
+        "correct_answer": "Two pyruvate molecules"
+    },
+    {
+        "q_no": 4,
+        "question": "Where do phenols and ethers occur in the cell?",
+        "options": [
+            "In the mitochondria",
+            "In the nucleus",
+            "In the cytoplasm",
+            "In the endoplasmic reticulum"
+        ],
+        "correct_answer": "In the cytoplasm"
+    }
+]
+Time Taken: 7.97 seconds | Tokens Produced: 167 | ⚡⚡⚡ Token Speed 20.951 tokens/sec
+⚠️ Warning: Expected 16 MCQs but got 8...
+⚠️ Warning: Expected 16 MCQs but got 4...
+
+⚠️ Warning: After 2 attempts returning longest valid response.
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   {
+      "q_no": 5,
+      "question": "What is the formula of ethanol?",
+      "options": [
+         "CH4O",
+         "C2H6O",
+         "C3H8O",
+         "C4H10O"
+      ],
+      "correct_answer": "CH4O"
+   },
+   {
+      "q_no": 6,
+      "question": "What is the molecular formula of benzene?",
+      "options": [
+         "C6H6",
+         "C7H8",
+         "C8H10",
+         "C9H12"
+      ],
+      "correct_answer": "C7H8"
+   },
+   {
+      "q_no": 7,
+      "question": "What is the chemical formula of ethane?",
+      "options": [
+         "C2H6",
+         "C3H6",
+         "C4H6",
+         "C5H6"
+      ],
+      "correct_answer": "C2H6"
+   },
+   {
+      "q_no": 8,
+      "question": "What is the chemical formula of benzene?",
+      "options": [
+         "C2H6",
+         "C3H8",
+         "C4H10",
+         "C5H10"
+      ],
+      "correct_answer": "C6H14"
+   },
+   {
+      "q_no": 9,
+      "question": "What is the chemical formula of ethyl alcohol?",
+      "options": [
+         "C2H3O2-",
+         "C3H8O2-",
+         "C4H10O2-"
+      ],
+      "correct_answer": "C2H6O2-"
+   },
+   {
+      "q_no": 10,
+      "question": "What is the chemical formula of ethanolamine?",
+      "options": [
+         "CH4O",
+         "C2H5OH",
+         "C3H8O2-"
+      ],
+      "correct_answer": "C3H8O2-"
+   },
+   {
+      "q_no": 11,
+      "question": "What is the molecular formula of ethyl acetate?",
+      "options": [
+         "C6H7O2-",
+         "C7H9O2-",
+         "C8H10O2-"
+      ],
+      "correct_answer": "C7H8O2-"
+   },
+   {
+      "q_no": 12,
+      "question": "What is the molecular formula of acetone?",
+      "options": [
+         "CH3COOH",
+         "C3H7OH",
+         "C4H9OH"
+      ],
+      "correct_answer": "C3H7OH"
+   }
+]
+TIME for MCQ: 15.65 | ⚡⚡⚡ Token Speed: 9.776 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 266 | TOTAL Time: 29.38
+
+********************************************************************************
+
+Total Time Taken: 83.23, Total Tokens Generated: 538, Avg Total Token Gen Speed: 6.46 tokens/sec
+Total ERROR: 6 
+Total Syllabi: 3 | MCQ Attempt per Syllabus: 2

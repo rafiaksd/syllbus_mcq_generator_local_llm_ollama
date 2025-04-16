@@ -1,0 +1,700 @@
+********************************************************************************
+Syllabus NUMBER 1
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Edexcel Grade 12 Mathematics - Calculus - Differentiation:
+- Introduction to differentiation rules (e.g. Power Rule, Product Rule)
+- Finding derivatives of basic functions (e.g. sin(x), cos(x))
+- Differentiating polynomial and rational functions
+- Applying differentiation rules to real-world problems
+- Using the Chain Rule and other techniques in differentiation
+- Solving optimization and related rate problems
+TIME for SYLLABUS: 14.633 | ⚡⚡⚡ Token Speed: 4.032 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 5... llama3.2:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "Why is cellular respiration important for living organisms?",
+        "options": {
+            "a": "It produces glucose for energy storage",
+            "b": "It converts food into usable energy",
+            "c": "It allows movement in cells",
+            "d": "It helps absorb sunlight"
+        },
+        "correct_answer": "It converts food into usable energy"
+    },
+    {
+        "q_no": 2,
+        "question": "What is the definition of cellular respiration?",
+        "options": {
+            "a": "The breakdown of glucose to release energy",
+            "b": "The absorption of oxygen in the lungs",
+            "c": "The creation of new cells from old ones",
+            "d": "The conversion of proteins into glucose"
+        },
+        "correct_answer": "The breakdown of glucose to release energy"
+    },
+    {
+        "q_no": 3,
+        "question": "What is the end product of glycolysis from one glucose molecule?",
+        "options": {
+            "a": "Two ethanol molecules",
+            "b": "Two pyruvate molecules",
+            "c": "Four ATP molecules",
+            "d": "One glucose molecule"
+        },
+        "correct_answer": "Two pyruvate molecules"
+    },
+    {
+        "q_no": 4,
+        "question": "Where does glycolysis occur in the cell?",
+        "options": {
+            "a": "In the mitochondria",
+            "b": "In the nucleus",
+            "c": "In the cytoplasm",
+            "d": "In the endoplasmic reticulum"
+        },
+        "correct_answer": "In the cytoplasm"
+    }
+]
+Time Taken: 47.00 seconds | Tokens Produced: 180 | ⚡⚡⚡ Token Speed 3.830 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 4...
+
+Attempt 2 out of 5... llama3.2:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the Power Rule of differentiation?",
+        "options": {
+            "a": "If f(x) = x^n, then f'(x) = n*x^(n-1)",
+            "b": "If f(x) = x^n, then f'(x) = (n+1)*x^((n+1)-1)",
+            "c": "If f(x) = x^n, then f'(x) = 0*x^((n-1))",
+            "d": "If f(x) = x^n, then f'(x) = n*x^(n+1)"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 2,
+        "question": "Which of the following is a basic function that can be differentiated?",
+        "options": {
+            "a": "x^2",
+            "b": "sin(x)",
+            "c": "e^x",
+            "d": "cos(3x)"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "q_no": 3,
+        "question": "What is the derivative of the function f(x) = x^2 * sin(x)?",
+        "options": {
+            "a": "(x*2*sin(x)) + (sin(x)*x)",
+            "b": "(x*2*x*cos(x)) - (sin(x)*x)",
+            "c": "(x*2*sin(x)) + (cos(x)*x^2)",
+            "d": "(x*2*x*cos(x)) + (sin(x)*x)"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 4,
+        "question": "How do you differentiate the polynomial function f(x) = x^3 + 2x^2 - 5?",
+        "options": {
+            "a": "(3*x^2) + (4*x)",
+            "b": "(3*x^2) + (2*x)",
+            "c": "(3*x^2) + (6*x)",
+            "d": "(3*x^2) + (-2*x)"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 5,
+        "question": "What is the derivative of the rational function f(x) = (3x+1)/(x-1)?",
+        "options": {
+            "a": "(6x)/((x-1)^2)",
+            "b": "((3x+1)*x)/((x-1)^2)",
+            "c": "(12x)/(x^2 - 2x + 1)",
+            "d": "(12x+9*x*2)/(x^2 - 2x + 1)"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "q_no": 6,
+        "question": "How do you apply the Chain Rule to differentiate f(x) = g(h(x))?",
+        "options": {
+            "a": "g'(h(x))*h'(x)",
+            "b": "g(h(x))*h'(x)",
+            "c": "(g'(h(x))*g'(x)*h'(x))/2",
+            "d": "g'(h(x))*(1*h'(x))"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 7,
+        "question": "What is the derivative of the function f(x) = (3x^2 + x)^2 * e^(-x)?",
+        "options": {
+            "a": "(9*x^4+6*x^3+x^2)*e^(-x)",
+            "b": "((3x^2+x)*(18x^2+6x+1))*e^(-x)",
+            "c": "((3x^2+x)^2 * (18x^2+6x+1))",
+            "d": "(9*x^4+6*x^3+x^2)*e^(x)"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "q_no": 8,
+        "question": "What is the derivative of the function f(x) = (cos(3x))^(-1/2)?",
+        "options": {
+            "a": "-sin(3x)/2",
+            "b": "-sin(3x)*2",
+            "c": "(3sin(3x))*-1/2",
+            "d": "-(3sin(3x))/sqrt(4)"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "q_no": 9,
+        "question": "How do you differentiate the function f(x) = (e^x)^4?",
+        "options": {
+            "a": "4*e^(4*x)",
+            "b": "4*4*e^(x*3)",
+            "c": "(4/e^x)*e^(x*4)",
+            "d": "4*(e^x)*e^((x-1)"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 10,
+        "question": "What is the derivative of the function f(x) = (3+2sin(5x))^6?",
+        "options": {
+            "a": "(72*3+4*(15*sin(5*x)))",
+            "b": "((720)/(9+(25sin^2(5x))))",
+            "c": "e^(ln((3sin(x)))),
+            "d": "e^((12*x)+3)"
+        },
+        "correct_answer": "a"
+    }
+]
+Time Taken: 82.72 seconds | Tokens Produced: 347 | ⚡⚡⚡ Token Speed 4.195 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 4...
+⚠️ Error: Invalid JSON format...
+
+Attempt 3 out of 5... llama3.2:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the definition of Power Rule in differentiation?",
+        "options": {
+            "a": "The derivative of x^n is n*x^(n-1)",
+            "b": "The derivative of a function f(x) is f'(x) = -f(x)",
+            "c": "The derivative of x^2 is 4x",
+            "d": "The derivative of sine is cosine"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 2,
+        "question": "Which rule states that the derivative of sin(x) is cos(x)?",
+        "options": {
+            "a": "Power Rule",
+            "b": "Product Rule",
+            "c": "Quotient Rule",
+            "d": "The derivative of sine is cosine"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "q_no": 3,
+        "question": "What is the rule for differentiating polynomial functions?",
+        "options": {
+            "a": "The derivative of a^x is ax^(x-1)",
+            "b": "The derivative of x^n is n*x^(n-1)",
+            "c": "The derivative of 3x^2 is 6x",
+            "d": "The derivative of rational functions follows the Quotient Rule"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "q_no": 4,
+        "question": "What type of function does the Power Rule apply to?",
+        "options": {
+            "a": "Polynomial functions",
+            "b": "Rational functions",
+            "c": "Trigonometric functions",
+            "d": "Exponential functions"
+        },
+        "correct_answer": "a"
+    }
+]
+Time Taken: 49.25 seconds | Tokens Produced: 170 | ⚡⚡⚡ Token Speed 3.452 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 4...
+⚠️ Error: Invalid JSON format...
+⚠️ Warning: Expected 12 MCQs but got 4...
+
+Attempt 4 out of 5... llama3.2:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "Which differentiation rule states that if y = x^n, then y' = nx^(n-1)?",
+        "options": {
+            "a": "Power Rule",
+            "b": "Product Rule",
+            "c": "Quotient Rule",
+            "d": "Chain Rule"
+        },
+        "correct_answer": "Power Rule"
+    },
+    {
+        "q_no": 2,
+        "question": "What is the derivative of sin(x)?",
+        "options": {
+            "a": "-cos(x)",
+            "b": "sin(x)",
+            "c": "tan(x)",
+            "d": "none of these"
+        },
+        "correct_answer": "cos(x)"
+    },
+    {
+        "q_no": 3,
+        "question": "What is the rule for differentiating polynomial functions?",
+        "options": {
+            "a": "The derivative of a polynomial function is equal to the original function",
+            "b": "The derivative of a polynomial function is the sum of the derivatives of each term",
+            "c": "The derivative of a polynomial function is the difference between the derivatives of each term",
+            "d": "The derivative of a polynomial function is zero"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "q_no": 4,
+        "question": "What is the rule for differentiating rational functions?",
+        "options": {
+            "a": "The derivative of a rational function is equal to the original function",
+            "b": "The derivative of a rational function is the sum of the derivatives of each term",
+            "c": "The derivative of a rational function is zero",
+            "d": "The derivative of a rational function is the quotient of the derivatives of the numerator and denominator"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "q_no": 5,
+        "question": "What type of problem involves finding the maximum or minimum value of a function?",
+        "options": {
+            "a": "Optimization problem",
+            "b": "Related rate problem",
+            "c": "Chain Rule problem",
+            "d": "Quotient Rule problem"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 6,
+        "question": "What is the Chain Rule used for in differentiation?",
+        "options": {
+            "a": "To find the derivative of a product of functions",
+            "b": "To find the derivative of a quotient of functions",
+            "c": "To find the derivative of a composite function",
+            "d": "To find the derivative of a sum or difference of functions"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "q_no": 7,
+        "question": "What type of problem involves finding the rate of change of a quantity with respect to time?",
+        "options": {
+            "a": "Optimization problem",
+            "b": "Related rate problem",
+            "c": "Chain Rule problem",
+            "d": "Quotient Rule problem"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "q_no": 8,
+        "question": "What is the relationship between the derivatives of the numerator and denominator in the Quotient Rule?",
+        "options": {
+            "a": "They are equal",
+            "b": "They are opposite",
+            "c": "They are proportional to each other",
+            "d": "They cancel each other out"
+        },
+        "correct_answer": "a"
+    }
+]
+Time Taken: 52.11 seconds | Tokens Produced: 398 | ⚡⚡⚡ Token Speed 7.638 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 4...
+⚠️ Error: Invalid JSON format...
+⚠️ Warning: Expected 12 MCQs but got 4...
+⚠️ Warning: Expected 12 MCQs but got 8...
+
+Attempt 5 out of 5... llama3.2:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the definition of cellular respiration?",
+        "options": {
+            "a": "The breakdown of glucose to release energy",
+            "b": "The absorption of oxygen in the lungs",
+            "c": "The creation of new cells from old ones",
+            "d": "The conversion of proteins into glucose"
+        },
+        "correct_answer": "The breakdown of glucose to release energy"
+    },
+    {
+        "q_no": 2,
+        "question": "Why is cellular respiration important for living organisms?",
+        "options": {
+            "a": "It produces glucose for energy storage",
+            "b": "It converts food into usable energy",
+            "c": "It allows movement in cells",
+            "d": "It helps absorb sunlight"
+        },
+        "correct_answer": "It converts food into usable energy"
+    },
+    {
+        "q_no": 3,
+        "question": "What is the end product of glycolysis from one glucose molecule?",
+        "options": {
+            "a": "Two ethanol molecules",
+            "b": "Two pyruvate molecules",
+            "c": "Four ATP molecules",
+            "d": "One glucose molecule"
+        },
+        "correct_answer": "Two pyruvate molecules"
+    },
+    {
+        "q_no": 4,
+        "question": "Where does glycolysis occur in the cell?",
+        "options": {
+            "a": "In the mitochondria",
+            "b": "In the nucleus",
+            "c": "In the cytoplasm",
+            "d": "In the endoplasmic reticulum"
+        },
+        "correct_answer": "In the cytoplasm"
+    },
+    {
+        "q_no": 5,
+        "question": "What is the power rule of differentiation?",
+        "options": {
+            "a": "If f(x) = x^n, then f'(x) = nx^(n-1)",
+            "b": "If f(x) = x^n, then f'(x) = (n+1)x^(n-1)",
+            "c": "If f(x) = x^n, then f'(x) = -nx^(n-1)",
+            "d": "If f(x) = x^n, then f'(x) = nx^n"
+        },
+        "correct_answer": "If f(x) = x^n, then f'(x) = nx^(n-1)"
+    },
+    {
+        "q_no": 6,
+        "question": "What is the product rule of differentiation?",
+        "options": {
+            "a": "If f(x) = g(x)h(x), then f'(x) = g'(x)h(x) + g(x)h'(x)",
+            "b": "If f(x) = g(x)h(x), then f'(x) = g'(x)h(x) - g(x)h'(x)",
+            "c": "If f(x) = g(x)h(x), then f'(x) = g'(x)h(x) + g(x)h'(x) / 2",
+            "d": "If f(x) = g(x)h(x), then f'(x) = g'(x)h(x) - g(x)h'(x)"
+        },
+        "correct_answer": "If f(x) = g(x)h(x), then f'(x) = g'(x)h(x) + g(x)h'(x)"
+    },
+    {
+        "q_no": 7,
+        "question": "What is the chain rule of differentiation?",
+        "options": {
+            "a": "If f(x) = g(h(x)), then f'(x) = g'(h(x)) \* h'(x)",
+            "b": "If f(x) = g(h(x)), then f'(x) = g'(h(x)) / h'(x)",
+            "c": "If f(x) = g(h(x)), then f'(x) = g'(h(x)) \* (h(x))^2",
+            "d": "If f(x) = g(h(x)), then f'(x) = g'(h(x)) + h'(x)"
+        },
+        "correct_answer": "If f(x) = g(h(x)), then f'(x) = g'(h(x)) \* h'(x)"
+    },
+    {
+        "q_no": 8,
+        "question": "What is the derivative of sin(x)?",
+        "options": {
+            "a": "cos(x)",
+            "b": "sin(x)",
+            "c": "-sin(x)",
+            "d": "-cos(x)"
+        },
+        "correct_answer": "cos(x)"
+    },
+    {
+        "q_no": 9,
+        "question": "What is the derivative of cos(x)?",
+        "options": {
+            "a": "-sin(x)",
+            "b": "cos(x)",
+            "c": "sin(x)",
+            "d": "-cos(x)"
+        },
+        "correct_answer": "sin(x)"
+    },
+    {
+        "q_no": 10,
+        "question": "What is the derivative of e^x?",
+        "options": {
+            "a": "e^x",
+            "b": "e^-x",
+            "c": "1",
+            "d": "xe^x"
+        },
+        "correct_answer": "e^x"
+    }
+]
+Time Taken: 84.97 seconds | Tokens Produced: 454 | ⚡⚡⚡ Token Speed 5.343 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 4...
+⚠️ Error: Invalid JSON format...
+⚠️ Warning: Expected 12 MCQs but got 4...
+⚠️ Warning: Expected 12 MCQs but got 8...
+⚠️ Error: Invalid JSON format...
+
+⚠️ Warning: After 5 attempts returning longest valid response.
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   {
+      "q_no": 1,
+      "question": "Which differentiation rule states that if y = x^n, then y' = nx^(n-1)?",
+      "options": {
+         "a": "Power Rule",
+         "b": "Product Rule",
+         "c": "Quotient Rule",
+         "d": "Chain Rule"
+      },
+      "correct_answer": "Power Rule"
+   },
+   {
+      "q_no": 2,
+      "question": "What is the derivative of sin(x)?",
+      "options": {
+         "a": "-cos(x)",
+         "b": "sin(x)",
+         "c": "tan(x)",
+         "d": "none of these"
+      },
+      "correct_answer": "cos(x)"
+   },
+   {
+      "q_no": 3,
+      "question": "What is the rule for differentiating polynomial functions?",
+      "options": {
+         "a": "The derivative of a polynomial function is equal to the original function",
+         "b": "The derivative of a polynomial function is the sum of the derivatives of each term",
+         "c": "The derivative of a polynomial function is the difference between the derivatives of each term",
+         "d": "The derivative of a polynomial function is zero"
+      },
+      "correct_answer": "b"
+   },
+   {
+      "q_no": 4,
+      "question": "What is the rule for differentiating rational functions?",
+      "options": {
+         "a": "The derivative of a rational function is equal to the original function",
+         "b": "The derivative of a rational function is the sum of the derivatives of each term",
+         "c": "The derivative of a rational function is zero",
+         "d": "The derivative of a rational function is the quotient of the derivatives of the numerator and denominator"
+      },
+      "correct_answer": "d"
+   },
+   {
+      "q_no": 5,
+      "question": "What type of problem involves finding the maximum or minimum value of a function?",
+      "options": {
+         "a": "Optimization problem",
+         "b": "Related rate problem",
+         "c": "Chain Rule problem",
+         "d": "Quotient Rule problem"
+      },
+      "correct_answer": "a"
+   },
+   {
+      "q_no": 6,
+      "question": "What is the Chain Rule used for in differentiation?",
+      "options": {
+         "a": "To find the derivative of a product of functions",
+         "b": "To find the derivative of a quotient of functions",
+         "c": "To find the derivative of a composite function",
+         "d": "To find the derivative of a sum or difference of functions"
+      },
+      "correct_answer": "c"
+   },
+   {
+      "q_no": 7,
+      "question": "What type of problem involves finding the rate of change of a quantity with respect to time?",
+      "options": {
+         "a": "Optimization problem",
+         "b": "Related rate problem",
+         "c": "Chain Rule problem",
+         "d": "Quotient Rule problem"
+      },
+      "correct_answer": "b"
+   },
+   {
+      "q_no": 8,
+      "question": "What is the relationship between the derivatives of the numerator and denominator in the Quotient Rule?",
+      "options": {
+         "a": "They are equal",
+         "b": "They are opposite",
+         "c": "They are proportional to each other",
+         "d": "They cancel each other out"
+      },
+      "correct_answer": "a"
+   }
+]
+TIME for MCQ: 52.111 | ⚡⚡⚡ Token Speed: 7.638 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 457 | TOTAL Time: 330.71
+
+********************************************************************************
+Syllabus NUMBER 2
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Cambridge Grade 10 Physics - Waves - Electromagnetic Spectrum:
+- Nature of electromagnetic waves
+- Characteristics of electromagnetic spectrum (wavelength and frequency)
+- Types of electromagnetic waves (radiation and reflection)
+- Interaction between electromagnetic waves and matter
+- Applications of the electromagnetic spectrum in physics
+TIME for SYLLABUS: 10.1 | ⚡⚡⚡ Token Speed: 4.653 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 10
+Attempt 1 out of 5... llama3.2:3b
+********************************************************************************
+Syllabus NUMBER 1
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Edexcel Grade 12 Mathematics - Calculus - Differentiation:
+- Introduction to derivatives and their significance
+- Rules of differentiation (Power Rule, Product Rule)
+- Chain rule and its applications
+- Implicit differentiation
+- Higher-order derivatives and the derivative of polynomials
+TIME for SYLLABUS: 9.166 | ⚡⚡⚡ Token Speed: 4.582 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 10
+Attempt 1 out of 5... llama3.2:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "Why is the study of calculus important in mathematics?",
+        "options": {
+            "a": "It helps in finding maximum and minimum values of functions",
+            "b": "It provides a precise way to calculate areas and volumes of shapes",
+            "c": "It enables us to model real-world phenomena with precision",
+            "d": "It allows for the solution of differential equations"
+        },
+        "correct_answer": "It enables us to model real-world phenomena with precision"
+    },
+    {
+        "q_no": 2,
+        "question": "What is the Power Rule of differentiation?",
+        "options": {
+            "a": "If f(x) = x^n, then f'(x) = n*x^(n-1)",
+            "b": "If f(x) = x^n, then f'(x) = (n+1)*x^(n-1)",
+            "c": "If f(x) = x^n, then f'(x) = (n-1)*x^((n-1)/2)",
+            "d": "If f(x) = x^n, then f'(x) = (n+1)*x^(n-1)"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 3,
+        "question": "What is the Product Rule of differentiation?",
+        "options": {
+            "a": "If f(x) = u(x)v(x), then f'(x) = u'(x)*v(x) + u(x)*v'(x)",
+            "b": "If f(x) = u(x)v(x), then f'(x) = u'(x)*v(x) - u(x)*v'(x)",
+            "c": "If f(x) = u(x)v(x), then f'(x) = u'(x)*v(x) + u(x)*v'(x)",
+            "d": "If f(x) = u(x)v(x), then f'(x) = u'(x)*v(x) - u(x)*v'(x)"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 4,
+        "question": "What is the Chain Rule of differentiation?",
+        "options": {
+            "a": "If f(g(x)) = (f ∘ g)(x), then (f ∘ g)'(x) = f'(g(x))*g'(x)",
+            "b": "If f(g(x)) = (f ∘ g)(x), then (f ∘ g)'(x) = f'(g(x))/g'(x)",
+            "c": "If f(g(x)) = (f ∘ g)(x), then (f ∘ g)'(x) = f'(g(x))*g'(x)",
+            "d": "If f(g(x)) = (f ∘ g)(x), then (f ∘ g)'(x) = f'(g(x))/g'(x)"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 5,
+        "question": "What is implicit differentiation?",
+        "options": {
+            "a": "A method of finding the derivative of a function without explicitly defining it",
+            "b": "A way to find the rate of change of a function by differentiating its equation",
+            "c": "A technique used to solve differential equations",
+            "d": "A tool for graphing functions"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 6,
+        "question": "What is the derivative of a polynomial function?",
+        "options": {
+            "a": "It is equal to the polynomial function itself",
+            "b": "It is a linear combination of the coefficients and powers of x",
+            "c": "It is equal to zero if the polynomial has an even degree",
+            "d": "It can be found using the power rule"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "q_no": 7,
+        "question": "What is higher-order differentiation?",
+        "options": {
+            "a": "Differentiating a function multiple times to get a new function",
+            "b": "Finding the derivative of a function using calculus rules",
+            "c": "Solving differential equations using higher-order derivatives",
+            "d": "Graphing functions using higher-order derivatives"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 8,
+        "question": "What is the rule for differentiating trigonometric functions?",
+        "options": {
+            "a": "They can be differentiated directly like polynomials",
+            "b": "Their derivatives are equal to the negative of their original function multiplied by the derivative of x",
+            "c": "They have a fixed set of rules that can be applied",
+            "d": "Only certain trigonometric functions can be differentiated"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "q_no": 9,
+        "question": "What is the rule for differentiating exponential functions?",
+        "options": {
+            "a": "They are equal to their original function multiplied by the derivative of x",
+            "b": "Their derivatives are equal to the original function times the natural logarithm of the base",
+            "c": "They have a fixed set of rules that can be applied",
+            "d": "Only certain exponential functions can be differentiated"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "q_no": 10,
+        "question": "What is differentiation used for?",
+        "options": {
+            "a": "To graph functions and find rates of change",
+            "b": "To solve differential equations and optimize functions",
+            "c": "Both a and b",
+            "d": "Neither a nor b"
+        },
+        "correct_answer": "c"
+    }
+Time Taken: 121.38 seconds | Tokens Produced: 596 | ⚡⚡⚡ Token Speed 4.910 tokens/sec
+⚠️ Error: Invalid JSON format...
+
+Attempt 2 out of 5... llama3.2:3b

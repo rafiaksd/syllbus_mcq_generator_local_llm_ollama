@@ -1,0 +1,681 @@
+Using 2 parallel processes.
+********************************************************************************
+
+Syllabus NUMBER 1 of 3 --- | llama3.2:3b
+
+********************************************************************************
+
+Syllabus NUMBER 2 of 3 --- | llama3.2:3b
+
+📝📝📝 GOTTEN SYLLABUS 2 of 3 📝📝📝
+Syllabus for IB Grade 10 Mathematics - Functions - Notation and Representation:
+- Understanding function notation
+- Graphical representation of functions
+- Function tables and rules
+- Identifying and creating function equations
+- Understanding domain and range in function notation
+- Analyzing the properties of different types of functions
+TIME for SYLLABUS: 14.809 | ⚡⚡⚡ Token Speed: 3.309 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1/4 for Syllabus 2 of 3... | llama3.2:3b
+
+📝📝📝 GOTTEN SYLLABUS 1 of 3 📝📝📝
+Syllabus for Cambridge Grade 10 Mathematics - Algebra - Exponents and Powers:
+- Introduction to exponents and powers
+- Understanding order of operations with exponents
+- Evaluating expressions involving exponents and powers
+- Simplifying expressions with exponents
+- Solving equations involving exponents and powers
+- Graphing exponential functions
+TIME for SYLLABUS: 15.24 | ⚡⚡⚡ Token Speed: 3.15 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1/4 for Syllabus 1 of 3... | llama3.2:3b
+
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What is the main purpose of introducing exponents in mathematics?", "options": {"a": "To represent multiplication of variables", "b": "To simplify expressions with repeated numbers", "c": "To define the power of a number", "d": "To calculate areas and volumes"}, "correct_answer": "To define the power of a number"},
+    {"q_no": "2", "question": "Which step is taken first when evaluating an expression involving exponents?", "options": "b", "c", "d", "a"},
+    {"q_no": "3", "question": "What happens to the product of two numbers with the same base and exponent when raised to another power?", "options": {"a": "It remains the same", "b": "It increases", "c": "It decreases", "d": "It changes sign"}, "correct_answer": "a"},
+    {"q_no": "4", "question": "How do you simplify expressions with exponents using the product rule?", "options": {"a": "By dividing by zero", "b": "By adding the exponents", "c": "By subtracting the exponents", "d": "By multiplying by zero"}, "correct_answer": "b"},
+    {"q_no": "5", "question": "What is the result of raising 2 to the power of 3 and then squaring it?", "options": {"a": "64", "b": "16", "c": "32", "d": "8"}, "correct_answer": "a"},
+    {"q_no": "6", "question": "Which operation is used to solve equations involving exponents?", "options": {"a": "Subtraction", "b": "Addition", "c": "Multiplication", "d": "Division"}, "correct_answer": "c"},
+    {"q_no": "7", "question": "What type of function is represented by the equation y = 2^x?", "options": {"a": "Linear function", "b": "Quadratic function", "c": "Exponential function", "d": "Polynomial function"}, "correct_answer": "c"},
+    {"q_no": "8", "question": "How do you graph an exponential function?", "options": {"a": "By plotting multiple points and drawing a line through them", "b": "By using a graphing calculator", "c": "By finding the x-intercept and y-intercept", "d": "By using a table of values"}, "correct_answer": "a"},
+    {"q_no": "9", "question": "What is the main difference between a function with an even exponent and one with an odd exponent?", "options": {"a": "The value of the function changes when x changes", "b": "The value of the function remains the same when x changes", "c": "The domain of the function changes when x changes", "d": "The range of the function changes when x changes"}, "correct_answer": "b"},
+    {"q_no": "10", "question": "How do you determine whether an expression involving exponents is defined or not?", "options": {"a": "By checking if the base is a real number", "b": "By checking if the exponent is a whole number", "c": "By checking if the base is positive and the exponent is even", "d": "By checking if the base is negative and the exponent is odd"}, "correct_answer": "a"},
+    {"q_no": "11", "question": "What is the result of raising 0 to any power?", "options": {"a": "0", "b": "1", "c": "2", "d": "3"}, "correct_answer": "b"},
+    {"q_no": "12", "question": "How do you simplify an expression involving negative exponents?", "options": {"a": "By changing the sign of the base and adding 1 to the exponent", "b": "By changing the sign of the base and subtracting 1 from the exponent", "c": "By multiplying by zero", "d": "By dividing by zero"}, "correct_answer": "b"}
+]
+Time Taken: 176.85 seconds | Tokens Produced: 482 | ⚡⚡⚡ Token Speed 2.725 tokens/sec
+⚠️ Error: Invalid JSON format...
+
+Attempt 2/4 for Syllabus 1 of 3... | llama3.2:3b
+
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What is represented by the symbol 'f' in a function equation?", "options": {"a": "The input value", "b": "The output value", "c": "Both input and output values", "d": "None of the above"}, "correct_answer": "Both input and output values"},
+    {"q_no": "2", "question": "Which type of graph is typically used to represent functions?", "options": {"a": "Coordinate plane", "b": "Number line", "c": "Graph paper", "d": "Circle graph"}, "correct_answer": "Coordinate plane"},
+    {"q_no": "3", "question": "What is the purpose of a function table?", "options": {"a": "To solve equations", "b": "To graph functions", "c": "To identify rules for functions", "d": "None of the above"}, "correct_answer": "To identify rules for functions"},
+    {"q_no": "4", "question": "Which option correctly completes the notation for a function equation?", "options": {"a": "f(x) = x^2", "b": "y = f(x)", "c": "x = f(y)", "d": "None of the above"}, "correct_answer": "b: y = f(x)"},
+    {"q_no": "5", "question": "What is the domain of a function?", "options": {"a": "The set of all possible outputs", "b": "The set of all possible inputs", "c": "Neither the set of all possible outputs nor inputs", "d": "None of the above"}, "correct_answer": "B: The set of all possible inputs"},
+    {"q_no": "6", "question": "Which property is associated with the range of a function?", "options": {"a": "The input values that produce specific output values", "b": "The output values produced by different input values", "c": "Neither the input nor output values", "d": "None of the above"}, "correct_answer": "B: The output values produced by different input values"},
+    {"q_no": "7", "question": "What is a characteristic that distinguishes line functions from quadratic functions?", "options": {"a": "Linearity in both x and y directions", "b": "Non-linearity in both x and y directions", "c": "Quadratic terms are absent", "d": "None of the above"}, "correct_answer": "A: Linearity in both x and y directions"},
+    {"q_no": "8", "question": "Which option represents a function that has no domain restrictions?", "options": {"a": "All real numbers except zero", "b": "Only positive values", "c": "All integers", "d": "None of the above"}, "correct_answer": "A: All real numbers except zero"},
+    {"q_no": "9", "question": "What is a key characteristic of even functions?", "options": {"a": "Symmetry about the y-axis", "b": "Only positive values allowed", "c": "Increasing and then decreasing behavior", "d": "None of the above"}, "correct_answer": "A: Symmetry about the y-axis"},
+    {"q_no": "10", "question": "Which type of function has a U-shaped graph?", "options": {"a": "Linear", "b": "Quadratic", "c": "Polynomial", "d": "None of the above"}, "correct_answer": "B: Quadratic"},
+    {"q_no": "11", "question": "What is a key property of odd functions?", "options": {"a": "Symmetry about the origin", "b": "Increasing and then decreasing behavior", "c": "Even function characteristics", "d": "None of the above"}, "correct_answer": "A: Symmetry about the origin"},
+    {"q_no": "12", "question": "Which characteristic is commonly used to identify quadratic functions?", "options": {"a": "No turning point present", "b": "One turning point only", "c": "Two turning points and a vertex form", "d": "None of the above"}, "correct_answer": "B: One turning point only"}
+]
+Time Taken: 178.53 seconds | Tokens Produced: 480 | ⚡⚡⚡ Token Speed 2.689 tokens/sec
+✅✅✅ Successfully generated 12 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 2 of 3
+[
+   {
+      "q_no": "1",
+      "question": "What is represented by the symbol 'f' in a function equation?",
+      "options": {
+         "a": "The input value",
+         "b": "The output value",
+         "c": "Both input and output values",
+         "d": "None of the above"
+      },
+      "correct_answer": "Both input and output values"
+   },
+   {
+      "q_no": "2",
+      "question": "Which type of graph is typically used to represent functions?",
+      "options": {
+         "a": "Coordinate plane",
+         "b": "Number line",
+         "c": "Graph paper",
+         "d": "Circle graph"
+      },
+      "correct_answer": "Coordinate plane"
+   },
+   {
+      "q_no": "3",
+      "question": "What is the purpose of a function table?",
+      "options": {
+         "a": "To solve equations",
+         "b": "To graph functions",
+         "c": "To identify rules for functions",
+         "d": "None of the above"
+      },
+      "correct_answer": "To identify rules for functions"
+   },
+   {
+      "q_no": "4",
+      "question": "Which option correctly completes the notation for a function equation?",
+      "options": {
+         "a": "f(x) = x^2",
+         "b": "y = f(x)",
+         "c": "x = f(y)",
+         "d": "None of the above"
+      },
+      "correct_answer": "b: y = f(x)"
+   },
+   {
+      "q_no": "5",
+      "question": "What is the domain of a function?",
+      "options": {
+         "a": "The set of all possible outputs",
+         "b": "The set of all possible inputs",
+         "c": "Neither the set of all possible outputs nor inputs",
+         "d": "None of the above"
+      },
+      "correct_answer": "B: The set of all possible inputs"
+   },
+   {
+      "q_no": "6",
+      "question": "Which property is associated with the range of a function?",
+      "options": {
+         "a": "The input values that produce specific output values",
+         "b": "The output values produced by different input values",
+         "c": "Neither the input nor output values",
+         "d": "None of the above"
+      },
+      "correct_answer": "B: The output values produced by different input values"
+   },
+   {
+      "q_no": "7",
+      "question": "What is a characteristic that distinguishes line functions from quadratic functions?",
+      "options": {
+         "a": "Linearity in both x and y directions",
+         "b": "Non-linearity in both x and y directions",
+         "c": "Quadratic terms are absent",
+         "d": "None of the above"
+      },
+      "correct_answer": "A: Linearity in both x and y directions"
+   },
+   {
+      "q_no": "8",
+      "question": "Which option represents a function that has no domain restrictions?",
+      "options": {
+         "a": "All real numbers except zero",
+         "b": "Only positive values",
+         "c": "All integers",
+         "d": "None of the above"
+      },
+      "correct_answer": "A: All real numbers except zero"
+   },
+   {
+      "q_no": "9",
+      "question": "What is a key characteristic of even functions?",
+      "options": {
+         "a": "Symmetry about the y-axis",
+         "b": "Only positive values allowed",
+         "c": "Increasing and then decreasing behavior",
+         "d": "None of the above"
+      },
+      "correct_answer": "A: Symmetry about the y-axis"
+   },
+   {
+      "q_no": "10",
+      "question": "Which type of function has a U-shaped graph?",
+      "options": {
+         "a": "Linear",
+         "b": "Quadratic",
+         "c": "Polynomial",
+         "d": "None of the above"
+      },
+      "correct_answer": "B: Quadratic"
+   },
+   {
+      "q_no": "11",
+      "question": "What is a key property of odd functions?",
+      "options": {
+         "a": "Symmetry about the origin",
+         "b": "Increasing and then decreasing behavior",
+         "c": "Even function characteristics",
+         "d": "None of the above"
+      },
+      "correct_answer": "A: Symmetry about the origin"
+   },
+   {
+      "q_no": "12",
+      "question": "Which characteristic is commonly used to identify quadratic functions?",
+      "options": {
+         "a": "No turning point present",
+         "b": "One turning point only",
+         "c": "Two turning points and a vertex form",
+         "d": "None of the above"
+      },
+      "correct_answer": "B: One turning point only"
+   }
+]
+TIME for MCQ: 178.526 | ⚡⚡⚡ Token Speed: 2.689 tokens/sec
+TOTAL Tokens for Syllabus 2 & its MCQ: 529 | TOTAL Time: 193.35
+
+********************************************************************************
+
+Syllabus NUMBER 3 of 3 --- | llama3.2:3b
+
+📝📝📝 GOTTEN SYLLABUS 3 of 3 📝📝📝
+Syllabus for IB Grade 12 Physics - Quantum Physics:
+- Introduction to wave-particle duality and quantum mechanics
+- The photoelectric effect: historical context and experimental methods
+- Kinetic energy of electrons in the photoelectric effect
+- Work function, electron momentum, and Einstein's explanation
+- Relating work function to photon energy
+- Applications and implications of the photoelectric effect
+TIME for SYLLABUS: 56.041 | ⚡⚡⚡ Token Speed: 1.035 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1/4 for Syllabus 3 of 3... | llama3.2:3b
+
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What concept explains that particles can exhibit both wave-like and particle-like properties?", "options": {"a": "Quantum Mechanics", "b": "Wave-particle Duality", "c": "Heisenberg Uncertainty Principle", "d": "Schr\u00f6dinger Equation"}, "correct_answer": "Wave-particle Duality"},
+    {"q_no": "2", "question": "Which historical figure is credited with the discovery of the photoelectric effect?", "options": {"a": "Max Planck", "b": "Albert Einstein", "c": "Niels Bohr", "d": "Erwin Schr\u00f6dinger"}, "correct_answer": "Albert Einstein"},
+    {"q_no": "3", "question": "What is the term for the minimum energy required for an electron to escape from a metal surface?", "options": {"a": "Work Function", "b": "Kinetic Energy", "c": "Potential Energy", "d": "Electron Momentum"}, "correct_answer": "Work Function"},
+    {"q_no": "4", "question": "How is the work function related to photon energy?", "options": {"a": "Directly proportional", "b": "Inversely proportional", "c": "Equal to", "d": "Independent of"}, "correct_answer": "Inverse proportionally"},
+    {"q_no": "5", "question": "What is the primary application of the photoelectric effect?", "options": {"a": "Lighting", "b": "Telecommunications", "c": "Optical Fiber Communication", "d": "Photovoltaics"}, "correct_answer": "Photovoltaics"},
+    {"q_no": "6", "question": "Which aspect of quantum physics deals with the energy of electrons in the photoelectric effect?", "options": {"a": "Kinetic Energy", "b": "Potential Energy", "c": "Work Function", "d": "Electron Momentum"}, "correct_answer": "Kinetic Energy"},
+    {"q_no": "7", "question": "What is the work function of a material in terms of energy?", "options": {"a": "Energy per electron", "b": "Energy per photon", "c": "Work function as an equation", "d": "Energy required to remove an electron"}, "correct_answer": "Energy required to remove an electron"},
+    {"q_no": "8", "question": "What is the role of Einstein's explanation in the photoelectric effect?", "options": {"a": "To prove wave-particle duality", "b": "To explain kinetic energy of electrons", "c": "To demonstrate work function and its relation to photon energy", "d": "To introduce quantum theory"}, "correct_answer": "To demonstrate work function and its relation to photon energy"},
+    {"q_no": "9", "question": "Which phenomenon relates the work function to photon energy?", "options": {"a": "Photoelectric effect", "b": "Compton scattering", "c": "Pair production", "d": "Bremsstrahlung radiation"}, "correct_answer": "Photoelectric effect"},
+    {"q_no": "10", "question": "What is the primary implication of the photoelectric effect?", "options": {"a": "Electrons are waves", "b": "Photons have energy and momentum", "c": "Quantum physics explains wave-particle duality", "d": "Energy and momentum are proportional to frequency"}, "correct_answer": "Photons have energy and momentum"},
+    {"q_no": "11", "question": "Which aspect of the photoelectric effect requires experimental methods?", "options": {"a": "Theoretical derivation", "b": "Historical context", "c": "Experimental methods", "d": "Quantum mechanics explanation"}, "correct_answer": "Experimental methods"},
+    {"q_no": "12", "question": "What concept explains that energy is proportional to frequency?", "options": {"a": "Planck's hypothesis", "b": "Einstein's explanation", "c": "Max Planck's equation", "d": "Quantum theory of light"}, "correct_answer": "Einstein's explanation"}
+Time Taken: 149.27 seconds | Tokens Produced: 417 | ⚡⚡⚡ Token Speed 2.794 tokens/sec
+⚠️ Error: Invalid JSON format...
+
+Attempt 2/4 for Syllabus 3 of 3... | llama3.2:3b
+
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What is the general law that relates to the power of a number raised to another power?", "options": {"a": "A^2 = A + 1", "b": "a^(n+m) = a^n * a^m", "c": "a^(mn) = (a^m)^n", "d": "a^0 = 1"}, "correct_answer": "d"},
+    {"q_no": "2", "question": "Which operation is denoted by the ^ symbol when dealing with exponents?", "options": {"a": "Multiplication", "b": "Division", "c": "+ (addition)", "d": "^ (exponentiation)"}, "correct_answer": "d"},
+    {"q_no": "3", "question": "What is the rule that determines how to add exponents when multiplying two exponential expressions with the same base?", "options": {"a": "m + n", "b": "mn", "c": "m*n", "d": "m-n"}, "correct_answer": "b"},
+    {"q_no": "4", "question": "What is meant by a negative exponent in an exponential expression?", "options": {"a": "A fractional exponent", "b": "The reciprocal of the base raised to the power", "c": "The square root of the base", "d": "No such thing as a negative exponent"}, "correct_answer": "b"},
+    {"q_no": "5", "question": "Which operation is used to simplify expressions with exponents?", "options": {"a": "Addition", "b": "Subtraction", "c": "Multiplication", "d": "Simplification (factoring out common terms) and cancellation"}, "correct_answer": "d"},
+    {"q_no": "6", "question": "When solving equations involving exponents, which operation is often performed first?", "options": {"a": "Dividing by a negative number", "b": "Adding or subtracting the same value to both sides", "c": "Multiplying both sides by the reciprocal of the coefficient", "d": "Raising both sides to the power of 1/2"}, "correct_answer": "c"},
+    {"q_no": "7", "question": "What is meant by a constant exponent?", "options": {"a": "A variable with an exponent", "b": "An operation that changes value", "c": "A number raised to a specific power without any variables in the expression", "d": "No such thing as a constant exponent"}, "correct_answer": "c"},
+    {"q_no": "8", "question": "Which type of function is typically represented by an exponential equation?", "options": {"a": "Linear function", "b": "Quadratic function", "c": "Exponential function", "d": "Trigonometric function"}, "correct_answer": "c"},
+    {"q_no": "9", "question": "When graphing exponential functions, what is the general shape of their graphs?", "options": {"a": "A straight line with a positive slope", "b": "An S-shaped curve", "c": "A continuous curve that starts at the origin and increases exponentially as it moves to the right", "d": "A graph that decreases exponentially as it moves up from left to right"}, "correct_answer": "c"},
+    {"q_no": "10", "question": "What is the key property of exponents that allows us to simplify expressions with them?", "options": {"a": "The order of operations dictates how they should be performed", "b": "A constant exponent can be used to simplify an expression", "c": "When multiplying two exponential expressions with the same base, we simply add their exponents", "d": "All of the above"}, "correct_answer": "d"},
+    {"q_no": "11", "question": "How do you handle negative bases when dealing with exponents?", "options": {"a": "You treat them as if they were positive and use the rule for adding exponents", "b": "You must take the reciprocal of the base and change the sign of the exponent", "c": "You ignore them and only deal with positive bases", "d": "There is no such thing as a negative base in exponents"}, "correct_answer": "b"},
+    {"q_no": "12", "question": "Which concept relates to the relationship between two exponential expressions?", "options": {"a": "The product rule for logarithms", "b": "The quotient rule for logarithms", "c": "When dividing or multiplying exponential expressions, you change their exponents according to specific rules", "d": "None of the above"}, "correct_answer": "c"}
+]
+Time Taken: 207.64 seconds | Tokens Produced: 554 | ⚡⚡⚡ Token Speed 2.668 tokens/sec
+✅✅✅ Successfully generated 12 MCQs. Attempts Needed 2
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 1 of 3
+[
+   {
+      "q_no": "1",
+      "question": "What is the general law that relates to the power of a number raised to another power?",
+      "options": {
+         "a": "A^2 = A + 1",
+         "b": "a^(n+m) = a^n * a^m",
+         "c": "a^(mn) = (a^m)^n",
+         "d": "a^0 = 1"
+      },
+      "correct_answer": "d"
+   },
+   {
+      "q_no": "2",
+      "question": "Which operation is denoted by the ^ symbol when dealing with exponents?",
+      "options": {
+         "a": "Multiplication",
+         "b": "Division",
+         "c": "+ (addition)",
+         "d": "^ (exponentiation)"
+      },
+      "correct_answer": "d"
+   },
+   {
+      "q_no": "3",
+      "question": "What is the rule that determines how to add exponents when multiplying two exponential expressions with the same base?",
+      "options": {
+         "a": "m + n",
+         "b": "mn",
+         "c": "m*n",
+         "d": "m-n"
+      },
+      "correct_answer": "b"
+   },
+   {
+      "q_no": "4",
+      "question": "What is meant by a negative exponent in an exponential expression?",
+      "options": {
+         "a": "A fractional exponent",
+         "b": "The reciprocal of the base raised to the power",
+         "c": "The square root of the base",
+         "d": "No such thing as a negative exponent"
+      },
+      "correct_answer": "b"
+   },
+   {
+      "q_no": "5",
+      "question": "Which operation is used to simplify expressions with exponents?",
+      "options": {
+         "a": "Addition",
+         "b": "Subtraction",
+         "c": "Multiplication",
+         "d": "Simplification (factoring out common terms) and cancellation"
+      },
+      "correct_answer": "d"
+   },
+   {
+      "q_no": "6",
+      "question": "When solving equations involving exponents, which operation is often performed first?",
+      "options": {
+         "a": "Dividing by a negative number",
+         "b": "Adding or subtracting the same value to both sides",
+         "c": "Multiplying both sides by the reciprocal of the coefficient",
+         "d": "Raising both sides to the power of 1/2"
+      },
+      "correct_answer": "c"
+   },
+   {
+      "q_no": "7",
+      "question": "What is meant by a constant exponent?",
+      "options": {
+         "a": "A variable with an exponent",
+         "b": "An operation that changes value",
+         "c": "A number raised to a specific power without any variables in the expression",
+         "d": "No such thing as a constant exponent"
+      },
+      "correct_answer": "c"
+   },
+   {
+      "q_no": "8",
+      "question": "Which type of function is typically represented by an exponential equation?",
+      "options": {
+         "a": "Linear function",
+         "b": "Quadratic function",
+         "c": "Exponential function",
+         "d": "Trigonometric function"
+      },
+      "correct_answer": "c"
+   },
+   {
+      "q_no": "9",
+      "question": "When graphing exponential functions, what is the general shape of their graphs?",
+      "options": {
+         "a": "A straight line with a positive slope",
+         "b": "An S-shaped curve",
+         "c": "A continuous curve that starts at the origin and increases exponentially as it moves to the right",
+         "d": "A graph that decreases exponentially as it moves up from left to right"
+      },
+      "correct_answer": "c"
+   },
+   {
+      "q_no": "10",
+      "question": "What is the key property of exponents that allows us to simplify expressions with them?",
+      "options": {
+         "a": "The order of operations dictates how they should be performed",
+         "b": "A constant exponent can be used to simplify an expression",
+         "c": "When multiplying two exponential expressions with the same base, we simply add their exponents",
+         "d": "All of the above"
+      },
+      "correct_answer": "d"
+   },
+   {
+      "q_no": "11",
+      "question": "How do you handle negative bases when dealing with exponents?",
+      "options": {
+         "a": "You treat them as if they were positive and use the rule for adding exponents",
+         "b": "You must take the reciprocal of the base and change the sign of the exponent",
+         "c": "You ignore them and only deal with positive bases",
+         "d": "There is no such thing as a negative base in exponents"
+      },
+      "correct_answer": "b"
+   },
+   {
+      "q_no": "12",
+      "question": "Which concept relates to the relationship between two exponential expressions?",
+      "options": {
+         "a": "The product rule for logarithms",
+         "b": "The quotient rule for logarithms",
+         "c": "When dividing or multiplying exponential expressions, you change their exponents according to specific rules",
+         "d": "None of the above"
+      },
+      "correct_answer": "c"
+   }
+]
+TIME for MCQ: 207.643 | ⚡⚡⚡ Token Speed: 2.668 tokens/sec
+TOTAL Tokens for Syllabus 1 & its MCQ: 602 | TOTAL Time: 399.75
+
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What is the fundamental principle underlying wave-particle duality?", "options": {"a": "The existence of particles with zero mass", "b": "The existence of waves with zero momentum", "c": "The coexistence of both wave-like and particle-like properties in matter", "d": "The non-existence of particles or waves"}, "correct_answer": "c"},
+    {"q_no": "2", "question": "Which scientist is credited with the discovery of the photoelectric effect?", "options": {"a": "Albert Einstein", "b": "Max Planck", "c": "Marie Curie", "d": "Erwin Schr\u00f6dinger"}, "correct_answer": "a"},
+    {"q_no": "3", "question": "What is the kinetic energy of an electron in the photoelectric effect?", "options": {"a": "The amount of energy transferred to the electron from the photon", "b": "The amount of energy required to remove the electron from the surface", "c": "Neither of the above", "d": "The sum of the electron's kinetic and potential energies"}, "correct_answer": "b"},
+    {"q_no": "4", "question": "What is Einstein's explanation for the photoelectric effect?", "options": {"a": "That the electron is accelerated by the photon", "b": "That the photon has a work function and can eject electrons only if it has enough energy", "c": "That the electron is emitted due to thermal fluctuations", "d": "That the photoelectric effect is an illusion"}, "correct_answer": "b"},
+    {"q_no": "5", "question": "How does the work function relate to photon energy?", "options": {"a": "It is directly proportional", "b": "It is inversely proportional", "c": "They are equal", "d": "One cannot be determined without the other"}, "correct_answer": "b"},
+    {"q_no": "6", "question": "What is an application of the photoelectric effect in technology?", "options": {"a": "Solar panels convert sunlight into electricity using the photoelectric effect", "b": "The photoelectric effect is used in photocopiers to create images", "c": "It has no practical applications", "d": "It is only relevant in theoretical physics"}, "correct_answer": "a"},
+    {"q_no": "7", "question": "What are the implications of the photoelectric effect on our understanding of light?", "options": {"a": "That light is solely a wave phenomenon", "b": "That light is both a wave and particle phenomenon", "c": "That the photoelectric effect disproves quantum mechanics", "d": "It has no significant implications"}, "correct_answer": "b"},
+    {"q_no": "8", "question": "How does the work function affect the energy of the ejected electrons?", "options": {"a": "Increased energy", "b": "Decreased energy", "c": "No effect", "d": "It depends on the angle of incidence"}, "correct_answer": "b"},
+    {"q_no": "9", "question": "What is an application of the photoelectric effect in scientific research?", "options": {"a": "To study the properties of electrons and photons", "b": "To develop new technologies such as solar cells and photocopiers", "c": "It has no practical applications in science", "d": "It is only relevant in theoretical physics"}, "correct_answer": "b"},
+    {"q_no": "10", "question": "How does the photoelectric effect relate to quantum mechanics?", "options": {"a": "It confirms the principles of wave-particle duality and uncertainty principle", "b": "It disproves the principles of wave-particle duality and uncertainty principle", "c": "It has no relation to quantum mechanics", "d": "One cannot be determined without the other"}, "correct_answer": "a"},
+    {"q_no": "11", "question": "What is a consequence of the photoelectric effect on our understanding of light?", "options": {"a": "That light is solely a wave phenomenon", "b": "That light is both a wave and particle phenomenon", "c": "It has no significant consequences", "d": "It disproves the existence of particles with zero mass"}, "correct_answer": "b"},
+    {"q_no": "12", "question": "What is an implication of the photoelectric effect on the behavior of electrons?", "options": {"a": "That electrons are always emitted when a photon hits them", "b": "That electrons can only be emitted when a photon has enough energy", "c": "It has no significant implications on electron behavior", "d": "Electrons are never emitted from surfaces"}, "correct_answer": "b"}
+Time Taken: 147.13 seconds | Tokens Produced: 588 | ⚡⚡⚡ Token Speed 3.996 tokens/sec
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+
+Attempt 3/4 for Syllabus 3 of 3... | llama3.2:3b
+
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What is the fundamental principle that underlies wave-particle duality in quantum mechanics?", "options": {"a": "The existence of particles with definite position and momentum", "b": "The existence of waves with definite wavelength and frequency", "c": "Both particles and waves have wave-like properties", "d": "Neither particles nor waves exist in reality"}, "correct_answer": "c"},
+    {"q_no": "2", "question": "In the context of the photoelectric effect, what is the term for the minimum energy required to eject an electron from a metal surface?", "options": {"a": "Work function", "b": "Kinetic energy", "c": "Photon energy", "d": "Elastic energy"}, "correct_answer": "a"},
+    {"q_no": "3", "question": "According to Einstein's explanation of the photoelectric effect, what is the relationship between work function and photon energy?", "options": {"a": "Work function equals photon energy", "b": "Work function is greater than or equal to photon energy", "c": "Photon energy is equal to zero when work function is present", "d": "Photon energy is independent of work function"}, "correct_answer": "b"},
+    {"q_no": "4", "question": "In the context of wave-particle duality, what type of particles exhibit both particle-like and wave-like properties?", "options": {"a": "Electrons", "b": "Photons", "c": "Protons", "d": "Neutrons"}, "correct_answer": "a"},
+    {"q_no": "5", "question": "What is the term for the energy of an electron that has enough to escape from a metal surface?", "options": {"a": "Kinetic energy", "b": "Potential energy", "c": "Elastic energy", "d": "Work function"}, "correct_answer": "d"},
+    {"q_no": "6", "question": "In the context of quantum mechanics, what is the term for a theoretical entity that represents both particles and waves?", "options": {"a": "Wave function", "b": "Particle wave function", "c": "Quantum state", "d": "Superposition"}, "correct_answer": "d"},
+    {"q_no": "7", "question": "What is the term for the phenomenon where an electron is emitted from a metal surface when it absorbs energy from a photon?", "options": {"a": "Photoelectric effect", "b": "Compton scattering", "c": "Elastic collision", "d": "Coulomb's law"}, "correct_answer": "a"},
+    {"q_no": "8", "question": "In the context of quantum mechanics, what is the term for a system that exhibits both particle-like and wave-like properties?", "options": {"a": "Quantum state", "b": "Wave function", "c": "Particle wave function", "d": "Superposition"}, "correct_answer": "d"},
+    {"q_no": "9", "question": "What is the term for the energy of a photon that is equal to the work function of a metal surface?", "options": {"a": "Photon energy", "b": "Work function", "c": "Kinetic energy", "d": "Potential energy"}, "correct_answer": "a"},
+    {"q_no": "10", "question": "In the context of wave-particle duality, what type of particles exhibit particle-like properties?", "options": {"a": "Electrons", "b": "Photons", "c": "Protons", "d": "Neutrons"}, "correct_answer": "b"},
+    {"q_no": "11", "question": "What is the term for the phenomenon where an electron gains kinetic energy when it absorbs energy from a photon?", "options": {"a": "Photoelectric effect", "b": "Compton scattering", "c": "Elastic collision", "d": "Coulomb's law"}, "correct_answer": "a"},
+    {"q_no": "12", "question": "In the context of quantum mechanics, what is the term for a system that exhibits wave-like properties?", "options": {"a": "Quantum state", "b": "Wave function", "c": "Particle wave function", "d": "Superposition"}, "correct_answer": "b"}
+Time Taken: 137.32 seconds | Tokens Produced: 481 | ⚡⚡⚡ Token Speed 3.503 tokens/sec
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+
+Attempt 4/4 for Syllabus 3 of 3... | llama3.2:3b
+
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What is the fundamental concept that connects wave-like and particle-like behavior of matter?", "options": {"a": "Wave-particle duality", "b": "Quantum tunneling", "c": "Schr\u00f6dinger equation", "d": "Heisenberg uncertainty principle"}, "correct_answer": "Wave-particle duality"},
+    {"q_no": "2", "question": "What is the primary factor that determines the energy of electrons in the photoelectric effect?", "options": {"a": "Work function", "b": "Photonic energy", "c": "Electron mass", "d": "Charge separation"}, "correct_answer": "Photonic energy"},
+    {"q_no": "3", "question": "What is the phenomenon where an electron is emitted from a material when it absorbs photons?", "options": {"a": "Photoelectric effect", "b": "Compton scattering", "c": "Pair production", "d": "Bremsstrahlung"}, "correct_answer": "Photoelectric effect"},
+    {"q_no": "4", "question": "What is the value of work function that indicates no photoemission will occur?", "options": {"a": "0 eV", "b": "1.2 eV", "c": "2.5 eV", "d": "3.0 eV"}, "correct_answer": "0 eV"},
+    {"q_no": "5", "question": "What is the relationship between photon energy and work function?", "options": {"a": "Work function equals photon energy", "b": "Photon energy exceeds work function", "c": "Photon energy is equal to work function plus kinetic energy", "d": "Photon energy is less than work function"}, "correct_answer": "Photon energy exceeds work function"},
+    {"q_no": "6", "question": "What are the main applications of the photoelectric effect in technology?", "options": {"a": "Photovoltaic cells", "b": "Solar panels", "c": "LEDs", "d": "All of the above"}, "correct_answer": "All of the above"},
+    {"q_no": "7", "question": "What is the significance of the photoelectric effect in understanding quantum mechanics?", "options": {"a": "Confirmation of wave-particle duality", "b": "Demonstration of quantized energy", "c": "Explanation of electron behavior", "d": "All of the above"}, "correct_answer": "All of the above"},
+    {"q_no": "8", "question": "What is the phenomenon where electrons are emitted from a material due to thermal excitation?", "options": {"a": "Thermal emission", "b": "Photoelectric effect", "c": "Bremsstrahlung", "d": "Pair production"}, "correct_answer": "Thermal emission"},
+    {"q_no": "9", "question": "What is the unit of measurement used to express the energy of photons?", "options": {"a": "eV", "b": "J/kg", "c": "W/m^2", "d": "GPa"}, "correct_answer": "eV"},
+    {"q_no": "10", "question": "What is the role of the work function in the photoelectric effect?", "options": {"a": "Determines energy of emitted electrons", "b": "Affects kinetic energy of electrons", "c": "Influences electron momentum", "d": "None of the above"}, "correct_answer": "Affects kinetic energy of electrons"},
+    {"q_no": "11", "question": "What is the concept that describes the probability distribution of electrons in a material?", "options": {"a": "Schr\u00f6dinger equation", "b": "Heisenberg uncertainty principle", "c": "Wigner-Seitz method", "d": "Fermi-Dirac statistics"}, "correct_answer": "Schr\u00f6dinger equation"},
+    {"q_no": "12", "question": "What is the principle that states it is impossible to know certain properties of a particle simultaneously?", "options": {"a": "Wave-particle duality", "b": "Quantum tunneling", "c": "Schr\u00f6dinger equation", "d": "Heisenberg uncertainty principle"}, "correct_answer": "Heisenberg uncertainty principle"}
+]
+Time Taken: 138.65 seconds | Tokens Produced: 435 | ⚡⚡⚡ Token Speed 3.137 tokens/sec
+✅✅✅ Successfully generated 12 MCQs. Attempts Needed 4
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 3 of 3
+[
+   {
+      "q_no": "1",
+      "question": "What is the fundamental concept that connects wave-like and particle-like behavior of matter?",
+      "options": {
+         "a": "Wave-particle duality",
+         "b": "Quantum tunneling",
+         "c": "Schr\u00f6dinger equation",
+         "d": "Heisenberg uncertainty principle"
+      },
+      "correct_answer": "Wave-particle duality"
+   },
+   {
+      "q_no": "2",
+      "question": "What is the primary factor that determines the energy of electrons in the photoelectric effect?",
+      "options": {
+         "a": "Work function",
+         "b": "Photonic energy",
+         "c": "Electron mass",
+         "d": "Charge separation"
+      },
+      "correct_answer": "Photonic energy"
+   },
+   {
+      "q_no": "3",
+      "question": "What is the phenomenon where an electron is emitted from a material when it absorbs photons?",
+      "options": {
+         "a": "Photoelectric effect",
+         "b": "Compton scattering",
+         "c": "Pair production",
+         "d": "Bremsstrahlung"
+      },
+      "correct_answer": "Photoelectric effect"
+   },
+   {
+      "q_no": "4",
+      "question": "What is the value of work function that indicates no photoemission will occur?",
+      "options": {
+         "a": "0 eV",
+         "b": "1.2 eV",
+         "c": "2.5 eV",
+         "d": "3.0 eV"
+      },
+      "correct_answer": "0 eV"
+   },
+   {
+      "q_no": "5",
+      "question": "What is the relationship between photon energy and work function?",
+      "options": {
+         "a": "Work function equals photon energy",
+         "b": "Photon energy exceeds work function",
+         "c": "Photon energy is equal to work function plus kinetic energy",
+         "d": "Photon energy is less than work function"
+      },
+      "correct_answer": "Photon energy exceeds work function"
+   },
+   {
+      "q_no": "6",
+      "question": "What are the main applications of the photoelectric effect in technology?",
+      "options": {
+         "a": "Photovoltaic cells",
+         "b": "Solar panels",
+         "c": "LEDs",
+         "d": "All of the above"
+      },
+      "correct_answer": "All of the above"
+   },
+   {
+      "q_no": "7",
+      "question": "What is the significance of the photoelectric effect in understanding quantum mechanics?",
+      "options": {
+         "a": "Confirmation of wave-particle duality",
+         "b": "Demonstration of quantized energy",
+         "c": "Explanation of electron behavior",
+         "d": "All of the above"
+      },
+      "correct_answer": "All of the above"
+   },
+   {
+      "q_no": "8",
+      "question": "What is the phenomenon where electrons are emitted from a material due to thermal excitation?",
+      "options": {
+         "a": "Thermal emission",
+         "b": "Photoelectric effect",
+         "c": "Bremsstrahlung",
+         "d": "Pair production"
+      },
+      "correct_answer": "Thermal emission"
+   },
+   {
+      "q_no": "9",
+      "question": "What is the unit of measurement used to express the energy of photons?",
+      "options": {
+         "a": "eV",
+         "b": "J/kg",
+         "c": "W/m^2",
+         "d": "GPa"
+      },
+      "correct_answer": "eV"
+   },
+   {
+      "q_no": "10",
+      "question": "What is the role of the work function in the photoelectric effect?",
+      "options": {
+         "a": "Determines energy of emitted electrons",
+         "b": "Affects kinetic energy of electrons",
+         "c": "Influences electron momentum",
+         "d": "None of the above"
+      },
+      "correct_answer": "Affects kinetic energy of electrons"
+   },
+   {
+      "q_no": "11",
+      "question": "What is the concept that describes the probability distribution of electrons in a material?",
+      "options": {
+         "a": "Schr\u00f6dinger equation",
+         "b": "Heisenberg uncertainty principle",
+         "c": "Wigner-Seitz method",
+         "d": "Fermi-Dirac statistics"
+      },
+      "correct_answer": "Schr\u00f6dinger equation"
+   },
+   {
+      "q_no": "12",
+      "question": "What is the principle that states it is impossible to know certain properties of a particle simultaneously?",
+      "options": {
+         "a": "Wave-particle duality",
+         "b": "Quantum tunneling",
+         "c": "Schr\u00f6dinger equation",
+         "d": "Heisenberg uncertainty principle"
+      },
+      "correct_answer": "Heisenberg uncertainty principle"
+   }
+]
+TIME for MCQ: 138.651 | ⚡⚡⚡ Token Speed: 3.137 tokens/sec
+TOTAL Tokens for Syllabus 3 & its MCQ: 493 | TOTAL Time: 628.44
+
+********************************************************************************
+
+Model: llama3.2:3b
+
+Total Time Taken: 822.27 | Total Tokens Generated: 1624 | Avg Total Token Gen Speed: 1.98 tokens/sec
+Total Syllabi: 3 | Total Success MCQ : 0 | MCQ Attempt per Syllabus: 4
+Total ERROR: 0
+Using 2 parallel processes.
+********************************************************************************
+
+Syllabus NUMBER 1 of 3 --- | llama3.2:3b
+
+********************************************************************************
+
+Syllabus NUMBER 2 of 3 --- | llama3.2:3b
+
+Using 2 parallel processes.
+********************************************************************************
+
+Syllabus NUMBER 1 of 3 --- | llama3.2:3b
+
+Syllabus NUMBER 2 of 3 --- | llama3.2:3b
+
+
+Using 2 parallel processes.
+********************************************************************************
+
+Syllabus NUMBER 1 of 3 --- | llama3.2:3b
+
+********************************************************************************
+
+Syllabus NUMBER 2 of 3 --- | llama3.2:3b
+
+Using 2 parallel processes.
+********************************************************************************
+
+Syllabus NUMBER 1 of 3 --- | llama3.2:3b
+
+********************************************************************************
+
+Syllabus NUMBER 2 of 3 --- | llama3.2:3b
+
+Using 2 parallel processes.
+********************************************************************************
+
+Syllabus NUMBER 1 of 3 --- | llama3.2:3b
+
+********************************************************************************
+
+Syllabus NUMBER 2 of 3 --- | llama3.2:3b
+
+📝📝📝 GOTTEN SYLLABUS 1 of 3 📝📝📝
+Syllabus for Cambridge Grade 10 Mathematics - Algebra - Exponents and Powers:
+- Introduction to exponents and powers
+- Understanding exponent notation and rules of indices
+- Evaluating exponential expressions
+- Simplifying algebraic expressions with exponents
+- Solving equations involving exponents
+- Graphing functions with exponential notation
+TIME for SYLLABUS: 6.726 | ⚡⚡⚡ Token Speed: 6.988 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1/4 for Syllabus 1 of 3... | llama3.2:3b
+
+📝📝📝 GOTTEN SYLLABUS 2 of 3 📝📝📝
+Syllabus for IB Grade 10 Mathematics - Functions - Notation and Representation:
+- Understanding function notation and its applications
+- Graphical representation of functions using Cartesian coordinates
+- Analyzing the characteristics of a function (domain, range, etc.)
+- Identifying different types of functions (linear, quadratic, etc.)
+- Interpreting graphs as a means of solving problems
+- Relating algebraic and graphical representations of functions
+TIME for SYLLABUS: 7.897 | ⚡⚡⚡ Token Speed: 7.978 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1/4 for Syllabus 2 of 3... | llama3.2:3b
+

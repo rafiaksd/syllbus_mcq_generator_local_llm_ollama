@@ -1,0 +1,2104 @@
+********************************************************************************
+Syllabus NUMBER 1
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Edexcel Grade 12 Mathematics - Calculus - Differentiation:
+- Definition and applications of derivatives
+- Rules for differentiating polynomials, exponentials, logarithms, trigonometric functions
+- Chain rule and implicit differentiation
+- Monotonicity and critical points analysis
+- Geometric interpretation of derivatives as slopes
+- Tangent lines and rates of change problems
+TIME for SYLLABUS: 21.458 | ⚡⚡⚡ Token Speed: 2.423 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 5 for Syllabus 1... exaone3.5:2.4b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "Which concept does differentiation primarily aim to understand?",
+        "options": {
+            "a": "Maximum points of a function",
+            "b": "Rate of change or slope at any point",
+            "c": "Integration techniques over intervals",
+            "d": "Area enclosed by curves"
+        },
+        "correct_answer": "Rate of change or slope at any point"
+    },
+    {
+        "q_no": 2,
+        "question": "What rule is used to differentiate a polynomial function like f(x) = x^5 + 3x^4 - x + 2?",
+        "options": {
+            "a": "Product Rule",
+            "b": "Power Rule",
+            "c": "Quotient Rule",
+            "d": "Chain Rule"
+        },
+        "correct_answer": "Power Rule"
+    },
+    {
+        "q_no": 3,
+        "question": "Which function requires the application of both the chain rule and the derivative of a polynomial?",
+        "options": {
+            "a": "y = sin(x^3)",
+            "b": "y = log(x^2)",
+            "c": "y = e^(x^4)",
+            "d": "y = tan(3x)"
+        },
+        "correct_answer": "y = sin(x^3)"
+    },
+    {
+        "q_no": 4,
+        "question": "In analyzing monotonicity, identifying critical points involves looking for points where the derivative equals ________.",
+        "options": {
+            "a": "zero",
+            "b": "negative",
+            "c": "positive",
+            "d": "-infinity"
+        },
+        "correct_answer": "zero"
+    },
+    {
+        "q_no": 5,
+        "question": "The geometric interpretation of the derivative f'(x) = m indicates that at point x, the tangent line has a slope of m. What does m represent?",
+        "options": {
+            "a": "Area under the curve",
+            "b": "Rate of change at x",
+            "c": "Volume enclosed by curves",
+            "d": "Curvature of the function"
+        },
+        "correct_answer": "Rate of change at x"
+    },
+    {
+        "q_no": 6,
+        "question": "Which type of function's derivative requires implicit differentiation due to its relation not explicitly solved for one variable?",
+        "options": {
+            "a": "Linear functions",
+            "b": "Polynomial functions",
+            "c": "Trigonometric functions involving x^2 + y^2 = constant",
+            "d": "Exponential functions"
+        },
+        "correct_answer": "Trigonometric functions involving x^2 + y^2 = constant"
+    },
+    {
+        "q_no": 7,
+        "question": "Identifying monotonicity without the second derivative test is possible through ________ analysis.",
+        "options": {
+            "a": "First derivative",
+            "b": "Second derivative",
+            "c": "Critical values",
+            "d": "Tangent lines"
+        },
+        "correct_answer": "First derivative"
+    },
+    {
+        "q_no": 8,
+        "question": "What does finding critical points within a function help determine regarding its behavior?",
+        "options": {
+            "a": "The intervals where the function increases",
+            "b": "Points of inflection",
+            "c": "The minimum or maximum values",
+            "d": "Points where the slope changes direction"
+        },
+        "correct_answer": "Points where the slope changes direction"
+    },
+    {
+        "q_no": 9,
+        "question": "In calculus, what distinguishes differentiating a logarithmic function from other exponential functions?",
+        "options": {
+            "a": "It involves integrating under the curve",
+            "b": "It uses logarithmic differentiation",
+            "c": "It calculates the area under the curve",
+            "d": "It simplifies to trigonometric functions"
+        },
+        "correct_answer": "It uses logarithmic differentiation"
+    },
+    {
+        "q_no": 10,
+        "question": "Which theorem would directly apply if analyzing the concavity of y = e^x?",
+        "options": {
+            "a": "L'Hopital's Rule",
+            "b": "Second Derivative Test",
+            "c": "First Derivative Test",
+            "d": "Mean Value Theorem"
+        },
+        "correct_answer": "Second Derivative Test"
+    },
+    {
+        "q_no": 11,
+        "question": "A function's behavior over intervals can be fully characterized by examining ________ at critical points.",
+        "options": {
+            "a": "Its value",
+            "b": "Its first derivative",
+            "c": "Its second derivative",
+            "d": "Both its first and second derivatives"
+        },
+        "correct_answer": "Both its first and second derivatives"
+    }
+]
+Time Taken: 95.90 seconds | Tokens Produced: 512 | ⚡⚡⚡ Token Speed 5.339 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 11...
+
+Attempt 2 out of 5 for Syllabus 1... exaone3.5:2.4b
+🔍🔍🔍 Generated MCQ:
+
+ Let's correct the task requirements to align with generating exactly 12 MCQs as requested:
+
+Syllabus:
+Syllabus for Edexcel Grade 12 Mathematics - Calculus - Differentiation:
+- Definition and applications of derivatives
+- The definition of derivatives and its significance
+- Rules for differentiating polynomials, exponentials, logarithms, trigonometric functions
+- Application of the chain rule and implicit differentiation
+- Identifying monotonic intervals and critical points from derivative analysis
+- Interpretation of derivatives geometrically as slopes
+- Tangent line equations and rate of change scenarios
+
+Here are the 12 MCQs formatted as requested:json
+[
+    {
+        "q_no": "1",
+        "question": "What does the derivative of a function at a point indicate?",
+        "options": {
+            "a": "The function's maximum value",
+            "b": "The slope of the tangent line at that point",
+            "c": "The total area under the curve",
+            "d": "The original value of the function"
+        },
+        "correct_answer": "The slope of the tangent line at that point"
+    },
+    {
+        "q_no": "2",
+        "question": "Which rule would you use to differentiate \( e^x \)?",
+        "options": {
+            "a": "Power rule",
+            "b": "Chain rule",
+            "c": "Derivative of cosine",
+            "d": "Implicit differentiation"
+        },
+        "correct_answer": "b: Chain rule"
+    },
+    {
+        "q_no": "3",
+        "question": "The derivative of \( y = sin(x) \) simplifies to:",
+        "options": {
+            "a": "cos(x)",
+            "b": "-cos(x)",
+            "c": "tan(x)",
+            "d": "0"
+        },
+        "correct_answer": "a: cos(x)"
+    },
+    {
+        "q_no": "4",
+        "question": "Which rule applies when differentiating \( f(g(x)) \)?",
+        "options": {
+            "a": "Product rule",
+            "b": "Quotient rule",
+            "c": "Chain rule",
+            "d": "Integral rule"
+        },
+        "correct_answer": "c: Chain rule"
+    },
+    {
+        "q_no": "5",
+        "question": "Identify the monotonic intervals for \( f'(x) = 2x - 3 \) (assuming \( f'(x) > 0 \) indicates increasing intervals):",
+        "options": {
+            "a": "(-\infty, \infty)",
+            "b": "(-\infty, -1.5) U (-1.5, \infty)",
+            "c": "(-∞, -1) U (-1, ∞)",
+            "d": "(-\infty, -\infty)"
+        },
+        "correct_answer": "b: (-\infty, -1.5) U (-1.5, ∞)"
+    },
+    {
+        "q_no": "6",
+        "question": "When analyzing \( y = x^2 + 2x + 1 \), what is the critical point found using derivatives?",
+        "options": {
+            "a": \( x = -1 \),
+            "b": \( x = 0 \),
+            "c": \( x = 1 \),
+            "d": \( x = -2 \)
+        },
+        "correct_answer": "c: \( x = 1 \)"
+    },
+    {
+        "q_no": "7",
+        "question": "Geometrically, what does \( f'(x) \) represent?",
+        "options": {
+            "a": "Area under curve",
+            "b": "Slope of tangent",
+            "c": "Volume of integration",
+            "d": "Angle between curves"
+        },
+        "correct_answer": "b: Slope of tangent"
+    },
+    {
+        "q_no": "8",
+        "question": "Given \( y = \tan(x) \), find the interval where \( y \) is increasing:",
+        "options": {
+            "a": \( (-\pi/2, \pi/2) \),
+            "b": \( (-\pi, \pi) \),
+            "c": \( (-\infty, \infty) \),
+            "d": \( (\pi/2, 3\pi/2) \)
+        },
+        "correct_answer": "a: \( (-\pi/2, \pi/2) \)"
+    },
+    {
+        "q_no": "9",
+        "question": "Find the equation of tangent line at \( x = 0 \) for \( y = e^x \):",
+        "options": {
+            "a": \( y = e^0 = 1 \)",
+            "b": \( y = e^x \)",
+            "c": \( y = xe^x \)",
+            "d": \( y = e^x - e^0 \)
+        },
+        "correct_answer": "a: \( y = e^0 = 1 \)"
+    },
+    {
+        "q_no": "10",
+        "question": "Given \( y = cos^2(x) \), find its derivative:",
+        "options": {
+            "a": \( 2cos(x)sin(x) \)",
+            "b": \( cos^2(x) \)",
+            "c": \( sin^2(x) \)",
+            "d": \( 2sin(x) \)"
+        },
+        "correct_answer": "a: \( 2cos(x)sin(x) \)"
+    },
+    {
+        "q_no": "11",
+        "question": "For \( y = x^3 - 3x \) and \( y = 5x - x^2 \), find the point of intersection by solving:",
+        "options": {
+            "a": \( x^3 - 8x = 0 \)",
+            "b": \( x^3 - 5x + x^2 = 0 \)",
+            "c": \( x^3 - x^2 - 5x = 0 \)",
+            "d": \( x^3 - 8x^2 = 0 \)"
+        },
+        "correct_answer": "a: \( x^3 - 8x = 0 \)"
+    },
+    {
+        "q_no": "12",
+        "question": "Which scenario fits \( y' = -\sin(x) \) geometrically?",
+        "options": {
+            "a": "Decreasing function",
+            "b": "Function moving upwards",
+            "c": "Function crossing the x-axis",
+            "d": "Function intersecting origin"
+        },
+        "correct_answer": "a: Decreasing function"
+    }
+]
+Time Taken: 125.26 seconds | Tokens Produced: 660 | ⚡⚡⚡ Token Speed 5.269 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 11...
+⚠️ Error: Invalid JSON format...
+
+Attempt 3 out of 5 for Syllabus 1... exaone3.5:2.4b
+🔍🔍🔍 Generated MCQ:
+
+ Here is the generated JSON array adhering to the specified format and requirements:json
+[
+    {
+        "q_no": 1,
+        "question": "What does the term 'derivative' signify in calculus?",
+        "options": {
+            "a": "The ratio of change between two variables",
+            "b": "A method to solve polynomial equations",
+            "c": "The volume of a solid",
+            "d": "The area under a curve"
+        },
+        "correct_answer": "The ratio of change between two variables"
+    },
+    {
+        "q_no": 2,
+        "question": "Which function's derivative would involve applying the chain rule?",
+        "options": {
+            "a": "sin(x^2)",
+            "b": "e^x",
+            "c": "ln(x)",
+            "d": "x^2 + 3x"
+        },
+        "correct_answer": "sin(x^2)"
+    },
+    {
+        "q_no": 3,
+        "question": "What is the primary application of monotonicity analysis in calculus?",
+        "options": {
+            "a": "Finding the maximum points of a function",
+            "b": "Determining function behavior near boundaries",
+            "c": "Calculating total area under curves",
+            "d": "Comparing derivatives between two functions"
+        },
+        "correct_answer": "Finding the maximum points of a function"
+    },
+    {
+        "q_no": 4,
+        "question": "When graphing a function, interpreting its derivative as what?",
+        "options": {
+            "a": "The area enclosed under the curve",
+            "b": "The slope of tangent lines",
+            "c": "The volume of the solid formed",
+            "d": "The frequency of function occurrences"
+        },
+        "correct_answer": "The slope of tangent lines"
+    },
+    {
+        "q_no": 5,
+        "question": "Which option correctly applies the power rule for differentiation?",
+        "options": {
+            "a": "d(x^3)/dx = 3x^2",
+            "b": "d(sin(x))/dx = cos(x)",
+            "c": "d(cos(x))/dx = -sin(x)",
+            "d": "d(ln(x))/dx = e^x"
+        },
+        "correct_answer": "d(x^3)/dx = 3x^2"
+    },
+    {
+        "q_no": 6,
+        "question": "Which function necessitates implicit differentiation?",
+        "options": {
+            "a": "y = sin(x) + cos(y)",
+            "b": "y = 2x^2",
+            "c": "y = e^x",
+            "d": "y = x^3 + 3x"
+        },
+        "correct_answer": "y = sin(x) + cos(y)"
+    },
+    {
+        "q_no": 7,
+        "question": "What does critical point analysis focus on regarding a function?",
+        "options": {
+            "a": "Where the function reaches its maximum value",
+            "b": "Where the function changes direction",
+            "c": "Points where the derivative equals zero",
+            "d": "Points where the derivative is undefined"
+        },
+        "correct_answer": "Points where the derivative equals zero"
+    },
+    {
+        "q_no": 8,
+        "question": "Which statement correctly identifies a logarithmic function?",
+        "options": {
+            "a": "f(x) = ln(x)",
+            "b": "f(x) = x^3",
+            "c": "f(x) = sin(x)",
+            "d": "f(x) = cos(x)"
+        },
+        "correct_answer": "f(x) = ln(x)"
+    },
+    {
+        "q_no": 9,
+        "question": "What characterizes the behavior of tangent lines for exponential functions?",
+        "options": {
+            "a": "Always decrease rapidly",
+            "b": "Always increase rapidly",
+            "c": "Flatten out over time",
+            "d": "Cross the x-axis periodically"
+        },
+        "correct_answer": "Always increase rapidly"
+    },
+    {
+        "q_no": 10,
+        "question": "Which scenario describes the area under a curve in integration?",
+        "options": {
+            "a": "Determining maximum volume",
+            "b": "Calculating total area enclosed",
+            "c": "Measuring total length",
+            "d": "Finding roots of equations"
+        },
+        "correct_answer": "Calculating total area enclosed"
+    }
+]
+Time Taken: 92.86 seconds | Tokens Produced: 444 | ⚡⚡⚡ Token Speed 4.781 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 11...
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+
+Attempt 4 out of 5 for Syllabus 1... exaone3.5:2.4b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": "1",
+        "question": "What does the derivative of a function represent mathematically?",
+        "options": {
+            "a": "The total accumulated value over an interval",
+            "b": "The instantaneous rate of change",
+            "c": "The area under the curve of the function",
+            "d": "The inverse function of the original function"
+        },
+        "correct_answer": "The instantaneous rate of change"
+    },
+    {
+        "q_no": "2",
+        "question": "Which function requires the application of the quotient rule for differentiation?",
+        "options": {
+            "a": "f(x) = sin(x)",
+            "b": "g(x) = e^x",
+            "c": "h(x) = x^3 / (x^2 + 1)",
+            "d": "j(x) = cos(3x)"
+        },
+        "correct_answer": "h(x) = x^3 / (x^2 + 1)"
+    },
+    {
+        "q_no": "3",
+        "question": "Which of the following functions does NOT require logarithmic differentiation?",
+        "options": {
+            "a": "f(x) = e^x",
+            "b": "g(x) = log(x^2)",
+            "c": "h(x) = sin(ln(x))",
+            "d": "j(x) = x^4"
+        },
+        "correct_answer": "j(x) = x^4"
+    },
+    {
+        "q_no": "4",
+        "question": "What is the purpose of applying the chain rule in differentiation?",
+        "options": {
+            "a": "To simplify complex functions into simpler components",
+            "b": "To eliminate all derivatives of composite functions",
+            "c": "To directly relate derivative of outer functions to inputs of inner functions",
+            "d": "To transform exponential functions into linear equations"
+        },
+        "correct_answer": "To directly relate derivative of outer functions to inputs of inner functions"
+    },
+    {
+        "q_no": "5",
+        "question": "Which statement correctly describes monotonicity and critical points?",
+        "options": {
+            "a": "Critical points indicate points where the function changes from increasing to decreasing or vice versa",
+            "b": "Monotonicity is solely determined by the second derivative",
+            "c": "Critical points are always at local maxima or minima",
+            "d": "Increasing intervals are those where the derivative is zero"
+        },
+        "correct_answer": "Critical points indicate points where the function changes from increasing to decreasing or vice versa"
+    },
+    {
+        "q_no": "6",
+        "question": "In geometric interpretation, what does the derivative represent graphically?",
+        "options": {
+            "a": "The volume under a curve",
+            "b": "The slope of tangent lines at points",
+            "c": "The area enclosed by curves",
+            "d": "The frequency of oscillations"
+        },
+        "correct_answer": "The slope of tangent lines at points"
+    },
+    {
+        "q_no": "7",
+        "question": "Which scenario requires both the concept of tangents and rates of change?",
+        "options": {
+            "a": "Calculating the average speed of an object",
+            "b": "Finding the slope of a tangent line to a curve at a specific point",
+            "c": "Determining the area under a velocity-time graph",
+            "d": "Evaluating the total distance traveled"
+        },
+        "correct_answer": "Finding the slope of a tangent line to a curve at a specific point"
+    },
+    {
+        "q_no": "8",
+        "question": "Which of these is NOT a function typically differentiated using implicit differentiation?",
+        "options": {
+            "a": "y = x^2 + z^2",
+            "b": "x + y = 1",
+            "c": "sin(x) = z",
+            "d": "t^2 + s = u^3"
+        },
+        "correct_answer": "sin(x) = z"
+    },
+    {
+        "q_no": "9",
+        "question": "Identify which scenario best utilizes logarithmic differentiation effectively?",
+        "options": {
+            "a": "Differentiating y = x^5",
+            "b": "Differentiating y = ln(x^2)",
+            "c": "Differentiating y = cos(x)",
+            "d": "Differentiating y = sin^2(x)"
+        },
+        "correct_answer": "Differentiating y = ln(x^2)"
+    },
+    {
+        "q_no": "10",
+        "question": "Which function is NOT directly analyzed for its monotonicity?",
+        "options": {
+            "a": "f(x) = 3x^4 - 2x^3 + x",
+            "b": "g(x) = sin(x)",
+            "c": "h(x) = log_2(x) + 1",
+            "d": "j(x) = e^x"
+        },
+        "correct_answer": "j(x) = e^x"
+    }
+]
+Time Taken: 103.21 seconds | Tokens Produced: 541 | ⚡⚡⚡ Token Speed 5.242 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 11...
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+⚠️ Warning: Expected 12 MCQs but got 10...
+
+Attempt 5 out of 5 for Syllabus 1... exaone3.5:2.4b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": "1",
+        "question": "Which of the following is NOT a direct application of derivatives in calculus?",
+        "options": {
+            "a": "Finding the maximum volume of a container",
+            "b": "Calculating instantaneous rates of change",
+            "c": "Determining the center of mass of an object",
+            "d": "Predicting stock market trends"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "q_no": "2",
+        "question": "What rule is used to differentiate expressions involving products of functions?",
+        "options": {
+            "a": "Quotient rule",
+            "b": "Product rule",
+            "c": "Logarithmic differentiation",
+            "d": "Chain rule"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "q_no": "3",
+        "question": "Which type of function is NOT typically differentiated using logarithmic differentiation?",
+        "options": {
+            "a": "Exponential functions",
+            "b": "Polynomial functions",
+            "c": "Trigonometric functions",
+            "d": "Fractional exponents"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "q_no": "4",
+        "question": "Identify the correct statement regarding monotonicity analysis based on derivatives.",
+        "options": {
+            "a": "If f'(x) > 0, then f(x) is decreasing",
+            "b": "If f'(x) = 0, then f(x) has a maximum",
+            "c": "If f'(x) = constant > 0, then f(x) is always increasing",
+            "d": "If f'(x) = constant < 0, then f(x) is always decreasing"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "q_no": "5",
+        "question": "What does the geometric interpretation of derivatives provide?",
+        "options": {
+            "a": "The area enclosed by curves",
+            "b": "The slope of tangent lines at a point",
+            "c": "The curvature of a curve",
+            "d": "The rate of heat transfer across surfaces"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "q_no": "6",
+        "question": "Chain rule simplifies differentiation for functions composed with ________ functions.",
+        "options": {
+            "a": "circular",
+            "b": "linear",
+            "c": "trigonometric",
+            "d": "exponential"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "q_no": "7",
+        "question": "Which differentiation rule is necessary to handle implicit differentiation in equations like \(y^2 + xy = x^3\)?",
+        "options": {
+            "a": "Quotient rule",
+            "b": "Chain rule",
+            "c": "Product rule",
+            "d": "Partial derivatives"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "q_no": "8",
+        "question": "Identify incorrect terminology related to critical points and monotonicity.",
+        "options": {
+            "a": "Local maxima occur where f'(x) = 0",
+            "b": "Local minima occur where f'(x) = constant > 0",
+            "c": "Critical points are always maxima or minima",
+            "d": "Inflection points are where concavity changes, but not necessarily f'(x) = 0"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "q_no": "9",
+        "question": "Which differentiation technique helps analyze slopes for optimization problems?",
+        "options": {
+            "a": "Lagrange multipliers",
+            "b": "Monotonicity analysis",
+            "c": "Partial differentiation",
+            "d": "Numerical methods"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "q_no": "10",
+        "question": "What does finding the critical points involve solving?",
+        "options": {
+            "a": "Setting derivatives equal to zero",
+            "b": "Finding the roots of polynomials",
+            "c": "Evaluating function values at boundary points",
+            "d": "Comparing different intervals"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": "11",
+        "question": "Which concept would involve understanding second derivatives in detail?",
+        "options": {
+            "a": "First differences",
+            "b": "Second differences",
+            "c": "Relative rates",
+            "d": "Cumulative totals"
+        },
+        "correct_answer": "b"
+    }
+]
+Time Taken: 94.68 seconds | Tokens Produced: 459 | ⚡⚡⚡ Token Speed 4.848 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 11...
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+⚠️ Warning: Expected 12 MCQs but got 10...
+⚠️ Error: Invalid JSON format...
+
+⚠️ Warning: After 5 attempts returning longest valid response.
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   {
+      "q_no": 1,
+      "question": "Which concept does differentiation primarily aim to understand?",
+      "options": {
+         "a": "Maximum points of a function",
+         "b": "Rate of change or slope at any point",
+         "c": "Integration techniques over intervals",
+         "d": "Area enclosed by curves"
+      },
+      "correct_answer": "Rate of change or slope at any point"
+   },
+   {
+      "q_no": 2,
+      "question": "What rule is used to differentiate a polynomial function like f(x) = x^5 + 3x^4 - x + 2?",
+      "options": {
+         "a": "Product Rule",
+         "b": "Power Rule",
+         "c": "Quotient Rule",
+         "d": "Chain Rule"
+      },
+      "correct_answer": "Power Rule"
+   },
+   {
+      "q_no": 3,
+      "question": "Which function requires the application of both the chain rule and the derivative of a polynomial?",
+      "options": {
+         "a": "y = sin(x^3)",
+         "b": "y = log(x^2)",
+         "c": "y = e^(x^4)",
+         "d": "y = tan(3x)"
+      },
+      "correct_answer": "y = sin(x^3)"
+   },
+   {
+      "q_no": 4,
+      "question": "In analyzing monotonicity, identifying critical points involves looking for points where the derivative equals ________.",
+      "options": {
+         "a": "zero",
+         "b": "negative",
+         "c": "positive",
+         "d": "-infinity"
+      },
+      "correct_answer": "zero"
+   },
+   {
+      "q_no": 5,
+      "question": "The geometric interpretation of the derivative f'(x) = m indicates that at point x, the tangent line has a slope of m. What does m represent?",
+      "options": {
+         "a": "Area under the curve",
+         "b": "Rate of change at x",
+         "c": "Volume enclosed by curves",
+         "d": "Curvature of the function"
+      },
+      "correct_answer": "Rate of change at x"
+   },
+   {
+      "q_no": 6,
+      "question": "Which type of function's derivative requires implicit differentiation due to its relation not explicitly solved for one variable?",
+      "options": {
+         "a": "Linear functions",
+         "b": "Polynomial functions",
+         "c": "Trigonometric functions involving x^2 + y^2 = constant",
+         "d": "Exponential functions"
+      },
+      "correct_answer": "Trigonometric functions involving x^2 + y^2 = constant"
+   },
+   {
+      "q_no": 7,
+      "question": "Identifying monotonicity without the second derivative test is possible through ________ analysis.",
+      "options": {
+         "a": "First derivative",
+         "b": "Second derivative",
+         "c": "Critical values",
+         "d": "Tangent lines"
+      },
+      "correct_answer": "First derivative"
+   },
+   {
+      "q_no": 8,
+      "question": "What does finding critical points within a function help determine regarding its behavior?",
+      "options": {
+         "a": "The intervals where the function increases",
+         "b": "Points of inflection",
+         "c": "The minimum or maximum values",
+         "d": "Points where the slope changes direction"
+      },
+      "correct_answer": "Points where the slope changes direction"
+   },
+   {
+      "q_no": 9,
+      "question": "In calculus, what distinguishes differentiating a logarithmic function from other exponential functions?",
+      "options": {
+         "a": "It involves integrating under the curve",
+         "b": "It uses logarithmic differentiation",
+         "c": "It calculates the area under the curve",
+         "d": "It simplifies to trigonometric functions"
+      },
+      "correct_answer": "It uses logarithmic differentiation"
+   },
+   {
+      "q_no": 10,
+      "question": "Which theorem would directly apply if analyzing the concavity of y = e^x?",
+      "options": {
+         "a": "L'Hopital's Rule",
+         "b": "Second Derivative Test",
+         "c": "First Derivative Test",
+         "d": "Mean Value Theorem"
+      },
+      "correct_answer": "Second Derivative Test"
+   },
+   {
+      "q_no": 11,
+      "question": "A function's behavior over intervals can be fully characterized by examining ________ at critical points.",
+      "options": {
+         "a": "Its value",
+         "b": "Its first derivative",
+         "c": "Its second derivative",
+         "d": "Both its first and second derivatives"
+      },
+      "correct_answer": "Both its first and second derivatives"
+   }
+]
+TIME for MCQ: 95.903 | ⚡⚡⚡ Token Speed: 5.339 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 564 | TOTAL Time: 533.39
+
+********************************************************************************
+Syllabus NUMBER 2
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Cambridge Grade 10 Physics - Waves - Electromagnetic Spectrum:
+- Definition and characteristics of electromagnetic waves
+- Electromagnetic spectrum classification (radio, microwaves, infrared, visible light, ultraviolet, X-rays, gamma rays)
+- Wave properties: speed, wavelength, frequency, energy relationship
+- Interaction of electromagnetic waves with matter
+- Applications of electromagnetic spectrum in technology and nature
+TIME for SYLLABUS: 9.383 | ⚡⚡⚡ Token Speed: 5.861 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 10
+Attempt 1 out of 5 for Syllabus 2... exaone3.5:2.4b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "Which of the following is NOT a characteristic of electromagnetic waves?",
+        "options": {
+            "a": "They travel through space as waves",
+            "b": "Their frequency determines their energy",
+            "c": "They require a medium to propagate",
+            "d": "They can be reflected, refracted, and absorbed"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "q_no": 2,
+        "question": "Which electromagnetic spectrum region is classified as having longer wavelengths than visible light?",
+        "options": {
+            "a": "Ultraviolet",
+            "b": "Infrared",
+            "c": "Radio",
+            "d": "Microwaves"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "q_no": 3,
+        "question": "What does the frequency of electromagnetic waves correspond directly to?",
+        "options": {
+            "a": "Their speed in vacuum",
+            "b": "Their amplitude",
+            "c": "Their wavelength",
+            "d": "Their direction of propagation"
+        },
+        "correct_answer": "Their speed in vacuum"
+    },
+    {
+        "q_no": 4,
+        "question": "Which application utilizes gamma rays primarily for sterilization purposes?",
+        "options": {
+            "a": "Medical imaging",
+            "b": "Radiation therapy",
+            "c": "Satellite communication",
+            "d": "Home heating systems"
+        },
+        "correct_answer": "Radiation therapy"
+    },
+    {
+        "q_no": 5,
+        "question": "What is the primary difference between microwaves and radio waves within the electromagnetic spectrum?",
+        "options": {
+            "a": "Microwaves carry more energy than radio waves",
+            "b": "Radio waves have shorter wavelengths than microwaves",
+            "c": "Microwaves require a vacuum to propagate",
+            "d": "Radio waves are used for faster internet connections"
+        },
+        "correct_answer": "Microwaves carry more energy than radio waves"
+    },
+    {
+        "q_no": 6,
+        "question": "Which part of the electromagnetic spectrum experiences minimal absorption by matter?",
+        "options": {
+            "a": "Ultraviolet",
+            "b": "Visible light",
+            "c": "Microwaves",
+            "d": "Radio waves"
+        },
+        "correct_answer": "Radio waves"
+    },
+    {
+        "q_no": 7,
+        "question": "In which scenario do visible light waves play a critical role in photosynthesis?",
+        "options": {
+            "a": "Photosynthesis in aquatic plants",
+            "b": "Detecting night vision",
+            "c": "Heat transfer in sunlight",
+            "d": "Transmission through optical fibers"
+        },
+        "correct_answer": "Photosynthesis in aquatic plants"
+    },
+    {
+        "q_no": 8,
+        "question": "Which spectrum is commonly used for long-distance communication due to its minimal scattering?",
+        "options": {
+            "a": "Ultraviolet",
+            "b": "Infrared",
+            "c": "Microwaves",
+            "d": "X-rays"
+        },
+        "correct_answer": "Microwaves"
+    },
+    {
+        "q_no": 9,
+        "question": "Which application uses infrared waves for detecting objects without contact?",
+        "options": {
+            "a": "Infrared thermography",
+            "b": "Fluorescent lamp operation",
+            "c": "Bluetooth connectivity",
+            "d": "Radar speed detection"
+        },
+        "correct_answer": "Infrared thermography"
+    },
+    {
+        "q_no": 10,
+        "question": "What phenomenon explains why certain materials absorb visible light while reflecting others?",
+        "options": {
+            "a": "Scattering",
+            "b": "Absorption spectrum",
+            "c": "Reflection",
+            "d": "Transparency"
+        },
+        "correct_answer": "Absorption spectrum"
+    }
+]
+Time Taken: 83.87 seconds | Tokens Produced: 393 | ⚡⚡⚡ Token Speed 4.686 tokens/sec
+✅✅✅ Successfully generated 10 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   {
+      "q_no": 1,
+      "question": "Which of the following is NOT a characteristic of electromagnetic waves?",
+      "options": {
+         "a": "They travel through space as waves",
+         "b": "Their frequency determines their energy",
+         "c": "They require a medium to propagate",
+         "d": "They can be reflected, refracted, and absorbed"
+      },
+      "correct_answer": "c"
+   },
+   {
+      "q_no": 2,
+      "question": "Which electromagnetic spectrum region is classified as having longer wavelengths than visible light?",
+      "options": {
+         "a": "Ultraviolet",
+         "b": "Infrared",
+         "c": "Radio",
+         "d": "Microwaves"
+      },
+      "correct_answer": "c"
+   },
+   {
+      "q_no": 3,
+      "question": "What does the frequency of electromagnetic waves correspond directly to?",
+      "options": {
+         "a": "Their speed in vacuum",
+         "b": "Their amplitude",
+         "c": "Their wavelength",
+         "d": "Their direction of propagation"
+      },
+      "correct_answer": "Their speed in vacuum"
+   },
+   {
+      "q_no": 4,
+      "question": "Which application utilizes gamma rays primarily for sterilization purposes?",
+      "options": {
+         "a": "Medical imaging",
+         "b": "Radiation therapy",
+         "c": "Satellite communication",
+         "d": "Home heating systems"
+      },
+      "correct_answer": "Radiation therapy"
+   },
+   {
+      "q_no": 5,
+      "question": "What is the primary difference between microwaves and radio waves within the electromagnetic spectrum?",
+      "options": {
+         "a": "Microwaves carry more energy than radio waves",
+         "b": "Radio waves have shorter wavelengths than microwaves",
+         "c": "Microwaves require a vacuum to propagate",
+         "d": "Radio waves are used for faster internet connections"
+      },
+      "correct_answer": "Microwaves carry more energy than radio waves"
+   },
+   {
+      "q_no": 6,
+      "question": "Which part of the electromagnetic spectrum experiences minimal absorption by matter?",
+      "options": {
+         "a": "Ultraviolet",
+         "b": "Visible light",
+         "c": "Microwaves",
+         "d": "Radio waves"
+      },
+      "correct_answer": "Radio waves"
+   },
+   {
+      "q_no": 7,
+      "question": "In which scenario do visible light waves play a critical role in photosynthesis?",
+      "options": {
+         "a": "Photosynthesis in aquatic plants",
+         "b": "Detecting night vision",
+         "c": "Heat transfer in sunlight",
+         "d": "Transmission through optical fibers"
+      },
+      "correct_answer": "Photosynthesis in aquatic plants"
+   },
+   {
+      "q_no": 8,
+      "question": "Which spectrum is commonly used for long-distance communication due to its minimal scattering?",
+      "options": {
+         "a": "Ultraviolet",
+         "b": "Infrared",
+         "c": "Microwaves",
+         "d": "X-rays"
+      },
+      "correct_answer": "Microwaves"
+   },
+   {
+      "q_no": 9,
+      "question": "Which application uses infrared waves for detecting objects without contact?",
+      "options": {
+         "a": "Infrared thermography",
+         "b": "Fluorescent lamp operation",
+         "c": "Bluetooth connectivity",
+         "d": "Radar speed detection"
+      },
+      "correct_answer": "Infrared thermography"
+   },
+   {
+      "q_no": 10,
+      "question": "What phenomenon explains why certain materials absorb visible light while reflecting others?",
+      "options": {
+         "a": "Scattering",
+         "b": "Absorption spectrum",
+         "c": "Reflection",
+         "d": "Transparency"
+      },
+      "correct_answer": "Absorption spectrum"
+   }
+]
+TIME for MCQ: 83.872 | ⚡⚡⚡ Token Speed: 4.686 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 448 | TOTAL Time: 93.27
+
+********************************************************************************
+Syllabus NUMBER 3
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for CBSE Grade 12 Chemistry - Organic Chemistry: Alcohols, Phenols, Ethers:
+- Structure and Nomenclature of Alcohols
+- Properties and Reactions of Alcohols
+- Formation of Phenols from Alcohols
+- Synthesis Methods of Phenols
+- Physical Properties of Ethers
+- Reaction Mechanisms and Synthesis of Ethers
+- Comparative Study: Alcohols, Phenols, Ethers
+TIME for SYLLABUS: 10.708 | ⚡⚡⚡ Token Speed: 4.95 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 14
+Attempt 1 out of 5 for Syllabus 3... exaone3.5:2.4b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "Which functional group defines alcohols?", "options": {"a": "Carbonyl (-CO-)", "b": "Hydroxyl (-OH)", "c": "Nitrile (-CN)", "d": "Carboxyl (-COOH)"}, "correct_answer": "Hydroxyl (-OH)"},
+    {"q_no": "2", "question": "Which property is NOT typically associated with alcohols due to their -OH group?", "options": {"a": "Miscibility with water", "b": "High boiling points", "c": "Formation of esters via dehydration", "d": "High reactivity towards halogens"}, "correct_answer": "Formation of esters via dehydration"},
+    {"q_no": "3", "question": "What is the product formed when phenol undergoes dehydration?", "options": {"a": "Phenoxide ion", "b": "Ethanol", "c": "Ethylbenzene", "d": "Phenyl acetic acid"}, "correct_answer": "Phenoxide ion"},
+    {"q_no": "4", "question": "Ethers are classified based on the nature of their alkyl groups bonded to oxygen. Which term refers to ethers with two alkyl groups?", "options": {"a": "Monoethers", "b": "Diethers", "c": "Triethers", "d": "Polyethers"}, "correct_answer": "Diethers"},
+    {"q_no": "5", "question": "Which of the following is NOT a reaction type generally involved in alcohol chemistry?", "options": {"a": "Oxidation", "b": "Hydration", "c": "Reduction", "d": "Halogenation"}, "correct_answer": "Reduction"},
+    {"q_no": "6", "question": "Phenols exhibit increased reactivity compared to alcohols due to which property?", "options": {"a": "Presence of a lone pair on oxygen", "b": "Presence of a triple bond", "c": "Higher molecular weight", "d": "Absence of any reactive group"}, "correct_answer": "Presence of a lone pair on oxygen"},
+    {"q_no": "7", "question": "Which alcohol derivative forms ethers through nucleophilic substitution?", "options": {"a": "Methanol", "b": "Ethanol", "c": "Dimethyl ether", "d": "Propanol"}, "correct_answer": "Methanol"},
+    {"q_no": "8", "question": "Comparing alcohols, phenols, and ethers, which one exhibits acidic properties due to resonance stabilization?", "options": {"a": "Alcohols", "b": "Phenols", "c": "Ethers", "d": "Carboxylic acids"}, "correct_answer": "Phenols"},
+    {"q_no": "9", "question": "Which alcohol derivative would show significant solubility in nonpolar solvents due to lack of polar functional groups?", "options": {"a": "Ethanol", "b": "Propanol", "c": "Butanol", "d": "Methanol"}, "correct_answer": "Butanol"},
+    {"q_no": "10", "question": "What functional group characterizes ethers?", "options": {"a": "Hydrogen bonding", "b": "-OR", "c": "-NH2", "d": "-CN"}, "correct_answer": "-OR"},
+    {"q_no": "11", "question": "What type of reaction would likely be performed to synthesize ethers from alcohols?", "options": {"a": "Hydrogenation", "b": "Dehydration", "c": "Hydrolysis", "d": "Substitution"}, "correct_answer": "Dehydration"},
+    {"q_no": "12", "question": "Which characteristic distinguishes phenols from alcohols in terms of reactivity towards electrophiles?", "options": {"a": "Increased stability due to resonance", "b": "Lower reactivity due to no lone pairs", "c": "Higher reactivity due to resonance", "d": "Lower reactivity due to no double bonds"}, "correct_answer": "Increased stability due to resonance"},
+    {"q_no": "13", "question": "Which alcohol derivative typically shows a significant difference in boiling points compared to non-polar alcohols due to intermolecular hydrogen bonding?", "options": {"a": "Ethanol", "b": "Methanol", "c": "Diethyl ether", "d": "Propanol"}, "correct_answer": "Ethanol"},
+    {"q_no": "14", "question": "In comparing alcohols, phenols, and ethers, which exhibits high reactivity towards nucleophiles due to the presence of oxygen?", "options": {"a": "Ethers", "b": "Phenols", "c": "Alcohols", "d": "Carboxylic acids"}, "correct_answer": "Phenols"}
+]
+Time Taken: 93.15 seconds | Tokens Produced: 456 | ⚡⚡⚡ Token Speed 4.895 tokens/sec
+✅✅✅ Successfully generated 14 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   {
+      "q_no": "1",
+      "question": "Which functional group defines alcohols?",
+      "options": {
+         "a": "Carbonyl (-CO-)",
+         "b": "Hydroxyl (-OH)",
+         "c": "Nitrile (-CN)",
+         "d": "Carboxyl (-COOH)"
+      },
+      "correct_answer": "Hydroxyl (-OH)"
+   },
+   {
+      "q_no": "2",
+      "question": "Which property is NOT typically associated with alcohols due to their -OH group?",
+      "options": {
+         "a": "Miscibility with water",
+         "b": "High boiling points",
+         "c": "Formation of esters via dehydration",
+         "d": "High reactivity towards halogens"
+      },
+      "correct_answer": "Formation of esters via dehydration"
+   },
+   {
+      "q_no": "3",
+      "question": "What is the product formed when phenol undergoes dehydration?",
+      "options": {
+         "a": "Phenoxide ion",
+         "b": "Ethanol",
+         "c": "Ethylbenzene",
+         "d": "Phenyl acetic acid"
+      },
+      "correct_answer": "Phenoxide ion"
+   },
+   {
+      "q_no": "4",
+      "question": "Ethers are classified based on the nature of their alkyl groups bonded to oxygen. Which term refers to ethers with two alkyl groups?",
+      "options": {
+         "a": "Monoethers",
+         "b": "Diethers",
+         "c": "Triethers",
+         "d": "Polyethers"
+      },
+      "correct_answer": "Diethers"
+   },
+   {
+      "q_no": "5",
+      "question": "Which of the following is NOT a reaction type generally involved in alcohol chemistry?",
+      "options": {
+         "a": "Oxidation",
+         "b": "Hydration",
+         "c": "Reduction",
+         "d": "Halogenation"
+      },
+      "correct_answer": "Reduction"
+   },
+   {
+      "q_no": "6",
+      "question": "Phenols exhibit increased reactivity compared to alcohols due to which property?",
+      "options": {
+         "a": "Presence of a lone pair on oxygen",
+         "b": "Presence of a triple bond",
+         "c": "Higher molecular weight",
+         "d": "Absence of any reactive group"
+      },
+      "correct_answer": "Presence of a lone pair on oxygen"
+   },
+   {
+      "q_no": "7",
+      "question": "Which alcohol derivative forms ethers through nucleophilic substitution?",
+      "options": {
+         "a": "Methanol",
+         "b": "Ethanol",
+         "c": "Dimethyl ether",
+         "d": "Propanol"
+      },
+      "correct_answer": "Methanol"
+   },
+   {
+      "q_no": "8",
+      "question": "Comparing alcohols, phenols, and ethers, which one exhibits acidic properties due to resonance stabilization?",
+      "options": {
+         "a": "Alcohols",
+         "b": "Phenols",
+         "c": "Ethers",
+         "d": "Carboxylic acids"
+      },
+      "correct_answer": "Phenols"
+   },
+   {
+      "q_no": "9",
+      "question": "Which alcohol derivative would show significant solubility in nonpolar solvents due to lack of polar functional groups?",
+      "options": {
+         "a": "Ethanol",
+         "b": "Propanol",
+         "c": "Butanol",
+         "d": "Methanol"
+      },
+      "correct_answer": "Butanol"
+   },
+   {
+      "q_no": "10",
+      "question": "What functional group characterizes ethers?",
+      "options": {
+         "a": "Hydrogen bonding",
+         "b": "-OR",
+         "c": "-NH2",
+         "d": "-CN"
+      },
+      "correct_answer": "-OR"
+   },
+   {
+      "q_no": "11",
+      "question": "What type of reaction would likely be performed to synthesize ethers from alcohols?",
+      "options": {
+         "a": "Hydrogenation",
+         "b": "Dehydration",
+         "c": "Hydrolysis",
+         "d": "Substitution"
+      },
+      "correct_answer": "Dehydration"
+   },
+   {
+      "q_no": "12",
+      "question": "Which characteristic distinguishes phenols from alcohols in terms of reactivity towards electrophiles?",
+      "options": {
+         "a": "Increased stability due to resonance",
+         "b": "Lower reactivity due to no lone pairs",
+         "c": "Higher reactivity due to resonance",
+         "d": "Lower reactivity due to no double bonds"
+      },
+      "correct_answer": "Increased stability due to resonance"
+   },
+   {
+      "q_no": "13",
+      "question": "Which alcohol derivative typically shows a significant difference in boiling points compared to non-polar alcohols due to intermolecular hydrogen bonding?",
+      "options": {
+         "a": "Ethanol",
+         "b": "Methanol",
+         "c": "Diethyl ether",
+         "d": "Propanol"
+      },
+      "correct_answer": "Ethanol"
+   },
+   {
+      "q_no": "14",
+      "question": "In comparing alcohols, phenols, and ethers, which exhibits high reactivity towards nucleophiles due to the presence of oxygen?",
+      "options": {
+         "a": "Ethers",
+         "b": "Phenols",
+         "c": "Alcohols",
+         "d": "Carboxylic acids"
+      },
+      "correct_answer": "Phenols"
+   }
+]
+TIME for MCQ: 93.147 | ⚡⚡⚡ Token Speed: 4.895 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 509 | TOTAL Time: 103.86
+
+********************************************************************************
+
+Total Time Taken: 730.54, Total Tokens Generated: 1521, Avg Total Token Gen Speed: 2.08 tokens/sec
+Total ERROR: 5 
+Total Syllabi: 3 | Total Success MCQ : 2 MCQ Attempt per Syllabus: 5
+********************************************************************************
+Syllabus NUMBER 1
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Edexcel Grade 12 Mathematics - Calculus - Differentiation:
+- Definition and notation of derivatives
+- Rules for differentiation: power rule, product rule, quotient rule, chain rule
+- Differentiation of polynomial functions
+- Differentiation of trigonometric functions and their inverses
+- Derivatives of exponential and logarithmic functions
+- Applications of differentiation: finding maxima/minima, tangents to curves
+- Interpreting derivatives graphically as slope of tangent lines
+TIME for SYLLABUS: 11.299 | ⚡⚡⚡ Token Speed: 5.841 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 14
+Attempt 1 out of 5 for Syllabus 1... exaone3.5:2.4b
+********************************************************************************
+Syllabus NUMBER 1
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Edexcel Grade 12 Mathematics - Calculus - Differentiation:
+- Definition and notation of derivatives
+- Fundamental Theorem of Calculus
+- Basic differentiation rules for polynomials, exponentials, logarithms, trigonometric functions, and chain rule
+- Interpretation of derivatives as instantaneous rates of change
+- Application of derivatives to find critical points and determine maxima/minima
+- Derivatives of composite functions and implicit differentiation
+- Evaluation techniques for derivatives
+TIME for SYLLABUS: 8.758 | ⚡⚡⚡ Token Speed: 7.65 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 14
+Attempt 1 out of 5 for Syllabus 1... exaone3.5:2.4b
+********************************************************************************
+Syllabus NUMBER 1
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Edexcel Grade 12 Mathematics - Calculus - Differentiation:
+- Definition and interpretation of derivatives
+- Rules for differentiating polynomial, exponential, logarithmic, and trigonometric functions
+- Applying derivatives to find rates of change and slopes of tangents
+- Higher order derivatives and their applications
+- Using derivatives to solve optimization problems
+- Geometric interpretation of derivatives: maximums, minimums, inflection points
+TIME for SYLLABUS: 8.369 | ⚡⚡⚡ Token Speed: 7.289 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 5 for Syllabus 1... exaone3.5:2.4b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "Which definition correctly captures the concept of a derivative?", "options": {"a": "The integral of a function", "b": "The instantaneous rate of change of a function", "c": "The area under a curve", "d": "The gradient of a tangent line at a point"}, "correct_answer": "The instantaneous rate of change of a function"},
+    {"q_no": "2", "question": "Which function type would require the chain rule during differentiation?", "options": {"a": "Linear functions", "b": "Exponential functions", "c": "Logarithmic functions", "d": "Both exponential and logarithmic"}, "correct_answer": "Both exponential and logarithmic"},
+    {"q_no": "3", "question": "Which scenario would involve using logarithmic differentiation to solve?", "options": {"a": "Finding the slope of a curve described by x^2", "b": "Determining the rate of change in a logarithmic model", "c": "Calculating the area under a sine wave", "d": "Measuring linear growth"}, "correct_answer": "Determining the rate of change in a logarithmic model"},
+    {"q_no": "4", "question": "What does the second derivative signify geometrically?", "options": {"a": "Slope of a tangent", "b": "Angle of inclination", "c": "Rate of change of acceleration", "d": "Rate of change of position"}, "correct_answer": "Angle of inclination"},
+    {"q_no": "5", "question": "Which derivative helps identify inflection points?", "options": {"a": "First derivative", "b": "Second derivative", "c": "Third derivative", "d": "Fourth derivative"}, "correct_answer": "Second derivative"},
+    {"q_no": "6", "question": "What rule would be applied to differentiate x^3?", "options": {"a": "Sum rule", "b": "Power rule", "c": "Product rule", "d": "Quotient rule"}, "correct_answer": "Power rule"},
+    {"q_no": "7", "question": "Which application might use higher order derivatives?", "options": {"a": "Predicting simple motion", "b": "Analyzing oscillations", "c": "Evaluating curvature changes", "d": "Calculating moment of inertia"}, "correct_answer": "Evaluating curvature changes"},
+    {"q_no": "8", "question": "Optimization problems often require solving which type of equation?", "options": {"a": "Differential equation", "b": "Algebraic equation", "c": "Functional equation", "d": "Logarithmic equation"}, "correct_answer": "Algebraic equation"},
+    {"q_no": "9", "question": "The geometric interpretation involving critical points involves identifying?", "options": {"a": "Intersections with axes", "b": "Inflection points", "c": "Points of symmetry", "d": "Points where concavity changes"}, "correct_answer": "Points where concavity changes"},
+    {"q_no": "10", "question": "Which method might be incorrectly labeled as using derivatives for optimization?", "options": {"a": "Using the first derivative test", "b": "Applying second derivative test", "c": "Setting derivatives equal to zero", "d": "Using numerical methods"}, "correct_answer": "Using numerical methods"},
+    {"q_no": "11", "question": "What differentiator would show changes in the concavity of a curve?", "options": {"a": "First derivative", "b": "Second derivative", "c": "Third derivative", "d": "Fourth derivative"}, "correct_answer": "Second derivative"},
+    {"q_no": "12", "question": "Which scenario best exemplifies using derivatives in conjunction with geometric interpretations?", "options": {"a": "Determining optimal angle of attack", "b": "Finding areas enclosed by curves", "c": "Calculating total displacement", "d": "Evaluating total work done"}, "correct_answer": "Determining optimal angle of attack"},
+    {"q_no": "13", "question": "Which situation would necessitate finding critical points in calculus?", "options": {"a": "Calculating velocity directly", "b": "Identifying points where growth rates change", "c": "Finding moments when acceleration equals zero", "d": "Measuring average rates over time"}, "correct_answer": "Identifying points where growth rates change"},
+    {"q_no": "14", "question": "What characteristic distinguishes logarithmic derivatives from other types of derivatives?", "options": {"a": "Presence of logarithmic functions", "b": "Ability to integrate", "c": "Requirement for higher order terms", "d": "Application in trigonometric identities"}, "correct_answer": "Presence of logarithmic functions"}
+]
+Time Taken: 93.97 seconds | Tokens Produced: 520 | ⚡⚡⚡ Token Speed 5.533 tokens/sec
+✅✅✅ Successfully generated 14 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏 for 1
+[
+   {
+      "q_no": "1",
+      "question": "Which definition correctly captures the concept of a derivative?",
+      "options": {
+         "a": "The integral of a function",
+         "b": "The instantaneous rate of change of a function",
+         "c": "The area under a curve",
+         "d": "The gradient of a tangent line at a point"
+      },
+      "correct_answer": "The instantaneous rate of change of a function"
+   },
+   {
+      "q_no": "2",
+      "question": "Which function type would require the chain rule during differentiation?",
+      "options": {
+         "a": "Linear functions",
+         "b": "Exponential functions",
+         "c": "Logarithmic functions",
+         "d": "Both exponential and logarithmic"
+      },
+      "correct_answer": "Both exponential and logarithmic"
+   },
+   {
+      "q_no": "3",
+      "question": "Which scenario would involve using logarithmic differentiation to solve?",
+      "options": {
+         "a": "Finding the slope of a curve described by x^2",
+         "b": "Determining the rate of change in a logarithmic model",
+         "c": "Calculating the area under a sine wave",
+         "d": "Measuring linear growth"
+      },
+      "correct_answer": "Determining the rate of change in a logarithmic model"
+   },
+   {
+      "q_no": "4",
+      "question": "What does the second derivative signify geometrically?",
+      "options": {
+         "a": "Slope of a tangent",
+         "b": "Angle of inclination",
+         "c": "Rate of change of acceleration",
+         "d": "Rate of change of position"
+      },
+      "correct_answer": "Angle of inclination"
+   },
+   {
+      "q_no": "5",
+      "question": "Which derivative helps identify inflection points?",
+      "options": {
+         "a": "First derivative",
+         "b": "Second derivative",
+         "c": "Third derivative",
+         "d": "Fourth derivative"
+      },
+      "correct_answer": "Second derivative"
+   },
+   {
+      "q_no": "6",
+      "question": "What rule would be applied to differentiate x^3?",
+      "options": {
+         "a": "Sum rule",
+         "b": "Power rule",
+         "c": "Product rule",
+         "d": "Quotient rule"
+      },
+      "correct_answer": "Power rule"
+   },
+   {
+      "q_no": "7",
+      "question": "Which application might use higher order derivatives?",
+      "options": {
+         "a": "Predicting simple motion",
+         "b": "Analyzing oscillations",
+         "c": "Evaluating curvature changes",
+         "d": "Calculating moment of inertia"
+      },
+      "correct_answer": "Evaluating curvature changes"
+   },
+   {
+      "q_no": "8",
+      "question": "Optimization problems often require solving which type of equation?",
+      "options": {
+         "a": "Differential equation",
+         "b": "Algebraic equation",
+         "c": "Functional equation",
+         "d": "Logarithmic equation"
+      },
+      "correct_answer": "Algebraic equation"
+   },
+   {
+      "q_no": "9",
+      "question": "The geometric interpretation involving critical points involves identifying?",
+      "options": {
+         "a": "Intersections with axes",
+         "b": "Inflection points",
+         "c": "Points of symmetry",
+         "d": "Points where concavity changes"
+      },
+      "correct_answer": "Points where concavity changes"
+   },
+   {
+      "q_no": "10",
+      "question": "Which method might be incorrectly labeled as using derivatives for optimization?",
+      "options": {
+         "a": "Using the first derivative test",
+         "b": "Applying second derivative test",
+         "c": "Setting derivatives equal to zero",
+         "d": "Using numerical methods"
+      },
+      "correct_answer": "Using numerical methods"
+   },
+   {
+      "q_no": "11",
+      "question": "What differentiator would show changes in the concavity of a curve?",
+      "options": {
+         "a": "First derivative",
+         "b": "Second derivative",
+         "c": "Third derivative",
+         "d": "Fourth derivative"
+      },
+      "correct_answer": "Second derivative"
+   },
+   {
+      "q_no": "12",
+      "question": "Which scenario best exemplifies using derivatives in conjunction with geometric interpretations?",
+      "options": {
+         "a": "Determining optimal angle of attack",
+         "b": "Finding areas enclosed by curves",
+         "c": "Calculating total displacement",
+         "d": "Evaluating total work done"
+      },
+      "correct_answer": "Determining optimal angle of attack"
+   },
+   {
+      "q_no": "13",
+      "question": "Which situation would necessitate finding critical points in calculus?",
+      "options": {
+         "a": "Calculating velocity directly",
+         "b": "Identifying points where growth rates change",
+         "c": "Finding moments when acceleration equals zero",
+         "d": "Measuring average rates over time"
+      },
+      "correct_answer": "Identifying points where growth rates change"
+   },
+   {
+      "q_no": "14",
+      "question": "What characteristic distinguishes logarithmic derivatives from other types of derivatives?",
+      "options": {
+         "a": "Presence of logarithmic functions",
+         "b": "Ability to integrate",
+         "c": "Requirement for higher order terms",
+         "d": "Application in trigonometric identities"
+      },
+      "correct_answer": "Presence of logarithmic functions"
+   }
+]
+TIME for MCQ: 93.972 | ⚡⚡⚡ Token Speed: 5.534 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 581 | TOTAL Time: 102.35
+
+********************************************************************************
+Syllabus NUMBER 2
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Cambridge Grade 10 Physics - Waves - Electromagnetic Spectrum:
+- Definition and properties of electromagnetic waves
+- Hierarchy of the electromagnetic spectrum (radio, microwaves, infrared, visible, ultraviolet, X-rays, gamma rays)
+- Behavior and interactions of waves
+- Applications of electromagnetic spectrum in technology
+- Dispersion and interference phenomena
+TIME for SYLLABUS: 8.459 | ⚡⚡⚡ Token Speed: 5.911 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 10
+Attempt 1 out of 5 for Syllabus 2... exaone3.5:2.4b
+********************************************************************************
+Syllabus NUMBER 1
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Edexcel Grade 12 Mathematics - Calculus - Differentiation:
+- Definition and interpretation of derivatives
+- Techniques for differentiating polynomial functions
+- Derivatives of trigonometric functions
+- Chain rule application
+- Product rule for multiplication
+- Quotient rule for division
+- Geometric interpretation of derivatives
+- Application of differentiation in physics problems
+TIME for SYLLABUS: 8.287 | ⚡⚡⚡ Token Speed: 6.395 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 16
+Attempt 1 out of 5 for Syllabus 1... exaone3.5:2.4b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What does the derivative of a function f(x) represent geometrically?", "options": {"a": "Area under the curve", "b": "Slope of tangent", "c": "Average rate of change", "d": "Cumulative change"}, "correct_answer": "Slope of tangent"},
+    {"q_no": "2", "question": "Which technique is used to differentiate a function of the form f(x) = xn?", "options": {"a": "Chain rule", "b": "Product rule", "c": "Quotient rule", "d": "Power rule"}, "correct_answer": "Power rule"},
+    {"q_no": "3", "question": "Which trigonometric function is easiest to differentiate directly?", "options": {"a": "Cosecant (csc)", "b": "Sinusoid", "c": "Cotangent (cot)", "d": "Tangent (tan)"}, "correct_answer": "Sinusoid"},
+    {"q_no": "4", "question": "What is the purpose of applying the chain rule in differentiation?", "options": {"a": "To combine simpler derivatives", "b": "To isolate constants", "c": "To simplify fractions", "d": "To calculate inverse functions"}, "correct_answer": "To combine simpler derivatives"},
+    {"q_no": "5", "question": "Which rule facilitates differentiation of products where at least one function involves multiple terms?", "options": {"a": "Substitution rule", "b": "Product rule", "c": "Derivative of exponential function", "d": "Addition rule"}, "correct_answer": "Product rule"},
+    {"q_no": "6", "question": "In differentiation involving quotients, what must be considered when differentiating the numerator and denominator separately?", "options": {"a": "Ignore the denominator", "b": "Apply quotient rule directly", "c": "Take derivatives of both separately then multiply", "d": "Replace with simpler expressions"}, "correct_answer": "Take derivatives of both separately then multiply"},
+    {"q_no": "7", "question": "How do you interpret the geometric meaning of f'(x) being positive at a point?", "options": {"a": "The tangent line is horizontal", "b": "The curve is increasing", "c": "The slope is undefined", "d": "The area enclosed is increasing"}, "correct_answer": "The curve is increasing"},
+    {"q_no": "8", "question": "Which scenario would directly apply differentiation to find velocity from position?", "options": {"a": "Finding acceleration", "b": "Measuring force applied", "c": "Determining rate of change in displacement", "d": "Calculating average speed"}, "correct_answer": "Determining rate of change in displacement"},
+    {"q_no": "9", "question": "Identify the rule NOT typically used for simplifying complex rational expressions into simpler forms.", "options": {"a": "Chain rule", "b": "Product rule", "c": "Derivative of inverse functions", "d": "Intermediate value theorem"}, "correct_answer": "Derivative of inverse functions"},
+    {"q_no": "10", "question": "Which technique involves setting a function equal to zero to find critical points for optimization problems?", "options": {"a": "Critical points", "b": "Maximum/minimum testing", "c": "Average rate of change", "d": "Intermediate value theorem"}, "correct_answer": "Critical points"}
+]
+Time Taken: 80.08 seconds | Tokens Produced: 380 | ⚡⚡⚡ Token Speed 4.745 tokens/sec
+⚠️ Warning: Expected 16 MCQs but got 10...
+
+Attempt 2 out of 5 for Syllabus 1... exaone3.5:2.4b
+🔍🔍🔍 Generated MCQ:
+
+ It seems there was a misunderstanding in the instruction regarding the number of questions requested versus those generated based on the provided syllabus for CBSE Grade 12 Chemistry. Given the initial instruction and requirement to generate exactly 16 MCQs, I will now proceed with crafting those based on the Edexcel Grade 12 Mathematics syllabus you provided, adhering strictly to the JSON format and ensuring each topic generates exactly two MCQs:json
+[
+    {"q_no": "1", "question": "Which definition best describes a derivative in calculus?", "options": {"a": "The instantaneous rate of change of a function", "b": "The area under a curve", "c": "The slope of a tangent line", "d": "The volume of revolution"}, "correct_answer": "The instantaneous rate of change of a function"},
+    {"q_no": "2", "question": "Which technique directly calculates derivatives for polynomials of degree \(n\)?", "options": {"a": "Integration techniques", "b": "Trigonometric identities", "c": "Polynomial factorization", "d": "Differentiation rules"}, "correct_answer": "Differentiation rules"},
+    {"q_no": "3", "question": "Which trigonometric function would have its derivative involve a sine or cosine term?", "options": {"a": "Square root of \(x\)", "b": "Cosine function", "c": "Exponential function", "d": "Tangent function"}, "correct_answer": "Cosine function"},
+    {"q_no": "4", "question": "The chain rule applies when differentiating composite functions involving which of the following?", "options": {"a": "Multiplication of constants", "b": "Addition of variables", "c": "Composite functions with multiple variables", "d": "Subtraction of variables"}, "correct_answer": "Composite functions with multiple variables"},
+    {"q_no": "5", "question": "What rule is used when differentiating products of two functions?", "options": {"a": "Integration", "b": "Product rule", "c": "Quotient rule", "d": "Chain rule"}, "correct_answer": "Product rule"},
+    {"q_no": "6", "question": "Which function would typically require the quotient rule for differentiation?", "options": {"a": "Exponential function", "b": "Polynomial function", "c": "Rational function", "d": "Logarithmic function"}, "correct_answer": "Rational function"},
+    {"q_no": "7", "question": "Geometrically, what does the derivative represent at a point on a curve?", "options": {"a": "Area under the curve", "b": "Angle formed by tangent and x-axis", "c": "Perimeter of a sector", "d": "Curvature"}, "correct_answer": "Angle formed by tangent and x-axis"},
+    {"q_no": "8", "question": "In physics problems, differentiation helps solve equations involving rates of change. Which of these scenarios would use differentiation to find velocity from displacement?", "options": {"a": "Finding acceleration from velocity", "b": "Changing pressure over area", "c": "Determining speed from distance", "d": "Calculating gravitational force"}, "correct_answer": "Determining speed from distance"},
+    {"q_no": "9", "question": "Which application showcases the necessity of understanding derivatives through practical examples in mechanics?", "options": {"a": "Mechanics of fluids", "b": "Heat conduction", "c": "Electricity generation", "d": "Chemical reactions"}, "correct_answer": "Mechanics of fluids"},
+    {"q_no": "10", "question": "Identifying when trigonometric functions like sine and cosine are involved in physical scenarios helps determine their derivative forms accurately. For example, what derivative would you calculate for \( \sin(2x) \)?", "options": {"a": "2sin(x)", "b": "-2sin(x)", "c": "-2cos(x)", "d": "4sin(x)"}, "correct_answer": "4sin(x)"},
+    {"q_no": "11", "question": "When applying the chain rule in physics, if \( y = f(g(x)) \) represents the displacement \(y\) as a function of time \(x\), what does \( \frac{dy}{dx} \) indicate?", "options": {"a": "Rate of change of displacement", "b": "Rate of change of velocity", "c": "Acceleration of velocity", "d": "Change in gravitational force"}, "correct_answer": "Rate of change of displacement"},
+    {"q_no": "12", "question": "Which function requires careful consideration of both product and quotient rules when differentiated together?", "options": {"a": "Exponential \(e^x\)", "b": "Trigonometric \(sin^2(x)\)", "c": "Quotient \(\frac{sin(x)}{x^2}\)", "d": "Polynomial \(x^3 - x^2\)"}, "correct_answer": "Quotient \(\frac{sin(x)}{x^2}\)"},
+    {"q_no": "13", "question": "Which derivative application exemplifies a function involving both exponential and trigonometric elements?", "options": {"a": "Growth rate of radioactive decay", "b": "Angular frequency of oscillation", "c": "Periodic motion amplitude", "d": "Chemical reaction rate constant"}, "correct_answer": "Chemical reaction rate constant"},
+    {"q_no": "14", "question": "For \(y = f(x)\) representing a scenario where \(y = e^{2x} \cdot sin(x)\), determine how the derivative involves multiple components of this function?", "options": {"a": "Direct product", "b": "Division of rates", "c": "Chain of exponential growth and sinusoidal oscillation", "d": "Sum of trigonometric derivatives"}, "correct_answer": "Chain of exponential growth and sinusoidal oscillation"},
+    {"q_no": "15", "question": "Which application in engineering would utilize both \( \frac{dy}{dx} \) and trigonometric functions alongside exponential growth models?", "options": {"a": "Electrical impedance", "b": "Optics wave phenomena", "c": "Thermodynamics phase transitions", "d": "Mechanical vibrations"}, "correct_answer": "Mechanical vibrations"},
+    {"q_no": "16", "question": "Determining the rate at which distance changes over time in wave propagation problems often employs derivatives involving both trigonometric wave functions and exponential decay models. In this context, which scenario would you focus on?", "options": {"a": "Heat diffusion through materials", "b": "Electrical signal attenuation", "c": "Seismic wave amplitudes", "d": "Chemical reaction rates"}, "correct_answer": "Seismic wave amplitudes"},
+    {"q_no": "17", "question": "In physics problems involving circular motion, what derivative would you calculate if \(y = \cos(x)\) represents angular displacement over time \(t\)?", "options": {"a": "sin(x)", "b": "-cos(x)", "c": "2cos(x)", "d": "-2sin(x)"}, "correct_answer": "-cos(x)"},
+    {"q_no": "18", "question": "For \(y = \sin(3x)\), which derivative rule would best apply when analyzing instantaneous rate changes at \(x\)?", "options": {"a": "Product rule", "b": "Quotient rule", "c": "Chain rule", "d": "Power rule"}, "correct_answer": "Chain rule"},
+    {"q_no": "19", "question": "Understanding derivatives in physical systems often requires combining insights from multiple theories. Which pair exemplifies this integration effectively?", "options": {"a": "Electromagnetism - Oscillatory fields", "b": "Quantum mechanics - Uncertainty principle", "c": "Classical mechanics - Motion under force", "d": "Thermodynamics - Entropy changes"}, "correct_answer": "Electromagnetism - Oscillatory fields"},
+    {"q_no": "20", "question": "Considering complex scenarios like electromagnetic radiation frequency dependence on position, how would derivatives involving both exponential decay and trigonometric functions aid understanding?" ", "options": {"a": "Determining rate of light intensity changes", "b": "Analyzing wave phase shifts", "c": "Predicting material thermal conductivity", "d": "Measuring atmospheric pressure variations"}, "correct_answer": "Analyzing wave phase shifts"}
+]
+Time Taken: 152.24 seconds | Tokens Produced: 916 | ⚡⚡⚡ Token Speed 6.017 tokens/sec
+⚠️ Warning: Expected 16 MCQs but got 10...
+⚠️ Error: Invalid JSON format...
+
+Attempt 3 out of 5 for Syllabus 1... exaone3.5:2.4b
+🔍🔍🔍 Generated MCQ:
+
+ It seems there was a misunderstanding based on the provided guidelines for generating 16 MCQs from the given syllabus but ending up with only 14 questions as initially outlined. Let me correct and complete the request by generating all 16 MCQs accordingly:json
+[
+    {"q_no": "1", "question": "Which definition correctly interprets the derivative of a function at a point?", "options": {"a": "The slope of the tangent line at that point", "b": "The area under the curve up to that point", "c": "The maximum value of the function", "d": "The sum of all function values"}, "correct_answer": "The slope of the tangent line at that point"},
+    {"q_no": "2", "question": "What technique would you use to differentiate \( f(x) = x^3 \)?", "options": {"a": "Product rule", "b": "Chain rule", "c": "Quotient rule", "d": "Power rule"}, "correct_answer": "d"},
+    {"q_no": "3", "question": "Which trigonometric function's derivative involves sine or cosine?", "options": {"a": "Exponential", "b": "Logarithmic", "c": "Square root", "d": "Sine"}, "correct_answer": "d"},
+    {"q_no": "4", "question": "Applying the chain rule to \( g(h(x)) = \sin(x^2) \), what is \( g'(x) \)?", "options": {"a": "cos(x^2) * x", "b": "cos(x^2)", "c": "-cos(x^2) * 2x", "d": "sin(x^2)"}, "correct_answer": "a"},
+    {"q_no": "5", "question": "Which product rule correctly differentiates \( f(x)g(x) = x^2 \cos(x) \)?", "options": {"a": "x^2 \cos(x) + 2x \cos(x)", "b": "x^2 \cos(x) + \cos(x) - 2x \sin(x)", "c": "x \cos(x)", "d": "2x \cos(x)"}, "correct_answer": "a"},
+    {"q_no": "6", "question": "Which quotient rule would differentiate \( f(x) = \frac{sin(x)}{x} \)?", "options": {"a": "\cos(x) + \frac{x \cos(x) - sin(x)}{x^2}", "b": "\frac{x \sin(x)}{x^2}", "c": "\frac{x \cos(x)}{x^2}", "d": "\frac{cos(x)}{x}"}, "correct_answer": "a"},
+    {"q_no": "7", "question": "Geometrically, what does the derivative represent in terms of slope?", "options": {"a": "Area under curve", "b": "Slope of tangent", "c": "Velocity", "d": "Area between curves"}, "correct_answer": "b"},
+    {"q_no": "8", "question": "For \( y = \frac{v}{r} \) representing velocity over distance, what rule did Newton apply?", "options": {"a": "Chain rule", "b": "Quotient rule", "c": "Product rule", "d": "Differentiation of derivatives"}, "correct_answer": "b"},
+    {"q_no": "9", "question": "Which scenario best applies differentiation in physics to calculate motion?", "options": {"a": "Finding velocity from position", "b": "Calculating kinetic energy", "c": "Determining acceleration due to gravity", "d": "Estimating the area under a velocity curve"}, "correct_answer": "a"},
+    {"q_no": "10", "question": "What is \( f'(x) \) if \( f(x) = e^{2x} \)?", "options": {"a": "e^{2x}", "b": "2e^{2x}", "c": "e^{x^2}", "d": "4e^{2x}"}, "correct_answer": "d"},
+    {"q_no": "11", "question": "If \( g(x) = \tan(x) \), which derivative rule should you apply?", "options": {"a": "Quotient rule", "b": "Chain rule", "c": "Product rule", "d": "None of the above"}, "correct_answer": "b"},
+    {"q_no": "12", "question": "For \( h(x) = \frac{x^3 - 2x}{x^2} \), what is \( h'(x) \)?", "options": {"a": "\frac{3x^2 - 2x - 2x + 4}{x^3}", "b": "\frac{x^2 - 4}{x^3}", "c": "\frac{6x - 4}{x^3}", "d": "\frac{3x^2 + 4}{x^3}"}, "correct_answer": "c"},
+    {"q_no": "13", "question": "Applying the product rule to \( f(x) = x^2 \cos(x) \), what term simplifies to \( \cos(x) \)?", "options": {"a": "x \cos(x)", "b": "-x \cos(x)", "c": "2x \cos(x)", "d": "x^2 \cos(x)"}, "correct_answer": "a"},
+    {"q_no": "14", "question": "Which scenario correctly demonstrates applying the quotient rule?", "options": {"a": "Calculus of motion", "b": "Surface area", "c": "Probability calculation", "d": "Chemical reaction rates"}, "correct_answer": "a"},
+    {"q_no": "15", "question": "What would differentiate \( k(x) = e^{x^3} \)?", "options": {"a": "e^{x^3}", "b": "3x^2 e^{x^3}", "c": "e^{x^3} + 3x^2", "d": "e^{x^3} + e^{x^3}"}, "correct_answer": "b"},
+    {"q_no": "16", "question": "For \( p(x) = \frac{sin(x)}{x} \), what rule is applied for \( p'(x) \)?", "options": {"a": "Product rule", "b": "Quotient rule", "c": "Chain rule", "d": "Not applicable"}, "correct_answer": "b"},
+    {"q_no": "17", "question": "In physics, if \( T = mv \) where \( v \) is velocity, what does differentiation help find?", "options": {"a": "Kinetic energy", "b": "Potential energy", "c": "Mass", "d": "Speed"}, "correct_answer": "a"},
+    {"q_no": "18", "question": "For \( q(x) = \ln(x^3 + 1) \), applying logarithmic differentiation yields:", "options": {"a": "3ln(x^3 + 1)", "b": "\frac{3}{x^3 + 1}", "c": "\ln(x^3 + 1)", "d": "\frac{1}{x^3 + 1}"}, "correct_answer": "b"},
+    {"q_no": "19", "question": "What mathematical concept connects derivatives with acceleration in \( a = \frac{dv}{dt} \)?", "options": {"a": "Quotient rule", "b": "Chain rule", "c": "Product rule", "d": "Fundamental theorem of calculus"}, "correct_answer": "b"},
+    {"q_no": "20", "question": "In the context of velocity and distance, \( x = v t \), find \( \frac{dx}{dt} \) using differentiation:", "options": {"a": "v", "b": "v^2", "c": "v", "d": "t"}, "correct_answer": "a"},
+}
+Time Taken: 153.31 seconds | Tokens Produced: 716 | ⚡⚡⚡ Token Speed 4.670 tokens/sec
+⚠️ Warning: Expected 16 MCQs but got 10...
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+
+Attempt 4 out of 5 for Syllabus 1... exaone3.5:2.4b
+🔍🔍🔍 Generated MCQ:
+
+ It appears there was a mix-up as the provided syllabus content differs significantly from the previous chemistry syllabus. However, based on your initial instruction and the requirement to create 16 MCQs, here is the JSON array formatted according to your specifications, assuming a hypothetical syllabus related to Calculus for Edexcel Grade 12 Mathematics:json
+[
+    {"q_no": "1", "question": "Which interpretation correctly defines a derivative at a point?", "options": {"a": "The slope of the tangent line", "b": "The area under the curve", "c": "The rate of change at a specific point", "d": "The maximum value of the function"}, "correct_answer": "The rate of change at a specific point"},
+    {"q_no": "2", "question": "What technique is used to differentiate polynomials like f(x) = ax^5 + bx^3 + cx + d?", "options": {"a": "Quotient rule", "b": "Product rule", "c": "Chain rule", "d": "Direct formula substitution"}, "correct_answer": "Direct formula substitution"},
+    {"q_no": "3", "question": "Identify the derivative formula for sin(x) using trigonometric functions.", "options": {"a": "cos(x)", "b": "-sin(x)", "c": "-cos(x)", "d": "tan(x)"}, "correct_answer": "-sin(x)"},
+    {"q_no": "4", "question": "Apply the chain rule to differentiate f(g(x)) = sin(2x).", "options": {"a": "cos(2x) * sin(x)", "b": "cos(2x) * cos(x)", "c": "-sin(2x)", "d": "cos(2x) / sin(x)"}, "correct_answer": "cos(2x) * sin(x)"},
+    {"q_no": "5", "question": "Which rule multiplies functions when applying to products of expressions?", "options": {"a": "Derivative of the product", "b": "Chain rule", "c": "Product rule", "d": "Quotient rule"}, "correct_answer": "Product rule"},
+    {"q_no": "6", "question": "The derivative of dx/dt represents the rate of change of x with respect to t. In physics, this could relate to", "options": {"a": "Area under velocity curve", "b": "Acceleration", "c": "Velocity", "d": "Displacement"}, "correct_answer": "Acceleration"},
+    {"q_no": "7", "question": "Which option demonstrates differentiation involving division?", "options": {"a": "sin(x)/cos(x)", "b": "ln(x)", "c": "e^x / x", "d": "cos(x) * x"}, "correct_answer": "sin(x)/cos(x)"},
+    {"q_no": "8", "question": "Geometrically, what does the derivative signified represent in relation to a curve?", "options": {"a": "Curvature", "b": "Tangent line", "c": "Area enclosed", "d": "Distance traveled"}, "correct_answer": "Tangent line"},
+    {"q_no": "9", "question": "Consider the function f(x) = (x^2 - 1)^3. Differentiate using product rule with respect to x.", "options": {"a": "(6x^4 - 12x^2 + 3)", "b": "(3x^5 - 6x^3 + x^2)", "c": "(2x^3 - x)", "d": "(x^2 - 1)^2"}, "correct_answer": "(6x^4 - 12x^2 + 3)"},
+    {"q_no": "10", "question": "In physics, if v(t) = t^2 + 1 is velocity as a function of time, what is dv/dt?", "options": {"a": "2t", "b": "1", "c": "-2t", "d": "None"}, "correct_answer": "2t"},
+    {"q_no": "11", "question": "Identify which differentiation rule involves differentiating both parts of a quotient separately?", "options": {"a": "Chain rule", "b": "Product rule", "c": "Quotient rule", "d": "Derivative of sine"}, "correct_answer": "Quotient rule"},
+    {"q_no": "12", "question": "What interpretation applies when calculating the derivative of x^n?", "options": {"a": "Constant term", "b": "Linear function", "c": "Power rule", "d": "Square term"}, "correct_answer": "Power rule"},
+    {"q_no": "13", "question": "Consider f(x) = x^2 + sin(x). Differentiate f'(x) to identify the component related to x^2.", "options": {"a": "sin(x)", "b": "cos(x)", "c": "x^2", "d": "2x"}, "correct_answer": "x^2"},
+    {"q_no": "14", "question": "Which function would have a derivative based on the chain rule?", "options": {"a": "sin(x)", "b": "ln(x)", "c": "tan(x)", "d": "cos(x)"}, "correct_answer": "ln(x)"},
+    {"q_no": "15", "question": "Given u = tan(v), differentiate both sides with respect to x using chain rule.", "options": {"a": "sec^2(v)", "b": "sin(v)/cos^2(v)", "c": "tan(v)", "d": "csc^2(v)"}, "correct_answer": "sin(v)/cos^2(v)"},
+    {"q_no": "16", "question": "For v(t) = cos(t), find dv/dt in terms of t; this represents instantaneous change of", "options": {"a": "Velocity", "b": "Distance", "c": "Area", "d": "Speed"}, "correct_answer": "Velocity"},
+    {"q_no": "17", "question": "If x(t) = t^3 + 2t, dv/dt for x as above would represent the rate of change of", "options": {"a": "Position", "b": "Time", "c": "Velocity", "d": "Acceleration"}, "correct_answer": "Velocity"},
+    {"q_no": "18", "question": "To find dy/dx for y = e^(3x) * cos(x), apply appropriate rules to differentiate y with respect to x.", "options": {"a": "3e^(3x)cos(x) + e^(3x)sin(x)", "b": "e^(3x)sin(x)", "c": "3e^(3x)cos(x)", "d": "cos(x)/e^(3x)"}, "correct_answer": "3e^(3x)cos(x) + e^(3x)sin(x)"},
+    {"q_no": "19", "question": "Identify what derivative dy/dx = 2 represents given y = x^2 + 1", "options": {"a": "dy/dx value", "b": "Derivative of x^2", "c": "Acceleration", "d": "Velocity"}, "correct_answer": "dy/dx value"},
+    {"q_no": "20", "question": "Applying differentiation rules, dy/dx for y = x^2 ln(x) requires consideration of which rule?", "options": {"a": "Chain rule", "b": "Power rule", "c": "Quotient rule", "d": "Product rule"}, "correct_answer": "Product rule"}
+]
+Time Taken: 153.45 seconds | Tokens Produced: 704 | ⚡⚡⚡ Token Speed 4.588 tokens/sec
+⚠️ Warning: Expected 16 MCQs but got 10...
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+
+Attempt 5 out of 5 for Syllabus 1... exaone3.5:2.4b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What does the derivative of a function represent graphically?", "options": {"a": "Gradient", "b": "Area under curve", "c": "Velocity", "d": "Position"}, "correct_answer": "Gradient"},
+    {"q_no": "2", "question": "Which rule is used to differentiate products of functions?", "options": {"a": "Sum Rule", "b": "Product Rule", "c": "Difference Rule", "d": "Quotient Rule"}, "correct_answer": "Product Rule"},
+    {"q_no": "3", "question": "Identify which function requires the chain rule for differentiation?", "options": {"a": "sin(x^2)", "b": "x^5", "c": "cos(x)/sin(x)", "d": "log(x)"}, "correct_answer": "sin(x^2)"},
+    {"q_no": "4", "question": "What technique involves multiplying two functions and summing their derivatives?", "options": {"a": "Sum Rule", "b": "Chain Rule", "c": "Product Rule", "d": "Quotient Rule"}, "correct_answer": "Product Rule"},
+    {"q_no": "5", "question": "Which trigonometric function's derivative involves a basic trigonometric identity?", "options": {"a": "cos(x)", "b": "tan(x)", "c": "sin(x)", "d": "cot(x)"}, "correct_answer": "sin(x)"},
+    {"q_no": "6", "question": "Differentiate implicitly given f'(x) = (x^2 + 1) / (x^3 + 2x) using the quotient rule.", "options": {"a": "f'(x) = (-2x^2 - 2) / (x^3 + 2x)^2", "b": "f'(x) = (-2x^2 - 2) / (x^3 + 2x)", "c": "f'(x) = (-2x^2 - 2) / (x^3 + 2x)^3", "d": "f'(x) = (-2x^2 + 2) / (x^3 + 2x)^2"}, "correct_answer": "f'(x) = (-2x^2 - 2) / (x^3 + 2x)^2"},
+    {"q_no": "7", "question": "Which scenario typically demands the chain rule?", "options": {"a": "f(g(x)) where g(x)^2 is inside f(u)", "b": "f(x)^2 where x itself is squared", "c": "f(sin(x))", "d": "f(e^x)"}, "correct_answer": "f(sin(x))"},
+    {"q_no": "8", "question": "Identify which application differentiates physical motion problems?", "options": {"a": "Geometric interpretation", "b": "Integration", "c": "Differentiation", "d": "Series expansion"}, "correct_answer": "Differentiation"},
+    {"q_no": "9", "question": "What rule applies when differentiating rational functions with non-linear numerators and denominators?", "options": {"a": "Sum Rule", "b": "Product Rule", "c": "Quotient Rule", "d": "Chain Rule"}, "correct_answer": "Quotient Rule"},
+    {"q_no": "10", "question": "Which function would exhibit higher rate of change compared to cos(x) at any point?", "options": {"a": "sin(2x)", "b": "sin(x)", "c": "cos(x)", "d": "tan(x)"}, "correct_answer": "sin(2x)"},
+    {"q_no": "11", "question": "Which technique deals with differentiating compositions of functions involving powers?", "options": {"a": "Product Rule", "b": "Sum Rule", "c": "Chain Rule", "d": "Quotient Rule"}, "correct_answer": "Product Rule"},
+    {"q_no": "12", "question": "What represents the geometric interpretation of the derivative of a function?", "options": {"a": "Slope of tangent", "b": "Area under curve", "c": "Change in height", "d": "Velocity"}, "correct_answer": "Slope of tangent"},
+    {"q_no": "13", "question": "Differentiate y = x^3(cos(x)) using the product rule.", "options": {"a": "y'(x) = 3x^2cos(x) + x^3(-sin(x))", "b": "y'(x) = 3x^3cos(x) + x^2sin(x)", "c": "y'(x) = x^3(-sin(x)) + cos(x)", "d": "y'(x) = 3x^2cos(x) - x^3sin(x)"}, "correct_answer": "y'(x) = 3x^2cos(x) + x^3(-sin(x))"},
+    {"q_no": "14", "question": "Which option correctly represents the derivative of an exponential function f(x) = e^x + 3x?", "options": {"a": "f'(x) = e^x + 3", "b": "f'(x) = e^x + x", "c": "f'(x) = e^x", "d": "f'(x) = e^x + 3x"}, "correct_answer": "f'(x) = e^x + x"},
+    {"q_no": "15", "question": "Which differentiation rule is pivotal for differentiating f(x)^n?", "options": {"a": "Power Rule", "b": "Product Rule", "c": "Chain Rule", "d": "Quotient Rule"}, "correct_answer": "Power Rule"}
+]
+
+# Displaying results
+for idx, q in enumerate(questions):
+    print(f"Question {idx+1}: {q['question']}")
+    print("Options:")
+    for option in q['options']:
+        print(f"- {option}")
+    print("\n")
+
+This code snippet organizes and prints out each question along with its options, structured to facilitate clear understanding and review of differentiation techniques and problems related to calculus concepts.
+Time Taken: 131.82 seconds | Tokens Produced: 541 | ⚡⚡⚡ Token Speed 4.104 tokens/sec
+⚠️ Warning: Expected 16 MCQs but got 10...
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+
+⚠️ Warning: After 5 attempts returning longest valid response.
+👏👏👏  FINAL MCQ  👏👏👏 for 1
+[
+   {
+      "q_no": "1",
+      "question": "What does the derivative of a function f(x) represent geometrically?",
+      "options": {
+         "a": "Area under the curve",
+         "b": "Slope of tangent",
+         "c": "Average rate of change",
+         "d": "Cumulative change"
+      },
+      "correct_answer": "Slope of tangent"
+   },
+   {
+      "q_no": "2",
+      "question": "Which technique is used to differentiate a function of the form f(x) = xn?",
+      "options": {
+         "a": "Chain rule",
+         "b": "Product rule",
+         "c": "Quotient rule",
+         "d": "Power rule"
+      },
+      "correct_answer": "Power rule"
+   },
+   {
+      "q_no": "3",
+      "question": "Which trigonometric function is easiest to differentiate directly?",
+      "options": {
+         "a": "Cosecant (csc)",
+         "b": "Sinusoid",
+         "c": "Cotangent (cot)",
+         "d": "Tangent (tan)"
+      },
+      "correct_answer": "Sinusoid"
+   },
+   {
+      "q_no": "4",
+      "question": "What is the purpose of applying the chain rule in differentiation?",
+      "options": {
+         "a": "To combine simpler derivatives",
+         "b": "To isolate constants",
+         "c": "To simplify fractions",
+         "d": "To calculate inverse functions"
+      },
+      "correct_answer": "To combine simpler derivatives"
+   },
+   {
+      "q_no": "5",
+      "question": "Which rule facilitates differentiation of products where at least one function involves multiple terms?",
+      "options": {
+         "a": "Substitution rule",
+         "b": "Product rule",
+         "c": "Derivative of exponential function",
+         "d": "Addition rule"
+      },
+      "correct_answer": "Product rule"
+   },
+   {
+      "q_no": "6",
+      "question": "In differentiation involving quotients, what must be considered when differentiating the numerator and denominator separately?",
+      "options": {
+         "a": "Ignore the denominator",
+         "b": "Apply quotient rule directly",
+         "c": "Take derivatives of both separately then multiply",
+         "d": "Replace with simpler expressions"
+      },
+      "correct_answer": "Take derivatives of both separately then multiply"
+   },
+   {
+      "q_no": "7",
+      "question": "How do you interpret the geometric meaning of f'(x) being positive at a point?",
+      "options": {
+         "a": "The tangent line is horizontal",
+         "b": "The curve is increasing",
+         "c": "The slope is undefined",
+         "d": "The area enclosed is increasing"
+      },
+      "correct_answer": "The curve is increasing"
+   },
+   {
+      "q_no": "8",
+      "question": "Which scenario would directly apply differentiation to find velocity from position?",
+      "options": {
+         "a": "Finding acceleration",
+         "b": "Measuring force applied",
+         "c": "Determining rate of change in displacement",
+         "d": "Calculating average speed"
+      },
+      "correct_answer": "Determining rate of change in displacement"
+   },
+   {
+      "q_no": "9",
+      "question": "Identify the rule NOT typically used for simplifying complex rational expressions into simpler forms.",
+      "options": {
+         "a": "Chain rule",
+         "b": "Product rule",
+         "c": "Derivative of inverse functions",
+         "d": "Intermediate value theorem"
+      },
+      "correct_answer": "Derivative of inverse functions"
+   },
+   {
+      "q_no": "10",
+      "question": "Which technique involves setting a function equal to zero to find critical points for optimization problems?",
+      "options": {
+         "a": "Critical points",
+         "b": "Maximum/minimum testing",
+         "c": "Average rate of change",
+         "d": "Intermediate value theorem"
+      },
+      "correct_answer": "Critical points"
+   }
+]
+TIME for MCQ: 80.084 | ⚡⚡⚡ Token Speed: 4.745 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 433 | TOTAL Time: 679.20
+
+********************************************************************************
+Syllabus NUMBER 2
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Cambridge Grade 10 Physics - Waves - Electromagnetic Spectrum:
+- Definition and characteristics of electromagnetic waves
+- Spectral classification and identification of wave types
+- Interactions of waves with matter
+- Speed of electromagnetic waves in different mediums
+- Applications of the electromagnetic spectrum in technology
+TIME for SYLLABUS: 8.307 | ⚡⚡⚡ Token Speed: 5.778 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 10
+Attempt 1 out of 5 for Syllabus 2... exaone3.5:2.4b
+********************************************************************************
+Syllabus NUMBER 1
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Edexcel Grade 12 Mathematics - Calculus - Differentiation:
+- Definition and basic rules of differentiation
+- Applying derivatives to find rates of change
+- Sum and difference rule for differentiation
+- Product rule for differentiation
+- Quotient rule application
+- Inverse functions and implicit differentiation
+- Solving practical optimization problems using derivatives
+TIME for SYLLABUS: 8.699 | ⚡⚡⚡ Token Speed: 6.208 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 14
+Attempt 1 out of 5 for Syllabus 1... exaone3.5:2.4b
+********************************************************************************
+Syllabus NUMBER 1
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Edexcel Grade 12 Mathematics - Calculus - Differentiation:
+- Definition and interpretation of derivatives
+- Power rule and constant multiples rule
+- Product rule application
+- Quotient rule formulation
+- Fundamental theorem of calculus basics
+- Derivatives of trigonometric functions
+- Evaluating derivatives of piecewise functions
+TIME for SYLLABUS: 10.95 | ⚡⚡⚡ Token Speed: 4.383 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 14
+Attempt 1 out of 5 for Syllabus 1... exaone3.5:2.4b
+********************************************************************************
+Syllabus NUMBER 1
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Edexcel Grade 12 Mathematics - Calculus - Differentiation:
+- Definition and interpretation of derivatives
+- Rules for differentiating polynomials, exponentials, logarithms, trigonometric functions
+- Product rule and quotient rule applications
+- Implicit differentiation
+- Geometric interpretation of derivative as slope of tangent lines
+- Solving equations involving derivatives
+TIME for SYLLABUS: 8.484 | ⚡⚡⚡ Token Speed: 5.894 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 5 for Syllabus 1... exaone3.5:2.4b
+********************************************************************************
+Syllabus NUMBER 1
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Edexcel Grade 12 Mathematics - Calculus - Differentiation:
+- Definition and concept of derivatives
+- Power Rule for differentiation
+- Product Rule application
+- Quotient Rule application
+- Chain Rule application
+- Examples and practice problems for differentiation techniques
+- Application of derivatives in real-world contexts
+TIME for SYLLABUS: 8.675 | ⚡⚡⚡ Token Speed: 5.533 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 14
+Attempt 1 out of 5 for Syllabus 1... exaone3.5:2.4b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "Which concept defines the instantaneous rate of change of a function?", "options": {"a": "Area under a curve", "b": "Derivative", "c": "Integral", "d": "Slope of the tangent line"}, "correct_answer": "Derivative"},
+    {"q_no": "2", "question": "What rule states that the derivative of \(x^n\) is \(nx^{n-1}\)?", "options": {"a": "Power Rule", "b": "Quotient Rule", "c": "Chain Rule", "d": "Product Rule"}, "correct_answer": "Power Rule"},
+    {"q_no": "3", "question": "In applying the Product Rule, which of these correctly identifies the form?", "options": {"a": "(uv)' = u'v + uv'", "b": "(uv)' = u + v", "c": "uv^n", "d": "uv^2"}, "correct_answer": "(uv)' = u'v + uv'"},
+    {"q_no": "4", "question": "The Quotient Rule is formulated as which expression?", "options": {"a": "(f/g)' = (f'g - fg')/g^2", "b": "(f/g)' = f'g + fg'", "c": "(f/g)' = f'g^2 - fg^2", "d": "(f/g)' = fg"}, "correct_answer": "(f/g)' = (f'g - fg')/g^2"},
+    {"q_no": "5", "question": "Which application context directly uses derivatives for optimizing systems?", "options": {"a": "Understanding motion", "b": "Evaluating electrical circuits", "c": "Calculating volume", "d": "Measuring temperature"}, "correct_answer": "Understanding motion"},
+    {"q_no": "6", "question": "Which scenario demonstrates the derivative showing a maximum value?", "options": {"a": "A hilltop", "b": "A car's fuel efficiency", "c": "A temperature increase", "d": "An increasing population"}, "correct_answer": "A hilltop"},
+    {"q_no": "7", "question": "Which rule applies when differentiating a function composed of several functions?", "options": {"a": "Product Rule", "b": "Sum Rule", "c": "Average Rule", "d": "Integral Rule"}, "correct_answer": "Product Rule"},
+    {"q_no": "8", "question": "What is a key application of derivatives in economics?", "options": {"a": "Estimating depreciation values", "b": "Optimizing profit margins", "c": "Measuring unemployment rates", "d": "Predicting population growth"}, "correct_answer": "Optimizing profit margins"},
+    {"q_no": "9", "question": "Which derivative scenario typically indicates a function's rate of change relative to time?", "options": {"a": "Velocity calculation", "b": "Mass distribution", "c": "Density measurement", "d": "Gravitational pull"}, "correct_answer": "Velocity calculation"},
+    {"q_no": "10", "question": "Which term describes the slope of the tangent line at any point on a curve?", "options": {"a": "Tangent", "b": "Derivative", "c": "Instantaneous rate", "d": "Slope"}, "correct_answer": "Derivative"},
+    {"q_no": "11", "question": "What derivative technique would you use if dealing with a function composed of sine and cosine terms?", "options": {"a": "Chain Rule", "b": "Product Rule", "c": "Quotient Rule", "d": "Sum Rule"}, "correct_answer": "Chain Rule"},
+    {"q_no": "12", "question": "Which derivative example illustrates finding critical points for maxima/minima?", "options": {"a": "f(x) = sin(x)", "b": "f(x) = e^x", "c": "f(x) = x^3 - 3x", "d": "f(x) = x^2 + 2x"}, "correct_answer": "f(x) = x^3 - 3x"},
+    {"q_no": "13", "question": "In calculating the derivative of a function with fractional exponents, which rule simplifies the process?", "options": {"a": "Power Rule", "b": "Quotient Rule", "c": "Chain Rule", "d": "Product Rule"}, "correct_answer": "Power Rule"},
+    {"q_no": "14", "question": "Which differentiation technique involves considering two functions sequentially where each subsequent application includes the derivative of the previous function?", "options": {"a": "Product Rule", "b": "Quotient Rule", "c": "Chain Rule", "d": "Average Rule"}, "correct_answer": "Chain Rule"}
+]
+Time Taken: 101.78 seconds | Tokens Produced: 476 | ⚡⚡⚡ Token Speed 4.677 tokens/sec
+⚠️ Error: Invalid JSON format...
+
+Attempt 2 out of 5 for Syllabus 1... exaone3.5:2.4b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What does the derivative measure at any point \( x \) in terms of a function \( f(x) \)?", "options": {"a": "The slope of the tangent line", "b": "The value of the function at \( x \)", "c": "The rate of change of \( x \)", "d": "The integral of \( f(x) \)"}, "correct_answer": "The slope of the tangent line"},
+    {"q_no": "2", "question": "Which rule is NOT used when differentiating a product of two functions \( u(x) \) and \( v(x) \)?", "options": {"a": "Product Rule", "b": "Power Rule", "c": "Chain Rule", "d": "Quotient Rule"}, "correct_answer": "Power Rule"},
+    {"q_no": "3", "question": "The Chain Rule states that \( \frac{d}{dx} [f(g(x))] = \), what is the correct notation?", "options": {"a": "f'(g(x)) \cdot g'(x)", "b": "g'(x) \cdot f'(x)", "c": "f'(x) + g'(x)", "d": "g'(x) \cdot f'(g(x))"}, "correct_answer": "f'(g(x)) \cdot g'(x)"},
+    {"q_no": "4", "question": "In applying the Quotient Rule \( \frac{d}{dx} [\frac{u(x)}{v(x)}] = \), what are the correct components?", "options": {"a": " \frac{u'(x)v(x) - u(x)v'(x)}{[v(x)]^2} }", "correct_answer": " \frac{u'(x)v(x) - u(x)v'(x)}{[v(x)]^2}"},
+    {"q_no": "5", "question": "When differentiating \( \sin(x^2) \), which rule combination would be MOST applicable?", "options": {"a": "Chain Rule", "b": "Product Rule", "c": "Power Rule", "d": "Quotient Rule"}, "correct_answer": "Product Rule"},
+    {"q_no": "6", "question": "What does the derivative help determine about a function in a context involving rates of change?", "options": {"a": "The location of maxima and minima", "b": "Future stock prices", "c": "Instantaneous velocity", "d": "Temperature distribution"}, "correct_answer": "The location of maxima and minima"},
+    {"q_no": "7", "question": "Given \( f(x) = x^3 - 2x + 1 \) and \( g(x) = x^2 \), calculate \( \frac{d}{dx}[f(g(x))] \) using the appropriate rules.", "options": {"a": "7x - 2 + \frac{2}{x^2}", "b": "3x^2 - 2x", "c": "-3x^2 + 2x + 1", "d": "x^5 - x^3"}, "correct_answer": "7x - 2 + \frac{2}{x^2}"},
+    {"q_no": "8", "question": "Which technique would you NOT apply when differentiating \( h(x) = e^{2x} \)?", "options": {"a": "Chain Rule", "b": "Power Rule", "c": "Quotient Rule", "d": "Product Rule"}, "correct_answer": "Quotient Rule"},
+    {"q_no": "9", "question": "For the function \( k(x) = \ln(3x) \), identify which rule was essential in its differentiation.", "options": {"a": "Chain Rule", "b": "Power Rule", "c": "Logarithmic Rule", "d": "Quotient Rule"}, "correct_answer": "Chain Rule"},
+    {"q_no": "10", "question": "Which scenario would utilize the concept of derivatives best outside calculus?", "options": {"a": "Predicting weather patterns", "b": "Optimizing supply chain logistics", "c": "Calculating compound interest", "d": "Estimating material stress"}, "correct_answer": "Calculating compound interest"},
+    {"q_no": "11", "question": "In differentiating \( \frac{x^4}{ln(x)} \) using appropriate rules, which term represents the derivative with respect to \( x \)?", "options": {"a": "4x^3 / ln^2(x)", "b": "x^4ln(x)", "c": "4x^3ln^2(x)", "d": "ln(x)ln(x^4)"}, "correct_answer": "4x^3 / ln^2(x)"},
+    {"q_no": "12", "question": "Given \( j(x) = \frac{1}{\sqrt{x}} \), determine how you would approach finding \( \frac{dj}{dx} \) using differentiation rules.", "options": {"a": "Applying Chain Rule multiple times", "b": "Directly simplifying using algebraic identities", "c": "Using substitution", "d": "Applying Derivative of Logarithmic Functions"}, "correct_answer": "Applying Chain Rule multiple times"},
+    {"q_no": "13", "question": "Which function requires both the Chain Rule and Product Rule during differentiation?", "options": {"a": "f(x) = e^x cos(x)", "b": "g(x) = sin(x^2)", "c": "h(x) = x^2 ln(x)", "d": "k(x) = ln(2x)"}, "correct_answer": "h(x) = x^2 ln(x)"},
+    {"q_no": "14", "questionQuestion": "In analyzing instantaneous velocity from position data, which differentiation concept is CRUCIAL?", "options": {"a": "Finding maximum values", "b": "Average rate of change", "c": "Instantaneous rate of change", "d": "Total displacement"}, "correct_answer": "Instantaneous rate of change"}
+]
+Time Taken: 128.54 seconds | Tokens Produced: 568 | ⚡⚡⚡ Token Speed 4.419 tokens/sec
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+
+Attempt 3 out of 5 for Syllabus 1... exaone3.5:2.4b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "Which rule is used to differentiate a function that is a power of another variable?", "options": {"a": "Chain Rule", "b": "Power Rule", "c": "Quotient Rule", "d": "Product Rule"}, "correct_answer": "Power Rule"},
+    {"q_no": "2", "question": "What does the derivative represent graphically?", "options": {"a": "Rate of change", "b": "Area under the curve", "c": "Area enclosed by curve", "d": "Total change"}, "correct_answer": "Rate of change"},
+    {"q_no": "3", "question": "Which rule applies when differentiating a product of two functions?", "options": {"a": "Derivative of Sum Rule", "b": "Product Rule", "c": "Integration Rule", "d": "Chain Rule"}, "correct_answer": "Product Rule"},
+    {"q_no": "4", "question": "What scenario would involve applying the Quotient Rule?", "options": {"a": "Differentiating f(x)/g(x)", "b": "Differentiating sin(x)/cos(x)", "c": "Finding the tangent line", "d": "Determining inflection points"}, "correct_answer": "Differentiating f(x)/g(x)"},
+    {"q_no": "5", "question": "Chain Rule is essential for differentiating composite functions because it accounts for derivatives of nested functions. True or False?", "options": {"a": "True", "b": "False"}, "correct_answer": "True"},
+    {"q_no": "6", "question": "Which derivative scenario demonstrates the highest degree of mathematical complexity involving multiple rules?", "options": {"a": "Differentiating sin(3x) using chain rule", "b": "Differentiating x^2 + x using power rule", "c": "Differentiating x^3/2 using product rule", "d": "Differentiating e^x using exponential rule"}, "correct_answer": "Differentiating sin(3x) using chain rule"},
+    {"q_no": "7", "question": "When finding derivatives in real-world applications, derivatives of polynomial functions often utilize which concept?", "options": {"a": "Integration", "b": "Derivatives", "c": "Limits", "d": "Exponential Growth"}, "correct_answer": "Derivatives"},
+    {"q_no": "8", "question": "Which application correctly illustrates the use of multiple differentiation rules in sequence?", "options": {"a": "Finding the velocity of a particle whose position is given by f(t) = t^3(sin(2t))", "b": "Calculating the average speed over a straight line segment", "c": "Estimating population growth using logistic functions", "d": "Determining the rate of water flow through a pipe"}, "correct_answer": "Finding the velocity of a particle whose position is given by f(t) = t^3(sin(2t))"},
+    {"q_no": "9", "question": "What rule would be inappropriate for differentiating functions that involve fractional powers?", "options": {"a": "Quotient Rule", "b": "Power Rule", "c": "Chain Rule", "d": "Integration Rule"}, "correct_answer": "Integration Rule"},
+    {"q_no": "10", "question": "Identify the derivative technique used when dealing with complex functions involving logarithms and exponents.", "options": {"a": "Logarithmic Differentiation", "b": "Differentiation of Simple Polynomials", "c": "Addition Rule", "d": "Differentiation via Limits"}, "correct_answer": "Logarithmic Differentiation"},
+    {"q_no": "11", "question": "Which derivative scenario involves multiple rules simultaneously?", "options": {"a": "Differentiating (x^4+2x^3)^2", "b": "Finding the instantaneous rate of change of cos(x^2)", "c": "Calculating the derivative of x^2 using basic rules", "d": "Evaluating limits for a polynomial function"}, "correct_answer": "Finding the instantaneous rate of change of cos(x^2)"},
+    {"q_no": "12", "question": "For functions with trigonometric expressions within polynomials, which differentiation technique is crucial?", "options": {"a": "Integration", "b": "Chain Rule", "c": "Derivative Rules", "d": "Exponential Growth Analysis"}, "correct_answer": "Derivative Rules"},
+    {"q_no": "13", "question": "Which option correctly demonstrates the practical application involving multiple differentiation principles?", "options": {"a": "Modeling acceleration with position functions involving polynomials and trigonometric functions", "b": "Determining area under a single curve", "c": "Calculating instantaneous rates of change with basic algebraic functions", "d": "Analyzing compound interest over successive periods"}, "correct_answer": "Modeling acceleration with position functions involving polynomials and trigonometric functions"},
+    {"q_no": "14", "question": "Which scenario exemplifies the application of differentiation techniques for finding rates of change in dynamic systems involving multiple variables?", "options": {"a": "Determining velocity from position involving multiple sinusoidal components", "b": "Calculating total distance traveled by a particle with a changing velocity function", "c": "Estimating average rate of production based on batch size changes", "d": "Comparing rates of cooling in identical objects"}, "correct_answer": "Determining velocity from position involving multiple sinusoidal components"}
+]
+Time Taken: 117.88 seconds | Tokens Produced: 589 | ⚡⚡⚡ Token Speed 4.996 tokens/sec
+✅✅✅ Successfully generated 14 MCQs. Attempts Needed 3
+👏👏👏  FINAL MCQ  👏👏👏 for 1
+[
+   {
+      "q_no": "1",
+      "question": "Which rule is used to differentiate a function that is a power of another variable?",
+      "options": {
+         "a": "Chain Rule",
+         "b": "Power Rule",
+         "c": "Quotient Rule",
+         "d": "Product Rule"
+      },
+      "correct_answer": "Power Rule"
+   },
+   {
+      "q_no": "2",
+      "question": "What does the derivative represent graphically?",
+      "options": {
+         "a": "Rate of change",
+         "b": "Area under the curve",
+         "c": "Area enclosed by curve",
+         "d": "Total change"
+      },
+      "correct_answer": "Rate of change"
+   },
+   {
+      "q_no": "3",
+      "question": "Which rule applies when differentiating a product of two functions?",
+      "options": {
+         "a": "Derivative of Sum Rule",
+         "b": "Product Rule",
+         "c": "Integration Rule",
+         "d": "Chain Rule"
+      },
+      "correct_answer": "Product Rule"
+   },
+   {
+      "q_no": "4",
+      "question": "What scenario would involve applying the Quotient Rule?",
+      "options": {
+         "a": "Differentiating f(x)/g(x)",
+         "b": "Differentiating sin(x)/cos(x)",
+         "c": "Finding the tangent line",
+         "d": "Determining inflection points"
+      },
+      "correct_answer": "Differentiating f(x)/g(x)"
+   },
+   {
+      "q_no": "5",
+      "question": "Chain Rule is essential for differentiating composite functions because it accounts for derivatives of nested functions. True or False?",
+      "options": {
+         "a": "True",
+         "b": "False"
+      },
+      "correct_answer": "True"
+   },
+   {
+      "q_no": "6",
+      "question": "Which derivative scenario demonstrates the highest degree of mathematical complexity involving multiple rules?",
+      "options": {
+         "a": "Differentiating sin(3x) using chain rule",
+         "b": "Differentiating x^2 + x using power rule",
+         "c": "Differentiating x^3/2 using product rule",
+         "d": "Differentiating e^x using exponential rule"
+      },
+      "correct_answer": "Differentiating sin(3x) using chain rule"
+   },
+   {
+      "q_no": "7",
+      "question": "When finding derivatives in real-world applications, derivatives of polynomial functions often utilize which concept?",
+      "options": {
+         "a": "Integration",
+         "b": "Derivatives",
+         "c": "Limits",
+         "d": "Exponential Growth"
+      },
+      "correct_answer": "Derivatives"
+   },
+   {
+      "q_no": "8",
+      "question": "Which application correctly illustrates the use of multiple differentiation rules in sequence?",
+      "options": {
+         "a": "Finding the velocity of a particle whose position is given by f(t) = t^3(sin(2t))",
+         "b": "Calculating the average speed over a straight line segment",
+         "c": "Estimating population growth using logistic functions",
+         "d": "Determining the rate of water flow through a pipe"
+      },
+      "correct_answer": "Finding the velocity of a particle whose position is given by f(t) = t^3(sin(2t))"
+   },
+   {
+      "q_no": "9",
+      "question": "What rule would be inappropriate for differentiating functions that involve fractional powers?",
+      "options": {
+         "a": "Quotient Rule",
+         "b": "Power Rule",
+         "c": "Chain Rule",
+         "d": "Integration Rule"
+      },
+      "correct_answer": "Integration Rule"
+   },
+   {
+      "q_no": "10",
+      "question": "Identify the derivative technique used when dealing with complex functions involving logarithms and exponents.",
+      "options": {
+         "a": "Logarithmic Differentiation",
+         "b": "Differentiation of Simple Polynomials",
+         "c": "Addition Rule",
+         "d": "Differentiation via Limits"
+      },
+      "correct_answer": "Logarithmic Differentiation"
+   },
+   {
+      "q_no": "11",
+      "question": "Which derivative scenario involves multiple rules simultaneously?",
+      "options": {
+         "a": "Differentiating (x^4+2x^3)^2",
+         "b": "Finding the instantaneous rate of change of cos(x^2)",
+         "c": "Calculating the derivative of x^2 using basic rules",
+         "d": "Evaluating limits for a polynomial function"
+      },
+      "correct_answer": "Finding the instantaneous rate of change of cos(x^2)"
+   },
+   {
+      "q_no": "12",
+      "question": "For functions with trigonometric expressions within polynomials, which differentiation technique is crucial?",
+      "options": {
+         "a": "Integration",
+         "b": "Chain Rule",
+         "c": "Derivative Rules",
+         "d": "Exponential Growth Analysis"
+      },
+      "correct_answer": "Derivative Rules"
+   },
+   {
+      "q_no": "13",
+      "question": "Which option correctly demonstrates the practical application involving multiple differentiation principles?",
+      "options": {
+         "a": "Modeling acceleration with position functions involving polynomials and trigonometric functions",
+         "b": "Determining area under a single curve",
+         "c": "Calculating instantaneous rates of change with basic algebraic functions",
+         "d": "Analyzing compound interest over successive periods"
+      },
+      "correct_answer": "Modeling acceleration with position functions involving polynomials and trigonometric functions"
+   },
+   {
+      "q_no": "14",
+      "question": "Which scenario exemplifies the application of differentiation techniques for finding rates of change in dynamic systems involving multiple variables?",
+      "options": {
+         "a": "Determining velocity from position involving multiple sinusoidal components",
+         "b": "Calculating total distance traveled by a particle with a changing velocity function",
+         "c": "Estimating average rate of production based on batch size changes",
+         "d": "Comparing rates of cooling in identical objects"
+      },
+      "correct_answer": "Determining velocity from position involving multiple sinusoidal components"
+   }
+]
+TIME for MCQ: 117.884 | ⚡⚡⚡ Token Speed: 4.996 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 637 | TOTAL Time: 356.90
+
+********************************************************************************
+Syllabus NUMBER 2
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Cambridge Grade 10 Physics - Waves - Electromagnetic Spectrum:
+- Definition and properties of electromagnetic waves
+- Electromagnetic spectrum classification: radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, gamma rays
+- Speed of electromagnetic waves in vacuum vs. different mediums
+- Applications of electromagnetic spectrum in technology and science
+- Interaction of electromagnetic waves with matter
+- Dispersion and Doppler effect demonstrations
+TIME for SYLLABUS: 10.452 | ⚡⚡⚡ Token Speed: 6.123 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 5 for Syllabus 2... exaone3.5:2.4b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What characterizes electromagnetic waves besides their ability to travel through space without a medium?", "options": {"a": "They are longitudinal waves", "b": "They require matter to propagate", "c": "They exhibit particle properties (photons)", "d": "They only occur in vacuum environments"}, "correct_answer": "They exhibit particle properties (photons)"},
+    {"q_no": "2", "question": "Which of these electromagnetic waves has the longest wavelength and lowest frequency?", "options": {"a": "Gamma rays", "b": "Visible light", "c": "Radio waves", "d": "Ultraviolet rays"}, "correct_answer": "Radio waves"},
+    {"q_no": "3", "question": "Which statement correctly describes the speed of electromagnetic waves compared across mediums?", "options": {"a": "Speed decreases as frequency increases", "b": "Speed remains constant regardless of frequency", "c": "Speed decreases as wavelength increases", "d": "Speed increases with increasing frequency"}, "correct_answer": "Speed decreases as frequency increases"},
+    {"q_no": "4", "question": "What phenomenon demonstrates the bending of electromagnetic waves due to changes in their medium?", "options": {"a": "Doppler effect", "b": "Refraction", "c": "Diffraction", "d": "Interference"}, "correct_answer": "Refraction"},
+    {"q_no": "5", "question": "Which electromagnetic wave application utilizes both radio wave propagation and photon detection?", "options": {"a": "FM radio broadcasting", "b": "MRI scanning", "c": "Laser therapy", "d": "Ultraviolet sterilization"}, "correct_answer": "MRI scanning"},
+    {"q_no": "6", "question": "What property makes ultraviolet waves suitable for specific scientific experiments involving fluorescence?", "options": {"a": "High energy photons", "b": "Low frequency", "c": "Visible spectrum overlap", "d": "Large molecular mass"}, "correct_answer": "High energy photons"},
+    {"q_no": "7", "question": "In the context of dispersion, which demonstration illustrates varying colors due to different wavelengths bending at distinct angles?", "options": {"a": "Rainbow formation", "b": "Refractive index meter", "c": "Lens experiment", "d": "Optical fiber"}, "correct_answer": "Rainbow formation"},
+    {"q_no": "8", "question": "Which technology primarily relies on the high-energy photons of gamma rays for medical imaging?", "options": {"a": "Computed Tomography (CT)", "b": "Ultrasound", "c": "MRI", "d": "Fluorescence imaging"}, "correct_answer": "Computed Tomography (CT)"},
+    {"q_no": "9", "question": "What effect is observed when electromagnetic waves interact with matter that significantly absorbs certain frequencies, causing a shift in observed wavelength?", "options": {"a": "Reflection", "b": "Scattering", "c": "Absorption", "d": "Diffraction"}, "correct_answer": "Absorption"},
+    {"q_no": "10", "question": "Which option represents an application utilizing microwaves to heat food rapidly due to resonant absorption?"", "options": {"a": "Microwave oven", "b": "Solar panel", "c": "Satellite communication", "d": "MRI scanner"}, "correct_answer": "Microwave oven"},
+    {"q_no": "11", "question": "Considering the Doppler effect, which scenario would show a significant change in frequency due to approaching/receding source?", "options": {"a": "A siren getting closer", "b": "Satellite orbiting Earth", "c": "Neutrino scattering", "d": "Radio waves from a galaxy moving away"}, "correct_answer": "A siren getting closer"},
+    {"q_no": "12", "question": "What type of interaction typically occurs when electromagnetic waves pass through matter, leading to attenuation?"", "options": {"a": "Absorption", "b": "Scattering", "c": "Reflection", "d": "Refraction"}, "correct_answer": "Absorption"}
+]
+Time Taken: 96.76 seconds | Tokens Produced: 441 | ⚡⚡⚡ Token Speed 4.558 tokens/sec
+⚠️ Error: Invalid JSON format...
+
+Attempt 2 out of 5 for Syllabus 2... exaone3.5:2.4b

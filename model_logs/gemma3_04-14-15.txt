@@ -1,0 +1,3319 @@
+********************************************************************************
+Syllabus NUMBER 1
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Edexcel Grade 12 Mathematics - Calculus - Differentiation:
+- Rules of differentiation (power rule, product rule, quotient rule, chain rule)
+- Differentiation of trigonometric, exponential, and logarithmic functions
+- Applications of differentiation (finding tangents, finding maxima and minima)
+- Related rates problems
+- Differentiation in 3D space
+- Curve Sketching
+TIME for SYLLABUS: 15.585 | ⚡⚡⚡ Token Speed: 3.337 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 6...
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "Which of the following accurately describes the power rule of differentiation?",
+        "options": {
+            "a": "d/dx [x^n] = n*x^(n-1)",
+            "b": "d/dx [x^n] = x^n",
+            "c": "d/dx [x^n] = 1/x^n",
+            "d": "d/dx [x^n] = x^(n+1)"
+        },
+        "correct_answer": "d/dx [x^n] = n*x^(n-1)"
+    },
+    {
+        "q_no": 2,
+        "question": "The product rule is primarily used when differentiating?",
+        "options": {
+            "a": "Functions composed of a constant and a variable",
+            "b": "Products of two or more functions",
+            "c": "Sums of two or more functions",
+            "d": "Differences of two or more functions"
+        },
+        "correct_answer": "Products of two or more functions"
+    },
+    {
+        "q_no": 3,
+        "question": "What is the correct application of the quotient rule for differentiating f(x) = x^2/x?",
+        "options": {
+            "a": "1/x",
+            "b": "x",
+            "c": "2x",
+            "d": "x^2"
+        },
+        "correct_answer": "1/x"
+    },
+    {
+        "q_no": 4,
+        "question": "The chain rule is used when?",
+        "options": {
+            "a": "Differentiating a sum of functions",
+            "b": "Differentiating a function within a function",
+            "c": "Finding the derivative of a constant",
+            "d": "Finding the area under a curve"
+        },
+        "correct_answer": "Differentiating a function within a function"
+    },
+    {
+        "q_no": 5,
+        "question": "What is the derivative of sin(x)?",
+        "options": {
+            "a": "cos(x)",
+            "b": "-cos(x)",
+            "c": "sin(x)",
+            "d": "tan(x)"
+        },
+        "correct_answer": "cos(x)"
+    },
+    {
+        "q_no": 6,
+        "question": "The derivative of e^x is:",
+        "options": {
+            "a": "e^x",
+            "b": "e^(-x)",
+            "c": "1/x",
+            "d": "x"
+        },
+        "correct_answer": "e^x"
+    },
+    {
+        "q_no": 7,
+        "question": "What does the derivative of ln(x) represent?",
+        "options": {
+            "a": "The slope of the tangent line to the graph of ln(x)",
+            "b": "The area under the curve of ln(x)",
+            "c": "The integral of ln(x)",
+            "d": "The limit of ln(x) as x approaches 0"
+        },
+        "correct_answer": "The slope of the tangent line to the graph of ln(x)"
+    },
+    {
+        "q_no": 8,
+        "question": "A related rates problem involves:",
+        "options": {
+            "a": "Finding the area of a complex shape",
+            "b": "Changing one quantity and observing its effect on another",
+            "c": "Solving algebraic equations",
+            "d": "Calculating the volume of a sphere"
+        },
+        "correct_answer": "Changing one quantity and observing its effect on another"
+    },
+    {
+        "q_no": 9,
+        "question": "In 3D space, the derivative of a scalar field represents:",
+        "options": {
+            "a": "The surface area of the field",
+            "b": "The volume of the field",
+            "c": "The rate of change of the function in space",
+            "d": "The vector field representing the function"
+        },
+        "correct_answer": "The rate of change of the function in space"
+    },
+    {
+        "q_no": 10,
+        "question": "Curve sketching involves determining the...",
+        "options": {
+            "a": "Area under the curve",
+            "b": "Equation of the tangent line",
+            "c": "Turning points and asymptotes",
+            "d": "Surface area of the curve"
+        },
+        "correct_answer": "Turning points and asymptotes"
+    },
+    {
+        "q_no": 11,
+        "question": "When curve sketching, finding the points where the derivative is zero indicates...",
+        "options": {
+            "a": "Maximum values",
+            "b": "Minimum values",
+            "c": "Points of inflection",
+            "d": "Asymptotes"
+        },
+        "correct_answer": "Points of inflection"
+    },
+    {
+        "q_no": 12,
+        "question": "What is a key tool in curve sketching?",
+        "options": {
+            "a": "Integration",
+            "b": "Differentiation",
+            "c": "Trigonometry",
+            "d": "Probability"
+        },
+        "correct_answer": "Differentiation"
+    }
+]
+Time Taken: 131.46 seconds | Tokens Produced: 500 | ⚡⚡⚡ Token Speed 3.803 tokens/sec
+✅✅✅ Successfully generated 12 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   {
+      "q_no": 1,
+      "question": "Which of the following accurately describes the power rule of differentiation?",
+      "options": {
+         "a": "d/dx [x^n] = n*x^(n-1)",
+         "b": "d/dx [x^n] = x^n",
+         "c": "d/dx [x^n] = 1/x^n",
+         "d": "d/dx [x^n] = x^(n+1)"
+      },
+      "correct_answer": "d/dx [x^n] = n*x^(n-1)"
+   },
+   {
+      "q_no": 2,
+      "question": "The product rule is primarily used when differentiating?",
+      "options": {
+         "a": "Functions composed of a constant and a variable",
+         "b": "Products of two or more functions",
+         "c": "Sums of two or more functions",
+         "d": "Differences of two or more functions"
+      },
+      "correct_answer": "Products of two or more functions"
+   },
+   {
+      "q_no": 3,
+      "question": "What is the correct application of the quotient rule for differentiating f(x) = x^2/x?",
+      "options": {
+         "a": "1/x",
+         "b": "x",
+         "c": "2x",
+         "d": "x^2"
+      },
+      "correct_answer": "1/x"
+   },
+   {
+      "q_no": 4,
+      "question": "The chain rule is used when?",
+      "options": {
+         "a": "Differentiating a sum of functions",
+         "b": "Differentiating a function within a function",
+         "c": "Finding the derivative of a constant",
+         "d": "Finding the area under a curve"
+      },
+      "correct_answer": "Differentiating a function within a function"
+   },
+   {
+      "q_no": 5,
+      "question": "What is the derivative of sin(x)?",
+      "options": {
+         "a": "cos(x)",
+         "b": "-cos(x)",
+         "c": "sin(x)",
+         "d": "tan(x)"
+      },
+      "correct_answer": "cos(x)"
+   },
+   {
+      "q_no": 6,
+      "question": "The derivative of e^x is:",
+      "options": {
+         "a": "e^x",
+         "b": "e^(-x)",
+         "c": "1/x",
+         "d": "x"
+      },
+      "correct_answer": "e^x"
+   },
+   {
+      "q_no": 7,
+      "question": "What does the derivative of ln(x) represent?",
+      "options": {
+         "a": "The slope of the tangent line to the graph of ln(x)",
+         "b": "The area under the curve of ln(x)",
+         "c": "The integral of ln(x)",
+         "d": "The limit of ln(x) as x approaches 0"
+      },
+      "correct_answer": "The slope of the tangent line to the graph of ln(x)"
+   },
+   {
+      "q_no": 8,
+      "question": "A related rates problem involves:",
+      "options": {
+         "a": "Finding the area of a complex shape",
+         "b": "Changing one quantity and observing its effect on another",
+         "c": "Solving algebraic equations",
+         "d": "Calculating the volume of a sphere"
+      },
+      "correct_answer": "Changing one quantity and observing its effect on another"
+   },
+   {
+      "q_no": 9,
+      "question": "In 3D space, the derivative of a scalar field represents:",
+      "options": {
+         "a": "The surface area of the field",
+         "b": "The volume of the field",
+         "c": "The rate of change of the function in space",
+         "d": "The vector field representing the function"
+      },
+      "correct_answer": "The rate of change of the function in space"
+   },
+   {
+      "q_no": 10,
+      "question": "Curve sketching involves determining the...",
+      "options": {
+         "a": "Area under the curve",
+         "b": "Equation of the tangent line",
+         "c": "Turning points and asymptotes",
+         "d": "Surface area of the curve"
+      },
+      "correct_answer": "Turning points and asymptotes"
+   },
+   {
+      "q_no": 11,
+      "question": "When curve sketching, finding the points where the derivative is zero indicates...",
+      "options": {
+         "a": "Maximum values",
+         "b": "Minimum values",
+         "c": "Points of inflection",
+         "d": "Asymptotes"
+      },
+      "correct_answer": "Points of inflection"
+   },
+   {
+      "q_no": 12,
+      "question": "What is a key tool in curve sketching?",
+      "options": {
+         "a": "Integration",
+         "b": "Differentiation",
+         "c": "Trigonometry",
+         "d": "Probability"
+      },
+      "correct_answer": "Differentiation"
+   }
+]
+TIME for MCQ: 131.463 | ⚡⚡⚡ Token Speed: 3.803 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 552 | TOTAL Time: 147.06
+
+********************************************************************************
+Syllabus NUMBER 2
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Cambridge Grade 10 Physics - Waves - Electromagnetic Spectrum:
+- Overview of the electromagnetic spectrum
+- Properties of different types of electromagnetic waves
+- Relationship between wavelength and frequency
+- Applications of the electromagnetic spectrum
+- Sources and effects of different wavelengths
+- Safety considerations regarding electromagnetic radiation
+TIME for SYLLABUS: 11.01 | ⚡⚡⚡ Token Speed: 4.541 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 6...
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "Which of the following best describes the electromagnetic spectrum?",
+        "options": {
+            "a": "A range of wave lengths arranged from shortest to longest.",
+            "b": "A collection of all types of matter.",
+            "c": "A range of wave lengths arranged from longest to shortest.",
+            "d": "A division of the universe into solids, liquids, and gases."
+        },
+        "correct_answer": "A range of wave lengths arranged from shortest to longest."
+    },
+    {
+        "q_no": 2,
+        "question": "What is the primary characteristic that distinguishes different types of electromagnetic waves?",
+        "options": {
+            "a": "Their color",
+            "b": "Their speed",
+            "c": "Their wavelength and frequency",
+            "d": "Their ability to conduct electricity"
+        },
+        "correct_answer": "Their wavelength and frequency"
+    },
+    {
+        "q_no": 3,
+        "question": "Which statement accurately describes the relationship between wavelength and frequency?",
+        "options": {
+            "a": "Wavelength and frequency are inversely proportional.",
+            "b": "Wavelength and frequency are directly proportional.",
+            "c": "They have no relationship.",
+            "d": "They are equal."
+        },
+        "correct_answer": "They are directly proportional."
+    },
+    {
+        "q_no": 4,
+        "question": "Which of the following is a characteristic of gamma rays?",
+        "options": {
+            "a": "Long wavelength and low frequency",
+            "b": "Short wavelength and high frequency",
+            "c": "Low energy",
+            "d": "Low frequency and high energy"
+        },
+        "correct_answer": "Short wavelength and high frequency"
+    },
+    {
+        "q_no": 5,
+        "question": "What is a key application of microwaves?",
+        "options": {
+            "a": "Heating food",
+            "b": "Generating X-rays",
+            "c": "Transmitting radio signals",
+            "d": "Producing visible light"
+        },
+        "correct_answer": "Heating food"
+    },
+    {
+        "q_no": 6,
+        "question": "What is the main source of radio waves?",
+        "options": {
+            "a": "The sun",
+            "b": "Artificial transmitters",
+            "c": "Geothermal energy",
+            "d": "Nuclear reactions"
+        },
+        "correct_answer": "Artificial transmitters"
+    },
+    {
+        "q_no": 7,
+        "question": "Which type of electromagnetic wave is commonly used in medical imaging?",
+        "options": {
+            "a": "Radio waves",
+            "b": "Infrared waves",
+            "c": "X-rays",
+            "d": "Gamma rays"
+        },
+        "correct_answer": "X-rays"
+    },
+    {
+        "q_no": 8,
+        "question": "What is a potential risk associated with prolonged exposure to gamma rays?",
+        "options": {
+            "a": "Increased energy levels",
+            "b": "DNA damage and cancer",
+            "c": "Enhanced vision",
+            "d": "Improved muscle strength"
+        },
+        "correct_answer": "DNA damage and cancer"
+    },
+    {
+        "q_no": 9,
+        "question": "Which of the following waves has the longest wavelength?",
+        "options": {
+            "a": "Ultraviolet waves",
+            "b": "Visible light",
+            "c": "Infrared waves",
+            "d": "Radio waves"
+        },
+        "correct_answer": "Radio waves"
+    },
+    {
+        "q_no": 10,
+        "question": "What is a major safety consideration when working with ultraviolet radiation?",
+        "options": {
+            "a": "Increased hearing ability",
+            "b": "Skin damage and sunburns",
+            "c": "Improved night vision",
+            "d": "Enhanced reflexes"
+        },
+        "correct_answer": "Skin damage and sunburns"
+    }
+]
+Time Taken: 107.56 seconds | Tokens Produced: 414 | ⚡⚡⚡ Token Speed 3.849 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 10...
+
+Attempt 2 out of 6...
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "Which of the following best describes the electromagnetic spectrum?",
+        "options": {
+            "a": "A range of all types of waves, including sound and light",
+            "b": "A classification of waves based on their energy levels",
+            "c": "A continuous range of electromagnetic radiation",
+            "d": "Only visible light waves"
+        },
+        "correct_answer": "A continuous range of electromagnetic radiation"
+    },
+    {
+        "q_no": 2,
+        "question": "What is a key characteristic that distinguishes different types of electromagnetic waves?",
+        "options": {
+            "a": "Their speed in a vacuum",
+            "b": "Their wavelength and frequency",
+            "c": "Their color",
+            "d": "Their mass"
+        },
+        "correct_answer": "Their wavelength and frequency"
+    },
+    {
+        "q_no": 3,
+        "question": "Which of the following is inversely proportional to the wavelength of an electromagnetic wave?",
+        "options": {
+            "a": "Its speed",
+            "b": "Its frequency",
+            "c": "Its amplitude",
+            "d": "Its energy"
+        },
+        "correct_answer": "Its frequency"
+    },
+    {
+        "q_no": 4,
+        "question": "What is the primary application of X-rays?",
+        "options": {
+            "a": "Generating radio waves",
+            "b": "Medical imaging",
+            "c": "Transmitting television signals",
+            "d": "Heating materials"
+        },
+        "correct_answer": "Medical imaging"
+    },
+    {
+        "q_no": 5,
+        "question": "Radio waves are characterized by:",
+        "options": {
+            "a": "Short wavelengths and high frequencies",
+            "b": "Long wavelengths and low frequencies",
+            "c": "High energy and small wavelengths",
+            "d": "Low energy and long wavelengths"
+        },
+        "correct_answer": "Long wavelengths and low frequencies"
+    },
+    {
+        "q_no": 6,
+        "question": "The frequency of light is measured in:",
+        "options": {
+            "a": "Meters",
+            "b": "Joules",
+            "c": "Hertz",
+            "d": "Kilograms"
+        },
+        "correct_answer": "Hertz"
+    },
+    {
+        "q_no": 7,
+        "question": "Which part of the electromagnetic spectrum is used in microwave ovens?",
+        "options": {
+            "a": "Radio waves",
+            "b": "Infrared radiation",
+            "c": "Microwaves",
+            "d": "Ultraviolet radiation"
+        },
+        "correct_answer": "Microwaves"
+    },
+    {
+        "q_no": 8,
+        "question": "Ultraviolet radiation is known to cause:",
+        "options": {
+            "a": "Skin cancer",
+            "b": "Hearing loss",
+            "c": "Reduced vision",
+            "d": "Increased bone density"
+        },
+        "correct_answer": "Skin cancer"
+    },
+    {
+        "q_no": 9,
+        "question": "What is a significant safety consideration when working with high-intensity electromagnetic radiation?",
+        "options": {
+            "a": "Increased hearing sensitivity",
+            "b": "Potential damage to DNA",
+            "c": "Enhanced reflexes",
+            "d": "Improved night vision"
+        },
+        "correct_answer": "Potential damage to DNA"
+    },
+    {
+        "q_no": 10,
+        "question": "Infrared radiation is primarily associated with:",
+        "options": {
+            "a": "Visible light",
+            "b": "Heat energy",
+            "c": "Radio waves",
+            "d": "X-rays"
+        },
+        "correct_answer": "Heat energy"
+    }
+]
+Time Taken: 104.97 seconds | Tokens Produced: 372 | ⚡⚡⚡ Token Speed 3.544 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 10...
+⚠️ Warning: Expected 12 MCQs but got 10...
+
+Attempt 3 out of 6...
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "Which of the following best describes the electromagnetic spectrum?",
+        "options": {
+            "a": "A range of frequencies of electromagnetic radiation",
+            "b": "A collection of all known chemical elements",
+            "c": "A type of chemical reaction",
+            "d": "The study of planetary motion"
+        },
+        "correct_answer": "A range of frequencies of electromagnetic radiation"
+    },
+    {
+        "q_no": 2,
+        "question": "What is the primary characteristic that distinguishes different types of electromagnetic waves?",
+        "options": {
+            "a": "Their color",
+            "b": "Their wavelength and frequency",
+            "c": "Their mass",
+            "d": "Their ability to conduct electricity"
+        },
+        "correct_answer": "Their wavelength and frequency"
+    },
+    {
+        "q_no": 3,
+        "question": "Which statement accurately describes the relationship between wavelength and frequency?",
+        "options": {
+            "a": "Frequency and wavelength are inversely proportional",
+            "b": "Frequency and wavelength are equal",
+            "c": "Frequency and wavelength are directly proportional",
+            "d": "They have no relationship"
+        },
+        "correct_answer": "They are directly proportional"
+    },
+    {
+        "q_no": 4,
+        "question": "Which of the following is NOT an application of the electromagnetic spectrum?",
+        "options": {
+            "a": "Medical imaging (X-rays)",
+            "b": "Wireless communication (radio waves)",
+            "c": "Plant photosynthesis",
+            "d": "Heating food"
+        },
+        "correct_answer": "Heating food"
+    },
+    {
+        "q_no": 5,
+        "question": "What is a key difference between radio waves and gamma rays?",
+        "options": {
+            "a": "They both have high energy",
+            "b": "They differ in their wavelength and energy levels",
+            "c": "They are both used in telecommunications",
+            "d": "They are both visible to the human eye"
+        },
+        "correct_answer": "They differ in their wavelength and energy levels"
+    },
+    {
+        "q_no": 6,
+        "question": "Which part of the electromagnetic spectrum has the shortest wavelength?",
+        "options": {
+            "a": "Infrared radiation",
+            "b": "Microwaves",
+            "c": "Ultraviolet radiation",
+            "d": "Radio waves"
+        },
+        "correct_answer": "Gamma rays"
+    },
+    {
+        "q_no": 7,
+        "question": "What is a potential effect of exposure to ultraviolet radiation?",
+        "options": {
+            "a": "Increased plant growth",
+            "b": "Skin cancer",
+            "c": "Improved vision",
+            "d": "Enhanced hearing"
+        },
+        "correct_answer": "Skin cancer"
+    },
+    {
+        "q_no": 8,
+        "question": "Which type of electromagnetic wave is commonly used for radar systems?",
+        "options": {
+            "a": "Infrared radiation",
+            "b": "Microwaves",
+            "c": "Visible light",
+            "d": "X-rays"
+        },
+        "correct_answer": "Microwaves"
+    },
+    {
+        "q_no": 9,
+        "question": "What is a primary concern regarding the use of X-rays?",
+        "options": {
+            "a": "They are harmless and can be used in all medical treatments",
+            "b": "They can damage DNA and increase the risk of cancer",
+            "c": "They only affect plant growth",
+            "d": "They are completely invisible"
+        },
+        "correct_answer": "They can damage DNA and increase the risk of cancer"
+    },
+    {
+        "q_no": 10,
+        "question": "Which of the following is an example of infrared radiation being used?",
+        "options": {
+            "a": "Seeing stars at night",
+            "b": "Remote controls",
+            "c": "Listening to music",
+            "d": "Photography"
+        },
+        "correct_answer": "Remote controls"
+    }
+]
+Time Taken: 115.89 seconds | Tokens Produced: 441 | ⚡⚡⚡ Token Speed 3.805 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 10...
+⚠️ Warning: Expected 12 MCQs but got 10...
+⚠️ Warning: Expected 12 MCQs but got 10...
+
+Attempt 4 out of 6...
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "Which of the following best describes the electromagnetic spectrum?",
+        "options": {
+            "a": "A continuous range of electromagnetic radiation",
+            "b": "A collection of distinct colors",
+            "c": "Only visible light",
+            "d": "Radio waves and microwaves only"
+        },
+        "correct_answer": "A continuous range of electromagnetic radiation"
+    },
+    {
+        "q_no": 2,
+        "question": "What is the defining characteristic of electromagnetic waves?",
+        "options": {
+            "a": "They are composed of atoms",
+            "b": "They travel at the speed of sound",
+            "c": "They exhibit wave-particle duality",
+            "d": "They are transverse waves"
+        },
+        "correct_answer": "They are transverse waves"
+    },
+    {
+        "q_no": 3,
+        "question": "Which type of electromagnetic wave has the longest wavelength?",
+        "options": {
+            "a": "Gamma rays",
+            "b": "Radio waves",
+            "c": "X-rays",
+            "d": "Ultraviolet rays"
+        },
+        "correct_answer": "Radio waves"
+    },
+    {
+        "q_no": 4,
+        "question": "What is the relationship between wavelength and frequency of electromagnetic waves?",
+        "options": {
+            "a": "Directly proportional",
+            "b": "Inversely proportional",
+            "c": "Equal",
+            "d": "Random"
+        },
+        "correct_answer": "Inversely proportional"
+    },
+    {
+        "q_no": 5,
+        "question": "Which application of the electromagnetic spectrum is utilized in medical imaging?",
+        "options": {
+            "a": "Microwaves",
+            "b": "Infrared radiation",
+            "c": "X-rays",
+            "d": "Visible light"
+        },
+        "correct_answer": "X-rays"
+    },
+    {
+        "q_no": 6,
+        "question": "What is a primary source of ultraviolet (UV) radiation?",
+        "options": {
+            "a": "The Sun",
+            "b": "Radio waves",
+            "c": "Microwaves",
+            "d": "Infrared radiation"
+        },
+        "correct_answer": "The Sun"
+    },
+    {
+        "q_no": 7,
+        "question": "Which of the following is a potential safety concern associated with excessive exposure to electromagnetic radiation?",
+        "options": {
+            "a": "Increased bone density",
+            "b": "DNA damage and cancer risk",
+            "c": "Improved vision",
+            "d": "Enhanced reflexes"
+        },
+        "correct_answer": "DNA damage and cancer risk"
+    },
+    {
+        "q_no": 8,
+        "question": "What is the main characteristic of infrared radiation?",
+        "options": {
+            "a": "High energy and short wavelength",
+            "b": "Low energy and long wavelength",
+            "c": "Neutral charge",
+            "d": "Magnetic properties"
+        },
+        "correct_answer": "Low energy and long wavelength"
+    },
+    {
+        "q_no": 9,
+        "question": "Which type of electromagnetic wave is commonly used for communication signals?",
+        "options": {
+            "a": "Gamma rays",
+            "b": "Microwaves",
+            "c": "X-rays",
+            "d": "Ultraviolet rays"
+        },
+        "correct_answer": "Microwaves"
+    },
+    {
+        "q_no": 10,
+        "question": "What is a key property of gamma rays?",
+        "options": {
+            "a": "Low frequency",
+            "b": "High energy",
+            "c": "Reflects off of metals",
+            "d": "Does not travel through matter"
+        },
+        "correct_answer": "High energy"
+    }
+]
+Time Taken: 118.28 seconds | Tokens Produced: 374 | ⚡⚡⚡ Token Speed 3.162 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 10...
+⚠️ Warning: Expected 12 MCQs but got 10...
+⚠️ Warning: Expected 12 MCQs but got 10...
+⚠️ Warning: Expected 12 MCQs but got 10...
+
+Attempt 5 out of 6...
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "Which of the following best describes the electromagnetic spectrum?",
+        "options": {
+            "a": "A narrow range of frequencies used exclusively by humans.",
+            "b": "The entire range of all possible electromagnetic radiation.",
+            "c": "Only visible light wavelengths.",
+            "d": "Radio waves and microwaves only."
+        },
+        "correct_answer": "The entire range of all possible electromagnetic radiation."
+    },
+    {
+        "q_no": 2,
+        "question": "What is a key characteristic that differentiates different types of electromagnetic waves?",
+        "options": {
+            "a": "Their color.",
+            "b": "Their speed.",
+            "c": "Their wavelength and frequency.",
+            "d": "Their mass."
+        },
+        "correct_answer": "Their wavelength and frequency."
+    },
+    {
+        "q_no": 3,
+        "question": "Which statement accurately describes the relationship between wavelength and frequency?",
+        "options": {
+            "a": "Wavelength and frequency are inversely proportional.",
+            "b": "Wavelength and frequency are equal.",
+            "c": "Wavelength and frequency are directly proportional.",
+            "d": "They have no relationship."
+        },
+        "correct_answer": "Wavelength and frequency are directly proportional."
+    },
+    {
+        "q_no": 4,
+        "question": "Which of the following is an application of the electromagnetic spectrum?",
+        "options": {
+            "a": "Cooking food using microwaves.",
+            "b": "Seeing colors in a rainbow.",
+            "c": "Heating a room with infrared radiation.",
+            "d": "Hearing sound waves"
+        },
+        "correct_answer": "Heating a room with infrared radiation."
+    },
+    {
+        "q_no": 5,
+        "question": "What is a primary source of ultraviolet (UV) radiation?",
+        "options": {
+            "a": "Microwaves.",
+            "b": "Radio waves.",
+            "c": "The sun.",
+            "d": "Infrared radiation."
+        },
+        "correct_answer": "The sun."
+    },
+    {
+        "q_no": 6,
+        "question": "Which type of electromagnetic wave is commonly used for medical imaging?",
+        "options": {
+            "a": "Gamma rays.",
+            "b": "X-rays.",
+            "c": "Visible light.",
+            "d": "Infrared radiation."
+        },
+        "correct_answer": "X-rays."
+    },
+    {
+        "q_no": 7,
+        "question": "What is a potential hazard associated with exposure to gamma rays?",
+        "options": {
+            "a": "Increased plant growth.",
+            "b": "Damage to DNA.",
+            "c": "Enhanced hearing.",
+            "d": "Improved eyesight."
+        },
+        "correct_answer": "Damage to DNA."
+    },
+    {
+        "q_no": 8,
+        "question": "Which of the following electromagnetic waves has the longest wavelength?",
+        "options": {
+            "a": "Radio waves.",
+            "b": "Microwaves.",
+            "c": "Infrared waves.",
+            "d": "Radio waves."
+        },
+        "correct_answer": "Radio waves."
+    },
+    {
+        "q_no": 9,
+        "question": "What safety precaution should be taken when working with high-intensity electromagnetic radiation?",
+        "options": {
+            "a": "Increase the volume of music.",
+            "b": "Wear protective eyewear.",
+            "c": "Stand closer to the source.",
+            "d": "Use reflective clothing."
+        },
+        "correct_answer": "Wear protective eyewear."
+    },
+    {
+        "q_no": 10,
+        "question": "Which of the following is a characteristic of infrared radiation?",
+        "options": {
+            "a": "It is invisible to the human eye.",
+            "b": "It is a form of visible light.",
+            "c": "It has a very high frequency.",
+            "d": "It is used for communication purposes."
+        },
+        "correct_answer": "It is invisible to the human eye."
+    }
+]
+Time Taken: 690.98 seconds | Tokens Produced: 429 | ⚡⚡⚡ Token Speed 0.621 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 10...
+⚠️ Warning: Expected 12 MCQs but got 10...
+⚠️ Warning: Expected 12 MCQs but got 10...
+⚠️ Warning: Expected 12 MCQs but got 10...
+⚠️ Warning: Expected 12 MCQs but got 10...
+
+Attempt 6 out of 6...
+********************************************************************************
+Syllabus NUMBER 1
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Edexcel Grade 12 Mathematics - Calculus - Differentiation:
+- Rules of differentiation (power rule, product rule, quotient rule, chain rule)
+- Differentiation of trigonometric functions
+- Differentiation of exponential and logarithmic functions
+- Applications of differentiation (finding tangents, rates of change)
+- Optimization problems using differentiation
+- Related rates problems
+TIME for SYLLABUS: 14.261 | ⚡⚡⚡ Token Speed: 3.646 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 2...
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "Which rule states that the derivative of x^n is nx^(n-1)?",
+        "options": {
+            "a": "Product Rule",
+            "b": "Quotient Rule",
+            "c": "Power Rule",
+            "d": "Chain Rule"
+        },
+        "correct_answer": "Power Rule"
+    },
+    {
+        "q_no": 2,
+        "question": "The derivative of sin(x) is:",
+        "options": {
+            "a": "cos(x)",
+            "b": "sin(x)",
+            "c": "tan(x)",
+            "d": "cot(x)"
+        },
+        "correct_answer": "cos(x)"
+    },
+    {
+        "q_no": 3,
+        "question": "The derivative of e^x is:",
+        "options": {
+            "a": "e^x",
+            "b": "x*e^x",
+            "c": "e^(-x)",
+            "d": "x*e^(-x)"
+        },
+        "correct_answer": "e^x"
+    },
+    {
+        "q_no": 4,
+        "question": "What does the chain rule primarily address in differentiation?",
+        "options": {
+            "a": "Differentiation of polynomials",
+            "b": "Differentiation of composite functions",
+            "c": "Integration of functions",
+            "d": "Solving algebraic equations"
+        },
+        "correct_answer": "Differentiation of composite functions"
+    },
+    {
+        "q_no": 5,
+        "question": "If f(x) = x^3 + 2x^2 - x + 5, what is f'(x)?",
+        "options": {
+            "a": "x^2 + 2x - 1",
+            "b": "3x^2 + 4x - 1",
+            "c": "x^2 + 4x + 1",
+            "d": "x^2 + 2x + 5"
+        },
+        "correct_answer": "3x^2 + 4x - 1"
+    },
+    {
+        "q_no": 6,
+        "question": "The derivative of ln(x) is:",
+        "options": {
+            "a": "1/x",
+            "b": "x",
+            "c": "e^x",
+            "d": "1"
+        },
+        "correct_answer": "1/x"
+    },
+    {
+        "q_no": 7,
+        "question": "An optimization problem involves finding the maximum or minimum value of a function. What rule is primarily used to solve such problems?",
+        "options": {
+            "a": "The Pythagorean Theorem",
+            "b": "Differentiation",
+            "c": "The Law of Sines",
+            "d": "The Quadratic Formula"
+        },
+        "correct_answer": "Differentiation"
+    },
+    {
+        "q_no": 8,
+        "question": "If a rectangular box is open at the top and has a volume of 36 cm³, what dimensions minimize the surface area?",
+        "options": {
+            "a": "Length = 3 cm, Width = 3 cm, Height = 4 cm",
+            "b": "Length = 6 cm, Width = 3 cm, Height = 2 cm",
+            "c": "Length = 9 cm, Width = 4 cm, Height = 1 cm",
+            "d": "Length = 12 cm, Width = 3 cm, Height = 1 cm"
+        },
+        "correct_answer": "Length = 6 cm, Width = 3 cm, Height = 2 cm"
+    },
+    {
+        "q_no": 9,
+        "question": "The rate of change of velocity is:",
+        "options": {
+            "a": "Position",
+            "b": "Acceleration",
+            "c": "Time",
+            "d": "Distance"
+        },
+        "correct_answer": "Acceleration"
+    },
+    {
+        "q_no": 10,
+        "question": "A tank is being filled with water at a rate of 5 cubic meters per minute. How fast is the water level rising when the water is 10 meters deep?",
+        "options": {
+            "a": "5 m/min",
+            "b": "10 m/min",
+            "c": "25 m/min",
+            "d": "10 m/min"
+        },
+        "correct_answer": "10 m/min"
+    }
+]
+Time Taken: 119.80 seconds | Tokens Produced: 416 | ⚡⚡⚡ Token Speed 3.473 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 10...
+
+Attempt 2 out of 2...
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "Which rule is used to differentiate x^n?",
+        "options": {
+            "a": "Product Rule",
+            "b": "Quotient Rule",
+            "c": "Power Rule",
+            "d": "Chain Rule"
+        },
+        "correct_answer": "Power Rule"
+    },
+    {
+        "q_no": 2,
+        "question": "What is the result of differentiating f(x) = x^3 * sin(x)?",
+        "options": {
+            "a": "x^2 * cos(x)",
+            "b": "x^3 * cos(x)",
+            "c": "x^2 * sin(x)",
+            "d": "x^3 * cos(x)"
+        },
+        "correct_answer": "x^2 * sin(x)"
+    },
+    {
+        "q_no": 3,
+        "question": "The derivative of tan(x) is:",
+        "options": {
+            "a": "sec^2(x)",
+            "b": "csc^2(x)",
+            "c": "cot(x)",
+            "d": "tan^2(x)"
+        },
+        "correct_answer": "sec^2(x)"
+    },
+    {
+        "q_no": 4,
+        "question": "What is the derivative of e^x?",
+        "options": {
+            "a": "e^x",
+            "b": "x*e^x",
+            "c": "e^(-x)",
+            "d": "1"
+        },
+        "correct_answer": "e^x"
+    },
+    {
+        "q_no": 5,
+        "question": "The derivative of ln(x) is:",
+        "options": {
+            "a": "1/x",
+            "b": "x",
+            "c": "e^x",
+            "d": "1"
+        },
+        "correct_answer": "1/x"
+    },
+    {
+        "q_no": 6,
+        "question": "Which of the following represents the chain rule?",
+        "options": {
+            "a": "d/dx [f(g(x))] = f'(g(x)) * g'(x)",
+            "b": "d/dx [f(g(x))] = f'(x) * g'(x)",
+            "c": "d/dx [f(g(x))] = f'(x) + g'(x)",
+            "d": "d/dx [f(g(x))] = f'(x) / g'(x)"
+        },
+        "correct_answer": "d/dx [f(g(x))] = f'(g(x)) * g'(x)"
+    },
+    {
+        "q_no": 7,
+        "question": "A function has a rate of change of 5.  If x = 2, what is the derivative at that point?",
+        "options": {
+            "a": "1",
+            "b": "5",
+            "c": "10",
+            "d": "2.5"
+        },
+        "correct_answer": "5"
+    },
+    {
+        "q_no": 8,
+        "question": "What does differentiation primarily tell us?",
+        "options": {
+            "a": "The area under a curve",
+            "b": "The slope of a tangent line",
+            "c": "The value of a function at a point",
+            "d": "The integral of a function"
+        },
+        "correct_answer": "The slope of a tangent line"
+    },
+    {
+        "q_no": 9,
+        "question": "A particle's distance from its starting point increases at a rate of 4 m/s.  What does this represent?",
+        "options": {
+            "a": "The particle's speed",
+            "b": "The particle's velocity",
+            "c": "The particle's displacement",
+            "d": "The particle's acceleration"
+        },
+        "correct_answer": "The particle's velocity"
+    },
+    {
+        "q_no": 10,
+        "question": "Optimization problems utilize differentiation to find the maximum or minimum value of a function.  What is the objective in this process?",
+        "options": {
+            "a": "To find the integral of the function",
+            "b": "To find the critical points of the function",
+            "c": "To calculate the area under the curve",
+            "d": "To determine the slope of the function"
+        },
+        "correct_answer": "To find the maximum or minimum value of a function"
+    }
+]
+Time Taken: 116.00 seconds | Tokens Produced: 400 | ⚡⚡⚡ Token Speed 3.448 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 10...
+⚠️ Warning: Expected 12 MCQs but got 10...
+
+⚠️ Warning: After 10 attempts returning longest valid response.
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   {
+      "q_no": 1,
+      "question": "Which rule states that the derivative of x^n is nx^(n-1)?",
+      "options": {
+         "a": "Product Rule",
+         "b": "Quotient Rule",
+         "c": "Power Rule",
+         "d": "Chain Rule"
+      },
+      "correct_answer": "Power Rule"
+   },
+   {
+      "q_no": 2,
+      "question": "The derivative of sin(x) is:",
+      "options": {
+         "a": "cos(x)",
+         "b": "sin(x)",
+         "c": "tan(x)",
+         "d": "cot(x)"
+      },
+      "correct_answer": "cos(x)"
+   },
+   {
+      "q_no": 3,
+      "question": "The derivative of e^x is:",
+      "options": {
+         "a": "e^x",
+         "b": "x*e^x",
+         "c": "e^(-x)",
+         "d": "x*e^(-x)"
+      },
+      "correct_answer": "e^x"
+   },
+   {
+      "q_no": 4,
+      "question": "What does the chain rule primarily address in differentiation?",
+      "options": {
+         "a": "Differentiation of polynomials",
+         "b": "Differentiation of composite functions",
+         "c": "Integration of functions",
+         "d": "Solving algebraic equations"
+      },
+      "correct_answer": "Differentiation of composite functions"
+   },
+   {
+      "q_no": 5,
+      "question": "If f(x) = x^3 + 2x^2 - x + 5, what is f'(x)?",
+      "options": {
+         "a": "x^2 + 2x - 1",
+         "b": "3x^2 + 4x - 1",
+         "c": "x^2 + 4x + 1",
+         "d": "x^2 + 2x + 5"
+      },
+      "correct_answer": "3x^2 + 4x - 1"
+   },
+   {
+      "q_no": 6,
+      "question": "The derivative of ln(x) is:",
+      "options": {
+         "a": "1/x",
+         "b": "x",
+         "c": "e^x",
+         "d": "1"
+      },
+      "correct_answer": "1/x"
+   },
+   {
+      "q_no": 7,
+      "question": "An optimization problem involves finding the maximum or minimum value of a function. What rule is primarily used to solve such problems?",
+      "options": {
+         "a": "The Pythagorean Theorem",
+         "b": "Differentiation",
+         "c": "The Law of Sines",
+         "d": "The Quadratic Formula"
+      },
+      "correct_answer": "Differentiation"
+   },
+   {
+      "q_no": 8,
+      "question": "If a rectangular box is open at the top and has a volume of 36 cm\u00b3, what dimensions minimize the surface area?",
+      "options": {
+         "a": "Length = 3 cm, Width = 3 cm, Height = 4 cm",
+         "b": "Length = 6 cm, Width = 3 cm, Height = 2 cm",
+         "c": "Length = 9 cm, Width = 4 cm, Height = 1 cm",
+         "d": "Length = 12 cm, Width = 3 cm, Height = 1 cm"
+      },
+      "correct_answer": "Length = 6 cm, Width = 3 cm, Height = 2 cm"
+   },
+   {
+      "q_no": 9,
+      "question": "The rate of change of velocity is:",
+      "options": {
+         "a": "Position",
+         "b": "Acceleration",
+         "c": "Time",
+         "d": "Distance"
+      },
+      "correct_answer": "Acceleration"
+   },
+   {
+      "q_no": 10,
+      "question": "A tank is being filled with water at a rate of 5 cubic meters per minute. How fast is the water level rising when the water is 10 meters deep?",
+      "options": {
+         "a": "5 m/min",
+         "b": "10 m/min",
+         "c": "25 m/min",
+         "d": "10 m/min"
+      },
+      "correct_answer": "10 m/min"
+   }
+]
+TIME for MCQ: 119.796 | ⚡⚡⚡ Token Speed: 3.473 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 468 | TOTAL Time: 250.07
+
+********************************************************************************
+Syllabus NUMBER 2
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Cambridge Grade 10 Physics - Waves - Electromagnetic Spectrum:
+- Overview of the electromagnetic spectrum
+- Wavelength and frequency relationships
+- Properties of different regions of the spectrum
+- Production and detection of electromagnetic waves
+- Applications of the electromagnetic spectrum
+- Interactions of electromagnetic waves with matter
+TIME for SYLLABUS: 11.447 | ⚡⚡⚡ Token Speed: 4.368 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 2...
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "Which of the following best describes the electromagnetic spectrum?",
+        "options": {
+            "a": "A range of all types of waves",
+            "b": "Only visible light waves",
+            "c": "Only radio waves",
+            "d": "A fixed spectrum with only three regions"
+        },
+        "correct_answer": "A range of all types of waves"
+    },
+    {
+        "q_no": 2,
+        "question": "What is the relationship between wavelength and frequency of electromagnetic waves?",
+        "options": {
+            "a": "They are inversely proportional",
+            "b": "They are equal and constant",
+            "c": "They are directly proportional",
+            "d": "They have no relationship"
+        },
+        "correct_answer": "They are inversely proportional"
+    },
+    {
+        "q_no": 3,
+        "question": "Which region of the electromagnetic spectrum has the longest wavelength?",
+        "options": {
+            "a": "Gamma rays",
+            "b": "Radio waves",
+            "c": "Visible light",
+            "d": "X-rays"
+        },
+        "correct_answer": "Radio waves"
+    },
+    {
+        "q_no": 4,
+        "question": "What is the primary method of producing electromagnetic waves?",
+        "options": {
+            "a": "Chemical reactions",
+            "b": "Oscillation of electric charges",
+            "c": "Absorption of sunlight",
+            "d": "Melting of materials"
+        },
+        "correct_answer": "Oscillation of electric charges"
+    },
+    {
+        "q_no": 5,
+        "question": "Which of the following is a characteristic of X-rays?",
+        "options": {
+            "a": "Long wavelength, low frequency",
+            "b": "Short wavelength, high frequency",
+            "c": "Low energy",
+            "d": "Low penetration power"
+        },
+        "correct_answer": "Short wavelength, high frequency"
+    },
+    {
+        "q_no": 6,
+        "question": "What is the purpose of detecting electromagnetic waves?",
+        "options": {
+            "a": "To generate new electromagnetic waves",
+            "b": "To measure their wavelength and frequency",
+            "c": "To increase their energy",
+            "d": "To destroy matter"
+        },
+        "correct_answer": "To measure their wavelength and frequency"
+    },
+    {
+        "q_no": 7,
+        "question": "Which region of the spectrum is used in medical imaging (MRI)?",
+        "options": {
+            "a": "Radio waves",
+            "b": "Infrared radiation",
+            "c": "Radio waves",
+            "d": "Ultraviolet radiation"
+        },
+        "correct_answer": "Radio waves"
+    },
+    {
+        "q_no": 8,
+        "question": "How do electromagnetic waves interact with matter?",
+        "options": {
+            "a": "By creating a magnetic field",
+            "b": "By being absorbed or reflected",
+            "c": "By changing their speed",
+            "d": "By producing heat"
+        },
+        "correct_answer": "By being absorbed or reflected"
+    },
+    {
+        "q_no": 9,
+        "question": "Which of the following is a property of ultraviolet radiation?",
+        "options": {
+            "a": "High energy, causes sunburns",
+            "b": "Low energy, doesn't penetrate skin",
+            "c": "Long wavelength, produces heat",
+            "d": "Invisible to the human eye"
+        },
+        "correct_answer": "High energy, causes sunburns"
+    },
+    {
+        "q_no": 10,
+        "question": "What is the main function of the electromagnetic spectrum in communication technologies?",
+        "options": {
+            "a": "To store information",
+            "b": "To transmit information over long distances",
+            "c": "To increase the speed of data transfer",
+            "d": "To convert analog signals to digital"
+        },
+        "correct_answer": "To transmit information over long distances"
+    },
+    {
+        "q_no": 11,
+        "question": "Which part of the electromagnetic spectrum has the highest frequency?",
+        "options": {
+            "a": "Microwaves",
+            "b": "Visible light",
+            "c": "Gamma rays",
+            "d": "Infrared radiation"
+        },
+        "correct_answer": "Gamma rays"
+    },
+    {
+        "q_no": 12,
+        "question": "What is the primary role of the electromagnetic spectrum in astronomy?",
+        "options": {
+            "a": "To block starlight",
+            "b": "To study the composition of stars and galaxies",
+            "c": "To create artificial light",
+            "d": "To create black holes"
+        },
+        "correct_answer": "To study the composition of stars and galaxies"
+    }
+]
+Time Taken: 126.41 seconds | Tokens Produced: 510 | ⚡⚡⚡ Token Speed 4.035 tokens/sec
+✅✅✅ Successfully generated 12 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   {
+      "q_no": 1,
+      "question": "Which of the following best describes the electromagnetic spectrum?",
+      "options": {
+         "a": "A range of all types of waves",
+         "b": "Only visible light waves",
+         "c": "Only radio waves",
+         "d": "A fixed spectrum with only three regions"
+      },
+      "correct_answer": "A range of all types of waves"
+   },
+   {
+      "q_no": 2,
+      "question": "What is the relationship between wavelength and frequency of electromagnetic waves?",
+      "options": {
+         "a": "They are inversely proportional",
+         "b": "They are equal and constant",
+         "c": "They are directly proportional",
+         "d": "They have no relationship"
+      },
+      "correct_answer": "They are inversely proportional"
+   },
+   {
+      "q_no": 3,
+      "question": "Which region of the electromagnetic spectrum has the longest wavelength?",
+      "options": {
+         "a": "Gamma rays",
+         "b": "Radio waves",
+         "c": "Visible light",
+         "d": "X-rays"
+      },
+      "correct_answer": "Radio waves"
+   },
+   {
+      "q_no": 4,
+      "question": "What is the primary method of producing electromagnetic waves?",
+      "options": {
+         "a": "Chemical reactions",
+         "b": "Oscillation of electric charges",
+         "c": "Absorption of sunlight",
+         "d": "Melting of materials"
+      },
+      "correct_answer": "Oscillation of electric charges"
+   },
+   {
+      "q_no": 5,
+      "question": "Which of the following is a characteristic of X-rays?",
+      "options": {
+         "a": "Long wavelength, low frequency",
+         "b": "Short wavelength, high frequency",
+         "c": "Low energy",
+         "d": "Low penetration power"
+      },
+      "correct_answer": "Short wavelength, high frequency"
+   },
+   {
+      "q_no": 6,
+      "question": "What is the purpose of detecting electromagnetic waves?",
+      "options": {
+         "a": "To generate new electromagnetic waves",
+         "b": "To measure their wavelength and frequency",
+         "c": "To increase their energy",
+         "d": "To destroy matter"
+      },
+      "correct_answer": "To measure their wavelength and frequency"
+   },
+   {
+      "q_no": 7,
+      "question": "Which region of the spectrum is used in medical imaging (MRI)?",
+      "options": {
+         "a": "Radio waves",
+         "b": "Infrared radiation",
+         "c": "Radio waves",
+         "d": "Ultraviolet radiation"
+      },
+      "correct_answer": "Radio waves"
+   },
+   {
+      "q_no": 8,
+      "question": "How do electromagnetic waves interact with matter?",
+      "options": {
+         "a": "By creating a magnetic field",
+         "b": "By being absorbed or reflected",
+         "c": "By changing their speed",
+         "d": "By producing heat"
+      },
+      "correct_answer": "By being absorbed or reflected"
+   },
+   {
+      "q_no": 9,
+      "question": "Which of the following is a property of ultraviolet radiation?",
+      "options": {
+         "a": "High energy, causes sunburns",
+         "b": "Low energy, doesn't penetrate skin",
+         "c": "Long wavelength, produces heat",
+         "d": "Invisible to the human eye"
+      },
+      "correct_answer": "High energy, causes sunburns"
+   },
+   {
+      "q_no": 10,
+      "question": "What is the main function of the electromagnetic spectrum in communication technologies?",
+      "options": {
+         "a": "To store information",
+         "b": "To transmit information over long distances",
+         "c": "To increase the speed of data transfer",
+         "d": "To convert analog signals to digital"
+      },
+      "correct_answer": "To transmit information over long distances"
+   },
+   {
+      "q_no": 11,
+      "question": "Which part of the electromagnetic spectrum has the highest frequency?",
+      "options": {
+         "a": "Microwaves",
+         "b": "Visible light",
+         "c": "Gamma rays",
+         "d": "Infrared radiation"
+      },
+      "correct_answer": "Gamma rays"
+   },
+   {
+      "q_no": 12,
+      "question": "What is the primary role of the electromagnetic spectrum in astronomy?",
+      "options": {
+         "a": "To block starlight",
+         "b": "To study the composition of stars and galaxies",
+         "c": "To create artificial light",
+         "d": "To create black holes"
+      },
+      "correct_answer": "To study the composition of stars and galaxies"
+   }
+]
+TIME for MCQ: 126.405 | ⚡⚡⚡ Token Speed: 4.035 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 560 | TOTAL Time: 137.86
+
+********************************************************************************
+Syllabus NUMBER 3
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for CBSE Grade 12 Mathematics - Algebra - Linear Inequations:
+- Introduction to linear inequalities
+- Solving linear inequalities with one variable
+- Solving systems of linear inequalities
+- Graphical representation of linear inequalities
+- Applications of linear inequalities
+- Problem-solving strategies
+TIME for SYLLABUS: 11.067 | ⚡⚡⚡ Token Speed: 3.885 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 2...
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the primary purpose of linear inequalities?",
+        "options": {
+            "a": "To represent relationships between variables that are always equal.",
+            "b": "To represent relationships between variables that are not always equal.",
+            "c": "To calculate the area of geometric shapes.",
+            "d": "To solve complex algebraic equations."
+        },
+        "correct_answer": "To represent relationships between variables that are not always equal."
+    },
+    {
+        "q_no": 2,
+        "question": "Which of the following is a key difference between equations and inequalities?",
+        "options": {
+            "a": "Both have the same solution set.",
+            "b": "Equations require equal signs, while inequalities do not.",
+            "c": "Inequalities always represent strict relationships.",
+            "d": "Equations are only used in calculus."
+        },
+        "correct_answer": "It converts food into usable energy"
+    },
+    {
+        "q_no": 3,
+        "question": "What is the first step when solving a linear inequality with one variable?",
+        "options": {
+            "a": "Multiply both sides by zero.",
+            "b": "Divide both sides by the variable.",
+            "c": "Add the same number to both sides.",
+            "d": "Distribute the inequality sign."
+        },
+        "correct_answer": "Divide both sides by the variable."
+    },
+    {
+        "q_no": 4,
+        "question": "If you multiply or divide both sides of a linear inequality by a negative number, you must...",
+        "options": {
+            "a": "Reverse the inequality sign.",
+            "b": "Increase the inequality sign.",
+            "c": "Decrease the inequality sign.",
+            "d": "Remove the inequality sign."
+        },
+        "correct_answer": "Reverse the inequality sign."
+    },
+    {
+        "q_no": 5,
+        "question": "What is a system of linear inequalities?",
+        "options": {
+            "a": "An equation with multiple variables.",
+            "b": "A set of two or more linear inequalities.",
+            "c": "A geometric shape with straight sides.",
+            "d": "A method for solving complex math problems."
+        },
+        "correct_answer": "A set of two or more linear inequalities."
+    },
+    {
+        "q_no": 6,
+        "question": "Graphically, how do you represent a linear inequality where ‘x’ is greater than zero?",
+        "options": {
+            "a": "A solid line with a dot indicating all points on the line are included.",
+            "b": "A dashed line indicating the boundary, and the region above the line is shaded.",
+            "c": "A solid line with a shaded region to the right of the line.",
+            "d": "A dashed line indicating the boundary, and the region to the right of the line is shaded."
+        },
+        "correct_answer": "A dashed line indicating the boundary, and the region to the right of the line is shaded."
+    },
+    {
+        "q_no": 7,
+        "question": "What is a key application of linear inequalities in real-world scenarios?",
+        "options": {
+            "a": "Predicting the weather.",
+            "b": "Modeling resource allocation constraints.",
+            "c": "Calculating the area of a triangle.",
+            "d": "Determining the roots of a quadratic equation."
+        },
+        "correct_answer": "Modeling resource allocation constraints."
+    },
+    {
+        "q_no": 8,
+        "question": "What strategy is most helpful when solving a system of linear inequalities?",
+        "options": {
+            "a": "Using only algebraic manipulation.",
+            "b": "Graphing each inequality separately and finding the overlapping region.",
+            "c": "Ignoring any inequalities.",
+            "d": "Solving for one variable at a time."
+        },
+        "correct_answer": "Graphing each inequality separately and finding the overlapping region."
+    },
+    {
+        "q_no": 9,
+        "question": "If a linear inequality has no solution, what does this indicate?",
+        "options": {
+            "a": "The variables can take on any value.",
+            "b": "There is a unique solution.",
+            "c": "The region is empty.",
+            "d": "The inequality is true for all values."
+        },
+        "correct_answer": "The region is empty."
+    },
+    {
+        "q_no": 10,
+        "question": "Which of the following represents the correct order of operations when solving a system of linear inequalities?",
+        "options": {
+            "a": "Solve the equations first, then graph the inequalities.",
+            "b": "Graph each inequality separately, then solve for the overlapping region.",
+            "c": "Simplify the inequalities and then solve for the variables.",
+            "d": "Use only algebraic manipulation."
+        },
+        "correct_answer": "Graph each inequality separately and finding the overlapping region."
+    }
+]
+Time Taken: 125.17 seconds | Tokens Produced: 608 | ⚡⚡⚡ Token Speed 4.857 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 10...
+
+Attempt 2 out of 2...
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the primary purpose of linear inequalities?",
+        "options": {
+            "a": "To represent exact mathematical equations",
+            "b": "To represent a range of possible solutions",
+            "c": "To calculate the area of a triangle",
+            "d": "To define the circumference of a circle"
+        },
+        "correct_answer": "To represent a range of possible solutions"
+    },
+    {
+        "q_no": 2,
+        "question": "Which symbol is used to separate the known and unknown parts of a linear inequality?",
+        "options": {
+            "a": "="+
+            "b": ">"
+            "c": "<"
+            "d": "="
+        },
+        "correct_answer": "<"
+    },
+    {
+        "q_no": 3,
+        "question": "If you have the inequality 2x + 3 > 7, what is the first step in solving for x?",
+        "options": {
+            "a": "Divide both sides by 2",
+            "b": "Add 3 to both sides",
+            "c": "Subtract 3 from both sides",
+            "d": "Multiply both sides by 2"
+        },
+        "correct_answer": "Subtract 3 from both sides"
+    },
+    {
+        "q_no": 4,
+        "question": "What does it mean to 'solve' a linear inequality?",
+        "options": {
+            "a": "Find the exact value of x that satisfies the inequality",
+            "b": "Find the range of values that x can take",
+            "c": "Calculate the area of a shape",
+            "d": "Determine the number of sides of a polygon"
+        },
+        "correct_answer": "To find the range of values that x can take"
+    },
+    {
+        "q_no": 5,
+        "question": "A system of linear inequalities consists of how many equations?",
+        "options": {
+            "a": "One equation",
+            "b": "Two equations",
+            "c": "Three equations",
+            "d": "More than three equations"
+        },
+        "correct_answer": "Two equations"
+    },
+    {
+        "q_no": 6,
+        "question": "Graphical representation of linear inequalities typically involves?",
+        "options": {
+            "a": "Straight lines only",
+            "b": "Shaded regions",
+            "c": "Circles and squares",
+            "d": "Triangles and rectangles"
+        },
+        "correct_answer": "Shaded regions"
+    },
+    {
+        "q_no": 7,
+        "question": "Which of the following represents a real-world application of linear inequalities?",
+        "options": {
+            "a": "Calculating the volume of a cube",
+            "b": "Determining the price of a product based on demand",
+            "c": "Measuring the temperature of a room",
+            "d": "Defining the area of a circle"
+        },
+        "correct_answer": "Determining the price of a product based on demand"
+    },
+    {
+        "q_no": 8,
+        "question": "When solving a system of linear inequalities, what does the intersection of the solution sets represent?",
+        "options": {
+            "a": "The area where the lines intersect",
+            "b": "The range of values for x and y",
+            "c": "The point where the equations are equal",
+            "d": "The solution to a single equation"
+        },
+        "correct_answer": "The range of values for x and y"
+    },
+    {
+        "q_no": 9,
+        "question": "A strategy for problem-solving involving linear inequalities is to?",
+        "options": {
+            "a": "Solve the inequality as a single equation",
+            "b": "Graph each inequality separately and find the overlapping region",
+            "c": "Use complex numbers",
+            "d": "Ignore the negative signs"
+        },
+        "correct_answer": "Graph each inequality separately and find the overlapping region"
+    },
+    {
+        "q_no": 10,
+        "question": "Which symbol indicates 'less than' in a linear inequality?",
+        "options": {
+            "a": ">"
+            "b": "="
+            "c": "<"
+            "d": ">="
+        },
+        "correct_answer": "<"
+    }
+]
+Time Taken: 114.78 seconds | Tokens Produced: 486 | ⚡⚡⚡ Token Speed 4.234 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 10...
+⚠️ Error: Invalid JSON format...
+
+⚠️ Warning: After 10 attempts returning longest valid response.
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   {
+      "q_no": 1,
+      "question": "What is the primary purpose of linear inequalities?",
+      "options": {
+         "a": "To represent relationships between variables that are always equal.",
+         "b": "To represent relationships between variables that are not always equal.",
+         "c": "To calculate the area of geometric shapes.",
+         "d": "To solve complex algebraic equations."
+      },
+      "correct_answer": "To represent relationships between variables that are not always equal."
+   },
+   {
+      "q_no": 2,
+      "question": "Which of the following is a key difference between equations and inequalities?",
+      "options": {
+         "a": "Both have the same solution set.",
+         "b": "Equations require equal signs, while inequalities do not.",
+         "c": "Inequalities always represent strict relationships.",
+         "d": "Equations are only used in calculus."
+      },
+      "correct_answer": "It converts food into usable energy"
+   },
+   {
+      "q_no": 3,
+      "question": "What is the first step when solving a linear inequality with one variable?",
+      "options": {
+         "a": "Multiply both sides by zero.",
+         "b": "Divide both sides by the variable.",
+         "c": "Add the same number to both sides.",
+         "d": "Distribute the inequality sign."
+      },
+      "correct_answer": "Divide both sides by the variable."
+   },
+   {
+      "q_no": 4,
+      "question": "If you multiply or divide both sides of a linear inequality by a negative number, you must...",
+      "options": {
+         "a": "Reverse the inequality sign.",
+         "b": "Increase the inequality sign.",
+         "c": "Decrease the inequality sign.",
+         "d": "Remove the inequality sign."
+      },
+      "correct_answer": "Reverse the inequality sign."
+   },
+   {
+      "q_no": 5,
+      "question": "What is a system of linear inequalities?",
+      "options": {
+         "a": "An equation with multiple variables.",
+         "b": "A set of two or more linear inequalities.",
+         "c": "A geometric shape with straight sides.",
+         "d": "A method for solving complex math problems."
+      },
+      "correct_answer": "A set of two or more linear inequalities."
+   },
+   {
+      "q_no": 6,
+      "question": "Graphically, how do you represent a linear inequality where \u2018x\u2019 is greater than zero?",
+      "options": {
+         "a": "A solid line with a dot indicating all points on the line are included.",
+         "b": "A dashed line indicating the boundary, and the region above the line is shaded.",
+         "c": "A solid line with a shaded region to the right of the line.",
+         "d": "A dashed line indicating the boundary, and the region to the right of the line is shaded."
+      },
+      "correct_answer": "A dashed line indicating the boundary, and the region to the right of the line is shaded."
+   },
+   {
+      "q_no": 7,
+      "question": "What is a key application of linear inequalities in real-world scenarios?",
+      "options": {
+         "a": "Predicting the weather.",
+         "b": "Modeling resource allocation constraints.",
+         "c": "Calculating the area of a triangle.",
+         "d": "Determining the roots of a quadratic equation."
+      },
+      "correct_answer": "Modeling resource allocation constraints."
+   },
+   {
+      "q_no": 8,
+      "question": "What strategy is most helpful when solving a system of linear inequalities?",
+      "options": {
+         "a": "Using only algebraic manipulation.",
+         "b": "Graphing each inequality separately and finding the overlapping region.",
+         "c": "Ignoring any inequalities.",
+         "d": "Solving for one variable at a time."
+      },
+      "correct_answer": "Graphing each inequality separately and finding the overlapping region."
+   },
+   {
+      "q_no": 9,
+      "question": "If a linear inequality has no solution, what does this indicate?",
+      "options": {
+         "a": "The variables can take on any value.",
+         "b": "There is a unique solution.",
+         "c": "The region is empty.",
+         "d": "The inequality is true for all values."
+      },
+      "correct_answer": "The region is empty."
+   },
+   {
+      "q_no": 10,
+      "question": "Which of the following represents the correct order of operations when solving a system of linear inequalities?",
+      "options": {
+         "a": "Solve the equations first, then graph the inequalities.",
+         "b": "Graph each inequality separately, then solve for the overlapping region.",
+         "c": "Simplify the inequalities and then solve for the variables.",
+         "d": "Use only algebraic manipulation."
+      },
+      "correct_answer": "Graph each inequality separately and finding the overlapping region."
+   }
+]
+TIME for MCQ: 125.169 | ⚡⚡⚡ Token Speed: 4.857 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 651 | TOTAL Time: 251.04
+
+********************************************************************************
+Syllabus NUMBER 4
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for IB Grade 11 Biology - Genetics - Mendelian Genetics:
+- Introduction to Gregor Mendel and his experiments
+- Dominant and recessive alleles
+- Punnett squares for monohybrid crosses
+- Understanding homozygous and heterozygous genotypes
+- Predicting phenotypes from genotypes
+- Independent assortment (brief introduction)
+TIME for SYLLABUS: 12.896 | ⚡⚡⚡ Token Speed: 3.567 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 2...
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "Gregor Mendel's work was primarily based on studying which organisms?",
+        "options": {
+            "a": "Humans",
+            "b": "Fruit flies (Drosophila)",
+            "c": "Bacteria",
+            "d": "Plants"
+        },
+        "correct_answer": "Fruit flies (Drosophila)"
+    },
+    {
+        "q_no": 2,
+        "question": "What is the primary purpose of Mendel's experiments?",
+        "options": {
+            "a": "To discover DNA structure",
+            "b": "To understand inheritance patterns",
+            "c": "To develop antibiotics",
+            "d": "To create new plant species"
+        },
+        "correct_answer": "To understand inheritance patterns"
+    },
+    {
+        "q_no": 3,
+        "question": "Which of the following best describes a dominant allele?",
+        "options": {
+            "a": "It is masked by a recessive allele",
+            "b": "It always produces the same phenotype as the recessive allele",
+            "c": "It is only expressed when paired with another dominant allele",
+            "d": "It is completely absent from the chromosome"
+        },
+        "correct_answer": "It is masked by a recessive allele"
+    },
+    {
+        "q_no": 4,
+        "question": "What does 'heterozygous' mean in terms of alleles?",
+        "options": {
+            "a": "Having two identical alleles for a trait",
+            "b": "Having two different alleles for a trait",
+            "c": "Having no alleles for a trait",
+            "d": "Being a carrier of a recessive allele"
+        },
+        "correct_answer": "Having two different alleles for a trait"
+    },
+    {
+        "q_no": 5,
+        "question": "In a Punnett square for a monohybrid cross, how many boxes represent heterozygous individuals?",
+        "options": {
+            "a": "1",
+            "b": "2",
+            "c": "4",
+            "d": "9"
+        },
+        "correct_answer": "4"
+    },
+    {
+        "q_no": 6,
+        "question": "What is the purpose of a Punnett square?",
+        "options": {
+            "a": "To measure the mass of an organism",
+            "b": "To predict the genotypic and phenotypic ratios of offspring",
+            "c": "To determine the age of an organism",
+            "d": "To classify organisms based on their appearance"
+        },
+        "correct_answer": "To predict the genotypic and phenotypic ratios of offspring"
+    },
+    {
+        "q_no": 7,
+        "question": "What does 'homozygous' indicate about an individual's alleles?",
+        "options": {
+            "a": "The individual has one dominant and one recessive allele",
+            "b": "The individual has two identical alleles for a trait",
+            "c": "The individual is unable to reproduce",
+            "d": "The individual is infertile"
+        },
+        "correct_answer": "The individual has two identical alleles for a trait"
+    },
+    {
+        "q_no": 8,
+        "question": "If a plant has the genotype 'Tt' (where 'T' is dominant and 't' is recessive), what is its phenotype?",
+        "options": {
+            "a": "tt",
+            "b": "tt",
+            "c": "Tt",
+            "d": "Tt"
+        },
+        "correct_answer": "Tt"
+    },
+    {
+        "q_no": 9,
+        "question": "Independent assortment refers to the random segregation of which genetic material?",
+        "options": {
+            "a": "Chloroplasts",
+            "b": "Chromosomes",
+            "c": "Mitochondria",
+            "d": "Ribosomes"
+        },
+        "correct_answer": "Chromosomes"
+    },
+    {
+        "q_no": 10,
+        "question": "What does 'phenotype' refer to in genetics?",
+        "options": {
+            "a": "The genetic makeup of an organism",
+            "b": "The physical characteristics of an organism",
+            "c": "The number of chromosomes in a cell",
+            "d": "The rate of mutation"
+        },
+        "correct_answer": "The physical characteristics of an organism"
+    },
+     {
+        "q_no": 11,
+        "question": "A cross between two heterozygous parents (Aa) will produce offspring with what genotypic ratio?",
+        "options": {
+            "a": "1:1",
+            "b": "3:1",
+            "c": "9:3:3:1",
+            "d": "1:2:1"
+        },
+        "correct_answer": "1:2:1"
+    },
+    {
+        "q_no": 12,
+        "question": "What is the role of Gregor Mendel's work?",
+        "options": {
+            "a": "To discover penicillin",
+            "b": "To explain the laws of inheritance",
+            "c": "To develop the theory of evolution",
+            "d": "To invent the microscope"
+        },
+        "correct_answer": "To understand inheritance patterns"
+    }
+]
+Time Taken: 136.49 seconds | Tokens Produced: 536 | ⚡⚡⚡ Token Speed 3.927 tokens/sec
+✅✅✅ Successfully generated 12 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   {
+      "q_no": 1,
+      "question": "Gregor Mendel's work was primarily based on studying which organisms?",
+      "options": {
+         "a": "Humans",
+         "b": "Fruit flies (Drosophila)",
+         "c": "Bacteria",
+         "d": "Plants"
+      },
+      "correct_answer": "Fruit flies (Drosophila)"
+   },
+   {
+      "q_no": 2,
+      "question": "What is the primary purpose of Mendel's experiments?",
+      "options": {
+         "a": "To discover DNA structure",
+         "b": "To understand inheritance patterns",
+         "c": "To develop antibiotics",
+         "d": "To create new plant species"
+      },
+      "correct_answer": "To understand inheritance patterns"
+   },
+   {
+      "q_no": 3,
+      "question": "Which of the following best describes a dominant allele?",
+      "options": {
+         "a": "It is masked by a recessive allele",
+         "b": "It always produces the same phenotype as the recessive allele",
+         "c": "It is only expressed when paired with another dominant allele",
+         "d": "It is completely absent from the chromosome"
+      },
+      "correct_answer": "It is masked by a recessive allele"
+   },
+   {
+      "q_no": 4,
+      "question": "What does 'heterozygous' mean in terms of alleles?",
+      "options": {
+         "a": "Having two identical alleles for a trait",
+         "b": "Having two different alleles for a trait",
+         "c": "Having no alleles for a trait",
+         "d": "Being a carrier of a recessive allele"
+      },
+      "correct_answer": "Having two different alleles for a trait"
+   },
+   {
+      "q_no": 5,
+      "question": "In a Punnett square for a monohybrid cross, how many boxes represent heterozygous individuals?",
+      "options": {
+         "a": "1",
+         "b": "2",
+         "c": "4",
+         "d": "9"
+      },
+      "correct_answer": "4"
+   },
+   {
+      "q_no": 6,
+      "question": "What is the purpose of a Punnett square?",
+      "options": {
+         "a": "To measure the mass of an organism",
+         "b": "To predict the genotypic and phenotypic ratios of offspring",
+         "c": "To determine the age of an organism",
+         "d": "To classify organisms based on their appearance"
+      },
+      "correct_answer": "To predict the genotypic and phenotypic ratios of offspring"
+   },
+   {
+      "q_no": 7,
+      "question": "What does 'homozygous' indicate about an individual's alleles?",
+      "options": {
+         "a": "The individual has one dominant and one recessive allele",
+         "b": "The individual has two identical alleles for a trait",
+         "c": "The individual is unable to reproduce",
+         "d": "The individual is infertile"
+      },
+      "correct_answer": "The individual has two identical alleles for a trait"
+   },
+   {
+      "q_no": 8,
+      "question": "If a plant has the genotype 'Tt' (where 'T' is dominant and 't' is recessive), what is its phenotype?",
+      "options": {
+         "a": "tt",
+         "b": "tt",
+         "c": "Tt",
+         "d": "Tt"
+      },
+      "correct_answer": "Tt"
+   },
+   {
+      "q_no": 9,
+      "question": "Independent assortment refers to the random segregation of which genetic material?",
+      "options": {
+         "a": "Chloroplasts",
+         "b": "Chromosomes",
+         "c": "Mitochondria",
+         "d": "Ribosomes"
+      },
+      "correct_answer": "Chromosomes"
+   },
+   {
+      "q_no": 10,
+      "question": "What does 'phenotype' refer to in genetics?",
+      "options": {
+         "a": "The genetic makeup of an organism",
+         "b": "The physical characteristics of an organism",
+         "c": "The number of chromosomes in a cell",
+         "d": "The rate of mutation"
+      },
+      "correct_answer": "The physical characteristics of an organism"
+   },
+   {
+      "q_no": 11,
+      "question": "A cross between two heterozygous parents (Aa) will produce offspring with what genotypic ratio?",
+      "options": {
+         "a": "1:1",
+         "b": "3:1",
+         "c": "9:3:3:1",
+         "d": "1:2:1"
+      },
+      "correct_answer": "1:2:1"
+   },
+   {
+      "q_no": 12,
+      "question": "What is the role of Gregor Mendel's work?",
+      "options": {
+         "a": "To discover penicillin",
+         "b": "To explain the laws of inheritance",
+         "c": "To develop the theory of evolution",
+         "d": "To invent the microscope"
+      },
+      "correct_answer": "To understand inheritance patterns"
+   }
+]
+TIME for MCQ: 136.487 | ⚡⚡⚡ Token Speed: 3.927 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 582 | TOTAL Time: 149.39
+
+********************************************************************************
+Syllabus NUMBER 5
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for State Board Grade 10 Physics - Electricity - Circuits:
+- Series and parallel circuits
+- Ohm’s Law
+- Calculating total resistance
+- Power dissipation in circuits
+- Kirchhoff’s laws
+- Applications of series and parallel circuits
+TIME for SYLLABUS: 11.072 | ⚡⚡⚡ Token Speed: 3.432 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 2...
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "In a series circuit, if one component fails, what happens to the rest of the circuit?",
+        "options": {
+            "a": "The circuit continues to function normally.",
+            "b": "The current is divided between the remaining components.",
+            "c": "The entire circuit breaks, and no current flows.",
+            "d": "The voltage increases, and the circuit becomes more efficient."
+        },
+        "correct_answer": "The entire circuit breaks, and no current flows."
+    },
+    {
+        "q_no": 2,
+        "question": "What is the main characteristic of a parallel circuit?",
+        "options": {
+            "a": "The total resistance decreases as more components are added.",
+            "b": "The current is divided among the branches.",
+            "c": "The voltage remains constant across all components.",
+            "d": "The current flows through a single path."
+        },
+        "correct_answer": "The current is divided among the branches."
+    },
+    {
+        "q_no": 3,
+        "question": "According to Ohm’s Law, what is the relationship between voltage (V), current (I), and resistance (R)?",
+        "options": {
+            "a": "V = I + R",
+            "b": "V = I / R",
+            "c": "V = I * R",
+            "d": "V = R / I"
+        },
+        "correct_answer": "V = I * R"
+    },
+    {
+        "q_no": 4,
+        "question": "What does the term 'power dissipation' refer to in an electrical circuit?",
+        "options": {
+            "a": "The total amount of energy stored in the circuit.",
+            "b": "The rate at which electrical energy is converted to heat.",
+            "c": "The amount of current flowing through the circuit.",
+            "d": "The voltage across the circuit."
+        },
+        "correct_answer": "The rate at which electrical energy is converted to heat."
+    },
+    {
+        "q_no": 5,
+        "question": "Kirchhoff’s Current Law (KCL) states:",
+        "options": {
+            "a": "The sum of voltages around a closed loop is zero.",
+            "b": "The sum of currents entering a node equals the sum of currents leaving the node.",
+            "c": "Voltage is directly proportional to current.",
+            "d": "Resistance is inversely proportional to current."
+        },
+        "correct_answer": "The sum of currents entering a node equals the sum of currents leaving the node."
+    },
+    {
+        "q_no": 6,
+        "question": "Which of the following best describes an application of series circuits?",
+        "options": {
+            "a": "Powering multiple lights in a room simultaneously.",
+            "b": "Providing a constant current to an LED.",
+            "c": "Lighting a string of Christmas lights where one bulb failing doesn't affect the others.",
+            "d": "Charging a battery efficiently."
+        },
+        "correct_answer": "Lighting a string of Christmas lights where one bulb failing doesn't affect the others."
+    }
+]
+Time Taken: 91.42 seconds | Tokens Produced: 392 | ⚡⚡⚡ Token Speed 4.288 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 6...
+
+Attempt 2 out of 2...
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "In a series circuit, if one component fails, what happens?",
+        "options": {
+            "a": "The current increases.",
+            "b": "The circuit continues to function normally.",
+            "c": "The entire circuit breaks and stops working.",
+            "d": "The voltage remains unchanged."
+        },
+        "correct_answer": "The entire circuit breaks and stops working."
+    },
+    {
+        "q_no": 2,
+        "question": "What is the primary difference between a series and a parallel circuit?",
+        "options": {
+            "a": "Series circuits have multiple paths for current flow.",
+            "b": "Parallel circuits provide a single path for current flow.",
+            "c": "Series circuits have the same current flowing through all components.",
+            "d": "Parallel circuits increase the resistance of the circuit."
+        },
+        "correct_answer": "Series circuits have the same current flowing through all components."
+    },
+    {
+        "q_no": 3,
+        "question": "Ohm’s Law states that Voltage (V) is directly proportional to:",
+        "options": {
+            "a": "Current (I) and Resistance (R)",
+            "b": "Current (I) and Resistance (R)",
+            "c": "Voltage (V) and Resistance (R)",
+            "d": "Current (I) and Voltage (V)"
+        },
+        "correct_answer": "Voltage (V) and Resistance (R)"
+    },
+    {
+        "q_no": 5,
+        "question": "What is total resistance in a parallel circuit?",
+        "options": {
+            "a": "Always equal to the resistance of one component.",
+            "b": "Always equal to the sum of the resistances of all components.",
+            "c": "Always equal to zero.",
+            "d": "Depends on the voltage applied."
+        },
+        "correct_answer": "Always equal to the sum of the resistances of all components."
+    },
+    {
+        "q_no": 6,
+        "question": "Kirchhoff’s Current Law (Kirchhoff’s First Law) is based on the principle of:",
+        "options": {
+            "a": "Conservation of energy",
+            "b": "Conservation of charge",
+            "c": "Conservation of mass",
+            "d": "Newton’s laws of motion"
+        },
+        "correct_answer": "Conservation of charge"
+    },
+    {
+        "q_no": 7,
+        "question": "Which of the following is a practical application of series circuits?",
+        "options": {
+            "a": "Illuminating a room",
+            "b": "Connecting multiple light bulbs in parallel",
+            "c": "Creating a circuit for a string of Christmas lights",
+            "d": "Providing power to a single device"
+        },
+        "correct_answer": "Creating a circuit for a string of Christmas lights"
+    },
+    {
+        "q_no": 8,
+        "question": "What does power dissipation in a circuit measure?",
+        "options": {
+            "a": "The amount of current flowing through the circuit",
+            "b": "The total energy consumed by the circuit",
+            "c": "The rate at which electrical energy is converted into other forms of energy",
+            "d": "The voltage across the circuit"
+        },
+        "correct_answer": "The rate at which electrical energy is converted into other forms of energy"
+    },
+     {
+        "q_no": 9,
+        "question": "Kirchhoff’s Voltage Law (Kirchhoff’s Second Law) is based on the principle of:",
+        "options": {
+            "a": "Conservation of charge",
+            "b": "Conservation of energy",
+            "c": "Conservation of mass",
+            "d": "Newton’s laws of motion"
+        },
+        "correct_answer": "Conservation of energy"
+    },
+    {
+        "q_no": 10,
+        "question": "In a parallel circuit, the voltage across each component is:",
+        "options": {
+            "a": "Different for each component",
+            "b": "The same as the total voltage",
+            "c": "Zero",
+            "d": "Dependent on the current"
+        },
+        "correct_answer": "The same as the total voltage"
+    }
+]
+Time Taken: 124.91 seconds | Tokens Produced: 482 | ⚡⚡⚡ Token Speed 3.859 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 6...
+⚠️ Warning: Expected 12 MCQs but got 9...
+
+⚠️ Warning: After 10 attempts returning longest valid response.
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   {
+      "q_no": 1,
+      "question": "In a series circuit, if one component fails, what happens?",
+      "options": {
+         "a": "The current increases.",
+         "b": "The circuit continues to function normally.",
+         "c": "The entire circuit breaks and stops working.",
+         "d": "The voltage remains unchanged."
+      },
+      "correct_answer": "The entire circuit breaks and stops working."
+   },
+   {
+      "q_no": 2,
+      "question": "What is the primary difference between a series and a parallel circuit?",
+      "options": {
+         "a": "Series circuits have multiple paths for current flow.",
+         "b": "Parallel circuits provide a single path for current flow.",
+         "c": "Series circuits have the same current flowing through all components.",
+         "d": "Parallel circuits increase the resistance of the circuit."
+      },
+      "correct_answer": "Series circuits have the same current flowing through all components."
+   },
+   {
+      "q_no": 3,
+      "question": "Ohm\u2019s Law states that Voltage (V) is directly proportional to:",
+      "options": {
+         "a": "Current (I) and Resistance (R)",
+         "b": "Current (I) and Resistance (R)",
+         "c": "Voltage (V) and Resistance (R)",
+         "d": "Current (I) and Voltage (V)"
+      },
+      "correct_answer": "Voltage (V) and Resistance (R)"
+   },
+   {
+      "q_no": 5,
+      "question": "What is total resistance in a parallel circuit?",
+      "options": {
+         "a": "Always equal to the resistance of one component.",
+         "b": "Always equal to the sum of the resistances of all components.",
+         "c": "Always equal to zero.",
+         "d": "Depends on the voltage applied."
+      },
+      "correct_answer": "Always equal to the sum of the resistances of all components."
+   },
+   {
+      "q_no": 6,
+      "question": "Kirchhoff\u2019s Current Law (Kirchhoff\u2019s First Law) is based on the principle of:",
+      "options": {
+         "a": "Conservation of energy",
+         "b": "Conservation of charge",
+         "c": "Conservation of mass",
+         "d": "Newton\u2019s laws of motion"
+      },
+      "correct_answer": "Conservation of charge"
+   },
+   {
+      "q_no": 7,
+      "question": "Which of the following is a practical application of series circuits?",
+      "options": {
+         "a": "Illuminating a room",
+         "b": "Connecting multiple light bulbs in parallel",
+         "c": "Creating a circuit for a string of Christmas lights",
+         "d": "Providing power to a single device"
+      },
+      "correct_answer": "Creating a circuit for a string of Christmas lights"
+   },
+   {
+      "q_no": 8,
+      "question": "What does power dissipation in a circuit measure?",
+      "options": {
+         "a": "The amount of current flowing through the circuit",
+         "b": "The total energy consumed by the circuit",
+         "c": "The rate at which electrical energy is converted into other forms of energy",
+         "d": "The voltage across the circuit"
+      },
+      "correct_answer": "The rate at which electrical energy is converted into other forms of energy"
+   },
+   {
+      "q_no": 9,
+      "question": "Kirchhoff\u2019s Voltage Law (Kirchhoff\u2019s Second Law) is based on the principle of:",
+      "options": {
+         "a": "Conservation of charge",
+         "b": "Conservation of energy",
+         "c": "Conservation of mass",
+         "d": "Newton\u2019s laws of motion"
+      },
+      "correct_answer": "Conservation of energy"
+   },
+   {
+      "q_no": 10,
+      "question": "In a parallel circuit, the voltage across each component is:",
+      "options": {
+         "a": "Different for each component",
+         "b": "The same as the total voltage",
+         "c": "Zero",
+         "d": "Dependent on the current"
+      },
+      "correct_answer": "The same as the total voltage"
+   }
+]
+TIME for MCQ: 124.907 | ⚡⚡⚡ Token Speed: 3.859 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 520 | TOTAL Time: 227.42
+
+********************************************************************************
+Syllabus NUMBER 6
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for CBSE Grade 9 Mathematics - Number Systems:
+- Introduction to natural, whole, rational and irrational numbers
+- Comparing and ordering numbers
+- Prime numbers and composite numbers
+- Divisibility rules
+- Factors and Multiples
+- Greatest Common Divisor (GCD) and Least Common Multiple (LCM)
+TIME for SYLLABUS: 11.885 | ⚡⚡⚡ Token Speed: 3.87 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 2...
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "Which of the following numbers is a natural number?",
+        "options": {
+            "a": "3.14",
+            "b": "0",
+            "c": "5",
+            "d": "√2"
+        },
+        "correct_answer": "5"
+    },
+    {
+        "q_no": 2,
+        "question": "Which of the following best describes a rational number?",
+        "options": {
+            "a": "A number that cannot be expressed as a decimal",
+            "b": "A number that can be expressed as a fraction p/q, where q ≠ 0",
+            "c": "A whole number",
+            "d": "A negative integer"
+        },
+        "correct_answer": "A number that can be expressed as a fraction p/q, where q ≠ 0"
+    },
+    {
+        "q_no": 3,
+        "question": "Which of the following is a prime number?",
+        "options": {
+            "a": "9",
+            "b": "15",
+            "c": "7",
+            "d": "12"
+        },
+        "correct_answer": "7"
+    },
+    {
+        "q_no": 4,
+        "question": "Which of the following is a composite number?",
+        "options": {
+            "a": "2",
+            "b": "3",
+            "c": "8",
+            "d": "5"
+        },
+        "correct_answer": "8"
+    },
+    {
+        "q_no": 5,
+        "question": "What is the divisibility rule for 3?",
+        "options": {
+            "a": "The sum of the digits of the number",
+            "b": "The number is even",
+            "c": "The number is divisible by 2",
+            "d": "The number is odd"
+        },
+        "correct_answer": "The sum of the digits of the number"
+    },
+    {
+        "q_no": 6,
+        "question": "Which of the following is a factor of 24?",
+        "options": {
+            "a": "7",
+            "b": "10",
+            "c": "16",
+            "d": "8"
+        },
+        "correct_answer": "8"
+    },
+    {
+        "q_no": 7,
+        "question": "What is the LCM of 6 and 8?",
+        "options": {
+            "a": "3",
+            "b": "12",
+            "c": "4",
+            "d": "24"
+        },
+        "correct_answer": "24"
+    },
+    {
+        "q_no": 8,
+        "question": "What is the GCD of 12 and 18?",
+        "options": {
+            "a": "3",
+            "b": "6",
+            "c": "9",
+            "d": "12"
+        },
+        "correct_answer": "6"
+    },
+    {
+        "q_no": 9,
+        "question": "Which number is a multiple of 5?",
+        "options": {
+            "a": "9",
+            "b": "10",
+            "c": "15",
+            "d": "20"
+        },
+        "correct_answer": "10"
+    },
+    {
+        "q_no": 10,
+        "question": "Which of the following numbers is an irrational number?",
+        "options": {
+            "a": "0.5",
+            "b": "1/2",
+            "c": "√2",
+            "d": "0"
+        },
+        "correct_answer": "√2"
+    },
+    {
+        "q_no": 11,
+        "question": "What is the next number in the sequence: 2, 4, 6, 8, __?",
+        "options": {
+            "a": "10",
+            "b": "11",
+            "c": "12",
+            "d": "14"
+        },
+        "correct_answer": "12"
+    },
+    {
+        "q_no": 12,
+        "question": "Which of the following represents the greatest common divisor of 15 and 25?",
+        "options": {
+            "a": "5",
+            "b": "10",
+            "c": "1",
+            "d": "3"
+        },
+        "correct_answer": "5"
+    }
+]
+Time Taken: 120.01 seconds | Tokens Produced: 390 | ⚡⚡⚡ Token Speed 3.250 tokens/sec
+✅✅✅ Successfully generated 12 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   {
+      "q_no": 1,
+      "question": "Which of the following numbers is a natural number?",
+      "options": {
+         "a": "3.14",
+         "b": "0",
+         "c": "5",
+         "d": "\u221a2"
+      },
+      "correct_answer": "5"
+   },
+   {
+      "q_no": 2,
+      "question": "Which of the following best describes a rational number?",
+      "options": {
+         "a": "A number that cannot be expressed as a decimal",
+         "b": "A number that can be expressed as a fraction p/q, where q \u2260 0",
+         "c": "A whole number",
+         "d": "A negative integer"
+      },
+      "correct_answer": "A number that can be expressed as a fraction p/q, where q \u2260 0"
+   },
+   {
+      "q_no": 3,
+      "question": "Which of the following is a prime number?",
+      "options": {
+         "a": "9",
+         "b": "15",
+         "c": "7",
+         "d": "12"
+      },
+      "correct_answer": "7"
+   },
+   {
+      "q_no": 4,
+      "question": "Which of the following is a composite number?",
+      "options": {
+         "a": "2",
+         "b": "3",
+         "c": "8",
+         "d": "5"
+      },
+      "correct_answer": "8"
+   },
+   {
+      "q_no": 5,
+      "question": "What is the divisibility rule for 3?",
+      "options": {
+         "a": "The sum of the digits of the number",
+         "b": "The number is even",
+         "c": "The number is divisible by 2",
+         "d": "The number is odd"
+      },
+      "correct_answer": "The sum of the digits of the number"
+   },
+   {
+      "q_no": 6,
+      "question": "Which of the following is a factor of 24?",
+      "options": {
+         "a": "7",
+         "b": "10",
+         "c": "16",
+         "d": "8"
+      },
+      "correct_answer": "8"
+   },
+   {
+      "q_no": 7,
+      "question": "What is the LCM of 6 and 8?",
+      "options": {
+         "a": "3",
+         "b": "12",
+         "c": "4",
+         "d": "24"
+      },
+      "correct_answer": "24"
+   },
+   {
+      "q_no": 8,
+      "question": "What is the GCD of 12 and 18?",
+      "options": {
+         "a": "3",
+         "b": "6",
+         "c": "9",
+         "d": "12"
+      },
+      "correct_answer": "6"
+   },
+   {
+      "q_no": 9,
+      "question": "Which number is a multiple of 5?",
+      "options": {
+         "a": "9",
+         "b": "10",
+         "c": "15",
+         "d": "20"
+      },
+      "correct_answer": "10"
+   },
+   {
+      "q_no": 10,
+      "question": "Which of the following numbers is an irrational number?",
+      "options": {
+         "a": "0.5",
+         "b": "1/2",
+         "c": "\u221a2",
+         "d": "0"
+      },
+      "correct_answer": "\u221a2"
+   },
+   {
+      "q_no": 11,
+      "question": "What is the next number in the sequence: 2, 4, 6, 8, __?",
+      "options": {
+         "a": "10",
+         "b": "11",
+         "c": "12",
+         "d": "14"
+      },
+      "correct_answer": "12"
+   },
+   {
+      "q_no": 12,
+      "question": "Which of the following represents the greatest common divisor of 15 and 25?",
+      "options": {
+         "a": "5",
+         "b": "10",
+         "c": "1",
+         "d": "3"
+      },
+      "correct_answer": "5"
+   }
+]
+TIME for MCQ: 120.005 | ⚡⚡⚡ Token Speed: 3.25 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 436 | TOTAL Time: 131.90
+
+********************************************************************************
+Syllabus NUMBER 7
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for IB Grade 10 Biology - Ecology - Population Dynamics:
+- Defining population size and density
+- Factors affecting population growth (biotic and abiotic)
+- Exponential and logistic population growth models
+- Carrying capacity and limiting factors
+- Age structure and its implications
+- Calculating population growth rates
+- Analyzing population graphs and data
+TIME for SYLLABUS: 12.089 | ⚡⚡⚡ Token Speed: 4.55 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 14
+Attempt 1 out of 2...
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "Which of the following best defines population density?",
+        "options": {
+            "a": "The total number of individuals in a population",
+            "b": "The number of individuals per unit area or volume",
+            "c": "The age distribution of a population",
+            "d": "The rate at which a population reproduces"
+        },
+        "correct_answer": "The number of individuals per unit area or volume"
+    },
+    {
+        "q_no": 2,
+        "question": "What is a key component of population size?",
+        "options": {
+            "a": "The species' physical characteristics",
+            "b": "The population’s geographic range",
+            "c": "The total number of individuals in the population",
+            "d": "The population’s interaction with other species"
+        },
+        "correct_answer": "The total number of individuals in the population"
+    },
+    {
+        "q_no": 3,
+        "question": "Which of the following is an example of a biotic factor affecting population growth?",
+        "options": {
+            "a": "Temperature",
+            "b": "Sunlight intensity",
+            "c": "Predation by a predator",
+            "d": "Soil pH"
+        },
+        "correct_answer": "Predation by a predator"
+    },
+    {
+        "q_no": 4,
+        "question": "Abiotic factors can directly impact population growth by affecting which process?",
+        "options": {
+            "a": "Genetic mutation",
+            "b": "Photosynthesis",
+            "c": "Nutrient availability",
+            "d": "Cellular respiration"
+        },
+        "correct_answer": "Nutrient availability"
+    },
+    {
+        "q_no": 5,
+        "question": "What is the primary characteristic of exponential population growth?",
+        "options": {
+            "a": "A constant rate of growth",
+            "b": "A growth rate that decreases over time",
+            "c": "A growth rate dependent on population size",
+            "d": "A growth rate independent of resources"
+        },
+        "correct_answer": "A growth rate independent of resources"
+    },
+    {
+        "q_no": 6,
+        "question": "Carrying capacity is defined as:",
+        "options": {
+            "a": "The maximum population size an environment can sustain",
+            "b": "The rate at which a population grows",
+            "c": "The total number of individuals in a population",
+            "d": "The age distribution of a population"
+        },
+        "correct_answer": "The maximum population size an environment can sustain"
+    },
+    {
+        "q_no": 7,
+        "question": "Which of the following is a limiting factor for population growth?",
+        "options": {
+            "a": "Increased sunlight",
+            "b": "Abundant food resources",
+            "c": "High predator populations",
+            "d": "Stable environmental conditions"
+        },
+        "correct_answer": "High predator populations"
+    },
+    {
+        "q_no": 8,
+        "question": "What does age structure refer to in ecology?",
+        "options": {
+            "a": "The physical appearance of a population",
+            "b": "The proportion of different age groups in a population",
+            "c": "The total biomass of a population",
+            "d": "The geographic distribution of a population"
+        },
+        "correct_answer": "The proportion of different age groups in a population"
+    },
+    {
+        "q_no": 9,
+        "question": "If a population's growth rate is calculated as 0.1, this indicates:",
+        "options": {
+            "a": "The population is decreasing by 10% per year",
+            "b": "The population is increasing by 10% per year",
+            "c": "The population is remaining stable",
+            "d": "The population is doubling every year"
+        },
+        "correct_answer": "The population is increasing by 10% per year"
+    },
+    {
+        "q_no": 10,
+        "question": "When analyzing population graphs, a steeper slope typically represents:",
+        "options": {
+            "a": "A stable population",
+            "b": "A slower rate of population growth",
+            "c": "A faster rate of population growth",
+            "d": "A population with high mortality rates"
+        },
+        "correct_answer": "A faster rate of population growth"
+    }
+]
+Time Taken: 119.40 seconds | Tokens Produced: 499 | ⚡⚡⚡ Token Speed 4.179 tokens/sec
+⚠️ Warning: Expected 14 MCQs but got 10...
+
+Attempt 2 out of 2...
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is population density defined as?",
+        "options": {
+            "a": "The total number of individuals in a population",
+            "b": "The number of individuals per unit area or volume",
+            "c": "The age distribution of a population",
+            "d": "The diversity of species within a habitat"
+        },
+        "correct_answer": "The number of individuals per unit area or volume"
+    },
+    {
+        "q_no": 2,
+        "question": "Which of the following is NOT a factor affecting population growth?",
+        "options": {
+            "a": "Availability of food",
+            "b": "Predator-prey relationships",
+            "c": "The color of the population's fur",
+            "d": "Disease outbreaks"
+        },
+        "correct_answer": "The color of the population's fur"
+    },
+    {
+        "q_no": 3,
+        "question": "The exponential growth model assumes:",
+        "options": {
+            "a": "Resources are limited, leading to a slowing growth rate",
+            "b": "Population size remains constant due to limiting factors",
+            "c": "Population size increases at a constant rate",
+            "d": "Population size decreases due to emigration"
+        },
+        "correct_answer": "Population size increases at a constant rate"
+    },
+    {
+        "q_no": 4,
+        "question": "What does carrying capacity represent?",
+        "options": {
+            "a": "The maximum population size an environment can sustain",
+            "b": "The rate at which a population increases",
+            "c": "The total biomass of a population",
+            "d": "The genetic diversity within a population"
+        },
+        "correct_answer": "The maximum population size an environment can sustain"
+    },
+    {
+        "q_no": 5,
+        "question": "Which of the following is an example of a biotic limiting factor?",
+        "options": {
+            "a": "Temperature",
+            "b": "Rainfall",
+            "c": "Competition for resources",
+            "d": "Solar radiation"
+        },
+        "correct_answer": "Competition for resources"
+    },
+    {
+        "q_no": 6,
+        "question": "What does a logistic population growth model demonstrate?",
+        "options": {
+            "a": "Unlimited population growth",
+            "b": "Population growth that slows as resources become scarce",
+            "c": "Instantaneous population growth",
+            "d": "Population growth solely dependent on birth rates"
+        },
+        "correct_answer": "Population growth that slows as resources become scarce"
+    },
+    {
+        "q_no": 7,
+        "question": "What is the primary purpose of analyzing population graphs?",
+        "options": {
+            "a": "To determine the age structure of the population",
+            "b": "To identify trends in population growth and carrying capacity",
+            "c": "To measure the genetic diversity of the population",
+            "d": "To calculate the population density"
+        },
+        "correct_answer": "To identify trends in population growth and carrying capacity"
+    },
+    {
+        "q_no": 8,
+        "question": "A population pyramid showing a wide base and narrow top indicates:",
+        "options": {
+            "a": "A young and rapidly growing population",
+            "b": "An aging population with a low birth rate",
+            "c": "A balanced population with equal birth and death rates",
+            "d": "A population experiencing high mortality rates"
+        },
+        "correct_answer": "An aging population with a low birth rate"
+    },
+    {
+        "q_no": 9,
+        "question": "What is a limiting factor?",
+        "options": {
+            "a": "A positive influence on population growth",
+            "b": "A factor that restricts population growth",
+            "c": "The total number of individuals in a population",
+            "d": "The average lifespan of individuals in a population"
+        },
+        "correct_answer": "A factor that restricts population growth"
+    },
+    {
+        "q_no": 10,
+        "question": "Calculating population growth rates primarily involves:",
+        "options": {
+            "a": "Measuring the population's distance from its habitat",
+            "b": "Calculating the birth and death rates of the population",
+            "c": "Determining the average size of individuals in the population",
+            "d": "Analyzing the population's genetic makeup"
+        },
+        "correct_answer": "Calculating the birth and death rates of the population"
+    }
+]
+Time Taken: 122.65 seconds | Tokens Produced: 529 | ⚡⚡⚡ Token Speed 4.313 tokens/sec
+⚠️ Warning: Expected 14 MCQs but got 10...
+⚠️ Warning: Expected 14 MCQs but got 10...
+
+⚠️ Warning: After 10 attempts returning longest valid response.
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   {
+      "q_no": 1,
+      "question": "Which of the following best defines population density?",
+      "options": {
+         "a": "The total number of individuals in a population",
+         "b": "The number of individuals per unit area or volume",
+         "c": "The age distribution of a population",
+         "d": "The rate at which a population reproduces"
+      },
+      "correct_answer": "The number of individuals per unit area or volume"
+   },
+   {
+      "q_no": 2,
+      "question": "What is a key component of population size?",
+      "options": {
+         "a": "The species' physical characteristics",
+         "b": "The population\u2019s geographic range",
+         "c": "The total number of individuals in the population",
+         "d": "The population\u2019s interaction with other species"
+      },
+      "correct_answer": "The total number of individuals in the population"
+   },
+   {
+      "q_no": 3,
+      "question": "Which of the following is an example of a biotic factor affecting population growth?",
+      "options": {
+         "a": "Temperature",
+         "b": "Sunlight intensity",
+         "c": "Predation by a predator",
+         "d": "Soil pH"
+      },
+      "correct_answer": "Predation by a predator"
+   },
+   {
+      "q_no": 4,
+      "question": "Abiotic factors can directly impact population growth by affecting which process?",
+      "options": {
+         "a": "Genetic mutation",
+         "b": "Photosynthesis",
+         "c": "Nutrient availability",
+         "d": "Cellular respiration"
+      },
+      "correct_answer": "Nutrient availability"
+   },
+   {
+      "q_no": 5,
+      "question": "What is the primary characteristic of exponential population growth?",
+      "options": {
+         "a": "A constant rate of growth",
+         "b": "A growth rate that decreases over time",
+         "c": "A growth rate dependent on population size",
+         "d": "A growth rate independent of resources"
+      },
+      "correct_answer": "A growth rate independent of resources"
+   },
+   {
+      "q_no": 6,
+      "question": "Carrying capacity is defined as:",
+      "options": {
+         "a": "The maximum population size an environment can sustain",
+         "b": "The rate at which a population grows",
+         "c": "The total number of individuals in a population",
+         "d": "The age distribution of a population"
+      },
+      "correct_answer": "The maximum population size an environment can sustain"
+   },
+   {
+      "q_no": 7,
+      "question": "Which of the following is a limiting factor for population growth?",
+      "options": {
+         "a": "Increased sunlight",
+         "b": "Abundant food resources",
+         "c": "High predator populations",
+         "d": "Stable environmental conditions"
+      },
+      "correct_answer": "High predator populations"
+   },
+   {
+      "q_no": 8,
+      "question": "What does age structure refer to in ecology?",
+      "options": {
+         "a": "The physical appearance of a population",
+         "b": "The proportion of different age groups in a population",
+         "c": "The total biomass of a population",
+         "d": "The geographic distribution of a population"
+      },
+      "correct_answer": "The proportion of different age groups in a population"
+   },
+   {
+      "q_no": 9,
+      "question": "If a population's growth rate is calculated as 0.1, this indicates:",
+      "options": {
+         "a": "The population is decreasing by 10% per year",
+         "b": "The population is increasing by 10% per year",
+         "c": "The population is remaining stable",
+         "d": "The population is doubling every year"
+      },
+      "correct_answer": "The population is increasing by 10% per year"
+   },
+   {
+      "q_no": 10,
+      "question": "When analyzing population graphs, a steeper slope typically represents:",
+      "options": {
+         "a": "A stable population",
+         "b": "A slower rate of population growth",
+         "c": "A faster rate of population growth",
+         "d": "A population with high mortality rates"
+      },
+      "correct_answer": "A faster rate of population growth"
+   }
+]
+TIME for MCQ: 119.398 | ⚡⚡⚡ Token Speed: 4.179 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 554 | TOTAL Time: 254.15
+
+********************************************************************************
+Syllabus NUMBER 8
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Cambridge Grade 8 Mathematics - Algebra - Linear Equations:
+- Solving linear equations with one variable
+- Solving multi-step linear equations
+- Understanding the concept of slope and intercepts
+- Graphing linear equations on the coordinate plane
+- Solving word problems involving linear equations
+- Systems of linear equations (introduction)
+TIME for SYLLABUS: 12.034 | ⚡⚡⚡ Token Speed: 4.321 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 2...
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the primary goal when solving a linear equation with one variable?",
+        "options": {
+            "a": "To find the value of the variable that makes the equation true.",
+            "b": "To add all the numbers together.",
+            "c": "To multiply all the terms in the equation.",
+            "d": "To create a complex equation."
+        },
+        "correct_answer": "To find the value of the variable that makes the equation true."
+    },
+    {
+        "q_no": 2,
+        "question": "If 3x + 5 = 14, what is the value of x?",
+        "options": {
+            "a": "x = 3",
+            "b": "x = 8",
+            "c": "x = 9",
+            "d": "x = 5"
+        },
+        "correct_answer": "x = 3"
+    },
+    {
+        "q_no": 3,
+        "question": "What does the term ‘multi-step’ mean when solving linear equations?",
+        "options": {
+            "a": "Solving the equation in one simple step.",
+            "b": "Solving the equation requiring multiple operations (addition, subtraction, multiplication, division) to isolate the variable.",
+            "c": "Only using addition in the equation.",
+            "d": "Only using multiplication in the equation."
+        },
+        "correct_answer": "Solving the equation requiring multiple operations (addition, subtraction, multiplication, division) to isolate the variable."
+    },
+    {
+        "q_no": 4,
+        "question": "If 2x + 3 = 7, what is the value of x?",
+        "options": {
+            "a": "x = 2",
+            "b": "x = 4",
+            "c": "x = 5",
+            "d": "x = 1"
+        },
+        "correct_answer": "x = 2"
+    },
+    {
+        "q_no": 5,
+        "question": "What does the term ‘slope’ represent on a linear graph?",
+        "options": {
+            "a": "The y-intercept of the line.",
+            "b": "The steepness or rate of change of the line.",
+            "c": "The length of the line.",
+            "d": "The area under the curve."
+        },
+        "correct_answer": "The steepness or rate of change of the line."
+    },
+    {
+        "q_no": 6,
+        "question": "The slope of a line is calculated as (y2 - y1) / (x2 - x1). What does the denominator (x2 - x1) represent?",
+        "options": {
+            "a": "The y-intercept of the line.",
+            "b": "The horizontal distance between two points on the line.",
+            "c": "The vertical distance between two points on the line.",
+            "d": "The slope of the line."
+        },
+        "correct_answer": "The horizontal distance between two points on the line."
+    },
+    {
+        "q_no": 7,
+        "question": "What is the y-intercept of the equation y = 2x + 3?",
+        "options": {
+            "a": "2",
+            "b": "3",
+            "c": "0",
+            "d": "-2"
+        },
+        "correct_answer": "3"
+    },
+    {
+        "q_no": 8,
+        "question": "Which of the following equations represents a linear equation?",
+        "options": {
+            "a": "y = x^2 + 1",
+            "b": "y = 3x - 2",
+            "c": "y = 2",
+            "d": "y = x + 1/x"
+        },
+        "correct_answer": "y = 3x - 2"
+    },
+    {
+        "q_no": 9,
+        "question": "A word problem states: ‘John buys x apples for $2 each. He spends $5 on juice. His total bill is $12. Write an equation to represent this situation.’",
+        "options": {
+            "a": "x + 2 = 12",
+            "b": "2x + 5 = 12",
+            "c": "2x - 5 = 12",
+            "d": "2x + 5 = 7"
+        },
+        "correct_answer": "2x + 5 = 12"
+    },
+    {
+        "q_no": 10,
+        "question": "If a system of equations is given as x + y = 5 and x - y = 1, what is the value of x?",
+        "options": {
+            "a": "2",
+            "b": "3",
+            "c": "4",
+            "d": "6"
+        },
+        "correct_answer": "4"
+    }
+]
+Time Taken: 127.97 seconds | Tokens Produced: 536 | ⚡⚡⚡ Token Speed 4.188 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 10...
+
+Attempt 2 out of 2...

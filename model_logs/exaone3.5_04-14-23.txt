@@ -1,0 +1,103 @@
+********************************************************************************
+Syllabus NUMBER 1
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Edexcel Grade 12 Mathematics - Calculus - Differentiation:
+- Definition and meaning of derivatives
+- Rules for differentiating basic functions (linear, polynomial, exponential)
+- Chain rule application
+- Product and quotient rules
+- Implicit differentiation basics
+- Solving optimization problems using differentiation
+- Graphical interpretation of derivatives
+TIME for SYLLABUS: 26.215 | ⚡⚡⚡ Token Speed: 1.869 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 14
+Attempt 1 out of 5...
+🔍🔍🔍 Generated MCQ:
+
+ \[
+[
+    {
+        "q_no": 1,
+        "question": "What is the definition of a derivative in calculus?",
+        "options": {
+            "a": "The rate of change of velocity over time",
+            "b": "The slope of the tangent line to a curve at a point",
+            "c": "The total sum of a function's values",
+            "d": "The integral of a function over an interval"
+        },
+        "correct_answer": "The slope of the tangent line to a curve at a point"
+    },
+    {
+        "q_no": 2,
+        "question": "Which rule is used to differentiate a polynomial function like \( f(x) = 3x^4 + 2x^3 - x + 5 \)?",
+        "options": {
+            "a": "Chain Rule",
+            "b": "Product Rule",
+            "c": "Quotient Rule",
+            "d": "Power Rule"
+        },
+        "correct_answer": "Power Rule"
+    },
+    {
+        "q_no": 3,
+        "question": "How does the chain rule apply to the function \( y = (x^2 + 1)^3 \)?",
+        "options": {
+            "a": "Differentiate the outer function first, then multiply by the derivative of the inner function",
+            "b": "Differentiate the inner function only",
+            "c": "Differentiate both parts equally without considering composition",
+            "d": "Differentiate the entire function as a single term"
+        },
+        "correct_answer": "Differentiate the outer function first, then multiply by the derivative of the inner function"
+    },
+    {
+        "q_no": 4,
+        "question": "In applying the product rule to \( f(x) = x^2 \cdot e^x \), which expression correctly represents the derivative?",
+        "options": {
+            "a": "(2x \cdot e^x) + (x^2 \cdot e^x)",
+            "b": "(2x \cdot e^x) - (x^2 \cdot e^x)",
+            "c": "2x^2 \cdot e^x",
+            "d": "x^2 \cdot e^x"
+        },
+        "correct_answer": "(2x \cdot e^x) + (x^2 \cdot e^x)"
+    },
+    {
+        "q_no": 5,
+        "question": "What is implicit differentiation used for when dealing with equations like \( x^2 + y^2 = 25 \)?",
+        "options": {
+            "a": "To find the explicit form of \( y \) in terms of \( x \)",
+            "b": "To differentiate both sides of the equation with respect to \( x \) treating \( y \) as a function of \( x \)",
+            "c": "To solve for \( x \) only",
+            "d": "To find the area under the curve"
+        },
+        "correct_answer": "To differentiate both sides of the equation with respect to \( x \) treating \( y \) as a function of \( x \)"
+    },
+    {
+        "q_no": 6,
+        "question": "Which optimization problem scenario typically utilizes differentiation to find maximum or minimum values?",
+        "options": {
+            "a": "Determining the maximum volume of a box given fixed perimeter constraints",
+            "b": "Calculating the average speed of a moving object",
+            "c": "Finding the equilibrium point in a chemical reaction",
+            "d": "Identifying the shortest distance between two points"
+        },
+        "correct_answer": "Determining the maximum volume of a box given fixed perimeter constraints"
+    },
+    {
+        "q_no": 7,
+        "question": "What does the graphical interpretation of derivatives tell us about a function \( f(x) \)?",
+        "options": {
+            "a": "The exact value of \( x \) where \( f(x) \) intersects the x-axis",
+            "b": "The slope of the tangent line at any point on the graph",
+            "c": "The area under the curve of \( f(x) \)",
+            "d": "The maximum number of roots of \( f(x) \)"
+        },
+        "correct_answer": "The slope of the tangent line at any point on the graph"
+    }
+]
+\]
+Time Taken: 220.61 seconds | Tokens Produced: 516 | ⚡⚡⚡ Token Speed 2.339 tokens/sec
+⚠️ Error: Invalid JSON format...
+
+Attempt 2 out of 5...

@@ -1,0 +1,48 @@
+********************************************************************************
+
+Syllabus NUMBER 1 of 4 --- | phi4-mini
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Cambridge Grade 5 Mathematics - Fractions - Fraction Addition:
+- Introduction to fractions as parts of a whole
+- Understanding numerators and denominators
+- Adding fractions with the same denominator
+- Adding fractions with different denominators
+- Simplifying fractions after addition
+- Solving word problems involving fraction addition
+
+Syllabus for IB Grade 9 Mathematics: Geometry, Trigonometry:
+- Right triangle properties (Pythagorean theorem)
+- Introduction to trigonometric ratios (sine, cosine, tangent)
+- Understanding and applying the Law of Sines & Cosines
+- Using trig functions in real-world problems
+- Solving triangles using different methods (law of sines/cosines/sides/angles)
+TIME for SYLLABUS: 21.378 | ⚡⚡⚡ Token Speed: 4.584 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 22
+Attempt 1/4 for Syllabus 1 of 4... | phi4-mini
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What is a fraction?", "options": {"a": "A part separated from the whole.", "b": "An integer number greater than zero."}, "correct_answer": "A part separated from the whole."},
+    {"q_no": "2", "question": "In fractions, what does the numerator represent?", "options": {"a": "The total amount of parts being considered.", "b": "How many equal pieces are taken out of a larger number (whole)."}, "correct_answer": "How many equal pieces are taken out of a larger number (whole)"},
+    {"q_no": "3", "question": "What is the result when you add 1/4 and 2/4?", "options": {"a": "5/7", "b": "1/8", "c": "3/4"}, "correct_answer": "3/4"},
+    {"q_no": "4", "question": "How do you find a common denominator for adding fractions with different denominators, such as 2/5 and 3/10?", "options": {"a": "Multiply the numerators together.", "b": "Find the least common multiple of both denominators."}, "correct_answer": "Find the least common multiple of both denominators."},
+    {"q_no": "5", "question": "What should you do after adding fractions with different denominators?", "options": {"a": "Leave them as they are.", "b": "Simplify if possible and find a new denominator that is less than 10."}, "correct_answer": "Simplify if possible and find a common equivalent fraction."},
+    {"q_no": "6", "question": "How do you add fractions with different denominators, such as 1/3 + 2/5?", "options": {"a": "Add the numerators directly to get (4)", "b": "(15x+6)/(15)"}, "correct_answer": "(15x+6)/(15)"},
+    {"q_no": "7", "question": "Solve for x: 1/x + 2/(3*x) = 5/9. What is the value of 'x'?", "options": {"a": "1", "b": "3", "c": "(18)", "d": "27"}, "correct_answer": "(18)"},
+    {"q_no": "8", "question": "A word problem: If there are 4 students and they want to share a bag of candy containing (5/6) pounds equally, how much will each student get?", "options": {"a": "(1)", "b": "(2.5)"}, "correct_answer": "(2.5)"},
+    {"q_no": "9", "question": "What is the numerator in a fraction used for while solving triangles with Law of Cosines? (Assuming angle A, side opposite to it as 'a')", "options": {"a": "The ratio representing one triangle's area.", "b": "(cos C)"},"c": "(sin B)", "d": "(cos(A+C))"}, "correct_answer": "(cos(C)"},
+    {"q_no": "10", "question": "If a right angle measures 90 degrees, how many radian is it?", "options": {"a": "(π/2)", "b": "(180°)", "c": "45","d":"30"}, "correct_answer": "(π/2)"},
+    {
+        "q_no": "11", "question": "What would be the value of angle C if in a triangle with angles A and B being 35 degrees each, what is 'C'?", "options": {"a": "110","b": (130),"c": "(175)", "d": "(45)"}, "correct_answer": "(170)"},
+    },
+    {
+        "q_no": "12", "question": "If sin A = 1/2 and cos B= 3, what is tan(A+B)?",
+        options: {"a": (0.5), "b": "-(sqrt{9-4)/8)", "c": "(15/sqrt(145)), "d": "((12+7)/(11-sqrt[(-14/25))])"}, 
+    }
+]
+Time Taken: 138.60 seconds | Tokens Produced: 414 | ⚡⚡⚡ Token Speed 2.987 tokens/sec
+⚠️ Error: Invalid JSON format...
+
+Attempt 2/4 for Syllabus 1 of 4... | phi4-mini

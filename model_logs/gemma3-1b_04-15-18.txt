@@ -1,0 +1,909 @@
+********************************************************************************
+
+Syllabus NUMBER 1 of 4 --- | gemma3:1b
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Prompt: Syllabus for IB Grade 9 Mathematics, topic Geometry, subtopic Trigonometry
+Response:
+- Introduction to Trigonometry: Definitions and basic concepts
+- Triangle Geometry: Identifying angles and sides
+- Trigonometric Ratios: Sine, cosine, and tangent
+- Applications of Trigonometry: Solving problems involving angles and sides
+- Trigonometric Identities: Simplifying and expanding expressions
+- Solving Trigonometric Equations: Applying identities to find solutions
+TIME for SYLLABUS: 9.042 | ⚡⚡⚡ Token Speed: 6.635 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1/4 for Syllabus 1 of 4... | gemma3:1b
+🔍🔍🔍 Generated MCQ:
+
+ [
+  {"q_no": "1", "question": "What is the definition of a trigonometric ratio?", "options": {"a": "A number that describes the position of a point on a circle", "b": "A ratio relating the sides of a triangle", "c": "A ratio relating the angles of a triangle", "d": "A value representing the length of a side"}, "correct_answer": "A ratio relating the sides of a triangle"},
+  {"q_no": "2", "question": "Which of the following trigonometric ratios is used to determine the angle of a specific angle?", "options": {"a": "Sine, Cosine, Tangent", "b": "Product, Quotient, Power", "c": "Sum, Difference, Multiply", "d": "Half, Full, Multiplied"}, "correct_answer": "Sine, Cosine, and Tangent"},
+  {"q_no": "3", "question": "In triangle geometry, what does the sum of angles in a triangle represent?", "options": {"a": "The sum of the angles must equal 180 degrees", "b": "The sum of the angles must equal the sum of the sides", "c": "The angles must sum to 180 degrees", "d": "The angles must be equal"}, "correct_answer": "The sum of the angles must equal 180 degrees"},
+  {"q_no": "4", "question": "What is the significance of the sine function in trigonometry?", "options": {"a": "It represents the inverse of the cosine function", "b": "It is always positive", "c": "It describes the angle of elevation of a line", "d": "It is equal to the square root of 1"}, "correct_answer": "It describes the angle of elevation of a line"},
+  {"q_no": "5", "question": "Consider a triangle with angles of 30°, 60°, and 90°. Which trigonometric ratio is the largest?", "options": {"a": "Sine", "b": "Cosine", "c": "Tangent", "d": "Tangent"}, "correct_answer": "Sine"},
+  {"q_no": "6", "question": "What is a trigonometric identity?", "options": {"a": "A statement about the properties of a triangle", "b": "A rule for solving trigonometric problems", "c": "A relation between trigonometric functions", "d": "A calculation involving trigonometric ratios"}, "correct_answer": "A rule for solving trigonometric problems"},
+  {"q_no": "7", "question": "How does the cosine function relate to the adjacent side and the hypotenuse in a right triangle?", "options": {"a": "It is equal to the opposite side, and the hypotenuse is equal to the adjacent side", "b": "It is equal to the opposite side and the hypotenuse is equal to the adjacent side", "c": "It is equal to the adjacent side and the opposite side", "d": "It is equal to the hypotenuse and the adjacent side"}, "correct_answer": "It is equal to the opposite side and the hypotenuse is equal to the adjacent side"},
+  {"q_no": "8", "question": "The tangent function is used to find the angle of incidence in a triangle. What does the tangent function represent?", "options": {"a": "The ratio of the sides of the two triangles", "b": "The angle of the first triangle compared to the angle of the second triangle", "c": "The angle of the second triangle compared to the angle of the first triangle", "d": "The slope of the line connecting two points"}, "correct_answer": "The angle of the second triangle compared to the angle of the first triangle"},
+  {"q_no": "9", "question": "Which of the following is a key difference between the sine and cosine functions?", "options": {"a": "They have the same definition and applications", "b": "Cosine is the inverse of sine, and sine is the inverse of cosine", "c": "They describe the same angles in different ways", "d": "Cosine is always greater than sine"}, "correct_answer": "Cosine is the inverse of sine, and sine is the inverse of cosine"},
+  {"q_no": "10", "question": "In a right triangle, the hypotenuse is always longer than the side opposite the angle at the hypotenuse.", "options": {"a": "True, but not always", "b": "False, but true", "c": "False, but not always", "d": "True, always"}, "correct_answer": "True, but not always"},
+  {"q_no": "11", "question": "What is the range of values that the sine function takes on?", "options": {"a": "Approximately 0 to 1", "b": "Approximately -1 to 1", "c": "Approximately -1 to 1", "d": "Approximately 0 to 2"}, "correct_answer": "Approximately 0 to 1"},
+  {"q_no": "12", "question": "What does a value of 0 represent in the trigonometric functions?", "options": {"a": "A solution to an equation", "b": "A point on the trigonometric graph", "c": "A negative value", "d": "The highest point"}, "correct_answer": "A point on the trigonometric graph"},
+  {"q_no": "13", "question": "In triangle geometry, what is the value of the angle of elevation of a line?", "options": {"a": "The angle of the opposite side", "b": "The angle of the adjacent side", "c": "The angle of the hypotenuse", "d": "The angle of the third side"}, "correct_answer": "The angle of elevation of a line"},
+  {"q_no": "14", "question": "Which trigonometric function is used to find the length of a side of a triangle?", "options": {"a": "Sine, Cosine, and Tangent", "b": "Cosine, Sine, andTangent", "c": "Tangent, Sine, and Cosine", "d": "Tangent, Cosine, and Sine"}, "correct_answer": "Sine, Cosine, and Tangent"},
+  ]
+]
+Time Taken: 66.11 seconds | Tokens Produced: 781 | ⚡⚡⚡ Token Speed 11.814 tokens/sec
+⚠️ Error: Invalid JSON format...
+
+Attempt 2/4 for Syllabus 1 of 4... | gemma3:1b
+🔍🔍🔍 Generated MCQ:
+
+ [
+  {
+    "q_no": "1",
+    "question": "What is the fundamental concept of a trigonometric ratio?",
+    "options": {"a": "The sum of angles in a triangle.", "b": "The ratio of side lengths in a triangle.", "c": "The value of the trigonometric function at a point.", "d": "The area of a triangle"},
+    "correct_answer": "The ratio of side lengths in a triangle."
+  },
+  {
+    "q_no": "2",
+    "question": "Which trigonometric ratio is used to find the angle measure of an angle in a triangle?",
+    "options": {"a": "Sine", "b": "Cosine", "c": "Tangent", "d": "Product of sides"},
+    "correct_answer": "Sine"
+  }
+]
+Time Taken: 26.35 seconds | Tokens Produced: 95 | ⚡⚡⚡ Token Speed 3.606 tokens/sec
+⚠️ Error: Invalid JSON format...
+⚠️ Warning: Expected 12 MCQs but got 2...
+
+Attempt 3/4 for Syllabus 1 of 4... | gemma3:1b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What is the definition of an angle in triangle geometry?", "options": {"a": "A side of the triangle", "b": "The sum of two sides", "c": "The vertex of the triangle", "d": "The longest side"}, "correct_answer": "The sum of two sides"},
+    {"q_no": "2", "question": "Which trigonometric ratio is used to find an angle in a right-angled triangle?", "options": {"a": "Sine", "b": "Cosine", "c": "Tangent", "d": "Cosecant"}, "correct_answer": "Cosine"},
+    {"q_no": "3", "question": "In a right triangle, the side opposite the right angle is?", "options": {"a": "The hypotenuse", "b": "The leg", "c": "The opposite side", "d": "The adjacent side"}, "correct_answer": "The opposite side"},
+    {"q_no": "4", "question": "What does the 'sin' function represent?", "options": {"a": "The length of the hypotenuse", "b": "The cosine of an angle", "c": "The tangent of an angle", "d": "The square of the angle"}, "correct_answer": "The cosine of an angle"},
+    {"q_no": "5", "question": "What is the significance of the tangent function in geometry?", "options": {"a": "It represents the sum of two angles", "b": "It determines the angle of elevation", "c": "It describes the length of a line segment", "d": "It represents the angle of shade"}, "correct_answer": "It determines the angle of elevation"},
+    {"q_no": "6", "question": "Which of the following represents a trigonometric function?", "options": {"a": "A number", "b": "A graph", "c": "A function", "d": "An equation"}, "correct_answer": "A function"},
+    {"q_no": "7", "question": "What does 'tan' usually stand for in trigonometry?", "options": {"a": "Tangent", "b": "Sine", "c": "Cosine", "d": "Square"}, "correct_answer": "Tangent"},
+    {"q_no": "8", "question": "In a right triangle, the opposite side is always longer than the adjacent side.", "options": {"a": "False", "b": "True", "c": "It depends", "d": "Never"}, "correct_answer": "True"},
+    {"q_no": "9", "question": "Which of these is an example of a trigonometric equation?", "options": {"a": "x + y = 1", "b": "sin(x) = 0", "c": "2sin(x) + 1 = 0", "d": "y = 1x"}, "correct_answer": "c"},
+    {"q_no": "10", "question": "What is the range of values that a trigonometric function can take?", "options": {"a": "Negative infinity", "b": "Positive infinity", "c": "0-1", "d": "Any value greater than 0"}, "correct_answer": "c"},
+    {"q_no": "11", "question": "What is the inverse of the trigonometric function 'sin'?", "options": {"a": "Cos", "b": "Tan", "c": "Sin", "d": "Sin"}, "correct_answer": "Sin"},
+    {"q_no": "12", "question": "What does the 'cos' function do?", "options": {"a": "Find the angle", "b": "Calculate the side length", "c": "Find the tangent", "d": "Find the sine"}, "correct_answer": "Calculate the side length"},
+    {"q_no": "13", "question": "Consider the case where the angle is 30 degrees. Which of the following is true?", "options": {"a": "The sine of 30 degrees is 0.5", "b": "The cosine of 30 degrees is 0.833", "c": "The tangent of 30 degrees is 0.5", "d": "The sine of 30 degrees is 0.833"}, "correct_answer": "c"},
+    {"q_no": "14", "question": "The tangent is a function of which variables?", "options": {"a": "x, y", "b": "x, sin", "c": "y, x", "d": "sin, x"}, "correct_answer": "c"}
+]
+Time Taken: 55.20 seconds | Tokens Produced: 478 | ⚡⚡⚡ Token Speed 8.660 tokens/sec
+✅✅✅ Successfully generated 14 MCQs. Attempts Needed 3
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 1 of 4
+[
+   {
+      "q_no": "1",
+      "question": "What is the definition of an angle in triangle geometry?",
+      "options": {
+         "a": "A side of the triangle",
+         "b": "The sum of two sides",
+         "c": "The vertex of the triangle",
+         "d": "The longest side"
+      },
+      "correct_answer": "The sum of two sides"
+   },
+   {
+      "q_no": "2",
+      "question": "Which trigonometric ratio is used to find an angle in a right-angled triangle?",
+      "options": {
+         "a": "Sine",
+         "b": "Cosine",
+         "c": "Tangent",
+         "d": "Cosecant"
+      },
+      "correct_answer": "Cosine"
+   },
+   {
+      "q_no": "3",
+      "question": "In a right triangle, the side opposite the right angle is?",
+      "options": {
+         "a": "The hypotenuse",
+         "b": "The leg",
+         "c": "The opposite side",
+         "d": "The adjacent side"
+      },
+      "correct_answer": "The opposite side"
+   },
+   {
+      "q_no": "4",
+      "question": "What does the 'sin' function represent?",
+      "options": {
+         "a": "The length of the hypotenuse",
+         "b": "The cosine of an angle",
+         "c": "The tangent of an angle",
+         "d": "The square of the angle"
+      },
+      "correct_answer": "The cosine of an angle"
+   },
+   {
+      "q_no": "5",
+      "question": "What is the significance of the tangent function in geometry?",
+      "options": {
+         "a": "It represents the sum of two angles",
+         "b": "It determines the angle of elevation",
+         "c": "It describes the length of a line segment",
+         "d": "It represents the angle of shade"
+      },
+      "correct_answer": "It determines the angle of elevation"
+   },
+   {
+      "q_no": "6",
+      "question": "Which of the following represents a trigonometric function?",
+      "options": {
+         "a": "A number",
+         "b": "A graph",
+         "c": "A function",
+         "d": "An equation"
+      },
+      "correct_answer": "A function"
+   },
+   {
+      "q_no": "7",
+      "question": "What does 'tan' usually stand for in trigonometry?",
+      "options": {
+         "a": "Tangent",
+         "b": "Sine",
+         "c": "Cosine",
+         "d": "Square"
+      },
+      "correct_answer": "Tangent"
+   },
+   {
+      "q_no": "8",
+      "question": "In a right triangle, the opposite side is always longer than the adjacent side.",
+      "options": {
+         "a": "False",
+         "b": "True",
+         "c": "It depends",
+         "d": "Never"
+      },
+      "correct_answer": "True"
+   },
+   {
+      "q_no": "9",
+      "question": "Which of these is an example of a trigonometric equation?",
+      "options": {
+         "a": "x + y = 1",
+         "b": "sin(x) = 0",
+         "c": "2sin(x) + 1 = 0",
+         "d": "y = 1x"
+      },
+      "correct_answer": "c"
+   },
+   {
+      "q_no": "10",
+      "question": "What is the range of values that a trigonometric function can take?",
+      "options": {
+         "a": "Negative infinity",
+         "b": "Positive infinity",
+         "c": "0-1",
+         "d": "Any value greater than 0"
+      },
+      "correct_answer": "c"
+   },
+   {
+      "q_no": "11",
+      "question": "What is the inverse of the trigonometric function 'sin'?",
+      "options": {
+         "a": "Cos",
+         "b": "Tan",
+         "c": "Sin",
+         "d": "Sin"
+      },
+      "correct_answer": "Sin"
+   },
+   {
+      "q_no": "12",
+      "question": "What does the 'cos' function do?",
+      "options": {
+         "a": "Find the angle",
+         "b": "Calculate the side length",
+         "c": "Find the tangent",
+         "d": "Find the sine"
+      },
+      "correct_answer": "Calculate the side length"
+   },
+   {
+      "q_no": "13",
+      "question": "Consider the case where the angle is 30 degrees. Which of the following is true?",
+      "options": {
+         "a": "The sine of 30 degrees is 0.5",
+         "b": "The cosine of 30 degrees is 0.833",
+         "c": "The tangent of 30 degrees is 0.5",
+         "d": "The sine of 30 degrees is 0.833"
+      },
+      "correct_answer": "c"
+   },
+   {
+      "q_no": "14",
+      "question": "The tangent is a function of which variables?",
+      "options": {
+         "a": "x, y",
+         "b": "x, sin",
+         "c": "y, x",
+         "d": "sin, x"
+      },
+      "correct_answer": "c"
+   }
+]
+TIME for MCQ: 55.195 | ⚡⚡⚡ Token Speed: 8.66 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 538 | TOTAL Time: 156.72
+
+********************************************************************************
+
+Syllabus NUMBER 2 of 4 --- | gemma3:1b
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Prompt: Syllabus for Cambridge Grade 8 Mathematics, topic Algebra, subtopic Linear Equations:
+- Introduction to linear equations and variables
+- Understanding the concept of a linear equation
+- Solving linear equations with one variable
+- Solving linear equations with multiple variables
+- Graphing linear equations
+- Applying linear equations to real-world problems
+TIME for SYLLABUS: 6.828 | ⚡⚡⚡ Token Speed: 7.615 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1/4 for Syllabus 2 of 4... | gemma3:1b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What is the fundamental concept of a linear equation?", "options": {"a": "A relationship between two variables", "b": "A set of variables and their relationships", "c": "A function representing a linear transformation", "d": "A formula for a geometric shape"}, "correct_answer": "A relationship between two variables"},
+    {"q_no": "2", "question": "Which of the following is a key characteristic of a linear equation?", "options": {"a": "It can be expressed as a polynomial", "b": "It always involves a variable", "c": "It represents a function", "d": "It has an infinite number of solutions"}, "correct_answer": "It always involves a variable"},
+    {"q_no": "3", "question": "In solving linear equations with one variable, what is the primary goal?", "options": {"a": "Find the exact value of the variable", "b": "Simplify the equation as much as possible", "c": "Solve for the variable", "d": "Identify the value of the variable"}, "correct_answer": "Solve for the variable"},
+    {"q_no": "4", "question": "What does the graph of a linear equation represent?", "options": {"a": "The distance between two points", "b": "The slope of a line", "c": "The equation of a line", "d": "The function itself"}, "correct_answer": "The equation of a line"},
+    {"q_no": "5", "question": "Consider the equation y = 2x + 1, what does the variable 'x' represent?", "options": {"a": "The constant term", "b": "The coefficient of x", "c": "The y-intercept", "d": "The slope"}, "correct_answer": "The coefficient of x"},
+    {"q_no": "6", "question": "What is the role of the graph in understanding linear equations?", "options": {"a": "It provides a direct solution to the equation", "b": "It helps in visualizing the equation's solution", "c": "It generates a function", "d": "It's a mathematical formula"}, "correct_answer": "It helps in visualizing the equation's solution"},
+    {"q_no": "7", "question": "A line that passes through the origin is an example of which type of equation?", "options": {"a": "A linear equation", "b": "A quadratic equation", "c": "A trigonometric equation", "d": "An exponential equation"}, "correct_answer": "A linear equation"},
+    {"q_no": "8", "question": "What does the slope of a line represent?", "options": {"a": "The y-value", "b": "The x-value", "c": "The slope", "d": "The equation's coefficient"}, "correct_answer": "The slope"},
+    {"q_no": "9", "question": "If you are given the equation y = 3x - 2, what does the 'x' variable represent?", "options": {"a": "The y-value", "b": "The equation's coefficients", "c": "The equation's slope", "d": "The constant term"}, "correct_answer": "The equation's slope"},
+    {"q_no": "10", "question": "What is the main purpose of graphing linear equations?", "options": {"a": "To find the exact solution", "b": "To visualize the solution", "c": "To simplify the equation", "d": "To derive a new equation"}, "correct_answer": "To visualize the solution"},
+    {"q_no": "11", "question": "What happens to the graph of a linear equation when the slope is increased?", "options": {"a": "The y-value decreases", "b": "The y-value increases", "c": "The graph remains the same", "d": "The graph becomes a parabola"}, "correct_answer": "The y-value increases"},
+    {"q_no": "12", "question": "In a real-world scenario, which type of linear equation might be used to model a relationship?", "options": {"a": "A trigonometric equation", "b": "A quadratic equation", "c": "A linear equation", "d": "An exponential equation"}, "correct_answer": "A linear equation"},
+    {"q_no": "13", "question": "The equation y = mx + b represents a relationship between...", "options": {"a": "Two variables", "b": "The y-axis and x-axis", "c": "The slope and y-intercept", "d": "The x-axis and y-axis"}, "correct_answer": "Two variables"},
+    {"q_no": "14", "question": "What does the graph of a linear equation help us understand?", "options": {"a": "The absolute value of the equation", "b": "The value of the variables", "c": "The slope of the line", "d": "The equation's constant term"}, "correct_answer": "The value of the variables"}
+]
+Time Taken: 60.27 seconds | Tokens Produced: 588 | ⚡⚡⚡ Token Speed 9.756 tokens/sec
+✅✅✅ Successfully generated 14 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 2 of 4
+[
+   {
+      "q_no": "1",
+      "question": "What is the fundamental concept of a linear equation?",
+      "options": {
+         "a": "A relationship between two variables",
+         "b": "A set of variables and their relationships",
+         "c": "A function representing a linear transformation",
+         "d": "A formula for a geometric shape"
+      },
+      "correct_answer": "A relationship between two variables"
+   },
+   {
+      "q_no": "2",
+      "question": "Which of the following is a key characteristic of a linear equation?",
+      "options": {
+         "a": "It can be expressed as a polynomial",
+         "b": "It always involves a variable",
+         "c": "It represents a function",
+         "d": "It has an infinite number of solutions"
+      },
+      "correct_answer": "It always involves a variable"
+   },
+   {
+      "q_no": "3",
+      "question": "In solving linear equations with one variable, what is the primary goal?",
+      "options": {
+         "a": "Find the exact value of the variable",
+         "b": "Simplify the equation as much as possible",
+         "c": "Solve for the variable",
+         "d": "Identify the value of the variable"
+      },
+      "correct_answer": "Solve for the variable"
+   },
+   {
+      "q_no": "4",
+      "question": "What does the graph of a linear equation represent?",
+      "options": {
+         "a": "The distance between two points",
+         "b": "The slope of a line",
+         "c": "The equation of a line",
+         "d": "The function itself"
+      },
+      "correct_answer": "The equation of a line"
+   },
+   {
+      "q_no": "5",
+      "question": "Consider the equation y = 2x + 1, what does the variable 'x' represent?",
+      "options": {
+         "a": "The constant term",
+         "b": "The coefficient of x",
+         "c": "The y-intercept",
+         "d": "The slope"
+      },
+      "correct_answer": "The coefficient of x"
+   },
+   {
+      "q_no": "6",
+      "question": "What is the role of the graph in understanding linear equations?",
+      "options": {
+         "a": "It provides a direct solution to the equation",
+         "b": "It helps in visualizing the equation's solution",
+         "c": "It generates a function",
+         "d": "It's a mathematical formula"
+      },
+      "correct_answer": "It helps in visualizing the equation's solution"
+   },
+   {
+      "q_no": "7",
+      "question": "A line that passes through the origin is an example of which type of equation?",
+      "options": {
+         "a": "A linear equation",
+         "b": "A quadratic equation",
+         "c": "A trigonometric equation",
+         "d": "An exponential equation"
+      },
+      "correct_answer": "A linear equation"
+   },
+   {
+      "q_no": "8",
+      "question": "What does the slope of a line represent?",
+      "options": {
+         "a": "The y-value",
+         "b": "The x-value",
+         "c": "The slope",
+         "d": "The equation's coefficient"
+      },
+      "correct_answer": "The slope"
+   },
+   {
+      "q_no": "9",
+      "question": "If you are given the equation y = 3x - 2, what does the 'x' variable represent?",
+      "options": {
+         "a": "The y-value",
+         "b": "The equation's coefficients",
+         "c": "The equation's slope",
+         "d": "The constant term"
+      },
+      "correct_answer": "The equation's slope"
+   },
+   {
+      "q_no": "10",
+      "question": "What is the main purpose of graphing linear equations?",
+      "options": {
+         "a": "To find the exact solution",
+         "b": "To visualize the solution",
+         "c": "To simplify the equation",
+         "d": "To derive a new equation"
+      },
+      "correct_answer": "To visualize the solution"
+   },
+   {
+      "q_no": "11",
+      "question": "What happens to the graph of a linear equation when the slope is increased?",
+      "options": {
+         "a": "The y-value decreases",
+         "b": "The y-value increases",
+         "c": "The graph remains the same",
+         "d": "The graph becomes a parabola"
+      },
+      "correct_answer": "The y-value increases"
+   },
+   {
+      "q_no": "12",
+      "question": "In a real-world scenario, which type of linear equation might be used to model a relationship?",
+      "options": {
+         "a": "A trigonometric equation",
+         "b": "A quadratic equation",
+         "c": "A linear equation",
+         "d": "An exponential equation"
+      },
+      "correct_answer": "A linear equation"
+   },
+   {
+      "q_no": "13",
+      "question": "The equation y = mx + b represents a relationship between...",
+      "options": {
+         "a": "Two variables",
+         "b": "The y-axis and x-axis",
+         "c": "The slope and y-intercept",
+         "d": "The x-axis and y-axis"
+      },
+      "correct_answer": "Two variables"
+   },
+   {
+      "q_no": "14",
+      "question": "What does the graph of a linear equation help us understand?",
+      "options": {
+         "a": "The absolute value of the equation",
+         "b": "The value of the variables",
+         "c": "The slope of the line",
+         "d": "The equation's constant term"
+      },
+      "correct_answer": "The value of the variables"
+   }
+]
+TIME for MCQ: 60.27 | ⚡⚡⚡ Token Speed: 9.756 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 640 | TOTAL Time: 67.11
+
+********************************************************************************
+
+Syllabus NUMBER 3 of 4 --- | gemma3:1b
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Prompt: Syllabus for Cambridge Grade 5 Mathematics, topic fractions, subtopic fraction addition
+Response:
+- Introduction to fractions as parts of a whole.
+- Understanding numerators and denominators.
+- Adding fractions with the same denominator.
+- Adding fractions with different denominators.
+- Simplifying fractions after addition.
+- Solving word problems involving fraction addition.
+TIME for SYLLABUS: 7.329 | ⚡⚡⚡ Token Speed: 7.096 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1/4 for Syllabus 3 of 4... | gemma3:1b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What does the numerator in a fraction represent?", "options": {"a": "The whole number part", "b": "The denominator", "c": "The number being added", "d": "The numerator and denominator combined"}, "correct_answer": "The denominator"},
+    {"q_no": "2", "question": "What is the result of adding 1/4 and 2/4?", "options": {"a": "1/16", "b": "3/4", "c": "5/4", "d": "1/2"}, "correct_answer": "3/4"},
+    {"q_no": "3", "question": "Simplify the fraction 4/6 by dividing both the numerator and denominator by their greatest common factor.", "options": {"a": "4/6", "b": "6/4", "c": "1/2", "d": "3/2"}, "correct_answer": "6/4"},
+    {"q_no": "4", "question": "Which operation is used to add fractions with the same denominator?", "options": {"a": "Subtract", "b": "Multiply", "c": "Add", "d": "Divide"}, "correct_answer": "Add"},
+    {"q_no": "5", "question": "If a fraction is 1/2 and another fraction is 1/3, what is the result of adding them?", "options": {"a": "1/6", "b": "3/6", "c": "1/3", "d": "2/6"}, "correct_answer": "1/6"},
+    {"q_no": "6", "question": "What is the value of 2/5 when added to 1/5?", "options": {"a": "1/10", "b": "3/10", "c": "1/2", "d": "2/5"}, "correct_answer": "3/10"},
+    {"q_no": "7", "question": "Simplify the fraction 1/2 by dividing both the numerator and denominator by 2.", "options": {"a": "1/4", "b": "2/2", "c": "1/2", "d": "3/2"}, "correct_answer": "1/4"},
+    {"q_no": "8", "question": "Consider the fraction 3/4.  What is the value of the fraction if the denominator is doubled?", "options": {"a": "2/4", "b": "1/2", "c": "4/4", "d": "3/4"}, "correct_answer": "2/4"},
+    {"q_no": "9", "question": "What does the denominator of a fraction represent?", "options": {"a": "The number of total parts", "b": "The total number of items", "c": "The total number of measures", "d": "The total number of parts"}, "correct_answer": "The total number of items"},
+    {"q_no": "10", "question": "Which of the following is equivalent to 1/2?", "options": {"a": "3/6", "b": "2/3", "c": "1/2", "d": "1/4"}, "correct_answer": "1/2"}
+]
+Time Taken: 46.55 seconds | Tokens Produced: 292 | ⚡⚡⚡ Token Speed 6.273 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 10...
+
+Attempt 2/4 for Syllabus 3 of 4... | gemma3:1b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": "1",
+        "question": "What does the denominator represent in a fraction?",
+        "options": {"a": "The number of unit parts in a whole.", "b": "The total number of objects.", "c": "The total number of objects divided by the total number of unit parts.", "d": "The total number of unit parts divided by the total number of objects" },
+        "correct_answer": "The total number of objects divided by the total number of unit parts"
+    },
+    {
+        "q_no": "2",
+        "question": "What is the value of the numerator in the fraction 1/2?",
+        "options": {"a": "1", "b": "2", "c": "3", "d": "4"},
+        "correct_answer": "2"
+    },
+    {
+        "q_no": "3",
+        "question": "Which of the following is a correct way to add fractions with the same denominator?",
+        "options": {"a": "Simplify the fractions first, then add.", "b": "Add the numerators and then the denominators.", "c": "Subtract the numerators and then the denominators.", "d": "Ignore the denominators."},
+        "correct_answer": "Simplify the fractions first, then add."
+    },
+    {
+        "q_no": "4",
+        "question": "What does the result of adding fractions with different denominators represent?",
+        "options": {"a": "The original fractions.", "b": "The sum of the fractions.", "c": "The new fraction.", "d": "The total of the fractions"},
+        "correct_answer": "The sum of the fractions"
+    },
+    {
+        "q_no": "5",
+        "question": "Simplify the fraction 3/4 to its simplest form.",
+        "options": {"a": "1/4", "b": "3/4", "c": "2/4", "d": "5/4"},
+        "correct_answer": "3/4"
+    },
+    {
+        "q_no": "6",
+        "question": "What happens if you add a fraction to a fraction?",
+        "options": {"a": "The value becomes smaller.", "b": "The value becomes larger.", "c": "The value stays the same.", "d": "The value changes based on the fractions"},
+        "correct_answer": "The value stays the same"
+    },
+    {
+        "q_no": "7",
+        "question": "If you have 1/2 and 1/4, what is the result of adding them?",
+        "options": {"a": "3/4", "b": "1/2", "c": "1/4", "d": "2/4"},
+        "correct_answer": "1/2"
+    },
+    {
+        "q_no": "8",
+        "question": "What is the equivalent fraction for 1/2?",
+        "options": {"a": "2/2", "b": "1/2", "c": "4/2", "d": "1/2"},
+        "correct_answer": "1/2"
+    },
+    {
+        "q_no": "9",
+        "question": "Which operation is used to find the difference between two fractions?",
+        "options": {"a": "Addition", "b": "Subtraction", "c": "Multiplication", "d": "Division"},
+        "correct_answer": "Subtraction"
+    },
+    {
+        "q_no": "10",
+        "question": "If you add 1/3 and 1/6, what is the result?",
+        "options": {"a": "1/2", "b": "1/3", "c": "1/6", "d": "1/3/1/6"},
+        "correct_answer": "1/3"
+    }
+]
+Time Taken: 53.10 seconds | Tokens Produced: 376 | ⚡⚡⚡ Token Speed 7.080 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 10...
+⚠️ Warning: Expected 12 MCQs but got 10...
+
+Attempt 3/4 for Syllabus 3 of 4... | gemma3:1b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What is the result of adding 1/2 + 1/4?", "options": {"a": "3/4"}, "correct_answer": "3/4"},
+    {"q_no": "2", "question": "Simplify 1/3 + 1/6", "options": {"a": "2/6"}, "correct_answer": "2/6"},
+    {"q_no": "3", "question": "What is the value of 1/2 + 1/2?", "options": {"a": "1/4"}, "correct_answer": "1/4"},
+    {"q_no": "4", "question": "What happens to the value of 1/4 when you add it to 1/2?", "options": {"a": "1/2"}, "correct_answer": "1/2"},
+    {"q_no": "5", "question": "Simplify 3/4 - 1/2", "options": {"a": "1/4"}, "correct_answer": "1/4"},
+    {"q_no": "6", "question": "What is 1/3 + 1/6?", "options": {"a": "1/2"}, "correct_answer": "1/2"},
+    {"q_no": "7", "question": "Which operation is used to add fractions?", "options": {"a": "Multiply", "b": "Add", "c": "Subtract", "d": "Divide"}, "correct_answer": "Add"},
+    {"q_no": "8", "question": "What is the result of 2/5 + 1/5?", "options": {"a": "1/10"}, "correct_answer": "1/10"},
+    {"q_no": "9", "question": "Simplify 1/4 - 1/2", "options": {"a": "2/4"}, "correct_answer": "2/4"},
+    {"q_no": "10", "question": "What is the result of 1/3 + 1/3?", "options": {"a": "1/2"}, "correct_answer": "1/2"},
+    {"q_no": "11", "question": "What does the denominator of a fraction indicate?", "options": {"a": "The total number of parts", "b": "The total number of terms", "c": "The size of the fraction", "d": "The numerator"}, "correct_answer": "b"},
+    {"q_no": "12", "question": "What is a fraction greater than 1?", "options": {"a": "0", "b": "1", "c": "Negative", "d": "Zero"}, "correct_answer": "c"}
+]
+Time Taken: 43.33 seconds | Tokens Produced: 214 | ⚡⚡⚡ Token Speed 4.938 tokens/sec
+✅✅✅ Successfully generated 12 MCQs. Attempts Needed 3
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 3 of 4
+[
+   {
+      "q_no": "1",
+      "question": "What is the result of adding 1/2 + 1/4?",
+      "options": {
+         "a": "3/4"
+      },
+      "correct_answer": "3/4"
+   },
+   {
+      "q_no": "2",
+      "question": "Simplify 1/3 + 1/6",
+      "options": {
+         "a": "2/6"
+      },
+      "correct_answer": "2/6"
+   },
+   {
+      "q_no": "3",
+      "question": "What is the value of 1/2 + 1/2?",
+      "options": {
+         "a": "1/4"
+      },
+      "correct_answer": "1/4"
+   },
+   {
+      "q_no": "4",
+      "question": "What happens to the value of 1/4 when you add it to 1/2?",
+      "options": {
+         "a": "1/2"
+      },
+      "correct_answer": "1/2"
+   },
+   {
+      "q_no": "5",
+      "question": "Simplify 3/4 - 1/2",
+      "options": {
+         "a": "1/4"
+      },
+      "correct_answer": "1/4"
+   },
+   {
+      "q_no": "6",
+      "question": "What is 1/3 + 1/6?",
+      "options": {
+         "a": "1/2"
+      },
+      "correct_answer": "1/2"
+   },
+   {
+      "q_no": "7",
+      "question": "Which operation is used to add fractions?",
+      "options": {
+         "a": "Multiply",
+         "b": "Add",
+         "c": "Subtract",
+         "d": "Divide"
+      },
+      "correct_answer": "Add"
+   },
+   {
+      "q_no": "8",
+      "question": "What is the result of 2/5 + 1/5?",
+      "options": {
+         "a": "1/10"
+      },
+      "correct_answer": "1/10"
+   },
+   {
+      "q_no": "9",
+      "question": "Simplify 1/4 - 1/2",
+      "options": {
+         "a": "2/4"
+      },
+      "correct_answer": "2/4"
+   },
+   {
+      "q_no": "10",
+      "question": "What is the result of 1/3 + 1/3?",
+      "options": {
+         "a": "1/2"
+      },
+      "correct_answer": "1/2"
+   },
+   {
+      "q_no": "11",
+      "question": "What does the denominator of a fraction indicate?",
+      "options": {
+         "a": "The total number of parts",
+         "b": "The total number of terms",
+         "c": "The size of the fraction",
+         "d": "The numerator"
+      },
+      "correct_answer": "b"
+   },
+   {
+      "q_no": "12",
+      "question": "What is a fraction greater than 1?",
+      "options": {
+         "a": "0",
+         "b": "1",
+         "c": "Negative",
+         "d": "Zero"
+      },
+      "correct_answer": "c"
+   }
+]
+TIME for MCQ: 43.333 | ⚡⚡⚡ Token Speed: 4.938 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 266 | TOTAL Time: 150.34
+
+********************************************************************************
+
+Syllabus NUMBER 4 of 4 --- | gemma3:1b
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Ecology:
+- Introduction to Ecosystems and Biodiversity
+- Population Size and Distribution
+- Population Growth and Decline
+- Factors Affecting Population Size
+- Ecological Relationships (Food Webs)
+- Data Collection and Analysis
+TIME for SYLLABUS: 6.073 | ⚡⚡⚡ Token Speed: 5.269 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1/4 for Syllabus 4 of 4... | gemma3:1b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": "1",
+        "question": "What is the primary role of biodiversity in an ecosystem?",
+        "options": {"a": "Maintaining stable climate conditions", "b": "Supporting a wide range of species", "c": "Increasing overall productivity", "d": "Reducing nutrient cycling"},
+        "correct_answer": "Supporting a wide range of species"
+    },
+    {
+        "q_no": "2",
+        "question": "Which of the following best describes the concept of trophic levels?",
+        "options": {"a": "Species arranged in a vertical order based on energy consumption", "b": "Categories of organisms based on their feeding habits", "c": "Levels of ecological organization based on role", "d": "Species with similar physiological traits"},
+        "correct_answer": "Levels of ecological organization based on role"
+    },
+    {
+        "q_no": "3",
+        "question": "What does 'carrying capacity' refer to in ecological studies?",
+        "options": {"a": "The maximum population size an ecosystem can support indefinitely", "b": "The rate at which a population grows", "c": "The total biomass within an ecosystem", "d": "The average size of a species"},
+        "correct_answer": "The maximum population size an ecosystem can support indefinitely"
+    },
+    {
+        "q_no": "4",
+        "question": "Which of the following is a consequence of overpopulation?",
+        "options": {"a": "Increased biodiversity and ecosystem resilience", "b": "Habitat degradation and resource depletion", "c": "Reduced species extinction rates", "d": "Increased nutrient cycling"},
+        "correct_answer": "Habitat degradation and resource depletion"
+    },
+    {
+        "q_no": "5",
+        "question": "What is 'ecological succession'?",
+        "options": {"a": "A sudden shift in an ecosystem's composition", "b":"The gradual process of change in an ecological community", "c":"The establishment of a new species in an area", "d":"The return of a species to its original habitat"},
+        "correct_answer": "The gradual process of change in an ecological community"
+    },
+    {
+        "q_no": "6",
+        "question": "Which of the following represents a key aspect of food web stability?",
+        "options": {"a": "Increased genetic diversity within a population", "b":"A complex network of interconnected species", "c": "Reduced predator-prey relationships", "d": "The absence of any variation in species characteristics"},
+        "correct_answer": "A complex network of interconnected species"
+    },
+    {
+        "q_no": "7",
+        "question": "What is the significance of biodiversity in maintaining ecosystem health?",
+        "options": {"a": "It does not play a role in ecosystem resilience", "b":"Enhances ecosystem stability and resilience", "c":"It impacts the efficiency of nutrient cycling", "d": "It directly reduces overall productivity"},
+        "correct_answer": "Enhances ecosystem stability and resilience"
+    },
+    {
+        "q_no": "8",
+        "question": "What does a 'trophic level' define?",
+        "options": {"a": "A species' position in the food web", "b": "A species' role in the ecosystem", "c":"The relationship between organisms and their food source", "d": "The species' lifespan"},
+        "correct_answer": "A species' position in the food web"
+    },
+    {
+        "q_no": "9",
+        "question": "What impact does invasive species have on biodiversity?",
+        "options": {"a": "They promote ecosystem stability and resilience", "b":"They reduce biodiversity and disrupt ecosystem processes", "c":"They enhance biodiversity by introducing new species", "d":"They have no significant impact on biodiversity"},
+        "correct_answer": "They reduce biodiversity and disrupt ecosystem processes"
+    },
+    {
+        "q_no": "10",
+        "question": "What is 'biogeography'?",
+        "options": {"a": "The study of species distribution across geographical regions", "b":"The evolution of different species in different environments", "c":"The study of the distribution of organisms on Earth", "d":"The collection of environmental data"},
+        "correct_answer": "The study of species distribution across geographical regions"
+    },
+    {
+        "q_no": "11",
+        "question": "What is a critical factor influencing the rate of species extinction?",
+        "options": {"a": "A stable climate and abundant resources", "b":"Habitat loss and fragmentation", "c":"The presence of predators and competitors", "d":"The isolation of populations"},
+        "correct_answer": "Habitat loss and fragmentation"
+    },
+    {
+        "q_no": "12",
+        "question": "What does 'ecosystem services' refer to?",
+        "options": {"a": "The physical resources of an environment", "b":"The benefits humans receive from natural ecosystems", "c":"The interactions between living organisms and their physical environment", "d":"The ability of an ecosystem to regulate climate"},
+        "correct_answer": "The benefits humans receive from natural ecosystems"
+    }
+]
+Time Taken: 61.52 seconds | Tokens Produced: 601 | ⚡⚡⚡ Token Speed 9.770 tokens/sec
+✅✅✅ Successfully generated 12 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 4 of 4
+[
+   {
+      "q_no": "1",
+      "question": "What is the primary role of biodiversity in an ecosystem?",
+      "options": {
+         "a": "Maintaining stable climate conditions",
+         "b": "Supporting a wide range of species",
+         "c": "Increasing overall productivity",
+         "d": "Reducing nutrient cycling"
+      },
+      "correct_answer": "Supporting a wide range of species"
+   },
+   {
+      "q_no": "2",
+      "question": "Which of the following best describes the concept of trophic levels?",
+      "options": {
+         "a": "Species arranged in a vertical order based on energy consumption",
+         "b": "Categories of organisms based on their feeding habits",
+         "c": "Levels of ecological organization based on role",
+         "d": "Species with similar physiological traits"
+      },
+      "correct_answer": "Levels of ecological organization based on role"
+   },
+   {
+      "q_no": "3",
+      "question": "What does 'carrying capacity' refer to in ecological studies?",
+      "options": {
+         "a": "The maximum population size an ecosystem can support indefinitely",
+         "b": "The rate at which a population grows",
+         "c": "The total biomass within an ecosystem",
+         "d": "The average size of a species"
+      },
+      "correct_answer": "The maximum population size an ecosystem can support indefinitely"
+   },
+   {
+      "q_no": "4",
+      "question": "Which of the following is a consequence of overpopulation?",
+      "options": {
+         "a": "Increased biodiversity and ecosystem resilience",
+         "b": "Habitat degradation and resource depletion",
+         "c": "Reduced species extinction rates",
+         "d": "Increased nutrient cycling"
+      },
+      "correct_answer": "Habitat degradation and resource depletion"
+   },
+   {
+      "q_no": "5",
+      "question": "What is 'ecological succession'?",
+      "options": {
+         "a": "A sudden shift in an ecosystem's composition",
+         "b": "The gradual process of change in an ecological community",
+         "c": "The establishment of a new species in an area",
+         "d": "The return of a species to its original habitat"
+      },
+      "correct_answer": "The gradual process of change in an ecological community"
+   },
+   {
+      "q_no": "6",
+      "question": "Which of the following represents a key aspect of food web stability?",
+      "options": {
+         "a": "Increased genetic diversity within a population",
+         "b": "A complex network of interconnected species",
+         "c": "Reduced predator-prey relationships",
+         "d": "The absence of any variation in species characteristics"
+      },
+      "correct_answer": "A complex network of interconnected species"
+   },
+   {
+      "q_no": "7",
+      "question": "What is the significance of biodiversity in maintaining ecosystem health?",
+      "options": {
+         "a": "It does not play a role in ecosystem resilience",
+         "b": "Enhances ecosystem stability and resilience",
+         "c": "It impacts the efficiency of nutrient cycling",
+         "d": "It directly reduces overall productivity"
+      },
+      "correct_answer": "Enhances ecosystem stability and resilience"
+   },
+   {
+      "q_no": "8",
+      "question": "What does a 'trophic level' define?",
+      "options": {
+         "a": "A species' position in the food web",
+         "b": "A species' role in the ecosystem",
+         "c": "The relationship between organisms and their food source",
+         "d": "The species' lifespan"
+      },
+      "correct_answer": "A species' position in the food web"
+   },
+   {
+      "q_no": "9",
+      "question": "What impact does invasive species have on biodiversity?",
+      "options": {
+         "a": "They promote ecosystem stability and resilience",
+         "b": "They reduce biodiversity and disrupt ecosystem processes",
+         "c": "They enhance biodiversity by introducing new species",
+         "d": "They have no significant impact on biodiversity"
+      },
+      "correct_answer": "They reduce biodiversity and disrupt ecosystem processes"
+   },
+   {
+      "q_no": "10",
+      "question": "What is 'biogeography'?",
+      "options": {
+         "a": "The study of species distribution across geographical regions",
+         "b": "The evolution of different species in different environments",
+         "c": "The study of the distribution of organisms on Earth",
+         "d": "The collection of environmental data"
+      },
+      "correct_answer": "The study of species distribution across geographical regions"
+   },
+   {
+      "q_no": "11",
+      "question": "What is a critical factor influencing the rate of species extinction?",
+      "options": {
+         "a": "A stable climate and abundant resources",
+         "b": "Habitat loss and fragmentation",
+         "c": "The presence of predators and competitors",
+         "d": "The isolation of populations"
+      },
+      "correct_answer": "Habitat loss and fragmentation"
+   },
+   {
+      "q_no": "12",
+      "question": "What does 'ecosystem services' refer to?",
+      "options": {
+         "a": "The physical resources of an environment",
+         "b": "The benefits humans receive from natural ecosystems",
+         "c": "The interactions between living organisms and their physical environment",
+         "d": "The ability of an ecosystem to regulate climate"
+      },
+      "correct_answer": "The benefits humans receive from natural ecosystems"
+   }
+]
+TIME for MCQ: 61.517 | ⚡⚡⚡ Token Speed: 9.77 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 633 | TOTAL Time: 67.60
+
+********************************************************************************
+
+Model: gemma3:1b
+
+Total Time Taken: 441.78 | Total Tokens Generated: 2077 | Avg Total Token Gen Speed: 4.70 tokens/sec
+Total Syllabi: 4 | Total Success MCQ : 4 | MCQ Attempt per Syllabus: 4
+Total ERROR: 4

@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Linear Equations Questions</title>
+</head>
+<body>
+
+    <div id="questions-container">
+    </div>
+
+    <script>
+        function escapeHtmlExceptAngleBrackets(text) {
+            return text
+                .replace(/&/g, '&amp;')
+                .replace(/"/g, '&quot;')
+                .replace(/'/g, '&#039;');
+        }
+
+        const questionsData = [
+   {
+      "q_no": "1",
+      "question": "What unit is used to measure the size of angles?",
+      "options": {
+         "a": "Radians",
+         "b": "Degrees",
+         "c": "Gradians",
+         "d": "Refractive Index"
+      },
+      "correct_answer": "Degrees"
+   },
+   {
+      "q_no": "2",
+      "question": "Which conversion factor can be used to convert degrees to radians?",
+      "options": {
+         "a": "1\u00b0 = \u03c0/180 rad",
+         "b": "1\u00b0 = 1/57.3 rad",
+         "c": "1\u00b0 = \u03c0/36 rad",
+         "d": "1\u00b0 = 1/2.71 rad"
+      },
+      "correct_answer": "1\u00b0 = \u03c0/180 rad"
+   },
+   {
+      "q_no": "3",
+      "question": "What tool is used to measure angles?",
+      "options": {
+         "a": "Calculator",
+         "b": "Protractor",
+         "c": "Compass",
+         "d": "Scale"
+      },
+      "correct_answer": "Protractor"
+   },
+   {
+      "q_no": "4",
+      "question": "Which trigonometric ratio can be used to find the measure of an angle in a right triangle?",
+      "options": {
+         "a": "Sine",
+         "b": "Cosine",
+         "c": "Tangent",
+         "d": "Cotangent"
+      },
+      "correct_answer": "Sin"
+   },
+   {
+      "q_no": "5",
+      "question": "What is the relationship between radian measures and degree measurements?",
+      "options": {
+         "a": "1 rad = 180\u00b0",
+         "b": "1 rad = \u03c0/2\u00b0",
+         "c": "1 rad = 57.3\u00b0",
+         "d": "1 rad = 10.47\u00b0"
+      },
+      "correct_answer": "1 rad = \u03c0/180\u00b0"
+   },
+   {
+      "q_no": "6",
+      "question": "Which trigonometric ratio is used to find the length of the adjacent side in a right triangle?",
+      "options": {
+         "a": "Sine",
+         "b": "Cosine",
+         "c": "Tangent",
+         "d": "Cotangent"
+      },
+      "correct_answer": "Cos"
+   },
+   {
+      "q_no": "7",
+      "question": "What is the measure of an angle that forms a 90-degree angle in a right triangle?",
+      "options": {
+         "a": "0\u00b0",
+         "b": "30\u00b0",
+         "c": "45\u00b0",
+         "d": "60\u00b0"
+      },
+      "correct_answer": "90\u00b0"
+   },
+   {
+      "q_no": "8",
+      "question": "Which trigonometric ratio can be used to find the length of the opposite side in a right triangle?",
+      "options": {
+         "a": "Sine",
+         "b": "Cosine",
+         "c": "Tangent",
+         "d": "Cotangent"
+      },
+      "correct_answer": "Sin"
+   },
+   {
+      "q_no": "9",
+      "question": "What is the relationship between radian measures and trigonometric ratios?",
+      "options": {
+         "a": "1 rad = 2\u03c0/trigonometric ratio",
+         "b": "1 rad = \u03c0/2/trigonometric ratio",
+         "c": "1 rad = \u03c0/trigonometric ratio",
+         "d": "1 rad = 2/trigonometric ratio"
+      },
+      "correct_answer": "1 rad = \u03c0/trigonometric ratio"
+   },
+   {
+      "q_no": "10",
+      "question": "Which trigonometric ratio is used to find the length of the hypotenuse in a right triangle?",
+      "options": {
+         "a": "Sine",
+         "b": "Cosine",
+         "c": "Tangent",
+         "d": "Cotangent"
+      },
+      "correct_answer": "Cos"
+   }
+]
+        const questionsContainer = document.getElementById('questions-container');
+
+        questionsData.forEach(question => {
+            const questionDiv = document.createElement('div');
+            questionDiv.classList.add('question-item');
+
+            const questionHeading = document.createElement('h3');
+            questionHeading.textContent = question.question;
+            questionDiv.appendChild(questionHeading);
+
+            const optionsList = document.createElement('ul');
+            for (const key in question.options) {
+                const optionItem = document.createElement('li');
+                // Use innerHTML to render the '>' correctly, but escape other HTML
+                optionItem.innerHTML = `${escapeHtmlExceptAngleBrackets(key)}: ${escapeHtmlExceptAngleBrackets(question.options[key])}`;
+                optionsList.appendChild(optionItem);
+            }
+            questionDiv.appendChild(optionsList);
+
+            const correctAnswerParagraph = document.createElement('p');
+            correctAnswerParagraph.innerHTML = `<strong>Correct Answer:</strong> ${escapeHtmlExceptAngleBrackets(question.correct_answer)}`;
+            questionDiv.appendChild(correctAnswerParagraph);
+
+            questionsContainer.appendChild(questionDiv);
+        });
+    </script>
+
+</body>
+</html>

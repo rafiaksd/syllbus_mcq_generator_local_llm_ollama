@@ -1,0 +1,409 @@
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "Which of the following is the primary method for solving linear equations in one variable?",
+        "options": {
+            "a": "Factoring",
+            "b": "Substitution",
+            "c": "Isolation of the variable",
+            "d": "Completing the square"
+        },
+        "correct_answer": "Isolation of the variable"
+    },
+    {
+        "q_no": 2,
+        "question": "If 2x + 5 = 11, what is the solution for x?",
+        "options": {
+            "a": "3",
+            "b": "6",
+            "c": "8",
+            "d": "13"
+        },
+        "correct_answer": "3"
+    },
+    {
+        "q_no": 3,
+        "question": "What is the solution to the system of equations: x + y = 5 and x - y = 1?",
+        "options": {
+            "a": "x = 2, y = 3",
+            "b": "x = 3, y = 2",
+            "c": "x = 1, y = 4",
+            "d": "x = 4, y = 1"
+        },
+        "correct_answer": "x = 2, y = 3"
+    },
+    {
+        "q_no": 5,
+        "question": "A farmer uses x amount of feed for pigs and y amount of feed for chickens. If the total amount of feed is 100 kg and the pigs eat twice as much as the chickens, which system of equations represents this scenario?",
+        "options": {
+            "a": "x + y = 100, x = 2y",
+            "b": "x + y = 100, x = y/2",
+            "c": "x + y = 100, x = 2y",
+            "d": "x + y = 100, x = y"
+        },
+        "correct_answer": "x + y = 100, x = 2y"
+    },
+    {
+        "q_no": 6,
+        "question": "The graph of a linear equation represents a straight line. What does the slope of this line represent?",
+        "options": {
+            "a": "The y-intercept of the line",
+            "b": "The rate of change of y with respect to x",
+            "c": "The distance between two points on the line",
+            "d": "The length of the line"
+        },
+        "correct_answer": "The rate of change of y with respect to x"
+    },
+    {
+        "q_no": 7,
+        "question": "Which inequality is represented by the statement 'five more than twice a number is at least 15'?",
+        "options": {
+            "a": "2x + 5 > 15",
+            "b": "2x + 5 < 15",
+            "c": "2x + 5 ≥ 15",
+            "d": "2x + 5 ≤ 15"
+        },
+        "correct_answer": "2x + 5 ≥ 15"
+    },
+    {
+        "q_no": 8,
+        "question": "What is the solution to the quadratic equation x² - 4 = 0?",
+        "options": {
+            "a": "x = 2",
+            "b": "x = -2",
+            "c": "x = 2, x = -2",
+            "d": "x = 4"
+        },
+        "correct_answer": "x = 2, x = -2"
+    },
+    {
+        "q_no": 9,
+        "question": "Which of the following represents a quadratic equation in standard form?",
+        "options": {
+            "a": "x + y = 5",
+            "b": "x² + 3x + 2 = 0",
+            "c": "2x + 1 = 0",
+            "d": "x - 4 = 0"
+        },
+        "correct_answer": "x² + 3x + 2 = 0"
+    },
+    {
+        "q_no": 10,
+        "question": "What is the discriminant of the quadratic equation 2x² + x - 3 = 0?",
+        "options": {
+            "a": "1",
+            "b": "7",
+            "c": "13",
+            "d": "25"
+        },
+        "correct_answer": "1"
+    },
+    {
+        "q_no": 11,
+        "question": "A quadratic equation has roots x = 1 and x = -2.  What is the equation?",
+        "options": {
+            "a": "(x - 1)(x - 2) = 0",
+            "b": "x² + 3x + 2 = 0",
+            "c": "x² - 3x + 2 = 0",
+            "d": "(x + 1)(x + 2) = 0"
+        },
+        "correct_answer": "x² + 3x + 2 = 0"
+    },
+    {
+        "q_no": 12,
+        "question": "If x² - 5x + 6 = 0, what are the solutions for x?",
+        "options": {
+            "a": "x = -2, x = -3",
+            "b": "x = 2, x = 3",
+            "c": "x = -2, x = -3",
+            "d": "x = 2, x = 3"
+        },
+        "correct_answer": "x = 2, x = 3"
+    }
+]
+Time Taken: 147.30 seconds | Tokens Produced: 611 | ⚡⚡⚡ Token Speed 4.148 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 10...
+⚠️ Warning: Expected 12 MCQs but got 10...
+⚠️ Warning: Expected 12 MCQs but got 10...
+⚠️ Warning: Expected 12 MCQs but got 11...
+
+Attempt 5 out of 5... gemma3
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the primary goal when solving linear equations in one variable?",
+        "options": {
+            "a": "To find the value of the constant term",
+            "b": "To isolate the variable on one side of the equation",
+            "c": "To simplify the equation by combining like terms",
+            "d": "To determine the slope of the line"
+        },
+        "correct_answer": "To isolate the variable on one side of the equation"
+    },
+    {
+        "q_no": 2,
+        "question": "If 2x + 5 = 11, what is the solution for x?",
+        "options": {
+            "a": "x = 3",
+            "b": "x = 8",
+            "c": "x = 6",
+            "d": "x = 4"
+        },
+        "correct_answer": "x = 3"
+    },
+    {
+        "q_no": 3,
+        "question": "What is a system of linear equations?",
+        "options": {
+            "a": "Two equations with the same variable",
+            "b": "Two or more equations involving the same variables",
+            "c": "An equation with two unknown variables",
+            "d": "A single equation with multiple solutions"
+        },
+        "correct_answer": "Two or more equations involving the same variables"
+    },
+    {
+        "q_no": 4,
+        "question": "How can you solve a system of linear equations graphically?",
+        "options": {
+            "a": "By adding the two equations together",
+            "b": "By finding the intersection point of the two lines",
+            "c": "By multiplying the two equations together",
+            "d": "By subtracting the two equations"
+        },
+        "correct_answer": "By finding the intersection point of the two lines"
+    },
+    {
+        "q_no": 5,
+        "question": "Which of the following represents the application of linear equations in real-life scenarios?",
+        "options": {
+            "a": "Calculating the area of a circle",
+            "b": "Determining the cost of a product with a discount",
+            "c": "Finding the distance between two cities",
+            "d": "Measuring the volume of a cube"
+        },
+        "correct_answer": "Determining the cost of a product with a discount"
+    },
+    {
+        "q_no": 6,
+        "question": "What is the equation of a line in slope-intercept form?",
+        "options": {
+            "a": "Ax + By = C",
+            "b": "y = mx + b",
+            "c": "x = y + b",
+            "d": "y = x + b"
+        },
+        "correct_answer": "y = mx + b"
+    },
+    {
+        "q_no": 7,
+        "question": "What is an inequality?",
+        "options": {
+            "a": "An equation that shows equality",
+            "b": "An equation with a solution",
+            "c": "A mathematical statement involving symbols such as <, >, ≤, or ≥",
+            "d": "A constant value"
+        },
+        "correct_answer": "A mathematical statement involving symbols such as <, >, ≤, or ≥"
+    },
+    {
+        "q_no": 8,
+        "question": "Solve the inequality: 3x + 2 < 11",
+        "options": {
+            "a": "x < 3",
+            "b": "x < 5",
+            "c": "x < 7",
+            "d": "x < 9"
+        },
+        "correct_answer": "x < 3"
+    },
+    {
+        "q_no": 9,
+        "question": "What is a quadratic equation?",
+        "options": {
+            "a": "An equation with only one variable",
+            "b": "An equation of the form ax² + bx + c = 0",
+            "c": "An equation with only integer solutions",
+            "d": "An equation with no solution"
+        },
+        "correct_answer": "An equation of the form ax² + bx + c = 0"
+    },
+    {
+        "q_no": 10,
+        "question": "The first step to solve the quadratic equation x² - 5x + 6 = 0 is?",
+        "options": {
+            "a": "Factor the equation",
+            "b": "Add the constant term to both sides",
+            "c": "Take the square root of both sides",
+            "d": "Move the constant term to the other side"
+        },
+        "correct_answer": "To determine the slope of the line"
+    },
+    {
+        "q_no": 11,
+        "question": "What is the solution to x² - 4x + 4 = 0?",
+        "options": {
+            "a": "x = 2",
+            "b": "x = -2",
+            "c": "x = 4",
+            "d": "x = -4"
+        },
+        "correct_answer": "x = 2"
+    }
+]
+Time Taken: 853.36 seconds | Tokens Produced: 584 | ⚡⚡⚡ Token Speed 0.684 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 10...
+⚠️ Warning: Expected 12 MCQs but got 10...
+⚠️ Warning: Expected 12 MCQs but got 10...
+⚠️ Warning: Expected 12 MCQs but got 11...
+⚠️ Warning: Expected 12 MCQs but got 11...
+
+⚠️ Warning: After 5 attempts returning longest valid response.
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   {
+      "q_no": 1,
+      "question": "Which of the following is the primary method for solving linear equations in one variable?",
+      "options": {
+         "a": "Factoring",
+         "b": "Substitution",
+         "c": "Isolation of the variable",
+         "d": "Completing the square"
+      },
+      "correct_answer": "Isolation of the variable"
+   },
+   {
+      "q_no": 2,
+      "question": "If 2x + 5 = 11, what is the solution for x?",
+      "options": {
+         "a": "3",
+         "b": "6",
+         "c": "8",
+         "d": "13"
+      },
+      "correct_answer": "3"
+   },
+   {
+      "q_no": 3,
+      "question": "What is the solution to the system of equations: x + y = 5 and x - y = 1?",
+      "options": {
+         "a": "x = 2, y = 3",
+         "b": "x = 3, y = 2",
+         "c": "x = 1, y = 4",
+         "d": "x = 4, y = 1"
+      },
+      "correct_answer": "x = 2, y = 3"
+   },
+   {
+      "q_no": 5,
+      "question": "A farmer uses x amount of feed for pigs and y amount of feed for chickens. If the total amount of feed is 100 kg and the pigs eat twice as much as the chickens, which system of equations represents this scenario?",
+      "options": {
+         "a": "x + y = 100, x = 2y",
+         "b": "x + y = 100, x = y/2",
+         "c": "x + y = 100, x = 2y",
+         "d": "x + y = 100, x = y"
+      },
+      "correct_answer": "x + y = 100, x = 2y"
+   },
+   {
+      "q_no": 6,
+      "question": "The graph of a linear equation represents a straight line. What does the slope of this line represent?",
+      "options": {
+         "a": "The y-intercept of the line",
+         "b": "The rate of change of y with respect to x",
+         "c": "The distance between two points on the line",
+         "d": "The length of the line"
+      },
+      "correct_answer": "The rate of change of y with respect to x"
+   },
+   {
+      "q_no": 7,
+      "question": "Which inequality is represented by the statement 'five more than twice a number is at least 15'?",
+      "options": {
+         "a": "2x + 5 > 15",
+         "b": "2x + 5 < 15",
+         "c": "2x + 5 \u2265 15",
+         "d": "2x + 5 \u2264 15"
+      },
+      "correct_answer": "2x + 5 \u2265 15"
+   },
+   {
+      "q_no": 8,
+      "question": "What is the solution to the quadratic equation x\u00b2 - 4 = 0?",
+      "options": {
+         "a": "x = 2",
+         "b": "x = -2",
+         "c": "x = 2, x = -2",
+         "d": "x = 4"
+      },
+      "correct_answer": "x = 2, x = -2"
+   },
+   {
+      "q_no": 9,
+      "question": "Which of the following represents a quadratic equation in standard form?",
+      "options": {
+         "a": "x + y = 5",
+         "b": "x\u00b2 + 3x + 2 = 0",
+         "c": "2x + 1 = 0",
+         "d": "x - 4 = 0"
+      },
+      "correct_answer": "x\u00b2 + 3x + 2 = 0"
+   },
+   {
+      "q_no": 10,
+      "question": "What is the discriminant of the quadratic equation 2x\u00b2 + x - 3 = 0?",
+      "options": {
+         "a": "1",
+         "b": "7",
+         "c": "13",
+         "d": "25"
+      },
+      "correct_answer": "1"
+   },
+   {
+      "q_no": 11,
+      "question": "A quadratic equation has roots x = 1 and x = -2.  What is the equation?",
+      "options": {
+         "a": "(x - 1)(x - 2) = 0",
+         "b": "x\u00b2 + 3x + 2 = 0",
+         "c": "x\u00b2 - 3x + 2 = 0",
+         "d": "(x + 1)(x + 2) = 0"
+      },
+      "correct_answer": "x\u00b2 + 3x + 2 = 0"
+   },
+   {
+      "q_no": 12,
+      "question": "If x\u00b2 - 5x + 6 = 0, what are the solutions for x?",
+      "options": {
+         "a": "x = -2, x = -3",
+         "b": "x = 2, x = 3",
+         "c": "x = -2, x = -3",
+         "d": "x = 2, x = 3"
+      },
+      "correct_answer": "x = 2, x = 3"
+   }
+]
+TIME for MCQ: 147.303 | ⚡⚡⚡ Token Speed: 4.148 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 651 | TOTAL Time: 1369.75
+
+********************************************************************************
+Syllabus NUMBER 4
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for IB Grade 11 Biology - Genetics - Mendelian Genetics:
+- Introduction to Gregor Mendel and his experiments
+- Dominant and recessive alleles
+- Punnett squares for monohybrid crosses
+- Understanding homozygous and heterozygous genotypes
+- Predicting phenotypic ratios from Punnett squares
+- Applying Mendelian genetics to solve problems
+
+END
+TIME for SYLLABUS: 11.724 | ⚡⚡⚡ Token Speed: 4.35 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 5... gemma3

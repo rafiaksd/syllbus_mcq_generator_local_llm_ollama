@@ -1,0 +1,2644 @@
+********************************************************************************
+********************************************************************************
+Syllabus NUMBER 1
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Edexcel Grade 12 Mathematics - Calculus - Differentiation:
+- Definition and interpretations of derivatives
+- Limit concepts for derivatives
+- Power rule differentiation
+- Product rule differentiation
+- Quotient rule differentiation
+- Chain rule differentiation
+- Applications of differentiation in optimization problems
+TIME for SYLLABUS: 7.904 | Token Speed: 5.567 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 14
+Attempt 1...
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What does the derivative of a function at a point represent geometrically?",
+        "options": {
+            "a": "The rate of change of the function at that point",
+            "b": "The maximum value of the function",
+            "c": "The total accumulation of the function up to that point",
+            "d": "The inverse function of the original function"
+        },
+        "correct_answer": "The rate of change of the function at that point"
+    },
+    {
+        "q_no": 2,
+        "question": "Which concept formally defines the limit used in derivatives?",
+        "options": {
+            "a": "Indeterminate forms",
+            "b": "Continuity",
+            "c": "Limits",
+            "d": "Density"
+        },
+        "correct_answer": "Limits"
+    },
+    {
+        "q_no": 3,
+        "question": "The power rule for differentiation states: what is the correct formula?",
+        "options": {
+            "a": "d(xn)/dx = nxn−1",
+            "b": "d(xn)/dx = nxn+1",
+            "c": "d(xn)/dx = nxn",
+            "d": "d(xn)/dx = nx−1"
+        },
+        "correct_answer": "d(xn)/dx = nxn−1"
+    },
+    {
+        "q_no": 4,
+        "question": "What is the correct application of the product rule when differentiating xy?",
+        "options": {
+            "a": "d(xy)/dx = x + y",
+            "b": "d(xy)/dx = xdy/dx + ydx/dx",
+            "c": "d(xy)/dx = ydx/dx",
+            "d": "d(xy)/dx = x + y + xy"
+        },
+        "correct_answer": "d(xy)/dx = xdy/dx + ydx/dx"
+    },
+    {
+        "q_no": 5,
+        "question": "In quotient rule differentiation, what is represented by the term (g(x)h'(x) - g'(x)h(x))/[h(x)]2?",
+        "options": {
+            "a": "The derivative of g(x)/h(x)",
+            "b": "The integral of g(x)/h(x)",
+            "c": "The ratio of derivatives g'(x)h(x)",
+            "d": "The derivative of g(x)h'(x) divided by h(x)"
+        },
+        "correct_answer": "The derivative of g(x)/h(x)"
+    },
+    {
+        "q_no": 6,
+        "question": "Which scenario best exemplifies using differentiation for optimization problems?",
+        "options": {
+            "a": "Finding the minimum cost function in manufacturing",
+            "b": "Determining the slope of a curve representing population growth",
+            "c": "Calculating the area under a curve representing total revenue",
+            "d": "Measuring the rate of radioactive decay"
+        },
+        "correct_answer": "Finding the minimum cost function in manufacturing"
+    },
+    {
+        "q_no": 7,
+        "question": "What does setting the derivative of a function to zero in optimization problems signify?",
+        "options": {
+            "a": "Finding points where the function value changes direction",
+            "b": "Identifying inflection points where concavity changes",
+            "c": "Determining critical points where slope equals zero",
+            "d": "Finding points where the function reaches its minimum value"
+        },
+        "correct_answer": "Determining critical points where slope equals zero"
+    }
+]
+Time Taken: 73.21 seconds | Tokens Produced: 363 | Token Speed 4.959 tokens/sec
+⚠️ Warning: Expected 14 MCQs but got 7...
+
+Attempt 2...
+********************************************************************************
+********************************************************************************
+Syllabus NUMBER 1
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Edexcel Grade 12 Mathematics - Calculus - Differentiation:
+- Definition and applications of derivatives
+- Power rule for differentiation
+- Product rule and quotient rule
+- Chain rule explanation and usage
+- Implicit differentiation techniques
+- Graphical interpretation of derivative concepts
+TIME for SYLLABUS: 8.194 | Token Speed: 5.248 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 6...
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What does the derivative of a function represent graphically?",
+        "options": {
+            "a": "The slope of the tangent line at a point",
+            "b": "The area under the curve",
+            "c": "The rate of change at the endpoint",
+            "d": "The total distance traveled"
+        },
+        "correct_answer": "The slope of the tangent line at a point"
+    },
+    {
+        "q_no": 2,
+        "question": "Which rule correctly differentiates \( f(x) = x^n \)?",
+        "options": {
+            "a": "Product Rule",
+            "b": "Quotient Rule",
+            "c": "Power Rule",
+            "d": "Implicit Differentiation"
+        },
+        "correct_answer": "Power Rule"
+    },
+    {
+        "q_no": 3,
+        "question": "If \( y = x^2 \) and \( x \) is a function of \( u \), find \( \frac{dy}{dx} \) using the chain rule.",
+        "options": {
+            "a": "\(\frac{du}{dx} \cdot \frac{dy}{du} \cdot u\)",
+            "b": "\(\frac{du}{dx} \cdot \frac{dy}{du}\)",
+            "c": "\(\frac{dy}{du} \cdot u^2\)",
+            "d": "\(\frac{dy}{du} + u\)"
+        },
+        "correct_answer": "\(\frac{du}{dx} \cdot \frac{dy}{du} \cdot u\)"
+    },
+    {
+        "q_no": 4,
+        "question": "Given \( y = e^{3x} \), find \( \frac{dy}{dx} \) applying implicit differentiation.",
+        "options": {
+            "a": " \(3e^{3x}\)",
+            "b": " \(e^{3x} + 3x\)",
+            "c": " \(e^{3x} - 3x\)",
+            "d": " \(e^{3x}\)"
+        },
+        "correct_answer": " \(3e^{3x}\)"
+    },
+    {
+        "q_no": 5,
+        "question": "Which scenario best illustrates graphical interpretation of a derivative?",
+        "options": {
+            "a": "Identifying maxima and minima points",
+            "b": "Finding absolute values",
+            "c": "Determining exponential growth rates",
+            "d": "Calculating volume of solids"
+        },
+        "correct_answer": "Identifying maxima and minima points"
+    },
+    {
+        "q_no": 6,
+        "question": "What rule would be applicable if differentiating \( f(g(x)) \)?",
+        "options": {
+            "a": "Sum Rule",
+            "b": "Product Rule",
+            "c": "Chain Rule",
+            "d": "Quotient Rule"
+        },
+        "correct_answer": "Chain Rule"
+    },
+    {
+        "q_no": 7,
+        "question": "Which option correctly represents the derivative of \( h(x) = \ln(x^2) \)?",
+        "options": {
+            "a": "\(\frac{1}{x^2}\)",
+            "b": "\(2x \ln(x)\)",
+            "c": "\(\frac{2}{x}\)",
+            "d": "\(\frac{1}{x}\)"
+        },
+        "correct_answer": "\(2x \ln(x)\)"
+    },
+    {
+        "q_no": 8,
+        "question": "What technique is essential for handling functions involving radicals?",
+        "options": {
+            "a": "Derivative of squares",
+            "b": "Chain rule",
+            "c": "Implicit differentiation",
+            "d": "Logarithmic differentiation"
+        },
+        "correct_answer": "Logarithmic differentiation"
+    },
+    {
+        "q_no": 9,
+        "question": "If \( f(x) = \sin^3(x) \), what is the derivative \( \frac{df}{dx} \)?",
+        "options": {
+            "a": "\(3\sin^2(x)\cos(x)\)",
+            "b": "\(\cos^3(x)\)",
+            "c": "\(\sin^3(x)\cos(x)\)",
+            "d": "\(\sin^2(x)\)"
+        },
+        "correct_answer": "\(3\sin^2(x)\cos(x)\)"
+    },
+    {
+        "q_no": 10,
+        "question": "Given \( y = \sqrt{x^3 + x^2} \), apply implicit differentiation to find \( \frac{dy}{dx} \).",
+        "options": {
+            "a": "\(\frac{1}{2\sqrt{x^3 + x^2}}(3x^2 + 2x)\)",
+            "b": "\(\sqrt{x^3 + x^2}\)",
+            "c": "\(\frac{x^2 + 1}{2\sqrt{x^3 + x^2}}\)",
+            "d": "\(\frac{x + 2}{2\sqrt{x^3 + x^2}}\)"
+        },
+        "correct_answer": "\(\frac{1}{2\sqrt{x^3 + x^2}}(3x^2 + 2x)\)"
+    },
+    {
+        "q_no": 11,
+        "question": "Identify which rule applies when differentiating \( g(x) = (x^2 + 1)^x \).",
+        "options": {
+            "a": "Product Rule",
+            "b": "Chain Rule",
+            "c": "Quotient Rule",
+            "d": "Sum Rule"
+        },
+        "correct_answer": "Chain Rule"
+    },
+    {
+        "q_no": 12,
+        "question": "Given \( h(x) = e^{x^3 + x} \), determine \( \frac{dh}{dx} \) using logarithmic differentiation.",
+        "options": {
+            "a": "\(e^{x^3 + x}(3x^2 + 1)\)",
+            "b": "\(e^{x^3 + x}(3x)\)",
+            "c": "\(e^{x^3 + x}(1)\)",
+            "d": "\(e^{x^3 + x}\)"
+        },
+        "correct_answer": "\(e^{x^3 + x}(3x^2 + 1)\)"
+    }
+]
+Time Taken: 122.28 seconds | Tokens Produced: 495 | Token Speed 4.048 tokens/sec
+⚠️ Error: Invalid JSON format...
+
+Attempt 2 out of 6...
+********************************************************************************
+********************************************************************************
+Syllabus NUMBER 1
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Edexcel Grade 12 Mathematics - Calculus - Differentiation:
+- Definition and rules for differentiation
+- Power rule application
+- Product rule for multi-term functions
+- Quotient rule for fractions
+- Chain rule for composite functions
+- Evaluating derivatives at specific points
+- Interpreting derivatives graphically as slopes
+TIME for SYLLABUS: 8.852 | Token Speed: 5.535 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 14
+Attempt 1 out of 6...
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What does the definition of differentiation encompass according to Calculus?",
+        "options": {
+            "a": "The method to measure cell growth rates",
+            "b": "The process of calculating instantaneous rates of change",
+            "c": "Transforming equations into graphical representations",
+            "d": "Determining the total area under a curve"
+        },
+        "correct_answer": "The process of calculating instantaneous rates of change"
+    },
+    {
+        "q_no": 2,
+        "question": "Which rule is specifically used for differentiating products of two functions?",
+        "options": {
+            "a": "Power rule",
+            "b": "Product rule",
+            "c": "Quotient rule",
+            "d": "Chain rule"
+        },
+        "correct_answer": "Product rule"
+    },
+    {
+        "q_no": 3,
+        "question": "Identify the function rule for differentiating a quotient involving polynomials.",
+        "options": {
+            "a": "Chain rule",
+            "b": "Quotient rule",
+            "c": "Integral calculus",
+            "d": "Implicit differentiation"
+        },
+        "correct_answer": "Quotient rule"
+    },
+    {
+        "q_no": 4,
+        "question": "What does evaluating a derivative at a specific point signify mathematically?",
+        "options": {
+            "a": "The point of inflection",
+            "b": "The slope at that point",
+            "c": "The area under the curve",
+            "d": "The function's maximum value"
+        },
+        "correct_answer": "The slope at that point"
+    },
+    {
+        "q_no": 5,
+        "question": "Which rule is applied when dealing with composite functions where one function is nested inside another?",
+        "options": {
+            "a": "Power rule",
+            "b": "Chain rule",
+            "c": "Sum rule",
+            "d": "Product rule"
+        },
+        "correct_answer": "Chain rule"
+    },
+    {
+        "q_no": 6,
+        "question": "What does interpreting derivatives graphically primarily represent?",
+        "options": {
+            "a": "Acceleration",
+            "b": "Rate of change",
+            "c": "Direction of motion",
+            "d": "Curvature"
+        },
+        "correct_answer": "Rate of change"
+    },
+    {
+        "q_no": 7,
+        "question": "Which rule describes differentiation for expressions involving fractions where one part is another function?",
+        "options": {
+            "a": "Chain rule",
+            "b": "Product rule",
+            "c": "Quotient rule",
+            "d": "Logarithmic differentiation"
+        },
+        "correct_answer": "Quotient rule"
+    },
+    {
+        "q_no": 8,
+        "question": "What does applying the power rule specifically mean in calculus problems?",
+        "options": {
+            "a": "Differentiating by subtracting exponents",
+            "b": "Multiplying exponents by the derivative of the base function",
+            "c": "Adding exponents",
+            "d": "Dividing exponents by the derivative of the base function"
+        },
+        "correct_answer": "Multiplying exponents by the derivative of the base function"
+    },
+    {
+        "q_no": 9,
+        "question": "Which method would you use if differentiating involves functions raised to another function?",
+        "options": {
+            "a": "Product rule",
+            "b": "Sum rule",
+            "c": "Chain rule",
+            "d": "Implicit differentiation"
+        },
+        "correct_answer": "Chain rule"
+    },
+    {
+        "q_no": 10,
+        "question": "When calculating derivatives for expressions involving polynomial expressions and trigonometric functions, which rule is critical?",
+        "options": {
+            "a": "Sum rule",
+            "b": "Product rule",
+            "c": "Quotient rule",
+            "d": "Chain rule"
+        },
+        "correct_answer": "Product rule"
+    },
+    {
+        "q_no": 11,
+        "question": "Understanding derivatives as slopes aids in visualizing how functions change rapidly compared to gradually. What aspect does this relate to?",
+        "options": {
+            "a": "Acceleration",
+            "b": "Velocity",
+            "c": "Position",
+            "d": "Frequency"
+        },
+        "correct_answer": "Velocity"
+    },
+    {
+        "q_no": 12,
+        "question": "Which rule facilitates finding derivatives for expressions containing fractional exponents?",
+        "options": {
+            "a": "Chain rule",
+            "b": "Product rule",
+            "c": "Quotient rule",
+            "d": "Integration"
+        },
+        "correct_answer": "Quotient rule"
+    },
+    {
+        "q_no": 13,
+        "question": "In evaluating complex derivatives, distinguishing between differentiation rules for simple and nested functions hinges on recognizing what core principle?",
+        "options": {
+            "a": "Rate of change",
+            "b": "Gradient",
+            "c": "Slope",
+            "d": "Intercept"
+        },
+        "correct_answer": "Rate of change"
+    },
+    {
+        "q_no": 14,
+        "question": "What rule applies to expressions that combine polynomial functions and logarithmic functions within the same calculation?",
+        "options": {
+            "a": "Chain rule",
+            "b": "Product rule",
+            "c": "Quotient rule",
+            "d": "Integration"
+        },
+        "correct_answer": "Chain rule"
+    },
+    {
+        "q_no": 15,
+        "question": "Which scenario would utilize logarithmic differentiation rather than basic differentiation rules?",
+        "options": {
+            "a": "Finding rate of change of exponential functions",
+            "b": "Dealing with polynomial derivatives",
+            "c": "Integrating logarithmic functions",
+            "d": "Differentiating trigonometric functions"
+        },
+        "correct_answer": "Finding rate of change of exponential functions"
+    }
+]
+Time Taken: 115.34 seconds | Tokens Produced: 610 | Token Speed 5.289 tokens/sec
+✅ Successfully generated 15 MCQs.
+👏👏👏FINAL MCQ 👏👏👏
+[
+   {
+      "q_no": 1,
+      "question": "What does the definition of differentiation encompass according to Calculus?",
+      "options": {
+         "a": "The method to measure cell growth rates",
+         "b": "The process of calculating instantaneous rates of change",
+         "c": "Transforming equations into graphical representations",
+         "d": "Determining the total area under a curve"
+      },
+      "correct_answer": "The process of calculating instantaneous rates of change"
+   },
+   {
+      "q_no": 2,
+      "question": "Which rule is specifically used for differentiating products of two functions?",
+      "options": {
+         "a": "Power rule",
+         "b": "Product rule",
+         "c": "Quotient rule",
+         "d": "Chain rule"
+      },
+      "correct_answer": "Product rule"
+   },
+   {
+      "q_no": 3,
+      "question": "Identify the function rule for differentiating a quotient involving polynomials.",
+      "options": {
+         "a": "Chain rule",
+         "b": "Quotient rule",
+         "c": "Integral calculus",
+         "d": "Implicit differentiation"
+      },
+      "correct_answer": "Quotient rule"
+   },
+   {
+      "q_no": 4,
+      "question": "What does evaluating a derivative at a specific point signify mathematically?",
+      "options": {
+         "a": "The point of inflection",
+         "b": "The slope at that point",
+         "c": "The area under the curve",
+         "d": "The function's maximum value"
+      },
+      "correct_answer": "The slope at that point"
+   },
+   {
+      "q_no": 5,
+      "question": "Which rule is applied when dealing with composite functions where one function is nested inside another?",
+      "options": {
+         "a": "Power rule",
+         "b": "Chain rule",
+         "c": "Sum rule",
+         "d": "Product rule"
+      },
+      "correct_answer": "Chain rule"
+   },
+   {
+      "q_no": 6,
+      "question": "What does interpreting derivatives graphically primarily represent?",
+      "options": {
+         "a": "Acceleration",
+         "b": "Rate of change",
+         "c": "Direction of motion",
+         "d": "Curvature"
+      },
+      "correct_answer": "Rate of change"
+   },
+   {
+      "q_no": 7,
+      "question": "Which rule describes differentiation for expressions involving fractions where one part is another function?",
+      "options": {
+         "a": "Chain rule",
+         "b": "Product rule",
+         "c": "Quotient rule",
+         "d": "Logarithmic differentiation"
+      },
+      "correct_answer": "Quotient rule"
+   },
+   {
+      "q_no": 8,
+      "question": "What does applying the power rule specifically mean in calculus problems?",
+      "options": {
+         "a": "Differentiating by subtracting exponents",
+         "b": "Multiplying exponents by the derivative of the base function",
+         "c": "Adding exponents",
+         "d": "Dividing exponents by the derivative of the base function"
+      },
+      "correct_answer": "Multiplying exponents by the derivative of the base function"
+   },
+   {
+      "q_no": 9,
+      "question": "Which method would you use if differentiating involves functions raised to another function?",
+      "options": {
+         "a": "Product rule",
+         "b": "Sum rule",
+         "c": "Chain rule",
+         "d": "Implicit differentiation"
+      },
+      "correct_answer": "Chain rule"
+   },
+   {
+      "q_no": 10,
+      "question": "When calculating derivatives for expressions involving polynomial expressions and trigonometric functions, which rule is critical?",
+      "options": {
+         "a": "Sum rule",
+         "b": "Product rule",
+         "c": "Quotient rule",
+         "d": "Chain rule"
+      },
+      "correct_answer": "Product rule"
+   },
+   {
+      "q_no": 11,
+      "question": "Understanding derivatives as slopes aids in visualizing how functions change rapidly compared to gradually. What aspect does this relate to?",
+      "options": {
+         "a": "Acceleration",
+         "b": "Velocity",
+         "c": "Position",
+         "d": "Frequency"
+      },
+      "correct_answer": "Velocity"
+   },
+   {
+      "q_no": 12,
+      "question": "Which rule facilitates finding derivatives for expressions containing fractional exponents?",
+      "options": {
+         "a": "Chain rule",
+         "b": "Product rule",
+         "c": "Quotient rule",
+         "d": "Integration"
+      },
+      "correct_answer": "Quotient rule"
+   },
+   {
+      "q_no": 13,
+      "question": "In evaluating complex derivatives, distinguishing between differentiation rules for simple and nested functions hinges on recognizing what core principle?",
+      "options": {
+         "a": "Rate of change",
+         "b": "Gradient",
+         "c": "Slope",
+         "d": "Intercept"
+      },
+      "correct_answer": "Rate of change"
+   },
+   {
+      "q_no": 14,
+      "question": "What rule applies to expressions that combine polynomial functions and logarithmic functions within the same calculation?",
+      "options": {
+         "a": "Chain rule",
+         "b": "Product rule",
+         "c": "Quotient rule",
+         "d": "Integration"
+      },
+      "correct_answer": "Chain rule"
+   },
+   {
+      "q_no": 15,
+      "question": "Which scenario would utilize logarithmic differentiation rather than basic differentiation rules?",
+      "options": {
+         "a": "Finding rate of change of exponential functions",
+         "b": "Dealing with polynomial derivatives",
+         "c": "Integrating logarithmic functions",
+         "d": "Differentiating trigonometric functions"
+      },
+      "correct_answer": "Finding rate of change of exponential functions"
+   }
+]
+TIME for MCQ: 115.34 | Token Speed: 5.289 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 659 | TOTAL Time: 124.20
+
+********************************************************************************
+********************************************************************************
+Syllabus NUMBER 2
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Cambridge Grade 10 Physics - Waves - Electromagnetic Spectrum:
+- Introduction to electromagnetic waves
+- Frequency and wavelength relationship
+- Visible spectrum classification
+- Speed of electromagnetic waves
+- Reflection and refraction properties
+- Applications of electromagnetic spectrum in technology
+TIME for SYLLABUS: 8.527 | Token Speed: 4.925 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 6...
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": "1",
+        "question": "Which of the following phenomena is NOT directly associated with electromagnetic waves?",
+        "options": {
+            "a": "Photosynthesis",
+            "b": "Microwave heating",
+            "c": "Heat generation from stars",
+            "d": "Radio broadcasting"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": "2",
+        "question": "What best describes the relationship between frequency and wavelength in electromagnetic waves?",
+        "options": {
+            "a": "Higher frequency corresponds to shorter wavelength",
+            "b": "Higher frequency means lower speed",
+            "c": "Wavelength and frequency have no relation",
+            "d": "Higher frequency indicates greater energy"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": "3",
+        "question": "Which part of the electromagnetic spectrum is classified as visible light?",
+        "options": {
+            "a": "Ultraviolet",
+            "b": "Infrared",
+            "c": "Visible spectrum (including violet to red)",
+            "d": "X-rays"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "q_no": "4",
+        "question": "How does light travel through different mediums according to its properties?",
+        "options": {
+            "a": "It undergoes refraction due to varying densities",
+            "b": "It is completely absorbed by all materials",
+            "c": "It bends away from the normal",
+            "d": "It remains unaffected by medium changes"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": "5",
+        "question": "Which technology utilizes the electromagnetic spectrum's radio waves for communication?"",
+        "options": {
+            "a": "Wi-Fi routers",
+            "b": "Solar panels",
+            "c": "MRI machines",
+            "d": "Lasers"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": "6",
+        "question": "What determines the speed of electromagnetic waves in vacuum?"",
+        "options": {
+            "a": "Frequency",
+            "b": "Density of the medium",
+            "c": "Energy levels",
+            "d": "Wavelength"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "q_no": "7",
+        "question": "Which application uses infrared waves to detect temperature differences in environments?"",
+        "options": {
+            "a": "Wi-Fi signal strength meter",
+            "b": "Thermal imaging cameras",
+            "c": "Speech recognition devices",
+            "d": "Sonar systems"
+        },
+        "correct_answer": "b"
+    }
+]
+Time Taken: 64.58 seconds | Tokens Produced: 271 | Token Speed 4.196 tokens/sec
+⚠️ Error: Invalid JSON format...
+
+Attempt 2 out of 6...
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": "1",
+        "question": "Which of the following phenomena illustrates the relationship between frequency and wavelength in electromagnetic waves?",
+        "options": {
+            "a": "The blue color in a rainbow",
+            "b": "The Doppler effect changing sound wave frequencies",
+            "c": "The bending of light passing through water",
+            "d": "All electromagnetic waves travel at the same speed"
+        },
+        "correct_answer": "The blue color in a rainbow"
+    },
+    {
+        "q_no": "2",
+        "question": "What does violet light typically have compared to red light within the visible spectrum?",
+        "options": {
+            "a": "Lower frequency",
+            "b": "Higher frequency",
+            "c": "Same frequency",
+            "d": "Longer wavelength"
+        },
+        "correct_answer": "Higher frequency"
+    },
+    {
+        "q_no": "3",
+        "question": "Which part of the electromagnetic spectrum is primarily responsible for radio transmissions?",
+        "options": {
+            "a": "Ultraviolet",
+            "b": "Microwaves",
+            "c": "X-rays",
+            "d": "Gamma rays"
+        },
+        "correct_answer": "Microwaves"
+    },
+    {
+        "q_no": "4",
+        "question": "Which property of electromagnetic waves allows them to be reflected and refracted differently?",
+        "options": {
+            "a": "Their constant frequency",
+            "b": "Their interaction with matter",
+            "c": "Their constant wavelength",
+            "d": "Their inability to bend"
+        },
+        "correct_answer": "Their interaction with matter"
+    },
+    {
+        "q_no": "5",
+        "question": "An example application of the electromagnetic spectrum includes ______ technology.",
+        "options": {
+            "a": "Agricultural irrigation",
+            "b": "Sonar systems",
+            "c": "Microwave ovens",
+            "d": "Both b and c"
+        },
+        "correct_answer": "Both b and c"
+    },
+    {
+        "q_no": "6",
+        "question": "How does the speed of light compare to the speeds of radio waves within the electromagnetic spectrum?",
+        "options": {
+            "a": "Radio waves are faster than visible light",
+            "b": "Visible light and radio waves travel at the same speed",
+            "c": "Radio waves travel faster than microwaves",
+            "d": "Microwaves travel slower than visible light"
+        },
+        "correct_answer": "Visible light and radio waves travel at the same speed"
+    },
+    {
+        "q_no": "7",
+        "question": "Which type of electromagnetic radiation causes damage primarily due to its high energy?",
+        "options": {
+            "a": "Ultraviolet light",
+            "b": "Infrared radiation",
+            "c": "Radio waves",
+            "d": "Microwaves"
+        },
+        "correct_answer": "Ultraviolet light"
+    },
+    {
+        "q_no": "8",
+        "question": "What phenomenon explains why we see different colors when white light passes through a prism?",
+        "options": {
+            "a": "Absorption spectrum",
+            "b": "Refraction",
+            "c": "Dispersion",
+            "d": "Scattering"
+        },
+        "correct_answer": "Dispersion"
+    },
+    {
+        "q_no": "9",
+        "question": "Which part of the electromagnetic spectrum emits radiation most strongly at infrared frequencies?",
+        "options": {
+            "a": "Ultraviolet light",
+            "b": "Visible light",
+            "c": "Infrared radiation",
+            "d": "Microwave ovens"
+        },
+        "correct_answer": "Infrared radiation"
+    },
+    {
+        "q_no": "10",
+        "question": "How do microwaves interact with water molecules to cause heating?",
+        "options": {
+            "a": "By exciting electrons within water molecules",
+            "b": "By disrupting chemical bonds",
+            "c": "By scattering light",
+            "d": "By increasing atomic mass"
+        },
+        "correct_answer": "By exciting electrons within water molecules"
+    },
+    {
+        "q_no": "11",
+        "question": "What is the primary function of radio waves in communication technologies?",
+        "options": {
+            "a": "Transmitting sound frequencies",
+            "b": "Carrying data over long distances",
+            "c": "Generating electric currents",
+            "d": "Enhancing visibility"
+        },
+        "correct_answer": "Carrying data over long distances"
+    },
+    {
+        "q_no": "12",
+        "question": "Which type of electromagnetic radiation is typically utilized for medical imaging like MRI?",
+        "options": {
+            "a": "Ultraviolet",
+            "b": "X-rays",
+            "c": "Microwaves",
+            "d": "Radio waves"
+        },
+        "correct_answer": "Radio waves"
+    }
+]
+Time Taken: 88.49 seconds | Tokens Produced: 509 | Token Speed 5.752 tokens/sec
+✅ Successfully generated 12 MCQs.
+👏👏👏FINAL MCQ 👏👏👏
+[
+   {
+      "q_no": "1",
+      "question": "Which of the following phenomena illustrates the relationship between frequency and wavelength in electromagnetic waves?",
+      "options": {
+         "a": "The blue color in a rainbow",
+         "b": "The Doppler effect changing sound wave frequencies",
+         "c": "The bending of light passing through water",
+         "d": "All electromagnetic waves travel at the same speed"
+      },
+      "correct_answer": "The blue color in a rainbow"
+   },
+   {
+      "q_no": "2",
+      "question": "What does violet light typically have compared to red light within the visible spectrum?",
+      "options": {
+         "a": "Lower frequency",
+         "b": "Higher frequency",
+         "c": "Same frequency",
+         "d": "Longer wavelength"
+      },
+      "correct_answer": "Higher frequency"
+   },
+   {
+      "q_no": "3",
+      "question": "Which part of the electromagnetic spectrum is primarily responsible for radio transmissions?",
+      "options": {
+         "a": "Ultraviolet",
+         "b": "Microwaves",
+         "c": "X-rays",
+         "d": "Gamma rays"
+      },
+      "correct_answer": "Microwaves"
+   },
+   {
+      "q_no": "4",
+      "question": "Which property of electromagnetic waves allows them to be reflected and refracted differently?",
+      "options": {
+         "a": "Their constant frequency",
+         "b": "Their interaction with matter",
+         "c": "Their constant wavelength",
+         "d": "Their inability to bend"
+      },
+      "correct_answer": "Their interaction with matter"
+   },
+   {
+      "q_no": "5",
+      "question": "An example application of the electromagnetic spectrum includes ______ technology.",
+      "options": {
+         "a": "Agricultural irrigation",
+         "b": "Sonar systems",
+         "c": "Microwave ovens",
+         "d": "Both b and c"
+      },
+      "correct_answer": "Both b and c"
+   },
+   {
+      "q_no": "6",
+      "question": "How does the speed of light compare to the speeds of radio waves within the electromagnetic spectrum?",
+      "options": {
+         "a": "Radio waves are faster than visible light",
+         "b": "Visible light and radio waves travel at the same speed",
+         "c": "Radio waves travel faster than microwaves",
+         "d": "Microwaves travel slower than visible light"
+      },
+      "correct_answer": "Visible light and radio waves travel at the same speed"
+   },
+   {
+      "q_no": "7",
+      "question": "Which type of electromagnetic radiation causes damage primarily due to its high energy?",
+      "options": {
+         "a": "Ultraviolet light",
+         "b": "Infrared radiation",
+         "c": "Radio waves",
+         "d": "Microwaves"
+      },
+      "correct_answer": "Ultraviolet light"
+   },
+   {
+      "q_no": "8",
+      "question": "What phenomenon explains why we see different colors when white light passes through a prism?",
+      "options": {
+         "a": "Absorption spectrum",
+         "b": "Refraction",
+         "c": "Dispersion",
+         "d": "Scattering"
+      },
+      "correct_answer": "Dispersion"
+   },
+   {
+      "q_no": "9",
+      "question": "Which part of the electromagnetic spectrum emits radiation most strongly at infrared frequencies?",
+      "options": {
+         "a": "Ultraviolet light",
+         "b": "Visible light",
+         "c": "Infrared radiation",
+         "d": "Microwave ovens"
+      },
+      "correct_answer": "Infrared radiation"
+   },
+   {
+      "q_no": "10",
+      "question": "How do microwaves interact with water molecules to cause heating?",
+      "options": {
+         "a": "By exciting electrons within water molecules",
+         "b": "By disrupting chemical bonds",
+         "c": "By scattering light",
+         "d": "By increasing atomic mass"
+      },
+      "correct_answer": "By exciting electrons within water molecules"
+   },
+   {
+      "q_no": "11",
+      "question": "What is the primary function of radio waves in communication technologies?",
+      "options": {
+         "a": "Transmitting sound frequencies",
+         "b": "Carrying data over long distances",
+         "c": "Generating electric currents",
+         "d": "Enhancing visibility"
+      },
+      "correct_answer": "Carrying data over long distances"
+   },
+   {
+      "q_no": "12",
+      "question": "Which type of electromagnetic radiation is typically utilized for medical imaging like MRI?",
+      "options": {
+         "a": "Ultraviolet",
+         "b": "X-rays",
+         "c": "Microwaves",
+         "d": "Radio waves"
+      },
+      "correct_answer": "Radio waves"
+   }
+]
+TIME for MCQ: 88.486 | Token Speed: 5.752 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 551 | TOTAL Time: 161.61
+
+********************************************************************************
+********************************************************************************
+Syllabus NUMBER 3
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for CBSE Grade 12 Chemistry - Organic Chemistry:
+- Structure and nomenclature of alcohols, phenols, ethers
+- Physical properties and reactivity of alcohols
+- Chemical reactions of alcohols (substitution, elimination)
+- Acidic and basic properties of phenols
+- Synthesis and characteristics of ethers
+- Spectroscopic analysis techniques relevant to organic compounds
+TIME for SYLLABUS: 10.109 | Token Speed: 5.144 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 6...
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "Which functional group indicates the presence of an alcohol (-OH) in organic compounds?",
+        "options": {
+            "a": "alkene",
+            "b": "alkyne",
+            "c": "-OH",
+            "d": "C=C"
+        },
+        "correct_answer": "-OH"
+    },
+    {
+        "q_no": 2,
+        "question": "What is the correct nomenclature for a compound with a hydroxyl group attached to a benzene ring?",
+        "options": {
+            "a": "methylbenzene",
+            "b": "phenol",
+            "c": "ethylbenzene",
+            "d": "chlorobenzene"
+        },
+        "correct_answer": "phenol"
+    },
+    {
+        "q_no": 3,
+        "question": "Which of the following alcohols would undergo dehydration most readily under acidic conditions?",
+        "options": {
+            "a": "1-propanol",
+            "b": "2-butanol",
+            "c": "tert-butanol",
+            "d": "methanol"
+        },
+        "correct_answer": "tert-butanol"
+    },
+    {
+        "q_no": 4,
+        "question": "In acidic conditions, ethers undergo which type of reaction compared to alcohols?",
+        "options": {
+            "a": "substitution",
+            "b": "dehydration",
+            "c": "oxidation",
+            "d": "reduction"
+        },
+        "correct_answer": "dehydration"
+    },
+    {
+        "q_no": 5,
+        "question": "Which spectroscopic technique is primarily used to analyze the structure of ethers?",
+        "options": {
+            "a": "UV-Vis Spectroscopy",
+            "b": "NMR Spectroscopy",
+            "c": "IR Spectroscopy",
+            "d": "X-ray Crystallography"
+        },
+        "correct_answer": "IR Spectroscopy"
+    },
+    {
+        "q_no": 6,
+        "question": "Which property distinguishes phenols from alcohols in acidic conditions?",
+        "options": {
+            "a": "Alcohols form stronger hydrogen bonds",
+            "b": "Phenols exhibit increased acidity",
+            "c": "Phenols have higher boiling points",
+            "d": "Phenols are less reactive"
+        },
+        "correct_answer": "Phenols exhibit increased acidity"
+    },
+    {
+        "q_no": 7,
+        "question": "Which statement correctly describes the synthesis of ethers from alcohols?",
+        "options": {
+            "a": "Ethers form through acid-catalyzed dehydration followed by nucleophilic substitution",
+            "b": "Ethers are formed via reduction reactions",
+            "c": "Ethers are synthesized via simple distillation",
+            "d": "Ethers react primarily through nucleophilic addition"
+        },
+        "correct_answer": "Ethers form through acid-catalyzed dehydration followed by nucleophilic substitution"
+    },
+    {
+        "q_no": 8,
+        "question": "What is a key difference between the physical properties of alcohols and ethers in terms of boiling points?",
+        "options": {
+            "a": "Alcohols have higher boiling points due to stronger intermolecular forces",
+            "b": "Ethers have higher boiling points due to dipole-dipole interactions",
+            "c": "Both alcohols and ethers have similar boiling points",
+            "d": "Ethers generally have higher boiling points due to London dispersion forces"
+        },
+        "correct_answer": "Alcohols have higher boiling points due to stronger intermolecular forces"
+    }
+]
+Time Taken: 82.68 seconds | Tokens Produced: 348 | Token Speed 4.209 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 8...
+
+Attempt 2 out of 6...
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "Which functional group indicates the presence of hydroxyl (-OH) attached to a carbon atom?",
+        "options": {
+            "a": "Alkyne",
+            "b": "Alcohol",
+            "c": "Amine",
+            "d": "Halogen"
+        },
+        "correct_answer": "Alcohol"
+    },
+    {
+        "q_no": 2,
+        "question": "Which of the following alcohols is considered a primary alcohol based on its carbon connectivity?",
+        "options": {
+            "a": "Butan-1-ol",
+            "b": "Hexan-2-ol",
+            "c": "Propan-1-ol",
+            "d": "Ethanol"
+        },
+        "correct_answer": "Propan-1-ol"
+    },
+    {
+        "q_no": 3,
+        "question": "What property distinguishes ethers from alcohols?",
+        "options": {
+            "a": "Higher solubility in water",
+            "b": "Lower reactivity due to weaker O-H bond",
+            "c": "Formation of hydrogen bonds",
+            "d": "Presence of multiple hydroxyl groups"
+        },
+        "correct_answer": "Lower reactivity due to weaker O-H bond"
+    },
+    {
+        "q_no": 4,
+        "question": "Which spectroscopy technique would be most suitable to analyze the functional groups present in alcohols?",
+        "options": {
+            "a": "UV-Visible Spectroscopy",
+            "b": "NMR Spectroscopy",
+            "c": "IR Spectroscopy",
+            "d": "Mass Spectrometry"
+        },
+        "correct_answer": "IR Spectroscopy"
+    },
+    {
+        "q_no": 5,
+        "question": "Which statement correctly describes substitution reactions involving alcohols?",
+        "options": {
+            "a": "Alcohols only undergo hydrolysis reactions.",
+            "b": "Alcohols can act as nucleophiles and react with electrophiles.",
+            "c": "Alcohols exclusively form ethers under acidic conditions.",
+            "d": "Alcohols decompose to form alkanes in the presence of heat."
+        },
+        "correct_answer": "Alcohols can act as nucleophiles and react with electrophiles."
+    },
+    {
+        "q_no": 6,
+        "question": "What characterizes acidic phenols compared to simple alcohols?",
+        "options": {
+            "a": "Higher boiling point due to hydrogen bonding",
+            "b": "Less soluble in water due to lack of polarizability",
+            "c": "Reactivity decreases with pH",
+            "d": "Absence of acidic properties"
+        },
+        "correct_answer": "Higher boiling point due to hydrogen bonding"
+    },
+    {
+        "q_no": 7,
+        "question": "Which of the following is a characteristic synthesis method for ethers?",
+        "options": {
+            "a": "Addition reaction between alkanes",
+            "b": "Reaction of alcohols with acid catalysis",
+            "c": "Substitution reaction of halogenated compounds",
+            "d": "Hydrolysis of alkenes"
+        },
+        "correct_answer": "Reaction of alcohols with acid catalysis"
+    },
+    {
+        "q_no": 8,
+        "question": "Which technique identifies functional groups by observing changes in electronic transitions?",
+        "options": {
+            "a": "UV-Visible Spectroscopy",
+            "b": "Mass Spectrometry",
+            "c": "X-ray Crystallography",
+            "d": "Thermal Analysis"
+        },
+        "correct_answer": "UV-Visible Spectroscopy"
+    },
+    {
+        "q_no": 9,
+        "question": "What property makes phenols more acidic than alcohols?",
+        "options": {
+            "a": "Alkyl substitution reduces acidity",
+            "b": "Presence of lone pair electrons stabilizes the conjugate base",
+            "c": "Hydrogen bonding reduces acidity",
+            "d": "Alcohols are inherently more acidic than phenols"
+        },
+        "correct_answer": "Presence of lone pair electrons stabilizes the conjugate base"
+    },
+    {
+        "q_no": 10,
+        "question": "Which functional group is responsible for the acidic nature of phenols?",
+        "options": {
+            "a": "Carbonyl group",
+            "b": "Aromatic ring",
+            "c": "Alkyne",
+            "d": "Carboxyl group"
+        },
+        "correct_answer": "Aromatic ring"
+    },
+    {
+        "q_no": 11,
+        "question": "What is the primary purpose of IR spectroscopy in organic chemistry?",
+        "options": {
+            "a": "Identifying molecular geometry",
+            "b": "Analyzing molecular vibrations and functional groups",
+            "c": "Determining boiling points",
+            "d": "Evaluating reaction kinetics"
+        },
+        "correct_answer": "Analyzing molecular vibrations and functional groups"
+    },
+    {
+        "q_no": 12,
+        "question": "Which reaction pathway involves the cleavage of a carbon-oxygen bond, forming carboxylic acids?",
+        "options": {
+            "a": "Hydrolysis of esters",
+            "b": "Oxidation of alcohols",
+            "c": "Decarboxylation",
+            "d": "Esterification"
+        },
+        "correct_answer": "Oxidation of alcohols"
+    }
+]
+Time Taken: 87.86 seconds | Tokens Produced: 516 | Token Speed 5.873 tokens/sec
+✅ Successfully generated 12 MCQs.
+👏👏👏FINAL MCQ 👏👏👏
+[
+   {
+      "q_no": 1,
+      "question": "Which functional group indicates the presence of hydroxyl (-OH) attached to a carbon atom?",
+      "options": {
+         "a": "Alkyne",
+         "b": "Alcohol",
+         "c": "Amine",
+         "d": "Halogen"
+      },
+      "correct_answer": "Alcohol"
+   },
+   {
+      "q_no": 2,
+      "question": "Which of the following alcohols is considered a primary alcohol based on its carbon connectivity?",
+      "options": {
+         "a": "Butan-1-ol",
+         "b": "Hexan-2-ol",
+         "c": "Propan-1-ol",
+         "d": "Ethanol"
+      },
+      "correct_answer": "Propan-1-ol"
+   },
+   {
+      "q_no": 3,
+      "question": "What property distinguishes ethers from alcohols?",
+      "options": {
+         "a": "Higher solubility in water",
+         "b": "Lower reactivity due to weaker O-H bond",
+         "c": "Formation of hydrogen bonds",
+         "d": "Presence of multiple hydroxyl groups"
+      },
+      "correct_answer": "Lower reactivity due to weaker O-H bond"
+   },
+   {
+      "q_no": 4,
+      "question": "Which spectroscopy technique would be most suitable to analyze the functional groups present in alcohols?",
+      "options": {
+         "a": "UV-Visible Spectroscopy",
+         "b": "NMR Spectroscopy",
+         "c": "IR Spectroscopy",
+         "d": "Mass Spectrometry"
+      },
+      "correct_answer": "IR Spectroscopy"
+   },
+   {
+      "q_no": 5,
+      "question": "Which statement correctly describes substitution reactions involving alcohols?",
+      "options": {
+         "a": "Alcohols only undergo hydrolysis reactions.",
+         "b": "Alcohols can act as nucleophiles and react with electrophiles.",
+         "c": "Alcohols exclusively form ethers under acidic conditions.",
+         "d": "Alcohols decompose to form alkanes in the presence of heat."
+      },
+      "correct_answer": "Alcohols can act as nucleophiles and react with electrophiles."
+   },
+   {
+      "q_no": 6,
+      "question": "What characterizes acidic phenols compared to simple alcohols?",
+      "options": {
+         "a": "Higher boiling point due to hydrogen bonding",
+         "b": "Less soluble in water due to lack of polarizability",
+         "c": "Reactivity decreases with pH",
+         "d": "Absence of acidic properties"
+      },
+      "correct_answer": "Higher boiling point due to hydrogen bonding"
+   },
+   {
+      "q_no": 7,
+      "question": "Which of the following is a characteristic synthesis method for ethers?",
+      "options": {
+         "a": "Addition reaction between alkanes",
+         "b": "Reaction of alcohols with acid catalysis",
+         "c": "Substitution reaction of halogenated compounds",
+         "d": "Hydrolysis of alkenes"
+      },
+      "correct_answer": "Reaction of alcohols with acid catalysis"
+   },
+   {
+      "q_no": 8,
+      "question": "Which technique identifies functional groups by observing changes in electronic transitions?",
+      "options": {
+         "a": "UV-Visible Spectroscopy",
+         "b": "Mass Spectrometry",
+         "c": "X-ray Crystallography",
+         "d": "Thermal Analysis"
+      },
+      "correct_answer": "UV-Visible Spectroscopy"
+   },
+   {
+      "q_no": 9,
+      "question": "What property makes phenols more acidic than alcohols?",
+      "options": {
+         "a": "Alkyl substitution reduces acidity",
+         "b": "Presence of lone pair electrons stabilizes the conjugate base",
+         "c": "Hydrogen bonding reduces acidity",
+         "d": "Alcohols are inherently more acidic than phenols"
+      },
+      "correct_answer": "Presence of lone pair electrons stabilizes the conjugate base"
+   },
+   {
+      "q_no": 10,
+      "question": "Which functional group is responsible for the acidic nature of phenols?",
+      "options": {
+         "a": "Carbonyl group",
+         "b": "Aromatic ring",
+         "c": "Alkyne",
+         "d": "Carboxyl group"
+      },
+      "correct_answer": "Aromatic ring"
+   },
+   {
+      "q_no": 11,
+      "question": "What is the primary purpose of IR spectroscopy in organic chemistry?",
+      "options": {
+         "a": "Identifying molecular geometry",
+         "b": "Analyzing molecular vibrations and functional groups",
+         "c": "Determining boiling points",
+         "d": "Evaluating reaction kinetics"
+      },
+      "correct_answer": "Analyzing molecular vibrations and functional groups"
+   },
+   {
+      "q_no": 12,
+      "question": "Which reaction pathway involves the cleavage of a carbon-oxygen bond, forming carboxylic acids?",
+      "options": {
+         "a": "Hydrolysis of esters",
+         "b": "Oxidation of alcohols",
+         "c": "Decarboxylation",
+         "d": "Esterification"
+      },
+      "correct_answer": "Oxidation of alcohols"
+   }
+]
+TIME for MCQ: 87.86 | Token Speed: 5.873 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 568 | TOTAL Time: 180.67
+
+********************************************************************************
+********************************************************************************
+Syllabus NUMBER 4
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for IB Grade 11 Biology - Genetics - Mendelian Genetics:
+- Principles of Mendelian inheritance
+- Punnett squares and genotypes
+- Traits controlled by single genes (dominant/recessive)
+- Inheritance patterns analysis (autosomal dominant, recessive, sex-linked)
+- Punnett square applications to predict offspring genotypes
+- Examples of Mendelian genetics in nature
+TIME for SYLLABUS: 12.093 | Token Speed: 4.217 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 6...
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": "1",
+        "question": "What do Mendel's laws primarily describe in genetics?",
+        "options": {
+            "a": "The mutation rates of various genes",
+            "b": "Phenotypic expressions and inheritance patterns of traits",
+            "c": "Environmental influences on gene expression",
+            "d": "Epigenetic modifications influencing trait inheritance"
+        },
+        "correct_answer": "Phenotypic expressions and inheritance patterns of traits"
+    },
+    {
+        "q_no": "2",
+        "question": "In Mendelian genetics, which term indicates an allele that expresses itself when present even when paired with a recessive allele?",
+        "options": {
+            "a": "Recessive",
+            "b": "Dominant",
+            "c": "Heterozygous",
+            "d": "Homologous"
+        },
+        "correct_answer": "Dominant"
+    },
+    {
+        "q_no": "3",
+        "question": "Which inheritance pattern refers to traits linked on the same chromosome, often leading to traits that often co-segregate together?",
+        "options": {
+            "a": "Autosomal recessive",
+            "b": "Autosomal dominant",
+            "c": "Sex-linked dominant",
+            "d": "Polygenic inheritance"
+        },
+        "correct_answer": "Sex-linked dominant"
+    },
+    {
+        "q_no": "4",
+        "question": "Punnett squares are useful for predicting the probability of which outcome in offspring?",
+        "options": {
+            "a": "Environmental factors influencing trait expression",
+            "b": "Genotypic ratios of offspring",
+            "c": "Protein synthesis rates",
+            "d": "Epigenetic marks in DNA"
+        },
+        "correct_answer": "Genotypic ratios of offspring"
+    },
+    {
+        "q_no": "5",
+        "question": "Which scenario demonstrates Mendelian genetics where neither allele expresses its trait visibly due to masking?",
+        "options": {
+            "a": "Two heterozygous parents for a dominant trait",
+            "b": "Two homozygous dominant parents for a recessive trait",
+            "c": "Two homozygous recessive parents for a dominant trait",
+            "d": "Two heterozygous parents with dominant and recessive alleles"
+        },
+        "correct_answer": "Two homozygous dominant parents for a recessive trait"
+    },
+    {
+        "q_no": "6",
+        "question": "What describes the inheritance pattern where one allele is carried on the X chromosome (female with two Xs or male with one X)?",
+        "options": {
+            "a": "Autosomal inheritance",
+            "b": "X-linked dominant",
+            "c": "Autosomal recessive",
+            "d": "Monogenic inheritance"
+        },
+        "correct_answer": "X-linked dominant"
+    },
+    {
+        "q_no": "7",
+        "question": "Which of the following traits is typically controlled by single genes according to Mendelian principles?",
+        "options": {
+            "a": "Height",
+            "b": "Eye color",
+            "c": "Blood type",
+            "d": "Taste preference"
+        },
+        "correct_answer": "Blood type"
+    },
+    {
+        "q_no": "8",
+        "question": "In predicting genotypes using Punnett squares, what information must be known about each parent?",
+        "options": {
+            "a": "Their dietary habits",
+            "b": "Their genetic makeup (alleles)",
+            "c": "Their blood types",
+            "d": "Their behavioral patterns"
+        },
+        "correct_answer": "Their genetic makeup (alleles)"
+    },
+    {
+        "q_no": "9",
+        "question": "Which Mendelian trait example shows complete dominance without any masked recessive expression?",
+        "options": {
+            "a": "Cystic fibrosis",
+            "b": "Hemophilia",
+            "c": "Tall stature in pea plants",
+            "d": "Hemoglobinopathies"
+        },
+        "correct_answer": "Tall stature in pea plants"
+    },
+    {
+        "q_no": "10",
+        "question": "What concept explains why certain traits skip generations without appearing in the phenotype?",
+        "options": {
+            "a": "Sex-linked inheritance",
+            "b": "Polygenic inheritance",
+            "c": "Epigenetic silencing",
+            "d": "Mosaicism"
+        },
+        "correct_answer": "Sex-linked inheritance"
+    },
+    {
+        "q_no": "11",
+        "question": "How can researchers use Mendelian ratios to infer genetic linkage between genes?",
+        "options": {
+            "a": "By studying dominant phenotype ratios",
+            "b": "Through analyzing heterozygous carriers and their offspring",
+            "c": "Measuring recombination frequencies",
+            "d": "Observing environmental impacts on traits"
+        },
+        "correct_answer": "Measuring recombination frequencies"
+    },
+    {
+        "q_no": "12",
+        "question": "What genetic concept explains why certain dominant traits might be masked by a visibly dominant trait?",
+        "options": {
+            "a": "Epistasis",
+            "b": "Gene silencing",
+            "c": "Chromosomal inversion",
+            "d": "Polygenic interaction"
+        },
+        "correct_answer": "Epistasis"
+    }
+]
+Time Taken: 120.45 seconds | Tokens Produced: 533 | Token Speed 4.425 tokens/sec
+✅ Successfully generated 12 MCQs.
+👏👏👏FINAL MCQ 👏👏👏
+[
+   {
+      "q_no": "1",
+      "question": "What do Mendel's laws primarily describe in genetics?",
+      "options": {
+         "a": "The mutation rates of various genes",
+         "b": "Phenotypic expressions and inheritance patterns of traits",
+         "c": "Environmental influences on gene expression",
+         "d": "Epigenetic modifications influencing trait inheritance"
+      },
+      "correct_answer": "Phenotypic expressions and inheritance patterns of traits"
+   },
+   {
+      "q_no": "2",
+      "question": "In Mendelian genetics, which term indicates an allele that expresses itself when present even when paired with a recessive allele?",
+      "options": {
+         "a": "Recessive",
+         "b": "Dominant",
+         "c": "Heterozygous",
+         "d": "Homologous"
+      },
+      "correct_answer": "Dominant"
+   },
+   {
+      "q_no": "3",
+      "question": "Which inheritance pattern refers to traits linked on the same chromosome, often leading to traits that often co-segregate together?",
+      "options": {
+         "a": "Autosomal recessive",
+         "b": "Autosomal dominant",
+         "c": "Sex-linked dominant",
+         "d": "Polygenic inheritance"
+      },
+      "correct_answer": "Sex-linked dominant"
+   },
+   {
+      "q_no": "4",
+      "question": "Punnett squares are useful for predicting the probability of which outcome in offspring?",
+      "options": {
+         "a": "Environmental factors influencing trait expression",
+         "b": "Genotypic ratios of offspring",
+         "c": "Protein synthesis rates",
+         "d": "Epigenetic marks in DNA"
+      },
+      "correct_answer": "Genotypic ratios of offspring"
+   },
+   {
+      "q_no": "5",
+      "question": "Which scenario demonstrates Mendelian genetics where neither allele expresses its trait visibly due to masking?",
+      "options": {
+         "a": "Two heterozygous parents for a dominant trait",
+         "b": "Two homozygous dominant parents for a recessive trait",
+         "c": "Two homozygous recessive parents for a dominant trait",
+         "d": "Two heterozygous parents with dominant and recessive alleles"
+      },
+      "correct_answer": "Two homozygous dominant parents for a recessive trait"
+   },
+   {
+      "q_no": "6",
+      "question": "What describes the inheritance pattern where one allele is carried on the X chromosome (female with two Xs or male with one X)?",
+      "options": {
+         "a": "Autosomal inheritance",
+         "b": "X-linked dominant",
+         "c": "Autosomal recessive",
+         "d": "Monogenic inheritance"
+      },
+      "correct_answer": "X-linked dominant"
+   },
+   {
+      "q_no": "7",
+      "question": "Which of the following traits is typically controlled by single genes according to Mendelian principles?",
+      "options": {
+         "a": "Height",
+         "b": "Eye color",
+         "c": "Blood type",
+         "d": "Taste preference"
+      },
+      "correct_answer": "Blood type"
+   },
+   {
+      "q_no": "8",
+      "question": "In predicting genotypes using Punnett squares, what information must be known about each parent?",
+      "options": {
+         "a": "Their dietary habits",
+         "b": "Their genetic makeup (alleles)",
+         "c": "Their blood types",
+         "d": "Their behavioral patterns"
+      },
+      "correct_answer": "Their genetic makeup (alleles)"
+   },
+   {
+      "q_no": "9",
+      "question": "Which Mendelian trait example shows complete dominance without any masked recessive expression?",
+      "options": {
+         "a": "Cystic fibrosis",
+         "b": "Hemophilia",
+         "c": "Tall stature in pea plants",
+         "d": "Hemoglobinopathies"
+      },
+      "correct_answer": "Tall stature in pea plants"
+   },
+   {
+      "q_no": "10",
+      "question": "What concept explains why certain traits skip generations without appearing in the phenotype?",
+      "options": {
+         "a": "Sex-linked inheritance",
+         "b": "Polygenic inheritance",
+         "c": "Epigenetic silencing",
+         "d": "Mosaicism"
+      },
+      "correct_answer": "Sex-linked inheritance"
+   },
+   {
+      "q_no": "11",
+      "question": "How can researchers use Mendelian ratios to infer genetic linkage between genes?",
+      "options": {
+         "a": "By studying dominant phenotype ratios",
+         "b": "Through analyzing heterozygous carriers and their offspring",
+         "c": "Measuring recombination frequencies",
+         "d": "Observing environmental impacts on traits"
+      },
+      "correct_answer": "Measuring recombination frequencies"
+   },
+   {
+      "q_no": "12",
+      "question": "What genetic concept explains why certain dominant traits might be masked by a visibly dominant trait?",
+      "options": {
+         "a": "Epistasis",
+         "b": "Gene silencing",
+         "c": "Chromosomal inversion",
+         "d": "Polygenic interaction"
+      },
+      "correct_answer": "Epistasis"
+   }
+]
+TIME for MCQ: 120.446 | Token Speed: 4.425 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 584 | TOTAL Time: 132.55
+
+********************************************************************************
+********************************************************************************
+Syllabus NUMBER 5
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for State Board Grade 10 Physics - Electricity - Circuits:
+- Basic concepts of electric circuits
+- Ohm's Law and calculation of current, voltage, resistance
+- Kirchhoff's Laws application
+- Series and parallel circuit configurations
+- Power calculations in circuits
+- Measurement techniques for circuit components
+TIME for SYLLABUS: 9.732 | Token Speed: 4.829 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 6...
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the fundamental concept described in 'Basic concepts of electric circuits'?",
+        "options": {
+            "a": "Ohm's Law and Kirchhoff's Laws",
+            "b": "The flow of electrons through wires",
+            "c": "Types of circuit configurations",
+            "d": "Calculation of resistance"
+        },
+        "correct_answer": "The flow of electrons through wires"
+    },
+    {
+        "q_no": 2,
+        "question": "Which law states that the current through a conductor between two points is directly proportional to the voltage across the two points?",
+        "options": {
+            "a": "Faraday's Law",
+            "b": "Ohm's Law",
+            "c": "Lenz's Law",
+            "d": "Coulomb's Law"
+        },
+        "correct_answer": "Ohm's Law"
+    },
+    {
+        "q_no": 3,
+        "question": "In series circuits, how many paths does current have to follow?",
+        "options": {
+            "a": "Zero paths",
+            "b": "One path",
+            "c": "Two paths",
+            "d": "Infinitely many paths"
+        },
+        "correct_answer": "One path"
+    },
+    {
+        "q_no": 4,
+        "question": "What does 'parallel circuit configuration' allow when comparing it to series circuits?",
+        "options": {
+            "a": "Current splits across multiple branches",
+            "b": "Resistance increases proportionally",
+            "c": "Total resistance equals individual resistances",
+            "d": "Voltage across each branch increases"
+        },
+        "correct_answer": "Current splits across multiple branches"
+    },
+    {
+        "q_no": 5,
+        "question": "Which component calculation requires both voltage and resistance in a circuit?",
+        "options": {
+            "a": "Current",
+            "b": "Power",
+            "c": "Resistance",
+            "d": "Capacitance"
+        },
+        "correct_answer": "Power"
+    },
+    {
+        "q_no": 6,
+        "question": "Which of these laws pertains to energy conservation and magnetic fields?",
+        "options": {
+            "a": "Kirchhoff's Voltage Law",
+            "b": "Faraday's Law of Induction",
+            "c": "Newton's Law of Motion",
+            "d": "Ohm's Law"
+        },
+        "correct_answer": "Faraday's Law of Induction"
+    },
+    {
+        "q_no": 7,
+        "question": "In a parallel circuit, what happens to the total resistance compared to individual resistances?",
+        "options": {
+            "a": "It remains the same",
+            "b": "It decreases",
+            "c": "It increases",
+            "d": "None of the above"
+        },
+        "correct_answer": "It decreases"
+    },
+    {
+        "q_no": 8,
+        "question": "Measurement techniques for circuit components typically include which tool?",
+        "options": {
+            "a": "Caliper",
+            "b": "Multimeter",
+            "c": "Beam Balance",
+            "d": "Micrometer"
+        },
+        "correct_answer": "Multimeter"
+    },
+    {
+        "q_no": 9,
+        "question": "What does the power formula \(P = IV\) represent in electrical circuits?",
+        "options": {
+            "a": "Potential Difference",
+            "b": "Induced Current",
+            "c": "Electrical Power",
+            "d": "Voltage Drop"
+        },
+        "correct_answer": "Electrical Power"
+    },
+    {
+        "q_no": 10,
+        "question": "Which statement accurately describes the relationship between voltage and current in series circuits?",
+        "options": {
+            "a": "Voltage decreases while current increases",
+            "b": "Voltage remains constant across series branches",
+            "c": "Current adds up across each branch",
+            "d": "Voltage splits evenly among branches"
+        },
+        "correct_answer": "Current adds up across each branch"
+    },
+    {
+        "q_no": 11,
+        "question": "In terms of circuit analysis, Kirchhoff's Current Law states that what?"
+        "options": {
+            "a": "Current flowing into a junction equals current flowing out",
+            "b": "Current flowing into a junction equals zero",
+            "c": "Voltage drops across components are proportional",
+            "d": "Capacitance increases with voltage"
+        },
+        "correct_answer": "Current flowing into a junction equals current flowing out"
+    },
+    {
+        "q_no": 12,
+        "question": "What is a typical application scenario for using parallel circuits in practical devices?",
+        "options": {
+            "a": "Series battery pack",
+            "b": "Multiple devices connected to a single power outlet",
+            "c": "Series circuit for increased voltage",
+            "d": "Series of resistors enhancing voltage"
+        },
+        "correct_answer": "Multiple devices connected to a single power outlet"
+    }
+]
+Time Taken: 106.63 seconds | Tokens Produced: 522 | Token Speed 4.895 tokens/sec
+⚠️ Error: Invalid JSON format...
+
+Attempt 2 out of 6...
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "Which law states that the current flowing through a conductor is directly proportional to the voltage across its ends?",
+        "options": {
+            "a": "Ohm's Law",
+            "b": "Kirchhoff's Voltage Law",
+            "c": "Coulomb's Law",
+            "d": "Faraday's Law"
+        },
+        "correct_answer": "Ohm's Law"
+    },
+    {
+        "q_no": 2,
+        "question": "In a parallel circuit configuration, what happens to the total current supplied by the voltage source?",
+        "options": {
+            "a": "It splits and flows through each branch",
+            "b": "It remains unchanged",
+            "c": "It doubles",
+            "d": "It decreases exponentially"
+        },
+        "correct_answer": "It splits and flows through each branch"
+    },
+    {
+        "q_no": 3,
+        "question": "What is the formula used to calculate power (P) dissipated or consumed in an electrical circuit according to P = IV?",
+        "options": {
+            "a": "P = VI",
+            "b": "P = I2R",
+            "c": "P = IR",
+            "d": "P = V/I"
+        },
+        "correct_answer": "P = IR"
+    },
+    {
+        "q_no": 4,
+        "question": "What does 'R' in electrical circuits represent?",
+        "options": {
+            "a": "Resistance",
+            "b": "Resistance per unit length",
+            "c": "Reactance",
+            "d": "Impedance"
+        },
+        "correct_answer": "Resistance"
+    },
+    {
+        "q_no": 5,
+        "question": "Which Kirchhoff's Law applies to voltage drops around any closed loop of a circuit?",
+        "options": {
+            "a": "Kirchhoff's Current Law",
+            "b": "Kirchhoff's Voltage Law",
+            "c": "The Loop Rule",
+            "d": "The Node Rule"
+        },
+        "correct_answer": "Kirchhoff's Voltage Law"
+    },
+    {
+        "q_no": 6,
+        "question": "If resistors are connected in series, how does the total resistance compare to individual resistances?",
+        "options": {
+            "a": "Total resistance is less than each resistor",
+            "b": "Total resistance equals the sum of resistances",
+            "c": "Total resistance is greater than any single resistor",
+            "d": "Total resistance cancels individual resistances"
+        },
+        "correct_answer": "Total resistance equals the sum of resistances"
+    },
+    {
+        "q_no": 7,
+        "question": "What technique involves measuring voltage directly across specific points in a circuit?",
+        "options": {
+            "a": "Potential difference measurement",
+            "b": "Resistance measurement",
+            "c": "Current measurement",
+            "d": "Capacitance measurement"
+        },"correct_answer": "Potential difference measurement"
+    },
+    {
+        "q_no": 8,
+        "question": "In an ideal scenario, how does the power factor affect the efficiency of power transmission through circuits?",
+        "options": {
+            "a": "Increases efficiency by minimizing reactive power",
+            "b": "Decreases efficiency regardless of reactive power",
+            "c": "Has no impact on efficiency",
+            "d": "Increases efficiency by maximizing reactive power"
+        },
+        "correct_answer": "Increases efficiency by minimizing reactive power"
+    }
+]
+Time Taken: 81.55 seconds | Tokens Produced: 374 | Token Speed 4.586 tokens/sec
+⚠️ Error: Invalid JSON format...
+⚠️ Warning: Expected 12 MCQs but got 8...
+
+Attempt 3 out of 6...
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 9,
+        "question": "What does Ohm's Law describe?",
+        "options": {
+            "a": "The relationship between voltage and inductance",
+            "b": "The relationship between voltage, current, and resistance",
+            "c": "The efficiency of transformers in energy transfer",
+            "d": "How capacitors store energy"
+        },
+        "correct_answer": "The relationship between voltage, current, and resistance"
+    },
+    {
+        "q_no": 10,
+        "question": "Which law states that the sum of currents entering a junction must equal the sum of currents leaving it?",
+        "options": {
+            "a": "Faraday's Law",
+            "b": "Kirchhoff's Voltage Law",
+            "c": "Kirchhoff's Current Law",
+            "d": "Ampere's Law"
+        },
+        "correct_answer": "Kirchhoff's Current Law"
+    },
+    {
+        "q_no": 11,
+        "question": "In a parallel circuit configuration, how do resistors behave?",
+        "options": {
+            "a": "They divide voltage equally among themselves",
+            "b": "They share current equally",
+            "c": "Current flows through each resistor uniquely",
+            "d": "Voltage is divided inversely proportional to resistance"
+        },
+        "correct_answer": "They share current equally"
+    },
+    {
+        "q_no": 12,
+        "question": "Which component is primarily used to calculate power dissipated in a circuit?",
+        "options": {
+            "a": "Capacitor",
+            "b": "Resistor",
+            "c": "Diode",
+            "d": "Transformer"
+        },
+        "correct_answer": "Resistor"
+    },
+    {
+        "q_no": 13,
+        "question": "Which technique measures resistance in ohms directly using a multimeter?",
+        "options": {
+            "a": "Voltmeter",
+            "b": "Inductance Meter",
+            "c": "Ohmmeter",
+            "d": "Frequency Counter"
+        },
+        "correct_answer": "Ohmmeter"
+    },
+    {
+        "q_no": 14,
+        "question": "Series circuits increase total resistance compared to parallel circuits when identical resistors are connected in series. Why?",
+        "options": {
+            "a": "Because resistors in parallel combine resistances inversely",
+            "b": "Current decreases due to increased resistance",
+            "c": "Resistors oppose voltage equally",
+            "d": "Current paths multiply rather than add"
+        },
+        "correct_answer": "Current paths multiply rather than add"
+    },
+    {
+        "q_no": 15,
+        "question": "What does measuring voltage across two points in a circuit indicate using Ohm's Law?",
+        "options": {
+            "a": "Current flow",
+            "b": "Resistance between points",
+            "c": "Potential difference",
+            "d": "Energy consumption"
+        },
+        "correct_answer": "Potential difference"
+    }
+]
+Time Taken: 51.13 seconds | Tokens Produced: 304 | Token Speed 5.946 tokens/sec
+⚠️ Error: Invalid JSON format...
+⚠️ Warning: Expected 12 MCQs but got 8...
+⚠️ Warning: Expected 12 MCQs but got 7...
+
+Attempt 4 out of 6...
+🔍🔍🔍 Generated MCQ:
+
+ It seems there's been a misunderstanding as per your requirements, but your request mixes instructions for creating educational MCQs with an unrelated syllabus on Physics circuits, and there were warnings indicating errors regarding format consistency across multiple syllabus topics. I'll proceed by strictly adhering to your guidelines provided at the beginning regarding cellular respiration syllabus:json
+[
+    {
+        "q_no": 1,
+        "question": "Which of the following is NOT a direct product formed during glycolysis?",
+        "options": {
+            "a": "ATP",
+            "b": "NADH",
+            "c": "Lactic acid",
+            "d": "Water"
+        },
+        "correct_answer": "Water"
+    },
+    {
+        "q_no": 2,
+        "question": "Which gas is absorbed by cells during aerobic respiration?",
+        "options": {
+            "a": "Oxygen",
+            "b": "Carbon Dioxide",
+            "c": "Ammonia",
+            "d": "Hydrogen"
+        },
+        "correct_answer": "Oxygen"
+    },
+    {
+        "q_no": 3,
+        "question": "What happens during the Krebs cycle in cellular respiration?",
+        "options": {
+            "a": "Glucose is fully oxidized",
+            "b": "NADH and FADH2 are produced",
+            "c": "ATP is synthesized continuously",
+            "d": "Protein synthesis occurs"
+        },
+        "correct_answer": "NADH and FADH2 are produced"
+    },
+    {
+        "q_no": 4,
+        "question": "Which statement correctly describes the relationship between ATP and cellular processes?",
+        "options": {
+            "a": "ATP is only used to synthesize proteins",
+            "b": "ATP provides energy for most cellular functions",
+            "c": "ATP synthesis occurs only in mitochondria",
+            "d": "ATP consumption decreases with increased temperature"
+        },
+        "correct_answer": "ATP provides energy for most cellular functions"
+    },
+    {
+        "q_no": 5,
+        "question": "In an ideal scenario with no internal resistance, what would be the overall voltage across a circuit containing resistors in series connected to a battery?",
+        "options": {
+            "a": "Equal to the battery voltage",
+            "b": "Zero volts",
+            "c": "Lower than battery voltage",
+            "d": "Unpredictable"
+        },
+        "correct_answer": "Equal to the battery voltage"
+    },
+    {
+        "q_no": 6,
+        "question": "According to Kirchhoff's Voltage Law, how are voltages around a closed loop summed?",
+        "options": {
+            "a": "They cancel out",
+            "b": "Their sum equals the source voltage",
+            "c": "Their sum equals zero",
+            "d": "Their sum decreases over time"
+        },
+        "correct_answer": "Their sum equals the source voltage"
+    },
+    {
+        "q_no": 7,
+        "question": "Which statement correctly describes a parallel circuit?",
+        "options": {
+            "a": "Current splits and passes through each branch independently",
+            "b": "All components share the same voltage",
+            "c": "Current decreases as it enters each component",
+            "d": "Voltage across components equals the total circuit voltage"
+        },
+        "correct_answer": "Current splits and passes through each branch independently"
+    },
+    {
+        "q_no": 8,
+        "question": "What tool is essential for measuring current in an electrical circuit?",
+        "options": {
+            "a": "Voltmeter",
+            "b": "Amplifier",
+            "c": "Ohmmeter",
+            "d": "Wattmeter"
+        },
+        "correct_answer": "Ohmmeter"
+    },
+    {
+        "q_no": 9,
+        "question": "In calculating power using formula \(P = IV\), what does 'P' stand for?",
+        "options": {
+            "a": "Potential difference",
+            "b": "Instantaneous voltage",
+            "c": "Active power",
+            "d": "Energy consumption rate"
+        },
+        "correct_answer": "Active power"
+    },
+    {
+        "q_no": 10,
+        "question": "Which law states that the algebraic sum of all voltages around any closed loop of resistors in a circuit equals zero?",
+        "options": {
+            "a": "Ohm's Law",
+            "b": "Kirchhoff's Voltage Law",
+            "c": "Kirchhoff's Current Law",
+            "d": "Poincaré's Law"
+        },
+        "correct_answer": "Kirchhoff's Voltage Law"
+    },
+    {
+        "q_no": 11,
+        "question": "Which process primarily converts ADP back to ATP efficiently under aerobic conditions?",
+        "options": {
+            "a": "Oxidative Phosphorylation",
+            "b": "Photophosphorylation",
+            "c": "Glycolysis",
+            "d": "Fatty Acid Oxidation"
+        },
+        "correct_answer": "Oxidative Phosphorylation"
+    }
+]
+
+This JSON accurately reflects the structured MCQ format with specific focus on cellular respiration details, adhering strictly to your initial instructions.
+Time Taken: 85.06 seconds | Tokens Produced: 548 | Token Speed 6.442 tokens/sec
+⚠️ Error: Invalid JSON format...
+⚠️ Warning: Expected 12 MCQs but got 8...
+⚠️ Warning: Expected 12 MCQs but got 7...
+⚠️ Error: Invalid JSON format...
+
+Attempt 5 out of 6...
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 9,
+        "question": "According to Ohm's Law, what does voltage measure in a circuit?",
+        "options": {
+            "a": "Electron flow rate",
+            "b": "Electrical resistance",
+            "c": "Potential difference between two points",
+            "d": "Total charge in a capacitor"
+        },
+        "correct_answer": "Potential difference between two points"
+    },
+    {
+        "q_no": 10,
+        "question": "What happens when resistors are connected in series in a circuit?",
+        "options": {
+            "a": "Total resistance increases",
+            "b": "Current decreases",
+            "c": "Voltage remains constant",
+            "d": "All components operate independently"
+        },
+        "correct_answer": "Total resistance increases"
+    },
+    {
+        "q_no": 11,
+        "question": "Which Kirchhoff's Law states that the sum of currents entering a junction equals the sum exiting it?",
+        "options": {
+            "a": "Kirchhoff's Voltage Law",
+            "b": "Kirchhoff's Current Law",
+            "c": "The Junction Rule",
+            "d": "The Loop Rule"
+        },
+        "correct_answer": "The Junction Rule"
+    },
+    {
+        "q_no": 12,
+        "question": "What formula is used to calculate power in an electrical circuit?",
+        "options": {
+            "a": "V * I",
+            "b": "I^2 * R",
+            "c": "P = V * I",
+            "d": "1 / R"
+        },
+        "correct_answer": "P = V * I"
+    },
+    {
+        "q_no": 13,
+        "question": "How do you determine if components are connected in parallel?",
+        "options": {
+            "a": "They share a single path for current flow",
+            "b": "Each component receives the same voltage",
+            "c": "Current splits between branches",
+            "d": "Voltage decreases across components"
+        },
+        "correct_answer": "Each component receives the same voltage"
+    },
+    {
+        "q_no": 14,
+        "question": "What tool would you use to measure resistance accurately in a circuit?",
+        "options": {
+            "a": "Multimeter",
+            "b": "Thermometer",
+            "c": "Amplifier",
+            "d": "Resistor"
+        },
+        "correct_answer": "Multimeter"
+    },
+    {
+        "q_no": 15,
+        "question": "When capacitors are connected in parallel, how does their total capacitance compare to individual capacitances?",
+        "options": {
+            "a": "Total capacitance equals individual capacitance",
+            "b": "Total capacitance decreases",
+            "c": "Total capacitance equals twice the value",
+            "d": "Capacitors block current flow"
+        },
+        "correct_answer": "Total capacitance equals individual capacitance"
+    },
+    {
+        "q_no": 16,
+        "question": "What is the purpose of applying Kirchhoff's Current Law at a junction in a circuit?",
+        "options": {
+            "a": "To decrease the overall resistance",
+            "b": "To ensure current conservation",
+            "c": "To simplify complex calculations",
+            "d": "To measure voltage across components"
+        },
+        "correct_answer": "To ensure current conservation"
+    }
+]
+Time Taken: 80.15 seconds | Tokens Produced: 357 | Token Speed 4.454 tokens/sec
+⚠️ Error: Invalid JSON format...
+⚠️ Warning: Expected 12 MCQs but got 8...
+⚠️ Warning: Expected 12 MCQs but got 7...
+⚠️ Error: Invalid JSON format...
+⚠️ Warning: Expected 12 MCQs but got 8...
+
+Attempt 6 out of 6...
+🔍🔍🔍 Generated MCQ:
+
+ Response:
+[
+    {
+        "q_no": 1,
+        "question": "Which law describes the relationship between voltage, current, and resistance in a circuit?",
+        "options": {
+            "a": "Biot's Law",
+            "b": "Ohm's Law",
+            "c": "Faraday's Law",
+            "d": "Newton's Law of Motion"
+        },
+        "correct_answer": "Ohm's Law"
+    },
+    {
+        "q_no": 2,
+        "question": "In a series circuit, what happens to the total current flowing through the components?",
+        "options": {
+            "a": "It remains constant",
+            "b": "It decreases proportionally to the resistances",
+            "c": "It increases with each component",
+            "d": "It depends on external voltage"
+        },
+        "correct_answer": "It decreases proportionally to the resistances"
+    },
+    {
+        "q_no": 3,
+        "question": "What principle states that the current entering a junction must equal the current exiting?",
+        "options": {
+            "a": "Lenz's Law",
+            "b": "Kirchhoff's Current Law",
+            "c": "Faraday's Law of Induction",
+            "d": "Newton's Third Law"
+        },
+        "correct_answer": "Kirchhoff's Current Law"
+    },
+    {
+        "q_no": 4,
+        "question": "When calculating power in a circuit, which factor is directly proportional to the square of the voltage?",
+        "options": {
+            "a": "Current",
+            "b": "Resistance",
+            "c": "Apparent Power",
+            "d": "Phase Angle"
+        },
+        "correct_answer": "Apparent Power"
+    },
+    {
+        "q_no": 5,
+        "question": "In a parallel circuit, how does resistance compare between components?",
+        "options": {
+            "a": "Increases linearly with each component",
+            "b": "Resistance decreases as components are added",
+            "c": "Summing individual resistances",
+            "d": "All components share the same resistance"
+        },
+        "correct_answer": "Summing individual resistances"
+    },
+    {
+        "q_no": 6,
+        "question": "Which measurement technique is crucial for determining resistance accurately?",
+        "options": {
+            "a": "Voltmeter",
+            "b": "Ammeter",
+            "c": "Multimeter",
+            "d": "Photodiode"
+        },
+        "correct_answer": "Multimeter"
+    },
+    {
+        "q_no": 7,
+        "question": "What is the formula for calculating power dissipated in resistive loads?",
+        "options": {
+            "a": "P = I^2 * R",
+            "b": "P = V^2 / R",
+            "c": "P = V / R",
+            "d": "P = I * V"
+        },
+        "correct_answer": "P = I^2 * R"
+    },
+    {
+        "q_no": 8,
+        "question": "Which component's measurement would indicate whether voltage is supplied correctly to a circuit?",
+        "options": {
+            "a": "Diode",
+            "b": "Voltmeter",
+            "c": "Transformer",
+            "d": "Resistor"
+        },
+        "correct_answer": "Voltmeter"
+    },
+    {
+        "q_no": 9,
+        "question": "What role does Ohm's Law play in determining current flow through a resistor?",
+        "options": {
+            "a": "Measuring voltage drop across the resistor",
+            "b": "Calculating the resistance directly",
+            "c": "Determining power consumed by the resistor",
+            "d": "Indicating how voltage relates to resistance"
+        },
+        "correct_answer": "Indicating how voltage relates to resistance"
+    },
+    {
+        "q_no": 10,
+        "question": "In a complex circuit, Kirchhoff's Voltage Law states that how the sum of all voltages around a loop equals what?",
+        "options": {
+            "a": "Current",
+            "b": "Potential",
+            "c": "Power",
+            "d": "Ohms"
+        },
+        "correct_answer": "Potential"
+    },
+    {
+        "q_no": 11,
+        "question": "Which component's measurement helps verify Kirchhoff's Current Law at junctions?",
+        "options": {
+            "a": "Capacitor",
+            "b": "Inductor",
+            "c": "Multimeter",
+            "d": "Transistor"
+        },
+        "correct_answer": "Multimeter"
+    },
+    {
+        "q_no": 12,
+        "question": "What law governs the electromagnetic induction phenomenon involving changing magnetic fields?",
+        "options": {
+            "a": "Newton's Third Law",
+            "b": "Faraday's Law",
+            "c": "Euler's Formula",
+            "d": "Maxwell's Equations"
+        },
+        "correct_answer": "Faraday's Law"
+    }
+]
+Time Taken: 81.31 seconds | Tokens Produced: 481 | Token Speed 5.916 tokens/sec
+⚠️ Error: Invalid JSON format...
+⚠️ Warning: Expected 12 MCQs but got 8...
+⚠️ Warning: Expected 12 MCQs but got 7...
+⚠️ Error: Invalid JSON format...
+⚠️ Warning: Expected 12 MCQs but got 8...
+⚠️ Error: Invalid JSON format...
+
+⚠️ Warning: After 10 attempts returning longest valid response.
+👏👏👏FINAL MCQ 👏👏👏
+[
+   {
+      "q_no": 1,
+      "question": "Which law states that the current flowing through a conductor is directly proportional to the voltage across its ends?",
+      "options": {
+         "a": "Ohm's Law",
+         "b": "Kirchhoff's Voltage Law",
+         "c": "Coulomb's Law",
+         "d": "Faraday's Law"
+      },
+      "correct_answer": "Ohm's Law"
+   },
+   {
+      "q_no": 2,
+      "question": "In a parallel circuit configuration, what happens to the total current supplied by the voltage source?",
+      "options": {
+         "a": "It splits and flows through each branch",
+         "b": "It remains unchanged",
+         "c": "It doubles",
+         "d": "It decreases exponentially"
+      },
+      "correct_answer": "It splits and flows through each branch"
+   },
+   {
+      "q_no": 3,
+      "question": "What is the formula used to calculate power (P) dissipated or consumed in an electrical circuit according to P = IV?",
+      "options": {
+         "a": "P = VI",
+         "b": "P = I2R",
+         "c": "P = IR",
+         "d": "P = V/I"
+      },
+      "correct_answer": "P = IR"
+   },
+   {
+      "q_no": 4,
+      "question": "What does 'R' in electrical circuits represent?",
+      "options": {
+         "a": "Resistance",
+         "b": "Resistance per unit length",
+         "c": "Reactance",
+         "d": "Impedance"
+      },
+      "correct_answer": "Resistance"
+   },
+   {
+      "q_no": 5,
+      "question": "Which Kirchhoff's Law applies to voltage drops around any closed loop of a circuit?",
+      "options": {
+         "a": "Kirchhoff's Current Law",
+         "b": "Kirchhoff's Voltage Law",
+         "c": "The Loop Rule",
+         "d": "The Node Rule"
+      },
+      "correct_answer": "Kirchhoff's Voltage Law"
+   },
+   {
+      "q_no": 6,
+      "question": "If resistors are connected in series, how does the total resistance compare to individual resistances?",
+      "options": {
+         "a": "Total resistance is less than each resistor",
+         "b": "Total resistance equals the sum of resistances",
+         "c": "Total resistance is greater than any single resistor",
+         "d": "Total resistance cancels individual resistances"
+      },
+      "correct_answer": "Total resistance equals the sum of resistances"
+   },
+   {
+      "q_no": 7,
+      "question": "What technique involves measuring voltage directly across specific points in a circuit?",
+      "options": {
+         "a": "Potential difference measurement",
+         "b": "Resistance measurement",
+         "c": "Current measurement",
+         "d": "Capacitance measurement"
+      },
+      "correct_answer": "Potential difference measurement"
+   },
+   {
+      "q_no": 8,
+      "question": "In an ideal scenario, how does the power factor affect the efficiency of power transmission through circuits?",
+      "options": {
+         "a": "Increases efficiency by minimizing reactive power",
+         "b": "Decreases efficiency regardless of reactive power",
+         "c": "Has no impact on efficiency",
+         "d": "Increases efficiency by maximizing reactive power"
+      },
+      "correct_answer": "Increases efficiency by minimizing reactive power"
+   }
+]
+TIME for MCQ: 81.545 | Token Speed: 4.586 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 421 | TOTAL Time: 495.60
+
+********************************************************************************
+********************************************************************************
+Syllabus NUMBER 6
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for CBSE Grade 9 Chemistry - Chemical Reactions - Redox Reactions:
+- Definition of oxidation and reduction reactions
+- Identifying oxidizing and reducing agents
+- Balancing redox equations using half-reactions method
+- Calculating electrode potentials and determining spontaneity
+- Reaction types: single replacement, combustion, disproportionation
+- Solubility rules and precipitation reactions basics
+TIME for SYLLABUS: 9.706 | Token Speed: 5.461 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 6...
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": "1",
+        "question": "Which process involves a substance gaining oxygen while another substance loses oxygen?",
+        "options": {
+            "a": "Displacement Reaction",
+            "b": "Combustion Reaction",
+            "c": "Oxidation-Reduction Reaction",
+            "d": "Dissolution Reaction"
+        },
+        "correct_answer": "Oxidation-Reduction Reaction"
+    },
+    {
+        "q_no": "2",
+        "question": "Identifying the substance oxidized in a redox reaction means determining which substance is:",
+        "options": {
+            "a": "Absorbing electrons",
+            "b": "Actively participating in electron donation",
+            "c": "Neutral and unchanging",
+            "d": "Containing oxygen atoms"
+        },
+        "correct_answer": "Actively participating in electron donation"
+    },
+    {
+        "q_no": "3",
+        "question": "In balancing redox equations using half-reactions, what method involves splitting reactions into oxidation and reduction parts?",
+        "options": {
+            "a": "Double Displacement",
+            "b": "Half-Equation Method",
+            "c": "Single Replacement",
+            "d": "Combination Reaction"
+        },
+        "correct_answer": "Half-Equation Method"
+    },
+    {
+        "q_no": "4",
+        "question": "To determine spontaneity in redox reactions based on electrode potentials, if \( E_{cell} \) is positive, the reaction is:",
+        "options": {
+            "a": "Non-spontaneous",
+            "b": "Partially spontaneous",
+            "c": "Spontaneous",
+            "d": "Irrelevant"
+        },
+        "correct_answer": "Spontaneous"
+    },
+    {
+        "q_no": "5",
+        "question": "Which type of redox reaction directly combines oxygen with a hydrocarbon?",
+        "options": {
+            "a": "Combination Reaction",
+            "b": "Decomposition Reaction",
+            "c": "Single Replacement Reaction",
+            "d": "Double Replacement Reaction"
+        },
+        "correct_answer": "Combustion Reaction"
+    },
+    {
+        "q_no": "6",
+        "question": "Which rule suggests that if an element loses electrons in a redox reaction, it acts as an oxidizing agent?",
+        "options": {
+            "a": "Element reacts with oxygen",
+            "b": "Decreases oxidation number",
+            "c": "Increases oxidation number",
+            "d": "Forms anions"
+        },
+        "correct_answer": "Increases oxidation number"
+    },
+    {
+        "q_no": "7",
+        "question": "Which principle guides predicting precipitation reactions where soluble salts react to form insoluble products?",
+        "options": {
+            "a": "Solubility rules for anions",
+            "b": "Ion concentration",
+            "c": "Reactivity series",
+            "d": "Oxidation states"
+        },
+        "correct_answer": "Solubility rules for anions"
+    },
+    {
+        "q_no": "8",
+        "question": "A reaction forming a salt from metal ions and ions from a non-metal typically involves:",
+        "options": {
+            "a": "Reduction",
+            "b": "Oxidation",
+            "c": "Formation of a covalent bond",
+            "d": "No change in oxidation states"
+        },
+        "correct_answer": "Formation of a covalent bond"
+    },
+    {
+        "q_no": "9",
+        "question": "If a reaction has no overall change in oxidation states of its reactants and products, it can be classified as:",
+        "options": {
+            "a": "Single Replacement Reaction",
+            "b": "Combustion Reaction",
+            "c": "Redox Reaction",
+            "d": "Isomerism"
+        },
+        "correct_answer": "Isomerism"
+    },
+    {
+        "q_no": "10",
+        "question": "In balancing redox equations, balancing hydrogen atoms typically involves adding electrons where hydrogen gas is oxidized.",
+        "options": {
+            "a": "True",
+            "b": "False",
+            "c": "Allows balancing carbon atoms",
+            "d": "Does not require balancing"
+        },
+        "correct_answer": "True"
+    },
+    {
+        "q_no": "11",
+        "question": "Which statement correctly characterizes a reaction involving a decrease in oxidation state across all reactants?",
+        "options": {
+            "a": "All reactants undergo oxidation",
+            "b": "Some reactants are oxidized",
+            "c": "Oxidation state changes occur in reactants",
+            "d": "None of reactants experience changes"
+        },
+        "correct_answer": "None of reactants experience changes"
+    },
+    {
+        "q_no": "12",
+        "question": "Which factor directly influences solubility rules applicable to anions in precipitation reactions?",
+        "options": {
+            "a": "Atomic radius",
+            "b": "Electronegativity",
+            "c": "Oxidation state",
+            "d": "Molecular weight"
+        },
+        "correct_answer": "Atomic radius"
+    }
+]
+Time Taken: 96.40 seconds | Tokens Produced: 496 | Token Speed 5.145 tokens/sec
+⚠️ Error: Invalid JSON format...
+
+Attempt 2 out of 6...

@@ -1,0 +1,52 @@
+********************************************************************************
+********************************************************************************
+Syllabus NUMBER 1
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Edexcel Grade 12 Mathematics - Calculus - Differentiation:
+- Definition of a derivative and its graphical interpretation
+- Rules for differentiating basic functions (power rule, product rule, quotient rule, chain rule)
+- Higher order derivatives and applications
+- Implicit differentiation
+- Applications of differentiation (optimization problems, related rates, elasticity)
+- Solving differential equations using differentiation
+
+Prompt: Syllabus for AP Biology, topic Genetics, subtopic Mendelian genetics
+Response:
+- Introduction to the principles of inheritance
+- Understanding dominant and recessive alleles
+- Punnett squares and probability in genetic crosses
+- Monohybrid and dihybrid inheritance patterns
+- Incomplete dominance and codominance
+- Sex determination and sex-linked traits
+
+Prompt: Syllabus for IB History, topic Cold War, subtopic Arms Race
+Response:
+- Origins of the arms race during the Cold War
+- The nuclear arms race between the United States and the Soviet Union
+- Missile technology and the space race
+- The role of deterrence theory in the arms race
+- Disarmament efforts and treaties during the Cold War
+- Impact of the arms race on global politics and economics
+
+Prompt: Syllabus for GCSE Chemistry, topic Acids and Bases, subtopic Equilibria
+Response:
+- Definition of acid and base
+- Determining pH values and pOH values
+- Calculating concentrations of acids and bases in solutions
+- Buffer solutions and their role in maintaining pH
+- Ionization of weak acids and bases
+- Le Chatelier's principle and its application to chemical equilibria
+
+Prompt: Syllabus for A-Level Physics, topic Waves, subtopic Interference
+Response:
+- Properties of waves (frequency, wavelength, speed)
+- Superposition principle and constructive and destructive interference
+- Diffraction and the double-slit experiment
+- Resonance and standing waves in strings and columns
+- Applications of wave interference (optical devices, acoustic devices)
+- Solving problems involving wave interference phenomena
+TIME for SYLLABUS: 82.852 | Token Speed: 3.548 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 60
+Attempt 1...

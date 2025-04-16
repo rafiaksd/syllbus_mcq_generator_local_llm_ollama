@@ -1,0 +1,1010 @@
+********************************************************************************
+Syllabus NUMBER 1
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Edexcel Grade 12 Mathematics - Calculus - Differentiation:
+- Introduction to differentiation as a limit operation
+- Understanding derivatives of basic functions
+- Basic differentiation rules and applications
+- Quotient rule and chain rule
+- Implicit differentiation
+- Optimization problems with functions
+- Integration by substitution method
+- Improper integrals involving fractions and series
+
+Do not deviate from this structure. Do not add any titles, headings, or explanations. END IT AFTER CREATING THE SYLLABUS
+TIME for SYLLABUS: 5.392 | ⚡⚡⚡ Token Speed: 14.095 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 16
+Attempt 1 out of 5... qwen2.5:0.5b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the definition of differentiation as a limit operation?",
+        "options": [
+            "A) A method to find the derivative by applying calculus rules",
+            "B) B) An equation that expresses the relationship between two variables",
+            "C) C) A numerical calculation done through a formula",
+            "D) D) The process of finding the slope of a curve"
+        ],
+        "correct_answer": "A) A method to find the derivative by applying calculus rules"
+    },
+    {
+        "q_no": 2,
+        "question": "What is the basic differentiation rule for functions that are one-to-one?",
+        "options": [
+            "B) B) An equation related to the difference quotient",
+            "C) C) A formula involving the limit of a sequence",
+            "D) D) The process of finding the slope of a curve"
+        ],
+        "correct_answer": "C) A formula involving the limit of a sequence"
+    },
+    {
+        "q_no": 3,
+        "question": "What is the purpose of the first derivative test?",
+        "options": [
+            "B) B) To determine if the function has an inflection point",
+            "C) C) To find the equation of a secant line",
+            "D) D) To evaluate the integral of a function",
+            "E) E) To calculate the area under a curve"
+        ],
+        "correct_answer": "B) To determine if the function has an inflection point"
+    },
+    {
+        "q_no": 4,
+        "question": "Which of the following statements about derivatives is true?",
+        "options": [
+            "A) A) The derivative at a point represents the instantaneous rate of change",
+            "B) B) An incorrect statement should be avoided in calculus",
+            "C) C) D) None of the above"
+        ],
+        "correct_answer": "A) The derivative at a point represents the instantaneous rate of change"
+    },
+    {
+        "q_no": 5,
+        "question": "What is the chain rule for functions that are composed?",
+        "options": [
+            "B) B) An equation related to the product and quotient rules",
+            "C) C) A formula involving the limit of a sequence",
+            "D) D) The process of finding the slope of a curve"
+        ],
+        "correct_answer": "B) An equation related to the product and quotient rules"
+    }
+]
+Time Taken: 13.78 seconds | Tokens Produced: 323 | ⚡⚡⚡ Token Speed 23.438 tokens/sec
+⚠️ Warning: Expected 16 MCQs but got 5...
+
+Attempt 2 out of 5... qwen2.5:0.5b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "Why is cellular respiration important for living organisms?",
+        "options": [
+            "It produces glucose for energy storage",
+            "It converts food into usable energy",
+            "It allows movement in cells",
+            "It helps absorb sunlight"
+        ],
+        "correct_answer": "It converts food into usable energy"
+    },
+    {
+        "q_no": 2,
+        "question": "What is the definition of cellular respiration?",
+        "options": [
+            "The breakdown of glucose to release energy",
+            "The absorption of oxygen in the lungs",
+            "The creation of new cells from old ones",
+            "The conversion of proteins into glucose"
+        ],
+        "correct_answer": "The breakdown of glucose to release energy"
+    },
+    {
+        "q_no": 3,
+        "question": "What is the end product of glycolysis from one glucose molecule?",
+        "options": [
+            "Two ethanol molecules",
+            "Two pyruvate molecules",
+            "Four ATP molecules",
+            "One glucose molecule"
+        ],
+        "correct_answer": "Two pyruvate molecules"
+    },
+    {
+        "q_no": 4,
+        "question": "Where does glycolysis occur in the cell?",
+        "options": [
+            "In the mitochondria",
+            "In the nucleus",
+            "In the cytoplasm",
+            "In the endoplasmic reticulum"
+        ],
+        "correct_answer": "In the cytoplasm"
+    }
+]
+Time Taken: 6.85 seconds | Tokens Produced: 164 | ⚡⚡⚡ Token Speed 23.941 tokens/sec
+⚠️ Warning: Expected 16 MCQs but got 5...
+⚠️ Warning: Expected 16 MCQs but got 4...
+
+Attempt 3 out of 5... qwen2.5:0.5b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "Why is cellular respiration important for living organisms?",
+        "options": [
+            "It produces glucose for energy storage",
+            "It converts food into usable energy",
+            "It allows movement in cells",
+            "It helps absorb sunlight"
+        ],
+        "correct_answer": "It converts food into usable energy"
+    },
+    {
+        "q_no": 2,
+        "question": "What is the definition of cellular respiration?",
+        "options": [
+            "The breakdown of glucose to release energy",
+            "The absorption of oxygen in the lungs",
+            "The creation of new cells from old ones",
+            "The conversion of proteins into glucose"
+        ],
+        "correct_answer": "The breakdown of glucose to release energy"
+    },
+    {
+        "q_no": 3,
+        "question": "What is the end product of glycolysis from one glucose molecule?",
+        "options": [
+            "Two ethanol molecules",
+            "Two pyruvate molecules",
+            "Four ATP molecules",
+            "One glucose molecule"
+        ],
+        "correct_answer": "Two pyruvate molecules"
+    },
+    {
+        "q_no": 4,
+        "question": "Where does glycolysis occur in the cell?",
+        "options": [
+            "In the mitochondria",
+            "In the nucleus",
+            "In the cytoplasm",
+            "In the endoplasmic reticulum"
+        ],
+        "correct_answer": "In the cytoplasm"
+    }
+]
+Time Taken: 6.92 seconds | Tokens Produced: 166 | ⚡⚡⚡ Token Speed 23.972 tokens/sec
+⚠️ Warning: Expected 16 MCQs but got 5...
+⚠️ Warning: Expected 16 MCQs but got 4...
+⚠️ Warning: Expected 16 MCQs but got 4...
+
+Attempt 4 out of 5... qwen2.5:0.5b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 5,
+        "question": "Why is differentiation a fundamental concept in mathematics?",
+        "options": [
+            "Because it enables us to understand rates of change and slopes",
+            "Because it allows us to compute the area under a curve",
+            "Because it helps us find maxima and minima in functions",
+            "Because it simplifies complex expressions"
+        ],
+        "correct_answer": "Because it enables us to understand rates of change and slopes"
+    },
+    {
+        "q_no": 6,
+        "question": "What is the formula for the derivative of \(x^3\)?",
+        "options": [
+            "3x^2 + 1",
+            "6x^2",
+            "9x^2",
+            "4x"
+        ],
+        "correct_answer": "6x^2"
+    },
+    {
+        "q_no": 7,
+        "question": "What is the limit of \(\frac{x^3 - 2}{x}\) as \(x\) approaches infinity?",
+        "options": [
+            "5",
+            "-1",
+            "0",
+            "9"
+        ],
+        "correct_answer": "5"
+    }
+]
+Time Taken: 5.92 seconds | Tokens Produced: 120 | ⚡⚡⚡ Token Speed 20.270 tokens/sec
+⚠️ Warning: Expected 16 MCQs but got 5...
+⚠️ Warning: Expected 16 MCQs but got 4...
+⚠️ Warning: Expected 16 MCQs but got 4...
+⚠️ Error: Invalid JSON format...
+
+Attempt 5 out of 5... qwen2.5:0.5b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the definition of the derivative?",
+        "options": [
+            "It measures the rate at which a function grows or decays.",
+            "It represents the slope of a curve at any point."
+            "It is defined as the tangent line to the curve at a specific point.",
+            "It measures the rate at which one variable changes with respect to another."
+        ],
+        "correct_answer": "It measures the rate at which a function grows or decays."
+    },
+    {
+        "q_no": 2,
+        "question": "What is the limit of f(x) as x approaches a?",
+        "options": [
+            "The value of f(x) when x = a",
+            "The quotient of the numerator and denominator of f(x)",
+            "The sum of two functions f(a) + g(a)",
+            "None of the above"
+        ],
+        "correct_answer": "The limit of f(x) as x approaches a."
+    },
+    {
+        "q_no": 3,
+        "question": "What is the derivative of \( f(x) = \sqrt{x} \)?",
+        "options": [
+            "1/x",
+            "1/(2\sqrt{x})",
+            "2/√x",
+            "4/√x"
+        ],
+        "correct_answer": "1/(2\sqrt{x})"
+    },
+    {
+        "q_no": 4,
+        "question": "What is the value of f'(0) for \( f(x) = \sin x \)?",
+        "options": [
+            "π/2",
+            "0",
+            "f(0)",
+            "1"
+        ],
+        "correct_answer": "0"
+    }
+]
+Time Taken: 8.53 seconds | Tokens Produced: 186 | ⚡⚡⚡ Token Speed 21.813 tokens/sec
+⚠️ Warning: Expected 16 MCQs but got 5...
+⚠️ Warning: Expected 16 MCQs but got 4...
+⚠️ Warning: Expected 16 MCQs but got 4...
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+
+⚠️ Warning: After 5 attempts returning longest valid response.
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   {
+      "q_no": 1,
+      "question": "What is the definition of differentiation as a limit operation?",
+      "options": [
+         "A) A method to find the derivative by applying calculus rules",
+         "B) B) An equation that expresses the relationship between two variables",
+         "C) C) A numerical calculation done through a formula",
+         "D) D) The process of finding the slope of a curve"
+      ],
+      "correct_answer": "A) A method to find the derivative by applying calculus rules"
+   },
+   {
+      "q_no": 2,
+      "question": "What is the basic differentiation rule for functions that are one-to-one?",
+      "options": [
+         "B) B) An equation related to the difference quotient",
+         "C) C) A formula involving the limit of a sequence",
+         "D) D) The process of finding the slope of a curve"
+      ],
+      "correct_answer": "C) A formula involving the limit of a sequence"
+   },
+   {
+      "q_no": 3,
+      "question": "What is the purpose of the first derivative test?",
+      "options": [
+         "B) B) To determine if the function has an inflection point",
+         "C) C) To find the equation of a secant line",
+         "D) D) To evaluate the integral of a function",
+         "E) E) To calculate the area under a curve"
+      ],
+      "correct_answer": "B) To determine if the function has an inflection point"
+   },
+   {
+      "q_no": 4,
+      "question": "Which of the following statements about derivatives is true?",
+      "options": [
+         "A) A) The derivative at a point represents the instantaneous rate of change",
+         "B) B) An incorrect statement should be avoided in calculus",
+         "C) C) D) None of the above"
+      ],
+      "correct_answer": "A) The derivative at a point represents the instantaneous rate of change"
+   },
+   {
+      "q_no": 5,
+      "question": "What is the chain rule for functions that are composed?",
+      "options": [
+         "B) B) An equation related to the product and quotient rules",
+         "C) C) A formula involving the limit of a sequence",
+         "D) D) The process of finding the slope of a curve"
+      ],
+      "correct_answer": "B) An equation related to the product and quotient rules"
+   }
+]
+TIME for MCQ: 13.781 | ⚡⚡⚡ Token Speed: 23.439 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 399 | TOTAL Time: 47.42
+
+********************************************************************************
+Syllabus NUMBER 2
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Cambridge Grade 10 Physics - Waves - Electromagnetic Spectrum:
+
+- Introduction to waves and their forms
+- Understanding electromagnetic spectrum
+- Defining radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, and gamma rays
+- Analyzing wave properties in different electromagnetic bands
+- Solving problems related to electromagnetic waves and their applications
+TIME for SYLLABUS: 3.85 | ⚡⚡⚡ Token Speed: 13.765 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 10
+Attempt 1 out of 5... qwen2.5:0.5b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What are the three main types of waves?",
+        "options": [
+            "a) Sound, light, radio wave",
+            "b) Ultraviolet, X-rays, infrared",
+            "c) Wave, electromagnetic spectrum",
+            "d) Particle, electromagnetic, wave"
+        ],
+        "correct_answer": "Wave, electromagnetic spectrum"
+    },
+    {
+        "q_no": 2,
+        "question": "Which band of the electromagnetic spectrum is visible light?",
+        "options": [
+            "a) Ultraviolet",
+            "b) X-rays",
+            "c) Radio waves",
+            "d) Microwaves"
+        ],
+        "correct_answer": "Microwaves"
+    },
+    {
+        "q_no": 3,
+        "question": "What is the energy of electromagnetic radiation?",
+        "options": [
+            "a) Speed of light",
+            "b) Distance from Earth",
+            "c) Mass of an electron",
+            "d) Energy, frequency, and wavelength"
+        ],
+        "correct_answer": "Energy, frequency, and wavelength"
+    },
+    {
+        "q_no": 4,
+        "question": "What is the formula for calculating intensity?",
+        "options": [
+            "a) Intensity = 1/3 * Mass of particle",
+            "b) Intensity = Speed of wave * Frequency",
+            "c) Intensity = Amplitude^2",
+            "d) Intensity = Momentum"
+        ],
+        "correct_answer": "Intensity = Amplitude^2"
+    }
+]
+Time Taken: 10.17 seconds | Tokens Produced: 148 | ⚡⚡⚡ Token Speed 14.557 tokens/sec
+⚠️ Warning: Expected 10 MCQs but got 4...
+
+Attempt 2 out of 5... qwen2.5:0.5b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the wavelength of an electromagnetic wave?",
+        "options": [
+            "2 meters",
+            "3.59 centimeters",
+            "0.76 millimeters",
+            "4 nanometers"
+        ],
+        "correct_answer": "4 nanometers"
+    },
+    {
+        "q_no": 2,
+        "question": "What is the speed of light in a vacuum?",
+        "options": [
+            "3 x 10^8 meters per second",
+            "7.98 kilometers per hour",
+            "186,000 miles per second",
+            "54,100 kilometers per hour"
+        ],
+        "correct_answer": "3 x 10^8 meters per second"
+    },
+    {
+        "q_no": 3,
+        "question": "What is the formula for calculating wavelength?",
+        "options": [
+            "λ = c / v",
+            "λ = d/v",
+            "d = λv",
+            "v = λd"
+        ],
+        "correct_answer": "c / v"
+    },
+    {
+        "q_no": 4,
+        "question": "What is the formula for calculating speed in a vacuum?",
+        "options": [
+            "s = vt",
+            "s = c/v",
+            "v = c/t",
+            "t = v/c"
+        ],
+        "correct_answer": "c/v"
+    },
+    {
+        "q_no": 5,
+        "question": "What is the frequency of an electromagnetic wave?",
+        "options": [
+            "3.59 x 10^8 cycles per second",
+            "4.76 x 10^8 Hz",
+            "2.57 x 10^9 cycles per second",
+            "7.98 x 10^9 cycles per second"
+        ],
+        "correct_answer": "4.76 x 10^8 Hz"
+    }
+]
+Time Taken: 8.64 seconds | Tokens Produced: 181 | ⚡⚡⚡ Token Speed 20.939 tokens/sec
+⚠️ Warning: Expected 10 MCQs but got 4...
+⚠️ Warning: Expected 10 MCQs but got 5...
+
+Attempt 3 out of 5... qwen2.5:0.5b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 5,
+        "question": "What is the meaning of 'EMF' in the electromagnetic spectrum?",
+        "options": {
+            "a": "Electromagnetic force",
+            "b": "Electromagnetic energy",
+            "c": "Electromagnetic potential",
+            "d": "Electromagnetism"
+        },
+        "correct_answer": "Electromagnetic energy"
+    },
+    {
+        "q_no": 6,
+        "question": "What is the formula for calculating electric field strength?",
+        "options": {
+            "a": "E = K * Q / t",
+            "b": "E = K * P / t",
+            "c": "E = K * I / t",
+            "d": "E = K * A / t"
+        },
+        "correct_answer": "E = K * I / t"
+    }
+]
+Time Taken: 4.99 seconds | Tokens Produced: 93 | ⚡⚡⚡ Token Speed 18.637 tokens/sec
+⚠️ Warning: Expected 10 MCQs but got 4...
+⚠️ Warning: Expected 10 MCQs but got 5...
+⚠️ Warning: Expected 10 MCQs but got 2...
+
+Attempt 4 out of 5... qwen2.5:0.5b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "Why is cellular respiration important for living organisms?",
+        "options": [
+            "It produces glucose for energy storage",
+            "It converts food into usable energy",
+            "It allows movement in cells",
+            "It helps absorb sunlight"
+        ],
+        "correct_answer": "It converts food into usable energy"
+    },
+    {
+        "q_no": 2,
+        "question": "What is the definition of cellular respiration?",
+        "options": [
+            "The breakdown of glucose to release energy",
+            "The absorption of oxygen in the lungs",
+            "The creation of new cells from old ones",
+            "The conversion of proteins into glucose"
+        ],
+        "correct_answer": "The breakdown of glucose to release energy"
+    },
+    {
+        "q_no": 3,
+        "question": "What is the end product of glycolysis from one glucose molecule?",
+        "options": [
+            "Two ethanol molecules",
+            "Two pyruvate molecules",
+            "Four ATP molecules",
+            "One glucose molecule"
+        ],
+        "correct_answer": "Two pyruvate molecules"
+    },
+    {
+        "q_no": 4,
+        "question": "Where does glycolysis occur in the cell?",
+        "options": [
+            "In the mitochondria",
+            "In the nucleus",
+            "In the cytoplasm",
+            "In the endoplasmic reticulum"
+        ],
+        "correct_answer": "In the cytoplasm"
+    }
+]
+Time Taken: 7.06 seconds | Tokens Produced: 166 | ⚡⚡⚡ Token Speed 23.501 tokens/sec
+⚠️ Warning: Expected 10 MCQs but got 4...
+⚠️ Warning: Expected 10 MCQs but got 5...
+⚠️ Warning: Expected 10 MCQs but got 2...
+⚠️ Warning: Expected 10 MCQs but got 4...
+
+Attempt 5 out of 5... qwen2.5:0.5b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "Why is cellular respiration important for living organisms?",
+        "options": [
+            "It produces glucose for energy storage",
+            "It converts food into usable energy",
+            "It allows movement in cells",
+            "It helps absorb sunlight"
+        ],
+        "correct_answer": "It converts food into usable energy"
+    },
+    {
+        "q_no": 2,
+        "question": "What is the definition of cellular respiration?",
+        "options": [
+            "The breakdown of glucose to release energy",
+            "The absorption of oxygen in the lungs",
+            "The creation of new cells from old ones",
+            "The conversion of proteins into glucose"
+        ],
+        "correct_answer": "The breakdown of glucose to release energy"
+    },
+    {
+        "q_no": 3,
+        "question": "What is the end product of glycolysis from one glucose molecule?",
+        "options": [
+            "Two ethanol molecules",
+            "Two pyruvate molecules",
+            "Four ATP molecules",
+            "One glucose molecule"
+        ],
+        "correct_answer": "Two pyruvate molecules"
+    },
+    {
+        "q_no": 4,
+        "question": "Where does glycolysis occur in the cell?",
+        "options": [
+            "In the mitochondria",
+            "In the nucleus",
+            "In the cytoplasm",
+            "In the endoplasmic reticulum"
+        ],
+        "correct_answer": "In the cytoplasm"
+    }
+]
+Time Taken: 7.07 seconds | Tokens Produced: 164 | ⚡⚡⚡ Token Speed 23.186 tokens/sec
+⚠️ Warning: Expected 10 MCQs but got 4...
+⚠️ Warning: Expected 10 MCQs but got 5...
+⚠️ Warning: Expected 10 MCQs but got 2...
+⚠️ Warning: Expected 10 MCQs but got 4...
+⚠️ Warning: Expected 10 MCQs but got 4...
+
+⚠️ Warning: After 5 attempts returning longest valid response.
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   {
+      "q_no": 1,
+      "question": "What is the wavelength of an electromagnetic wave?",
+      "options": [
+         "2 meters",
+         "3.59 centimeters",
+         "0.76 millimeters",
+         "4 nanometers"
+      ],
+      "correct_answer": "4 nanometers"
+   },
+   {
+      "q_no": 2,
+      "question": "What is the speed of light in a vacuum?",
+      "options": [
+         "3 x 10^8 meters per second",
+         "7.98 kilometers per hour",
+         "186,000 miles per second",
+         "54,100 kilometers per hour"
+      ],
+      "correct_answer": "3 x 10^8 meters per second"
+   },
+   {
+      "q_no": 3,
+      "question": "What is the formula for calculating wavelength?",
+      "options": [
+         "\u03bb = c / v",
+         "\u03bb = d/v",
+         "d = \u03bbv",
+         "v = \u03bbd"
+      ],
+      "correct_answer": "c / v"
+   },
+   {
+      "q_no": 4,
+      "question": "What is the formula for calculating speed in a vacuum?",
+      "options": [
+         "s = vt",
+         "s = c/v",
+         "v = c/t",
+         "t = v/c"
+      ],
+      "correct_answer": "c/v"
+   },
+   {
+      "q_no": 5,
+      "question": "What is the frequency of an electromagnetic wave?",
+      "options": [
+         "3.59 x 10^8 cycles per second",
+         "4.76 x 10^8 Hz",
+         "2.57 x 10^9 cycles per second",
+         "7.98 x 10^9 cycles per second"
+      ],
+      "correct_answer": "4.76 x 10^8 Hz"
+   }
+]
+TIME for MCQ: 8.644 | ⚡⚡⚡ Token Speed: 20.94 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 234 | TOTAL Time: 41.81
+
+********************************************************************************
+Syllabus NUMBER 3
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Cambridge Grade 5 Mathematics - Organic Chemistry - Alcohols, Phenols, and Ethers:
+- Introduction to organic chemistry as a field of study
+- Properties of alcohols, phenols, and ethers
+- Reactivity patterns with respect to their structure
+- Bonding in esters, ethers, and amides
+- Classification of alcohols, phenols, and ethers
+- Solubility and reaction mechanisms
+- Practical applications in various fields
+TIME for SYLLABUS: 3.935 | ⚡⚡⚡ Token Speed: 16.264 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 14
+Attempt 1 out of 5... qwen2.5:0.5b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the definition of an organic chemical?",
+        "options": {
+            "a": "A material that has a carbon skeleton",
+            "b": "A material that contains oxygen atoms",
+            "c": "A material with a carbon-oxygen-halogen bond",
+            "d": "A chemical element made up of carbon and hydrogen"
+        },
+        "correct_answer": "A material that has a carbon skeleton"
+    },
+    {
+        "q_no": 2,
+        "question": "What is the first step in organic chemistry?",
+        "options": {
+            "a": "Formation of functional groups",
+            "b": "Chemical synthesis",
+            "c": "Catalytic hydrogenation",
+            "d": "Reaction with water"
+        },
+        "correct_answer": "Formation of functional groups"
+    },
+    {
+        "q_no": 3,
+        "question": "What is an alcohol?",
+        "options": {
+            "a": "A substance that contains a hydroxyl group (-OH)",
+            "b": "An organic compound with a carbon-hydrogen double bond",
+            "c": "A substance that contains a methyl group (-CH3)",
+            "d": "An aldehyde or ketone"
+        },
+        "correct_answer": "An organic compound with a carbon-hydrogen double bond"
+    },
+    {
+        "q_no": 4,
+        "question": "Which of the following correctly describes an alcohol?",
+        "options": {
+            "a": "A substance that contains only hydroxyl groups (-OH)",
+            "b": "An organic compound with a carbon-hydrogen double bond",
+            "c": "A substance that contains only carbon-oxygen bonds",
+            "d": "A substance that contains only hydrogen atoms"
+        },
+        "correct_answer": "An organic compound with a carbon-hydrogen double bond"
+    }
+]
+Time Taken: 11.80 seconds | Tokens Produced: 206 | ⚡⚡⚡ Token Speed 17.458 tokens/sec
+⚠️ Warning: Expected 14 MCQs but got 4...
+
+Attempt 2 out of 5... qwen2.5:0.5b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 5,
+        "question": "What is the first step of glycolysis?",
+        "options": {
+            "a": "The breakdown of glucose to release energy",
+            "b": "The conversion of pyruvate into acetyl-CoA",
+            "c": "The splitting of water molecules",
+            "d": "The production of ATP"
+        },
+        "correct_answer": "The breakdown of glucose to release energy"
+    },
+    {
+        "q_no": 6,
+        "question": "Where does glycolysis take place in the cell?",
+        "options": {
+            "a": "In the mitochondria",
+            "b": "In the nucleus",
+            "c": "In the cytoplasm",
+            "d": "In the endoplasmic reticulum"
+        },
+        "correct_answer": "In the cytoplasm"
+    }
+]
+Time Taken: 5.09 seconds | Tokens Produced: 90 | ⚡⚡⚡ Token Speed 17.665 tokens/sec
+⚠️ Warning: Expected 14 MCQs but got 4...
+⚠️ Warning: Expected 14 MCQs but got 2...
+
+Attempt 3 out of 5... qwen2.5:0.5b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 5,
+        "question": "The correct answer is (c): It allows movement in cells.",
+        "options": ["a", "b", "d", "c"],
+        "correct_answer": "c"
+    },
+    {
+        "q_no": 6,
+        "question": "Define cellular respiration and give an example.",
+        "options": {
+            "a": "It breaks down food into glucose for energy, but it also stores the energy in ATP.",
+            "b": "It converts food into usable energy without storing it.",
+            "c": "The complete breakdown of food produces two different substances: carbon dioxide and water, one of which is oxygen.",
+            "d": "All of the above"
+        },
+        "correct_answer": "c"
+    }
+]
+Time Taken: 4.74 seconds | Tokens Produced: 94 | ⚡⚡⚡ Token Speed 19.817 tokens/sec
+⚠️ Warning: Expected 14 MCQs but got 4...
+⚠️ Warning: Expected 14 MCQs but got 2...
+⚠️ Warning: Expected 14 MCQs but got 2...
+
+Attempt 4 out of 5... qwen2.5:0.5b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 5,
+        "question": "What is the definition of alcohols?",
+        "options": ["A. Alcohols are a group of organic compounds with a hydroxyl (-OH) functional group", "B. Alcohols are a group of organic compounds with an -OH functional group", "C. Alcohols are a group of organic compounds with both a hydroxyl (-OH) and an aldehyde (-CHO) functional group", "D. Alcohols are a group of organic compounds with a methyl (-CH3) functional group"],
+        "correct_answer": "A. Alcohols are a group of organic compounds with a hydroxyl (-OH) functional group"
+    },
+    {
+        "q_no": 6,
+        "question": "What is the difference between alcohols, phenols, and ethers?",
+        "options": ["B. Phenols are a type of aldehyde, while alcohols and ethers are not"],
+        "correct_answer": "D. Alcohols, phenols, and ethers are all formed by reacting an alcohol with a halogen (Br, Cl, I) or a halogenated hydrocarbon."
+    },
+    {
+        "q_no": 7,
+        "question": "What is the formula for ethanol?",
+        "options": ["A. C2H5OH"],
+        "correct_answer": "C. C2H6O",
+        "answer_example": "The formula for ethanol is C2H6O."
+    }
+]
+Time Taken: 7.27 seconds | Tokens Produced: 166 | ⚡⚡⚡ Token Speed 22.846 tokens/sec
+⚠️ Warning: Expected 14 MCQs but got 4...
+⚠️ Warning: Expected 14 MCQs but got 2...
+⚠️ Warning: Expected 14 MCQs but got 2...
+⚠️ Warning: Expected 14 MCQs but got 3...
+
+Attempt 5 out of 5... qwen2.5:0.5b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "Why is cellular respiration important for living organisms?",
+        "options": [
+            "It produces glucose for energy storage",
+            "It converts food into usable energy",
+            "It allows movement in cells",
+            "It helps absorb sunlight"
+        ],
+        "correct_answer": "It converts food into usable energy"
+    },
+    {
+        "q_no": 2,
+        "question": "What is the definition of cellular respiration?",
+        "options": [
+            "The breakdown of glucose to release energy",
+            "The absorption of oxygen in the lungs",
+            "The creation of new cells from old ones",
+            "The conversion of proteins into glucose"
+        ],
+        "correct_answer": "The breakdown of glucose to release energy"
+    },
+    {
+        "q_no": 3,
+        "question": "What is the end product of glycolysis from one glucose molecule?",
+        "options": [
+            "Two ethanol molecules",
+            "Two pyruvate molecules",
+            "Four ATP molecules",
+            "One glucose molecule"
+        ],
+        "correct_answer": "Two pyruvate molecules"
+    },
+    {
+        "q_no": 4,
+        "question": "Where does glycolysis occur in the cell?",
+        "options": [
+            "In the mitochondria",
+            "In the nucleus",
+            "In the cytoplasm",
+            "In the endoplasmic reticulum"
+        ],
+        "correct_answer": "In the cytoplasm"
+    }
+]
+Time Taken: 7.66 seconds | Tokens Produced: 166 | ⚡⚡⚡ Token Speed 21.662 tokens/sec
+⚠️ Warning: Expected 14 MCQs but got 4...
+⚠️ Warning: Expected 14 MCQs but got 2...
+⚠️ Warning: Expected 14 MCQs but got 2...
+⚠️ Warning: Expected 14 MCQs but got 3...
+⚠️ Warning: Expected 14 MCQs but got 4...
+
+⚠️ Warning: After 5 attempts returning longest valid response.
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   {
+      "q_no": 1,
+      "question": "What is the definition of an organic chemical?",
+      "options": {
+         "a": "A material that has a carbon skeleton",
+         "b": "A material that contains oxygen atoms",
+         "c": "A material with a carbon-oxygen-halogen bond",
+         "d": "A chemical element made up of carbon and hydrogen"
+      },
+      "correct_answer": "A material that has a carbon skeleton"
+   },
+   {
+      "q_no": 2,
+      "question": "What is the first step in organic chemistry?",
+      "options": {
+         "a": "Formation of functional groups",
+         "b": "Chemical synthesis",
+         "c": "Catalytic hydrogenation",
+         "d": "Reaction with water"
+      },
+      "correct_answer": "Formation of functional groups"
+   },
+   {
+      "q_no": 3,
+      "question": "What is an alcohol?",
+      "options": {
+         "a": "A substance that contains a hydroxyl group (-OH)",
+         "b": "An organic compound with a carbon-hydrogen double bond",
+         "c": "A substance that contains a methyl group (-CH3)",
+         "d": "An aldehyde or ketone"
+      },
+      "correct_answer": "An organic compound with a carbon-hydrogen double bond"
+   },
+   {
+      "q_no": 4,
+      "question": "Which of the following correctly describes an alcohol?",
+      "options": {
+         "a": "A substance that contains only hydroxyl groups (-OH)",
+         "b": "An organic compound with a carbon-hydrogen double bond",
+         "c": "A substance that contains only carbon-oxygen bonds",
+         "d": "A substance that contains only hydrogen atoms"
+      },
+      "correct_answer": "An organic compound with a carbon-hydrogen double bond"
+   }
+]
+TIME for MCQ: 11.799 | ⚡⚡⚡ Token Speed: 17.459 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 270 | TOTAL Time: 40.53
+
+********************************************************************************
+Syllabus NUMBER 4
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Cambridge Grade 5 Mathematics - Genetics - Mendelian Genetics:
+
+- Introduction to genetic concepts and inheritance patterns
+- Identifying alleles and their roles in traits
+- Punnett squares for simple Mendelian cross examples
+- Understanding gene combinations (binomial notation)
+- Evaluating pedigree analysis results
+- Applying Mendel's laws of inheritance to real-world scenarios
+- Developing problem-solving skills through practical case studies
+TIME for SYLLABUS: 4.942 | ⚡⚡⚡ Token Speed: 12.749 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 14
+Attempt 1 out of 5... qwen2.5:0.5b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the definition of hereditary traits?",
+        "options": [
+            "Traits that can be observed in the observable world",
+            "Genes are not inherited, they're always present in a cell.",
+            "The physical characteristics that an organism has",
+            "Physical properties that determine how organisms interact with their environment"
+        ],
+        "correct_answer": "Traits that can be observed in the observable world"
+    },
+    {
+        "q_no": 2,
+        "question": "What is the correct way to write a gene?",
+        "options": [
+            "a) A letter",
+            "b) B letters",
+            "c) C letters",
+            "d) D letters"
+        ],
+        "correct_answer": "c) C letters"
+    },
+    {
+        "q_no": 3,
+        "question": "What does the Punnett square represent?",
+        "options": [
+            "A diagram showing all possible combinations of offspring from a cross",
+            "A chart displaying the genetic makeup of an organism",
+            "A list of genes and their respective alleles in a person's DNA",
+            "An example of how to draw a pedigree tree"
+        ],
+        "correct_answer": "A diagram showing all possible combinations of offspring from a cross"
+    },
+    {
+        "q_no": 4,
+        "question": "What is the purpose of Mendel's laws?",
+        "options": [
+            "To determine the genetic makeup of an organism",
+            "To explain how organisms produce offspring",
+            "To describe the physical characteristics of all living things",
+            "To predict the outcomes of future events"
+        ],
+        "correct_answer": "To explain how organisms produce offspring"
+    }
+]
+Time Taken: 12.14 seconds | Tokens Produced: 217 | ⚡⚡⚡ Token Speed 17.881 tokens/sec
+⚠️ Warning: Expected 14 MCQs but got 4...
+
+Attempt 2 out of 5... qwen2.5:0.5b

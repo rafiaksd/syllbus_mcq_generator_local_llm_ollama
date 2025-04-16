@@ -1,0 +1,1248 @@
+********************************************************************************
+
+Syllabus NUMBER 1 of 4 --- | qwen2.5:0.5b
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+**Syllabus for IB Grade 9 Mathematics - Trigonometry**
+
+- **Introduction to trigonometric ratios**
+- **Understanding basic trigonometric functions**
+- **Sine and cosine of special angles (e.g., 30°, 45°)**
+- **Pythagorean identity and Pythagorean theorem**
+- **Trigonometric identities: sine rule, cosine rule**
+- **Graphs and applications of trigonometry in real-life scenarios**
+- **Solving triangles using trigonometric ratios**
+
+**END IT AFTER CREATING THE SYLLABUS**
+
+Please note that the content provided here is just an outline. Detailed syllabuses can vary based on a specific curriculum or teacher's preferences, but the structure above should be applicable to standard IB (International Baccalaureate) grades 9 and 10 mathematics topics.
+TIME for SYLLABUS: 7.845 | ⚡⚡⚡ Token Speed: 13.13 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 14
+Attempt 1/4 for Syllabus 1 of 4... | qwen2.5:0.5b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "Which of the following trigonometric ratios is used to find an unknown side in a right-angled triangle?", "options": "Sine, cosine, tangent, or cotangent?", "correct_answer": "Sine"},
+    {"q_no": "2", "question": "What are the three primary trigonometric functions of sine (sin), cosine (cos), and tangent (tan)?", "options": "Sine, cosine, and cotangent", "correct_answer": "Sine and cosine"},
+    {"q_no": "3", "question": "What is the formula for finding the area of a triangle when two sides and the included angle are known?", "options": "Area = 1/2 * base * height", "correct_answer": "Area = 0.5 * a * b * sin C"},
+    {"q_no": "4", "question": "What is the sum of angles in a triangle?", "options": "360°, 90°, or π radians", "correct_answer": "180°"},
+    {"q_no": "5", "question": "What are the different types of triangles? ", "options": "Equilateral, isosceles, right-angled, and scalene triangles.", "correct_answer": "Scalene, Isosceles, Right-Angled, and Equilateral"},
+    {"q_no": "6", "question": "What are the six trigonometric functions used in geometry?", "options": "Sine, cosine, tangent, sine rule, cosine rule, and area formula.", "correct_answer": "Sine, cosine, tangent, sine rule, cosine rule, and Pythagorean theorem"},
+    {"q_no": "7", "question": "What is the sum of angles in a quadrilateral?", "options": "360° or 480°", "correct_answer": "180°"},
+    {"q_no": "8", "question": "What are the two main trigonometric functions used for finding distances? ", "options": "Sine and cosine.", "correct_answer": "Trigonometry"},
+    {"q_no": "9", "question": "What is the formula to find the length of a side in a right-angled triangle using sine, cosine, or tangent?", "options": "a² + b² = c², bc/c, and sin²A + cos²A = 1.", "correct_answer": "bc/c"},
+    {"q_no": "10", "question": "What are the three main trigonometric functions used in solving triangles? ", "options": "Sine, cosine, tangent, sine rule, cosine rule, and area formula.", "correct_answer": "Sine, cosine, tangent, sine rule, cosine rule, and Pythagorean theorem"},
+    {"q_no": "11", "question": "What is the formula to find the volume of a rectangular prism?", "options": "Length × Width × Height", "correct_answer": "V = lWh"},
+    {"q_no": "12", "question": "What are the six trigonometric functions used in geometry?", "options": "Sine, cosine, tangent, sine rule, cosine rule, and area formula.", "correct_answer": "Sine, cosine, tangent, sine rule, cosine rule, and Pythagorean theorem"},
+    {"q_no": "13", "question": "What is the sum of angles in a pentagon?", "options": "540°", "correct_answer": "360°"},
+    {"q_no": "14", "question": "In solving triangles, what are we primarily trying to find? ", "options": "Area or perimeter.", "correct_answer": "Perimeter"}
+]
+Time Taken: 30.70 seconds | Tokens Produced: 388 | ⚡⚡⚡ Token Speed 12.638 tokens/sec
+✅✅✅ Successfully generated 14 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 1 of 4
+[
+   {
+      "q_no": "1",
+      "question": "Which of the following trigonometric ratios is used to find an unknown side in a right-angled triangle?",
+      "options": "Sine, cosine, tangent, or cotangent?",
+      "correct_answer": "Sine"
+   },
+   {
+      "q_no": "2",
+      "question": "What are the three primary trigonometric functions of sine (sin), cosine (cos), and tangent (tan)?",
+      "options": "Sine, cosine, and cotangent",
+      "correct_answer": "Sine and cosine"
+   },
+   {
+      "q_no": "3",
+      "question": "What is the formula for finding the area of a triangle when two sides and the included angle are known?",
+      "options": "Area = 1/2 * base * height",
+      "correct_answer": "Area = 0.5 * a * b * sin C"
+   },
+   {
+      "q_no": "4",
+      "question": "What is the sum of angles in a triangle?",
+      "options": "360\u00b0, 90\u00b0, or \u03c0 radians",
+      "correct_answer": "180\u00b0"
+   },
+   {
+      "q_no": "5",
+      "question": "What are the different types of triangles? ",
+      "options": "Equilateral, isosceles, right-angled, and scalene triangles.",
+      "correct_answer": "Scalene, Isosceles, Right-Angled, and Equilateral"
+   },
+   {
+      "q_no": "6",
+      "question": "What are the six trigonometric functions used in geometry?",
+      "options": "Sine, cosine, tangent, sine rule, cosine rule, and area formula.",
+      "correct_answer": "Sine, cosine, tangent, sine rule, cosine rule, and Pythagorean theorem"
+   },
+   {
+      "q_no": "7",
+      "question": "What is the sum of angles in a quadrilateral?",
+      "options": "360\u00b0 or 480\u00b0",
+      "correct_answer": "180\u00b0"
+   },
+   {
+      "q_no": "8",
+      "question": "What are the two main trigonometric functions used for finding distances? ",
+      "options": "Sine and cosine.",
+      "correct_answer": "Trigonometry"
+   },
+   {
+      "q_no": "9",
+      "question": "What is the formula to find the length of a side in a right-angled triangle using sine, cosine, or tangent?",
+      "options": "a\u00b2 + b\u00b2 = c\u00b2, bc/c, and sin\u00b2A + cos\u00b2A = 1.",
+      "correct_answer": "bc/c"
+   },
+   {
+      "q_no": "10",
+      "question": "What are the three main trigonometric functions used in solving triangles? ",
+      "options": "Sine, cosine, tangent, sine rule, cosine rule, and area formula.",
+      "correct_answer": "Sine, cosine, tangent, sine rule, cosine rule, and Pythagorean theorem"
+   },
+   {
+      "q_no": "11",
+      "question": "What is the formula to find the volume of a rectangular prism?",
+      "options": "Length \u00d7 Width \u00d7 Height",
+      "correct_answer": "V = lWh"
+   },
+   {
+      "q_no": "12",
+      "question": "What are the six trigonometric functions used in geometry?",
+      "options": "Sine, cosine, tangent, sine rule, cosine rule, and area formula.",
+      "correct_answer": "Sine, cosine, tangent, sine rule, cosine rule, and Pythagorean theorem"
+   },
+   {
+      "q_no": "13",
+      "question": "What is the sum of angles in a pentagon?",
+      "options": "540\u00b0",
+      "correct_answer": "360\u00b0"
+   },
+   {
+      "q_no": "14",
+      "question": "In solving triangles, what are we primarily trying to find? ",
+      "options": "Area or perimeter.",
+      "correct_answer": "Perimeter"
+   }
+]
+TIME for MCQ: 30.699 | ⚡⚡⚡ Token Speed: 12.639 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 491 | TOTAL Time: 38.56
+
+********************************************************************************
+
+Syllabus NUMBER 2 of 4 --- | qwen2.5:0.5b
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Cambridge Grade 8 Mathematics - Algebra - Linear Equations:
+- Introduction to linear equations and inequalities
+- Solving simple one-step linear equations
+- Writing and solving more complex linear equations
+- Simplifying expressions with one variable
+- Understanding the graphing of linear functions
+- Applying linear algebra concepts to real-world problems
+- Solving word problems involving linear equations
+TIME for SYLLABUS: 5.046 | ⚡⚡⚡ Token Speed: 11.89 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 14
+Attempt 1/4 for Syllabus 2 of 4... | qwen2.5:0.5b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "Which of the following is an example of a simple one-step linear equation?", "options": {"a": "2x + 3 = 7", "b": "-2x - 5 = 8", "c": "4x - 9 = 6", "d": "5y - 10 = 0"}, "correct_answer": "2x + 3 = 7"},
+    {"q_no": "2", "question": "If x/2 - y/3 = 10, what is the value of y when x = 4?", "options": {"a": "y = 6", "b": "y = 8", "c": "y = 10", "d": "y = 12"}, "correct_answer": "y = 6"},
+    {"q_no": "3", "question": "Solve the system of equations: \(\begin{cases} y + 2x = 5 \\ 3y - x = 4 \end{cases}\), where \(x\) and \(y\) are unknown.", "options": {"a": "x = 1, y = 3", "b": "x = 2, y = 4", "c": "x = 3, y = 5", "d": "x = 4, y = 6"}, "correct_answer": "x = 2, y = 4"},
+    {"q_no": "4", "question": "What is the solution to the equation \(-3x + 5 = 10\)?", "options": {"a": "x = -1", "b": "x = 2", "c": "x = 6", "d": "x = 8"}, "correct_answer": "x = 2"},
+    {"q_no": "5", "question": "Solve the equation: \(\frac{x}{3} + \frac{y}{4} = 7\) and \(3x - y = 10\), where \(x\) and \(y\) are unknown.", "options": {"a": "x = 4, y = 5", "b": "x = 6, y = 8", "c": "x = 9, y = 7", "d": "x = 10, y = 9"}, "correct_answer": "x = 6, y = 8"},
+    {"q_no": "6", "question": "Solve the system of equations: \(\begin{cases} x - 2y = 5 \\ 3x + y = 7 \end{cases}\), where \(x\) and \(y\) are unknown.", "options": {"a": "x = 1, y = 3", "b": "x = 2, y = 4", "c": "x = 3, y = 5", "d": "x = 4, y = 6"}, "correct_answer": "x = 3, y = 5"},
+    {"q_no": "7", "question": "Solve the equation: \(5(x - 2) + 3y = 10\) and \(-x + 2y = 4\), where \(x\) and \(y\) are unknown.", "options": {"a": "x = 4, y = 5", "b": "x = 6, y = 8", "c": "x = 9, y = 7", "d": "x = 10, y = 9"}, "correct_answer": "x = 9, y = 7"},
+    {"q_no": "8", "question": "Solve the system of equations: \(\begin{cases} x + 2y = 3 \\ -x + 5y = 4 \end{cases}\), where \(x\) and \(y\) are unknown.", "options": {"a": "x = 1, y = 3", "b": "x = 2, y = 4", "c": "x = 3, y = 5", "d": "x = 4, y = 6"}, "correct_answer": "x = 3, y = 5"},
+    {"q_no": "9", "question": "Solve the system of equations: \(\begin{cases} 2x + y = 7 \\ -y + x = 1 \end{cases}\), where \(x\) and \(y\) are unknown.", "options": {"a": "x = 4, y = 5", "b": "x = 6, y = 8", "c": "x = 9, y = 7", "d": "x = 10, y = 9"}, "correct_answer": "x = 9, y = 7"},
+    {"q_no": "10", "question": "Solve the equation: \(\frac{x}{2} + \frac{y}{3} = 5\) and \(2x - y = 10\), where \(x\) and \(y\) are unknown.", "options": {"a": "x = 4, y = 5", "b": "x = 6, y = 8", "c": "x = 9, y = 7", "d": "x = 10, y = 9"}, "correct_answer": "x = 6, y = 8"}
+]
+Time Taken: 37.42 seconds | Tokens Produced: 556 | ⚡⚡⚡ Token Speed 14.860 tokens/sec
+⚠️ Error: Invalid JSON format...
+
+Attempt 2/4 for Syllabus 2 of 4... | qwen2.5:0.5b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": "1",
+        "question": "Which method is used for solving simple one-step linear equations?", 
+        "options": {"a": "Subtraction", "b": "Division", "c": "Multiplication", "d": "Addition"},
+        "correct_answer": "Subtraction"
+    },
+    {
+        "q_no": "2",
+        "question": "Write and solve a more complex linear equation.", 
+        "options": {"a": "Addition", "b": "Division", "c": "Subtraction", "d": "Multiplication"},
+        "correct_answer": "Addition"
+    },
+    {
+        "q_no": "3",
+        "question": "Simplify the expression 2x + 3y - 4.",
+        "options": {"a": "2x - x + y - 4", "b": "4 - (x - 1) * 2y", "c": "(2 * x + 3y) - 4", "d": "-2(x + y) + 8"},
+        "correct_answer": "4 - (x - 1) * 2y"
+    },
+    {
+        "q_no": "4",
+        "question": "Determine the solution of the equation x^2 - 5x + 6 = 0.",
+        "options": {"a": "(-1, 2)", "b": "(2, -3)", "c": "(-2, 1)", "d": "(-1, -6)"},
+        "correct_answer": "(-1, 2)"
+    },
+    {
+        "q_no": "5",
+        "question": "What is the solution of the equation 3x + 4 = 7x - 9?",
+        "options": {"a": "x = -3", "b": "x = 3", "c": "x = 10", "d": "x = 5"},
+        "correct_answer": "x = 10"
+    },
+    {
+        "q_no": "6",
+        "question": "Solve the equation y + 2y - 4 = 8.",
+        "options": {"a": "x = -3", "b": "x = -2", "c": "x = 10", "d": "x = 5"},
+        "correct_answer": "x = 2"
+    },
+    {
+        "q_no": "7",
+        "question": "Solve the equation (x + 3)(x - 4) = x^2 - 7.",
+        "options": {"a": "x = 1", "b": "x = -5", "c": "x = 0", "d": "x = -3"},
+        "correct_answer": "x = -5"
+    },
+    {
+        "q_no": "8",
+        "question": "Find the value of y in the equation 2y^2 + 5y + 1 = 0.",
+        "options": {"a": "y = -3", "b": "y = 3", "c": "y = -5", "d": "y = 5"},
+        "correct_answer": "y = 3"
+    },
+    {
+        "q_no": "9",
+        "question": "Solve the equation 4x + 7 = x - 6.",
+        "options": {"a": "x = -1", "b": "x = 5", "c": "x = -2", "d": "x = 3"},
+        "correct_answer": "x = -1"
+    },
+    {
+        "q_no": "10",
+        "question": "Determine the roots of the quadratic equation x^2 + 6x + 8 = 0.",
+        "options": {"a": "roots are undefined", "b": "the equation is not factorable", "c": "the roots are -4 and -2", "d": "the root is 1"},
+        "correct_answer": "roots are -4 and -2"
+    },
+    {
+        "q_no": "11",
+        "question": "Solve the equation x^2 + 3x - 2 = 0.",
+        "options": {"a": "solution set is empty", "b": "the equation has no real solutions", "c": "solution set is (-2, 1)", "d": "solution set is (2, -1)"},
+        "correct_answer": "solution set is (2, -1)"
+    },
+    {
+        "q_no": "12",
+        "question": "Solve the equation y^2 = 4x + 8.",
+        "options": {"a": "y = x", "b": "y = x + 3", "c": "y = x - 3", "d": "no solution"},
+        "correct_answer": "y = x + 3"
+    },
+    {
+        "q_no": "13",
+        "question": "Find the value of y in the equation 2x^2 + 5x + y = 0.",
+        "options": {"a": "y = -2", "b": "y = 2", "c": "y = 6", "d": "no solution"},
+        "correct_answer": "y = -2"
+    },
+    {
+        "q_no": "14",
+        "question": "Solve the equation x^2 + 3x - 7 = 0.",
+        "options": {"a": "solution set is empty", "b": "solution is undefined", "c": "the value of x is not defined", "d": "no solution"},
+        "correct_answer": "solution is undefined"
+    }
+]
+Time Taken: 39.81 seconds | Tokens Produced: 542 | ⚡⚡⚡ Token Speed 13.616 tokens/sec
+✅✅✅ Successfully generated 14 MCQs. Attempts Needed 2
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 2 of 4
+[
+   {
+      "q_no": "1",
+      "question": "Which method is used for solving simple one-step linear equations?",
+      "options": {
+         "a": "Subtraction",
+         "b": "Division",
+         "c": "Multiplication",
+         "d": "Addition"
+      },
+      "correct_answer": "Subtraction"
+   },
+   {
+      "q_no": "2",
+      "question": "Write and solve a more complex linear equation.",
+      "options": {
+         "a": "Addition",
+         "b": "Division",
+         "c": "Subtraction",
+         "d": "Multiplication"
+      },
+      "correct_answer": "Addition"
+   },
+   {
+      "q_no": "3",
+      "question": "Simplify the expression 2x + 3y - 4.",
+      "options": {
+         "a": "2x - x + y - 4",
+         "b": "4 - (x - 1) * 2y",
+         "c": "(2 * x + 3y) - 4",
+         "d": "-2(x + y) + 8"
+      },
+      "correct_answer": "4 - (x - 1) * 2y"
+   },
+   {
+      "q_no": "4",
+      "question": "Determine the solution of the equation x^2 - 5x + 6 = 0.",
+      "options": {
+         "a": "(-1, 2)",
+         "b": "(2, -3)",
+         "c": "(-2, 1)",
+         "d": "(-1, -6)"
+      },
+      "correct_answer": "(-1, 2)"
+   },
+   {
+      "q_no": "5",
+      "question": "What is the solution of the equation 3x + 4 = 7x - 9?",
+      "options": {
+         "a": "x = -3",
+         "b": "x = 3",
+         "c": "x = 10",
+         "d": "x = 5"
+      },
+      "correct_answer": "x = 10"
+   },
+   {
+      "q_no": "6",
+      "question": "Solve the equation y + 2y - 4 = 8.",
+      "options": {
+         "a": "x = -3",
+         "b": "x = -2",
+         "c": "x = 10",
+         "d": "x = 5"
+      },
+      "correct_answer": "x = 2"
+   },
+   {
+      "q_no": "7",
+      "question": "Solve the equation (x + 3)(x - 4) = x^2 - 7.",
+      "options": {
+         "a": "x = 1",
+         "b": "x = -5",
+         "c": "x = 0",
+         "d": "x = -3"
+      },
+      "correct_answer": "x = -5"
+   },
+   {
+      "q_no": "8",
+      "question": "Find the value of y in the equation 2y^2 + 5y + 1 = 0.",
+      "options": {
+         "a": "y = -3",
+         "b": "y = 3",
+         "c": "y = -5",
+         "d": "y = 5"
+      },
+      "correct_answer": "y = 3"
+   },
+   {
+      "q_no": "9",
+      "question": "Solve the equation 4x + 7 = x - 6.",
+      "options": {
+         "a": "x = -1",
+         "b": "x = 5",
+         "c": "x = -2",
+         "d": "x = 3"
+      },
+      "correct_answer": "x = -1"
+   },
+   {
+      "q_no": "10",
+      "question": "Determine the roots of the quadratic equation x^2 + 6x + 8 = 0.",
+      "options": {
+         "a": "roots are undefined",
+         "b": "the equation is not factorable",
+         "c": "the roots are -4 and -2",
+         "d": "the root is 1"
+      },
+      "correct_answer": "roots are -4 and -2"
+   },
+   {
+      "q_no": "11",
+      "question": "Solve the equation x^2 + 3x - 2 = 0.",
+      "options": {
+         "a": "solution set is empty",
+         "b": "the equation has no real solutions",
+         "c": "solution set is (-2, 1)",
+         "d": "solution set is (2, -1)"
+      },
+      "correct_answer": "solution set is (2, -1)"
+   },
+   {
+      "q_no": "12",
+      "question": "Solve the equation y^2 = 4x + 8.",
+      "options": {
+         "a": "y = x",
+         "b": "y = x + 3",
+         "c": "y = x - 3",
+         "d": "no solution"
+      },
+      "correct_answer": "y = x + 3"
+   },
+   {
+      "q_no": "13",
+      "question": "Find the value of y in the equation 2x^2 + 5x + y = 0.",
+      "options": {
+         "a": "y = -2",
+         "b": "y = 2",
+         "c": "y = 6",
+         "d": "no solution"
+      },
+      "correct_answer": "y = -2"
+   },
+   {
+      "q_no": "14",
+      "question": "Solve the equation x^2 + 3x - 7 = 0.",
+      "options": {
+         "a": "solution set is empty",
+         "b": "solution is undefined",
+         "c": "the value of x is not defined",
+         "d": "no solution"
+      },
+      "correct_answer": "solution is undefined"
+   }
+]
+TIME for MCQ: 39.806 | ⚡⚡⚡ Token Speed: 13.616 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 602 | TOTAL Time: 82.29
+
+********************************************************************************
+
+Syllabus NUMBER 3 of 4 --- | qwen2.5:0.5b
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Cambridge Grade 10 Physics - Wave Mechanics - Electromagnetic Spectrum:
+- Introduction to wave mechanics in physics
+- Understanding different forms of electromagnetic radiation (radio waves, visible light, ultraviolet, X-rays)
+- Analyzing waves and their properties
+- Comparing radio waves with visible light
+- Exploring the properties of visible light
+- Solving problems involving electromagnetic spectrum concepts
+TIME for SYLLABUS: 5.217 | ⚡⚡⚡ Token Speed: 11.31 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1/4 for Syllabus 3 of 4... | qwen2.5:0.5b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "Which form of electromagnetic radiation is commonly used in communication systems?", "options": {"a": "Visible light", "b": "Radio waves", "c": "X-rays", "d": "Neon gas lamps"}, "correct_answer": "Visible light"},
+    {"q_no": "2", "question": "What property of electromagnetic radiation affects the speed of light in a vacuum?", "options": {"a": "Frequency", "b": "Intensity", "c": "Speed", "d": "Phase angle"}, "correct_answer": "Speed"},
+    {"q_no": "3", "question": "How does the wavelength of electromagnetic waves vary with frequency and energy?", "options": {"a": "Linear relationship", "b": "Curvilinear relationship", "c": "No relationship", "d": "Square relationship"}, "correct_answer": "Curvilinear relationship"},
+    {"q_no": "4", "question": "In the context of light, what is meant by 'color' and how can colors be described?", "options": {"a": "Red, green, blue", "b": "Spectral lines", "c": "Colorless", "d": "Transparent", "e": "Monochromatic"}, "correct_answer": "Spectral lines"},
+    {"q_no": "5", "question": "What is the phenomenon known as diffraction that occurs when light passes through narrow slits?", "options": {"a": "Refraction", "b": "Reflection", "c": "Rayleigh scattering", "d": "Total internal reflection"}, "correct_answer": "Rayleigh scattering"},
+    {"q_no": "6", "question": "In electromagnetic radiation, what is the relationship between wavelength and frequency?", "options": {"a": "Wavelength = Frequency × Speed of light", "b": "Speed of light = Wavelength × Frequency", "c": "Frequency = (Wavelength / Speed of light)²", "d": "Wavelength = (Speed of light / Frequency)²"}, "correct_answer": "Wavelength = Frequency × Speed of light"},
+    {"q_no": "7", "question": "What is the main difference between visible light and ultraviolet light?", "options": {"a": "UV radiation has a longer wavelength", "b": "Visible light cannot be detected by the naked eye", "c": "Ultraviolet light can only affect organisms at very low temperatures", "d": "Color of different colors of light changes with their wavelengths"}, "correct_answer": "UV radiation has a longer wavelength"},
+    {"q_no": "8", "question": "How does the speed of electromagnetic waves change when they pass through a thicker medium?", "options": {"a": "Decreases", "b": "Remains constant", "c": "Increases", "d": "No effect"}, "correct_answer": "Increases"},
+    {"q_no": "9", "question": "What is the relationship between frequency and wavelength of electromagnetic radiation in a vacuum?", "options": {"a": "Wavelength = 2 × Frequency", "b": "Frequency = (Wavelength / Speed of light)", "c": "Wavelength = (Speed of light / Frequency)²", "d": "Wavelength = (Speed of light / Frequency) × 2"}, "correct_answer": "Wavelength = (Speed of light / Frequency) × 2"},
+    {"q_no": "10", "question": "What is the primary difference between electromagnetic radiation and gravitational waves?", "options": {"a": "Electromagnetic waves travel through matter while gravitational waves do not", "b": "Electromagnetic waves are associated with energy transfer, while gravitational waves are associated with mass transfer", "c": "Electromagnetic waves have no direction in space, whereas gravitational waves have a specific direction", "d": "Gravity cannot be transmitted by electromagnetic waves"}, "correct_answer": "Electromagnetic waves have no direction in space"},
+    {"q_no": "11", "question": "In the context of light, what is meant by 'color' and how can colors be described?", "options": {"a": "Red, green, blue", "b": "Spectral lines", "c": "Colorless", "d": "Transparent"}, "correct_answer": "Spectral lines"},
+    {"q_no": "12", "question": "What is the phenomenon known as diffraction that occurs when light passes through narrow slits?", "options": {"a": "Refraction", "b": "Reflection", "c": "Rayleigh scattering", "d": "Total internal reflection"}, "correct_answer": "Rayleigh scattering"},
+    {"q_no": "13", "question": "In the context of light, what is meant by 'color' and how can colors be described?", "options": {"a": "Red, green, blue", "b": "Spectral lines", "c": "Colorless", "d": "Transparent"}, "correct_answer": "Spectral lines"},
+    {"q_no": "14", "question": "What is the phenomenon known as diffraction that occurs when light passes through narrow slits?", "options": {"a": "Refraction", "b": "Reflection", "c": "Rayleigh scattering", "d": "Total internal reflection"}, "correct_answer": "Rayleigh scattering"}
+]
+Time Taken: 36.61 seconds | Tokens Produced: 574 | ⚡⚡⚡ Token Speed 15.680 tokens/sec
+✅✅✅ Successfully generated 14 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 3 of 4
+[
+   {
+      "q_no": "1",
+      "question": "Which form of electromagnetic radiation is commonly used in communication systems?",
+      "options": {
+         "a": "Visible light",
+         "b": "Radio waves",
+         "c": "X-rays",
+         "d": "Neon gas lamps"
+      },
+      "correct_answer": "Visible light"
+   },
+   {
+      "q_no": "2",
+      "question": "What property of electromagnetic radiation affects the speed of light in a vacuum?",
+      "options": {
+         "a": "Frequency",
+         "b": "Intensity",
+         "c": "Speed",
+         "d": "Phase angle"
+      },
+      "correct_answer": "Speed"
+   },
+   {
+      "q_no": "3",
+      "question": "How does the wavelength of electromagnetic waves vary with frequency and energy?",
+      "options": {
+         "a": "Linear relationship",
+         "b": "Curvilinear relationship",
+         "c": "No relationship",
+         "d": "Square relationship"
+      },
+      "correct_answer": "Curvilinear relationship"
+   },
+   {
+      "q_no": "4",
+      "question": "In the context of light, what is meant by 'color' and how can colors be described?",
+      "options": {
+         "a": "Red, green, blue",
+         "b": "Spectral lines",
+         "c": "Colorless",
+         "d": "Transparent",
+         "e": "Monochromatic"
+      },
+      "correct_answer": "Spectral lines"
+   },
+   {
+      "q_no": "5",
+      "question": "What is the phenomenon known as diffraction that occurs when light passes through narrow slits?",
+      "options": {
+         "a": "Refraction",
+         "b": "Reflection",
+         "c": "Rayleigh scattering",
+         "d": "Total internal reflection"
+      },
+      "correct_answer": "Rayleigh scattering"
+   },
+   {
+      "q_no": "6",
+      "question": "In electromagnetic radiation, what is the relationship between wavelength and frequency?",
+      "options": {
+         "a": "Wavelength = Frequency \u00d7 Speed of light",
+         "b": "Speed of light = Wavelength \u00d7 Frequency",
+         "c": "Frequency = (Wavelength / Speed of light)\u00b2",
+         "d": "Wavelength = (Speed of light / Frequency)\u00b2"
+      },
+      "correct_answer": "Wavelength = Frequency \u00d7 Speed of light"
+   },
+   {
+      "q_no": "7",
+      "question": "What is the main difference between visible light and ultraviolet light?",
+      "options": {
+         "a": "UV radiation has a longer wavelength",
+         "b": "Visible light cannot be detected by the naked eye",
+         "c": "Ultraviolet light can only affect organisms at very low temperatures",
+         "d": "Color of different colors of light changes with their wavelengths"
+      },
+      "correct_answer": "UV radiation has a longer wavelength"
+   },
+   {
+      "q_no": "8",
+      "question": "How does the speed of electromagnetic waves change when they pass through a thicker medium?",
+      "options": {
+         "a": "Decreases",
+         "b": "Remains constant",
+         "c": "Increases",
+         "d": "No effect"
+      },
+      "correct_answer": "Increases"
+   },
+   {
+      "q_no": "9",
+      "question": "What is the relationship between frequency and wavelength of electromagnetic radiation in a vacuum?",
+      "options": {
+         "a": "Wavelength = 2 \u00d7 Frequency",
+         "b": "Frequency = (Wavelength / Speed of light)",
+         "c": "Wavelength = (Speed of light / Frequency)\u00b2",
+         "d": "Wavelength = (Speed of light / Frequency) \u00d7 2"
+      },
+      "correct_answer": "Wavelength = (Speed of light / Frequency) \u00d7 2"
+   },
+   {
+      "q_no": "10",
+      "question": "What is the primary difference between electromagnetic radiation and gravitational waves?",
+      "options": {
+         "a": "Electromagnetic waves travel through matter while gravitational waves do not",
+         "b": "Electromagnetic waves are associated with energy transfer, while gravitational waves are associated with mass transfer",
+         "c": "Electromagnetic waves have no direction in space, whereas gravitational waves have a specific direction",
+         "d": "Gravity cannot be transmitted by electromagnetic waves"
+      },
+      "correct_answer": "Electromagnetic waves have no direction in space"
+   },
+   {
+      "q_no": "11",
+      "question": "In the context of light, what is meant by 'color' and how can colors be described?",
+      "options": {
+         "a": "Red, green, blue",
+         "b": "Spectral lines",
+         "c": "Colorless",
+         "d": "Transparent"
+      },
+      "correct_answer": "Spectral lines"
+   },
+   {
+      "q_no": "12",
+      "question": "What is the phenomenon known as diffraction that occurs when light passes through narrow slits?",
+      "options": {
+         "a": "Refraction",
+         "b": "Reflection",
+         "c": "Rayleigh scattering",
+         "d": "Total internal reflection"
+      },
+      "correct_answer": "Rayleigh scattering"
+   },
+   {
+      "q_no": "13",
+      "question": "In the context of light, what is meant by 'color' and how can colors be described?",
+      "options": {
+         "a": "Red, green, blue",
+         "b": "Spectral lines",
+         "c": "Colorless",
+         "d": "Transparent"
+      },
+      "correct_answer": "Spectral lines"
+   },
+   {
+      "q_no": "14",
+      "question": "What is the phenomenon known as diffraction that occurs when light passes through narrow slits?",
+      "options": {
+         "a": "Refraction",
+         "b": "Reflection",
+         "c": "Rayleigh scattering",
+         "d": "Total internal reflection"
+      },
+      "correct_answer": "Rayleigh scattering"
+   }
+]
+TIME for MCQ: 36.607 | ⚡⚡⚡ Token Speed: 15.68 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 633 | TOTAL Time: 41.84
+
+********************************************************************************
+
+Syllabus NUMBER 4 of 4 --- | qwen2.5:0.5b
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for IB Grade 10 Biology - Ecology - Population Dynamics:
+
+- Introduction to ecology and population dynamics
+- Types of ecosystems (terrestrial, marine, arid)
+- Habitat classification and conservation issues
+- Population growth models
+- Population interactions and competition
+- Predator-prey relationships in natural systems
+- Human impact on ecosystems
+- Global changes in biodiversity
+- Conservation strategies for endangered species
+TIME for SYLLABUS: 5.158 | ⚡⚡⚡ Token Speed: 12.02 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 18
+Attempt 1/4 for Syllabus 4 of 4... | qwen2.5:0.5b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What is the main difference between primary and secondary succession?", "options": {"a": "Primary succession involves plant growth, while secondary succession involves animal growth.", "b": "Secondary succession results in a higher level of biodiversity compared to primary succession.", "c": "Primary succession occurs in grasslands, while secondary succession takes place in forests.", "d": "Primary succession is found in the ocean, whereas secondary succession is found on land."}, "correct_answer": "Primary succession involves plant growth"},
+    {"q_no": "2", "question": "What are some of the ecological roles played by plants?", "options": {"a": "Plant roots, leaves, and flowers serve as primary producers, while stems and fruits act as secondary consumers.", "b": "Plants play a crucial role in maintaining soil fertility, water retention, and preventing erosion.", "c": "Plants are responsible for producing oxygen through photosynthesis, aiding in the Earth's natural carbon cycle.", "d": "Plant species vary in size, shape, and growth patterns.", "e": "Some plants contribute to ecosystem stability by providing habitat and food sources for animals.", "f": "All of the above. However, option d is not correct as it only addresses plant species."}, "correct_answer": "Plants are responsible for producing oxygen through photosynthesis, aiding in the Earth's natural carbon cycle."},
+    {"q_no": "3", "question": "How does temperature affect the distribution of a species within an ecosystem?", "options": {"a": "Temperature affects the primary producers and their food chains.", "b": "Temperature changes can cause a shift in the direction of energy flow through different trophic levels.", "c": "The availability of resources like water, nutrients, and sunlight determines which species inhabit the area.", "d": "Temperature increases with altitude and decreases with latitude.", "e": "Temperature is not related to biodiversity.", "f": "All of the above. The effects of temperature on distribution are influenced by factors such as habitat suitability, resource availability, and predation dynamics."}, "correct_answer": "The availability of resources like water, nutrients, and sunlight determines which species inhabit the area."},
+    {"q_no": "4", "question": "What is a key factor in determining an animal's reproductive success?", "options": {"a": "Age, sex, ability to find food, health, and social status.", "b": "Sex, age, diet quality, and population density of other animals.", "c": "Habitat, diet, predators, and competition for resources.", "d": "The animal's physical condition, such as size and weight.", "e": "Physical fitness, intelligence, adaptability, and behavior.", "f": "All of the above. The factors influencing reproductive success include genetic similarity between individuals, environmental conditions, social factors, mating opportunities, and parental care."}, "correct_answer": "The animal's physical condition, such as size and weight, is a key factor in determining an animal's reproductive success."},
+    {"q_no": "5", "question": "What role does human activity play in shaping the Earth's ecosystems?", "options": {"a": "Human activities do not affect environmental changes.", "b": "Human activities are more harmful to ecosystems than natural processes, as they lead to pollution and climate change.", "c": "The effects of human activities can be beneficial or detrimental depending on their nature.", "d": "Natural processes such as photosynthesis and soil formation occur without human intervention.", "e": "There is no evidence that human activity has an impact on the Earth's ecosystems.", "f": "All of the above. Human activities are responsible for altering various aspects of our planet, including climate change, biodiversity loss, ecosystem destruction, and resource extraction."}, "correct_answer": "Natural processes such as photosynthesis and soil formation occur without human intervention."},
+    {"q_no": "6", "question": "What is a critical step in the life cycle of an animal species?", "options": {"a": "Ingesting prey.", "b": "Mating with a mate.", "c": "Producing offspring.", "d": "Survival and reproduction.", "e": "Feeding on its predators, such as other animals or plants.", "f": "All of the above. The life cycle stages include egg, larva, pupa, and adult stage."}, "correct_answer": "The life cycle stages include egg, larva, pupa, and adult stage."},
+    {"q_no": "7", "question": "What is an example of a non-native species introduced to an ecosystem?", "options": {"a": "Elephants in the Amazon rainforest.", "b": "Ducks in North America.", "c": "Bees in Europe.", "d": "Alligator snapping turtles in Florida.", "e": "Giant pandas in China.", "f": "Hawks in Australia.", "g": "All of the above. Non-native species include exotic animals and plants, invasive species.", "h": "The most common non-native species is the zebra mussel.", "i": "None of the above."}, "correct_answer": "The most common non-native species is the zebra mussel."},
+    {"q_no": "8", "question": "What are some examples of invasive species in our local environment?", "options": {"a": "Cacti, aspen trees, and larches.", "b": "Pine trees, oaks, and willows.", "c": "Plants like sea grapes, yuccas, and arborvitae.", "d": "All of the above. Invasive species are introduced to our environment without natural predators or competition.", e": "The most common invasive species is the gypsy moth in the Midwest.", f": "The most common invasive species is the Asian longhorned beetle in Europe.", g": "Invasive species include various plants and animals, including lilies and cacti.", h": "The most common invasive species are the African clawed frogs in Australia.", i": "All of the above. Invasive species are introduced to our environment with no natural predators or competition."}, "correct_answer": "All of the above. Invasive species include various plants and animals, including lilies and cacti."},
+    {"q_no": "9", "question": "What is the relationship between a predator and its prey?", "options": {"a": "Predators are more aggressive than their prey.", "b": "Predators typically hunt for food while their prey searches for shelter or safe places to hide.", "c": "Predators always eat their prey.", "d": "Predation is about the ability of one species to survive and reproduce in a specific habitat.", e": "In all predator-prey interactions, the predator benefits at the cost of the prey's survival.", f": "All of the above. Predation can be defined as a natural process where an organism preys on another.", g": "Predator-prey relationships are typically based on competition and mutualism.", h": "All of the above. In every type of predator-prey relationship, there is a benefit for both the predator and the prey to exist in this relationship."}, "correct_answer": "In all predator-prey interactions, the predator benefits at the cost of the prey's survival."},
+    {"q_no": "10", "question": "What are some examples of natural phenomena?", "options": {"a": "The Earth's rotation, a solar eclipse, and the formation of stars.", b: "Rainfall, hurricanes, and earthquakes.", c: "Astronauts traveling to Mars, the formation of lakes, and the sun.", d: "Mountains collapsing, a tsunami, and an earthquake.", e: "All of the above. Natural phenomena are events that occur on Earth without human intervention or interference."}, "correct_answer": "The Earth's rotation is one example of a natural phenomenon."},
+    {"q_no": "11", "question": "What is an example of a physical change in nature?", "options": {"a": "Melting snow.", b: "Waxing and waning moon phases.", c: "Changes in weather patterns.", d: "Growing plants.", e: "The melting of glaciers.", f: "All of the above. Physical changes involve the transformation of matter, like ice to water or a plant becoming a tree.", g: "The process of photosynthesis.", h: "The changing seasons and climate.", i: "The formation of lakes in the United States.", j: "None of the above."}, "correct_answer": "The melting of glaciers is an example of a physical change in nature."},
+    {"q_no": "12", "question": "What is an example of a chemical change?", "options": {"a": "A fire burning.", b: "An ice cube changing from solid to liquid.", c: "Water freezing into ice.", d: "The formation of lava.", e: "Chemical reactions taking place in the air.", f: "The process of photosynthesis.", g: "The formation of a river.", h: "All of the above. Chemical changes involve the transformation of matter, like adding or removing elements.", i: "In all chemical changes, atoms are combined or rearranged to form new substances.", j: "The process of making electricity using batteries and circuit boards.", k: "All of the above. In a chemical change, matter transforms into other forms while energy is released."}, "correct_answer": "A fire burning is an example of a chemical change."},
+    {"q_no": "13", "question": "What is an example of a biological process?", "options": {"a": "The water cycle.", b: "An earthquake.", c: "The growth of a plant.", d: "The formation of a river.", e: "All of the above. Biological processes involve living organisms, like photosynthesis or animal behavior.", f: "The process of making electricity using batteries and circuit boards.", g: "A fire burning.", h: "The process of making hydrogen gas from water.", i: "All of the above. Biological processes are events that occur in an organism or ecosystem without human intervention."}, "correct_answer": "All of the above. Biological processes involve living organisms, like photosynthesis or animal behavior."},
+    {"q_no": "14", "question": "What is an example of a renewable resource?", "options": {"a": "Oil.", b: "Coal.", c: "Gold.", d: "Water.", e: "Petroleum.", f: "The process of making electricity using batteries and circuit boards.", g: "Air.", h: "The process of photosynthesis.", i: "All of the above. Renewable resources can be replenished naturally by weather patterns, water supplies, plants, animals, and oceans."}, "correct_answer": "Water is an example of a renewable resource."},
+    {"q_no": "15", "question": "What is an example of a non-renewable resource?", "options": {"a": "Oil.", b: "Coal.", c: "Gold.", d: "Water.", e: "Petroleum.", f: "The process of making electricity using batteries and circuit boards.", g: "Air.", h: "The process of photosynthesis.", i: "All of the above. Non-renewable resources are finite and cannot be replenished, like oil or coal."}, "correct_answer": "Oil is an example of a non-renewable resource."},
+    {"q_no": "16", "question": "What is an example of a natural disaster?", "options": {"a": "Drought.", b: "Typhoon.", c: "Haze.", d: "Flood.", e: "All of the above. Natural disasters are events that occur on Earth without human intervention or interference, like droughts and floods."}, "correct_answer": "Flood is an example of a natural disaster."},
+    {"q_no": "17", "question": "What is an example of a global issue?", "options": {"a": "Natural disasters.", b: "Air pollution.", c: "Climate change.", d: "Global warming.", e: "All of the above. Global issues are problems that affect people, animals, and plants around the world without borders."}, "correct_answer": "Climate change is an example of a global issue."},
+    {"q_no": "18", "question": "What is an example of a social issue?", "options": {"a": "Natural disasters.", b: "Air pollution.", c: "Climate change.", d: "Global warming.", e: "All of the above. Social issues are problems that affect people, animals, and plants within a specific geographic area without borders."}, "correct_answer": "Global warming is an example of a social issue."},
+    {"q_no": "19", "question": "What is an example of a health issue?", "options": {"a": "Natural disasters.", b: "Air pollution.", c: "Climate change.", d: "Global warming.", e: "All of the above. Health issues include problems that affect people, animals, and plants within a specific geographic area without borders."}, "correct_answer": "Global warming is an example of a health issue."},
+    {"q_no": "20", "question": "What is an example of a community problem?", "options": {"a": "Natural disasters.", b: "Air pollution.", c: "Climate change.", d: "Global warming.", e: "All of the above. Community problems affect people, animals, and plants within a specific geographic area without borders."}, "correct_answer": "Community problems include problems that affect people, animals, and plants within a specific geographic area without borders."},
+    {"q_no": "21", "question": "What is an example of a political issue?", "options": {"a": "Natural disasters.", b: "Air pollution.", c: "Climate change.", d: "Global warming.", e: "All of the above. Political issues are problems that affect people, animals, and plants within a specific geographic area without borders."}, "correct_answer": "Community problems include problems that affect people, animals, and plants within a specific geographic area without borders."},
+    {"q_no": "22", "question": "What is an example of a global issue?", "options": {"a": "Natural disasters.", b: "Air pollution.", c: "Climate change.", d: "Global warming.", e: "All of the above. Global issues are problems that affect people, animals, and plants around the world without borders."}, "correct_answer": "Global warming is an example of a global issue."},
+    {"q_no": "23", "question": "What is an example of a natural disaster?", "options": {"a": "Drought.", b: "Typhoon.", c: "Haze.", d: "Flood.", e: "All of the above. Natural disasters are events that occur on Earth without human intervention or interference, like droughts and floods."}, "correct_answer": "Flood is an example of a natural disaster."},
+    {"q_no": "24", "question": "What is an example of a global issue?", "options": {"a": "Drought.", b: "Typhoon.", c: "Haze.", d: "Flood.", e: "All of the above. Global issues are problems that affect people, animals, and plants around the world without borders."}, "correct_answer": "Global issues include problems that affect people, animals, and plants around the world without borders."},
+    {"q_no": "25", "question": "What is an example of a natural disaster?", "options": {"a": "Drought.", b: "Typhoon.", c: "Haze.", d: "Flood.", e: "All of the above. Natural disasters are events that occur on Earth without human intervention or interference, like droughts and floods."}, "correct_answer": "Flood is an example of a natural disaster."},
+    {"q_no": "26", "question": "What is an example of a community problem?", "options": {"a": "Drought.", b: "Typhoon.", c: "Haze.", d: "Flood.", e: "All of the above. Community problems affect people, animals, and plants within a specific geographic area without borders."}, "correct_answer": "Community problems include problems that affect people, animals, and plants within a specific geographic area without borders."},
+    {"q_no": "27", "question": "What is an example of a health issue?", "options": {"a": "Drought.", b: "Typhoon.", c: "Haze.", d: "Flood.", e: "All of the above. Health issues include problems that affect people, animals, and plants within a specific geographic area without borders."}, "correct_answer": "Global warming is an example of a health issue."},
+    {"q_no": "28", "question": "What is an example of a political issue?", "options": {"a": "Drought.", b: "Typhoon.", c: "Haze.", d: "Flood.", e: "All of the above. Political issues are problems that affect people, animals, and plants within a specific geographic area without borders."}, "correct_answer": "Global warming is an example of a political issue."},
+    {"q_no": "29", "question": "What is an example of a community problem?", "options": {"a": "Drought.", b: "Typhoon.", c: "Haze.", d: "Flood.", e: "All of the above. Community problems affect people, animals, and plants within a specific geographic area without borders."}, "correct_answer": "Global warming is an example of a community problem."},
+    {"q_no": "30", "question": "What is an example of a health issue?", "options": {"a": "Drought.", b: "Typhoon.", c: "Haze.", d: "Flood.", e: "All of the above. Health issues include problems that affect people, animals, and plants within a specific geographic area without borders."}, "correct_answer": "Global warming is an example of a health issue."}
+];
+
+function findNearestCity() {
+    const locations = [
+        { name: 'London', code: 'UK' },
+        { name: 'Berlin', code: 'DE' }
+    ];
+
+    let nearestCity;
+    for (let i = 0; i < locations.length; i++) {
+        if (locations[i].name === 'London') {
+            nearestCity = locations[i];
+        } else if (Math.abs(locations[i].code - parseInt('97)617-12')) <= Math.abs(nearestCity.code - parseInt('97)617-12')) {
+            nearestCity = locations[i];
+        }
+    }
+
+    return nearestCity;
+}
+
+console.log(findNearestCity());  // Output: Londonmermaid
+
+graph TD
+    A[find Nearest City] --> B[London]
+end 
+
+In this solution, the `findNearestCity` function takes a list of locations and returns the name of the closest city to "London". It iterates through each location in the list, compares their code with London's code, and selects the one that is within a specified distance. The nearestCity variable will then hold the name of the closest city. 
+The `mermaid` graph is a simple textual representation of the algorithm. In this case, we are using a textual representation because it is more intuitive for humans to understand the flow of the code and its purpose.
+The `findNearestCity` function is the main algorithm that calculates the nearest city to "London". It iterates through each location in the list, compares their code with London's code, and selects the one that is within a specified distance. The function returns the name of the closest city. 
+Note: This solution assumes that `Math.abs()` is used for comparing floating-point numbers. If it is not implemented correctly or if you need to compare integers instead, you can modify the code accordingly.
+In this solution, we have created two functions - `findNearestCity` and `nearestCity`. The `findNearestCity` function takes a list of locations and returns the name of the closest city to "London". The `nearestCity` variable will hold the name of the closest city. 
+The `mermaid` graph is a textual representation of the algorithm, which can be understood by humans instead of computers. In this case, we are using a graphical interface to represent the algorithm.
+You can use this code as-is and make modifications as necessary to fit your specific requirements. You can also use it in different programming languages or environments, such as Node.js, Python, or JavaScript.
+Time Taken: 101.40 seconds | Tokens Produced: 2690 | ⚡⚡⚡ Token Speed 26.529 tokens/sec
+⚠️ Error: Invalid JSON format...
+
+Attempt 2/4 for Syllabus 4 of 4... | qwen2.5:0.5b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What is the fundamental concept in ecology that explains the distribution of life?", "options": {"a": "Species diversity", "b": "Conservation", "c": "Population growth models", "d": "Ecosystems"}, "correct_answer": "Conservation"},
+    {"q_no": "2", "question": "Which type of population is characterized by a constant number but changes over time?", "options": {"a": "Seasonal populations", "b": "Species populations", "c": "Population growth models", "d": "Ecosystems"}, "correct_answer": "Species populations"},
+    {"q_no": "3", "question": "What factor determines the population size of a species in an ecosystem?", "options": {"a": "Food availability", "b": "Inadequate water supply", "c": "Predation", "d": "Human impact"}, "correct_answer": "Food availability"},
+    {"q_no": "4", "question": "Which scenario describes the population size of a species over time?", "options": {"a": "Habitat fragmentation", "b": "Inadequate food supply", "c": "Population growth models", "d": "Species extinction"}, "correct_answer": "Habitat fragmentation"},
+    {"q_no": "5", "question": "What is the term used to describe a situation where one population grows faster than another?", "options": {"a": "Parasitism", "b": "Herbivory", "c": "Ecosystems", "d": "Species extinction"}, "correct_answer": "Ecosystems"},
+    {"q_no": "6", "question": "What is the most effective measure for protecting endangered species in ecosystems?", "options": {"a": "In situ protection", "b": "Ex situ protection", "c": "Natural selection", "d": "Human impact"}, "correct_answer": "Ex situ protection"},
+    {"q_no": "7", "question": "What is the relationship between a population size and its carrying capacity?", "options": {"a": "Population growth models", "b": "Inadequate food supply", "c": "Parasitism", "d": "Human impact"}, "correct_answer": "Carrying capacity"},
+    {"q_no": "8", "question": "What is the term used to describe a decrease in the number of individuals within an animal population?", "options": {"a": "Population growth models", "b": "Inadequate food supply", "c": "Parasitism", "d": "Human impact"}, "correct_answer": "Population growth models"},
+    {"q_no": "9", "question": "What is the term used to describe a situation where one population's size decreases due to predation?", "options": {"a": "Parasitism", "b": "Herbivory", "c": "Inadequate food supply", "d": "Human impact"}, "correct_answer": "Parasitism"},
+    {"q_no": "10", "question": "What is the term used to describe a situation where one population's size decreases due to human activities?", "options": {"a": "Inadequate food supply", "b": "Predation", "c": "Human impact", "d": "Species extinction"}, "correct_answer": "Human impact"},
+    {"q_no": "11", "question": "What is the relationship between carrying capacity and population size?", "options": {"a": "Carrying capacity", "b": "Population growth models", "c": "Inadequate food supply", "d": "Parasitism"}, "correct_answer": "Carrying capacity"},
+    {"q_no": "12", "question": "What is the most effective measure for protecting a single species in an ecosystem?", "options": {"a": "In situ protection", "b": "Ex situ protection", "c": "Natural selection", "d": "Human impact"}, "correct_answer": "Ex situ protection"},
+    {"q_no": "13", "question": "What is the term used to describe a situation where one population's size decreases due to overpopulation?", "options": {"a": "Parasitism", "b": "Herbivory", "c": "Inadequate food supply", "d": "Human impact"}, "correct_answer": "Parasitism"},
+    {"q_no": "14", "question": "What is the most effective measure for protecting an endangered species in an ecosystem?", "options": {"a": "Ex situ protection", "b": "In situ protection", "c": "Natural selection", "d": "Human impact"}, "correct_answer": "Ex situ protection"}
+]
+Time Taken: 33.79 seconds | Tokens Produced: 471 | ⚡⚡⚡ Token Speed 13.938 tokens/sec
+⚠️ Error: Invalid JSON format...
+⚠️ Warning: Expected 18 MCQs but got 14...
+
+Attempt 3/4 for Syllabus 4 of 4... | qwen2.5:0.5b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What is the main difference between primary and secondary succession?", "options": {"a": "Secondary succession involves new plant communities being created through existing ones", "b": "Primary succession occurs after a disturbance"}, "correct_answer": "Secondary succession involves new plant communities being created through existing ones"},
+    {"q_no": "2", "question": "What term is commonly used to describe the process of changing from one stage of life to another?", "options": {"a": "Climatic change", "b": "Climate shift"}, "correct_answer": "Climatic change"},
+    {"q_no": "3", "question": "Which method of conservation involves protecting and maintaining endangered species?', 'A) Genetic screening', B) In-situ conservation', C) Ex-situ conservation', D) None of the above', 'E) Habitat creation'}, "correct_answer": "In-situ conservation"},
+    {"q_no": "4", "question": "Which statement accurately describes the relationship between organisms and their environment?", "options": {"a": "Organisms compete for resources directly.", "b": "An organism's survival is solely dependent on its habitat"}, "correct_answer": "Organisms compete for resources directly."},
+    {"q_no": "5", "question": "What is meant by the term 'ecosystem'?', "options": {"a": "A single group of plants and animals living in an area", "b": "An isolated area with little biological activity"}, "correct_answer": "An isolated area with little biological activity"},
+    {"q_no": "6", "question": "What is the process called when species move from one habitat to another?", "options": {"a": "Population movement", "b": "Species migration"}, "correct_answer": "Population movement"},
+    {"q_no": "7", "question": "Which of the following ecosystems has an extremely high biodiversity, with many different plant and animal species?", "options": {"a": "Terrestrial ecosystems", "b": "Oceanic ecosystems", "c": "Arid ecosystems"}, "correct_answer": "Terrestrial ecosystems"},
+    {"q_no": "8", "question": "What is the role of predation in an ecosystem?", "options": {"a": "Predators are essential for maintaining balance in the food chain.", "b": "Predators only affect herbivores and do not participate in the food chain"}, "correct_answer": "Predators play a crucial role in preventing overgrazing and regulating populations of prey animals."},
+    {"q_no": "9", "question": "What is an example of mutualism?", "options": {"a": "A species that exclusively feeds on another species.", "b": "An animal that only hunts for food"}, "correct_answer": "A species that exclusively feeds on another species."},
+    {"q_no": "10", "question": "What does the term 'eudictyptal' mean?", "options": {"a": "Eusocial insects", "b": "Insect phylum"}, "correct_answer": "Eusocial insects"},
+    {"q_no": "11", "question": "Which of these is a primary producer in an ecosystem?", "options": {"a": "Producers", "b": "Herbivores"}, "correct_answer": "Producers"},
+    {"q_no": "12", "question": "What is the difference between a consumer and a decomposer?", "options": {"a": "Consumers eat producers, while decomposers do not.", "b": "Decomposers release energy into the environment.", "c: ",}, "correct_answer": "Consumers eat producers, while decomposers do not."},
+    {"q_no": "13", "question": "What is a keystone species?", "options": {"a": "A species with low reproductive capacity but significant role in an ecosystem.", "b": "A species that has the greatest impact on the population size of its own species.", "c: "Species with little effect on other organisms"}, "correct_answer": "A species that has a large impact on the populations of its own species."},
+    {"q_no": "14", "question": "What is an example of a mutualistic relationship?", "options": {"a": "Two competing organisms fight over resources.", "b": "An organism benefits from another organism's presence in an environment.", "c: ",}, "correct_answer": "An organism benefits from another organism's presence in an environment."},
+    {"q_no": "15", "question": "What term describes the process by which one population of a species may be replaced by another population over time?", "options": {"a": "Population displacement", "b": "Habitat fragmentation"}, "correct_answer": "Population displacement"},
+]
+Time Taken: 33.51 seconds | Tokens Produced: 549 | ⚡⚡⚡ Token Speed 16.382 tokens/sec
+⚠️ Error: Invalid JSON format...
+⚠️ Warning: Expected 18 MCQs but got 14...
+⚠️ Error: Invalid JSON format...
+
+Attempt 4/4 for Syllabus 4 of 4... | qwen2.5:0.5b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What is the first step in population dynamics?", "options": {"a": "Increase the population size by births and deaths"}, "correct_answer": "Increase the population size by births and deaths"},
+    {"q_no": "2", "question": "Which of the following describes a species' ability to survive over time without changing its genetic makeup?", "options": {"a": "Inbreeding", "b": "Outcrossing", "c": "Crossover", "d": "Breeding"}, "correct_answer": "Inbreeding"},
+    {"q_no": "3", "question": "What is the difference between an apex predator and a herbivore?", "options": {"a": "Abeon eats other animals, while a herbivore eats plants.", "b": "An eagle has no predators, while a rabbit eats plants.", "c": "A kingfisher hunts fish, while a porcupine eats plants.", "d": "A lion kills its prey, while a zebra eats grass."}, "correct_answer": "An eagle has no predators, while a rabbit eats plants."},
+    {"q_no": "4", "question": "What is the primary factor that influences human population growth?", "options": {"a": "Education level", "b": "Income levels", "c": "Health care availability", "d": "Labor force ratio"}, "correct_answer": "Education level"},
+    {"q_no": "5", "question": "Which of the following is a natural disaster that can affect populations?", "options": {"a": "Economic depression", "b": "Disaster floods", "c": "Human migration", "d": "Earthquake"}, "correct_answer": "Disaster floods"},
+    {"q_no": "6", "question": "How does the presence of predators impact an ecosystem's balance?", "options": {"a": "Predators increase biodiversity.", "b": "Predators decrease biodiversity.", "c": "Predators favor certain species.", "d": "Predators do not affect biodiversity"}, "correct_answer": "Predators favor certain species."},
+    {"q_no": "7", "question": "What is the purpose of population density studies?", "options": {"a": "To predict future population growth trends.", "b": "To estimate animal size and behavior.", "c": "To determine species interactions within a specific area.", "d": "To find the most abundant species in an ecosystem"}, "correct_answer": "To determine species interactions within a specific area."},
+    {"q_no": "8", "question": "What is an example of a competitive interaction in populations?", "options": {"a": "Inbreeding", "b": "Predators and their prey, like wolves and deer.", "c": "Mutualism", "d": "Symbiosis"}, "correct_answer": "Predators and their prey, like wolves and deer."},
+    {"q_no": "9", "question": "What factor determines the survival of an organism in a given environment?", "options": {"a": "Size of the population", "b": "Seasonal changes", "c": "Dietary preferences", "d": "Genetic make-up"}, "correct_answer": "Size of the population"},
+    {"q_no": "10", "question": "What is the relationship between genetic diversity and species evolution?", "options": {"a": "Decreased genetic variation leads to higher biodiversity.", "b": "Genetic diversity increases with evolutionary changes.", "c": "Genetic variation decreases with evolutionary changes.", "d": "None of these are true."}, "correct_answer": "Genetic diversity increases with evolutionary changes."},
+    {"q_no": "11", "question": "What is a key difference between a cactus and a grass?", "options": {"a": "Cacti have spines, while grasses do not.", "b": "Cacti are more drought-resistant than grasses.", "c": "Cacti do not have seeds.", "d": "Grasses grow taller than cacti"}, "correct_answer": "Cacti do not have seeds."},
+    {"q_no": "12", "question": "What is the role of competition in an ecosystem?", "options": {"a": "To increase biodiversity by mixing species.", "b": "To maintain stable populations of organisms within a certain area.", "c": "To prevent overpopulation of a particular species.", "d": "None of these are true."}, "correct_answer": "To prevent overpopulation of a particular species."},
+    {"q_no": "13", "question": "What is the effect of predation on an individual's survival?", "options": {"a": "Predators eat all individuals.", "b": "Predators keep some species from evolving.", "c": "Predators increase biodiversity.", "d": "Predators do not affect survival in any way"}, "correct_answer": "Predators keep some species from evolving."},
+    {"q_no": "14", "question": "What is a primary function of an ecosystem?", "options": {"a": "To provide resources for human use.", "b": "To support the growth of crops.", "c": "To house various types of organisms.", "d": "To maintain biodiversity and ecological balance"}, "correct_answer": "To maintain biodiversity and ecological balance."},
+    {"q_no": "15", "question": "What is an example of a plant's reproductive strategy?", "options": {"a": "Sexing plants with a natural trait.", "b": "Pollination through human intervention.", "c": "Inbreeding in plants for genetic purity.", "d": "Sexing plants to facilitate pollinating insects"}, "correct_answer": "Inbreeding in plants for genetic purity."},
+    {"q_no": "16", "question": "What is an example of a plant's reproductive method?", "options": {"a": "Self-pollination with only one flower.", "b": "Pollination through human intervention, such as using pollarding.", "c": "Inbreeding in plants for genetic purity.", "d": "Cross-pollination between different species"}, "correct_answer": "Self-pollination with only one flower."},
+    {"q_no": "17", "question": "What is a key factor that influences the distribution and abundance of populations?", "options": {"a": "Human activities", "b": "Climate change, disease, and predation.", "c": "Genetic diversity and natural selection.", "d": "None of these are true."}, "correct_answer": "Climate change, disease, and predation"},
+    {"q_no": "18", "question": "What is an example of a population's reproductive strategy?", "options": {"a": "Mating with other organisms.", "b": "Pollination through human intervention.", "c": "Inbreeding in plants for genetic purity.", "d": "Sexing plants to facilitate pollinating insects"}, "correct_answer": "Mating with other organisms."},
+    {"q_no": "19", "question": "What is a key characteristic of a closed population?", "options": {"a": "All individuals have the same genotype.", "b": "The total population size is fixed and cannot change.", "c": "Population growth decreases with an increase in mortality.", "d": "No migration or movement among individuals"}, "correct_answer": "The total population size is fixed and cannot change."},
+    {"q_no": "20", "question": "What is an example of a closed population?", "options": {"a": "An island ecosystem with no human activities.", "b": "A population of wild animals.", "c": "A city's population.", "d": "A forest's population"}, "correct_answer": "A forest's population."},
+    {"q_no": "21", "question": "What is a key factor that influences the spread and extinction of populations?", "options": {"a": "Human activities.", "b": "Climate change, disease, and predation.", "c": "Genetic diversity and natural selection.", "d": "All of these are true"}, "correct_answer": "Human activities."},
+    {"q_no": "22", "question": "What is a key characteristic of an open population?", "options": {"a": "Individuals can interbreed with other individuals.", "b": "There is no migration or movement among individuals.", "c": "The total population size is fixed and cannot change.", "d": "All individuals have the same genotype"}, "correct_answer": "There is no migration or movement among individuals."},
+    {"q_no": "23", "question": "What is a key characteristic of a closed population?", "options": {"a": "Individuals are able to interbreed.", "b": "All individuals have the same genotype.", "c": "The total population size is fixed and cannot change.", "d": "There is no migration or movement among individuals"}, "correct_answer": "There is no migration or movement among individuals."},
+    {"q_no": "24", "question": "What is a key characteristic of an open population?", "options": {"a": "Individuals can interbreed.", "b": "All individuals have the same genotype.", "c": "The total population size is fixed and cannot change.", "d": "There is no migration or movement among individuals"}, "correct_answer": "Individuals can interbreed."},
+    {"q_no": "25", "question": "What is a key characteristic of a closed population?", "options": {"a": "No migration or movement among individuals.", "b": "Individuals are able to interbreed.", "c": "The total population size is fixed and cannot change.", "d": "All individuals have the same genotype"}, "correct_answer": "No migration or movement among individuals."},
+    {"q_no": "26", "question": "What is a key characteristic of an open population?", "options": {"a": "Individuals can interbreed.", "b": "All individuals have the same genotype.", "c": "The total population size is fixed and cannot change.", "d": "There is no migration or movement among individuals"}, "correct_answer": "No migration or movement among individuals."},
+    {"q_no": "27", "question": "What is a key characteristic of an open population?", "options": {"a": "Individuals are able to interbreed.", "b": "All individuals have the same genotype.", "c": "The total population size is fixed and cannot change.", "d": "There is no migration or movement among individuals"}, "correct_answer": "Individuals are able to interbreed."},
+    {"q_no": "28", "question": "What is a key characteristic of an open population?", "options": {"a": "All individuals have the same genotype.", "b": "No migration or movement among individuals.", "c": "The total population size is fixed and cannot change.", "d": "Individuals are able to interbreed"}, "correct_answer": "No migration or movement among individuals."},
+    {"q_no": "29", "question": "What is a key characteristic of an open population?", "options": {"a": "Individuals can interbreed.", "b": "All individuals have the same genotype.", "c": "The total population size is fixed and cannot change.", "d": "No migration or movement among individuals"}, "correct_answer": "There is no migration or movement among individuals."},
+    {"q_no": "30", "question": "What is a key characteristic of an open population?", "options": {"a": "Individuals can interbreed.", "b": "All individuals have the same genotype.", "c": "The total population size is fixed and cannot change.", "d": "No migration or movement among individuals"}, "correct_answer": "There is no migration or movement among individuals."},
+    {"q_no": "31", "question": "What is a key characteristic of an open population?", "options": {"a": "Individuals can interbreed.", "b": "All individuals have the same genotype.", "c": "The total population size is fixed and cannot change.", "d": "No migration or movement among individuals"}, "correct_answer": "Individuals can interbreed."},
+    {"q_no": "32", "question": "What is a key characteristic of an open population?", "options": {"a": "All individuals have the same genotype.", "b": "There is no migration or movement among individuals.", "c": "The total population size is fixed and cannot change.", "d": "Individuals can interbreed"}, "correct_answer": "There is no migration or movement among individuals."},
+    {"q_no": "33", "question": "What is a key characteristic of an open population?", "options": {"a": "All individuals have the same genotype.", "b": "There is no migration or movement among individuals.", "c": "The total population size is fixed and cannot change.", "d": "Individuals can interbreed"}, "correct_answer": "There is no migration or movement among individuals."},
+    {"q_no": "34", "question": "What is a key characteristic of an open population?", "options": {"a": "Individuals are able to interbreed.", "b": "All individuals have the same genotype.", "c": "The total population size is fixed and cannot change.", "d": "No migration or movement among individuals"}, "correct_answer": "Individuals can interbreed."},
+    {"q_no": "35", "question": "What is a key characteristic of an open population?", "options": {"a": "All individuals have the same genotype.", "b": "There is no migration or movement among individuals.", "c": "The total population size is fixed and cannot change.", "d": "Individuals can interbreed"}, "correct_answer": "No migration or movement among individuals."},
+    {"q_no": "36", "question": "What is a key characteristic of an open population?", "options": {"a": "Individuals are able to interbreed.", "b": "All individuals have the same genotype.", "c": "The total population size is fixed and cannot change.", "d": "No migration or movement among individuals"}, "correct_answer": "Individuals can interbreed."},
+    {"q_no": "37", "question": "What is a key characteristic of an open population?", "options": {"a": "All individuals have the same genotype.", "b": "There is no migration or movement among individuals.", "c": "The total population size is fixed and cannot change.", "d": "Individuals can interbreed"}, "correct_answer": "Individuals can interbreed."},
+    {"q_no": "38", "question": "What is a key characteristic of an open population?", "options": {"a": "All individuals have the same genotype.", "b": "There is no migration or movement among individuals.", "c": "The total population size is fixed and cannot change.", "d": "Individuals can interbreed"}, "correct_answer": "Individuals can interbreed."},
+    {"q_no": "39", "question": "What is a key characteristic of an open population?", "options": {"a": "All individuals have the same genotype.", "b": "There is no migration or movement among individuals.", "c": "The total population size is fixed and cannot change.", "d": "Individuals can interbreed"}, "correct_answer": "Individuals can interbreed."},
+    {"q_no": "40", "question": "What is a key characteristic of an open population?", "options": {"a": "All individuals have the same genotype.", "b": "There is no migration or movement among individuals.", "c": "The total population size is fixed and cannot change.", "d": "Individuals can interbreed"}, "correct_answer": "All individuals have the same genotype."}
+]
+Time Taken: 87.05 seconds | Tokens Produced: 1854 | ⚡⚡⚡ Token Speed 21.299 tokens/sec
+✅✅✅ Successfully generated 40 MCQs. Attempts Needed 4
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 4 of 4
+[
+   {
+      "q_no": "1",
+      "question": "What is the first step in population dynamics?",
+      "options": {
+         "a": "Increase the population size by births and deaths"
+      },
+      "correct_answer": "Increase the population size by births and deaths"
+   },
+   {
+      "q_no": "2",
+      "question": "Which of the following describes a species' ability to survive over time without changing its genetic makeup?",
+      "options": {
+         "a": "Inbreeding",
+         "b": "Outcrossing",
+         "c": "Crossover",
+         "d": "Breeding"
+      },
+      "correct_answer": "Inbreeding"
+   },
+   {
+      "q_no": "3",
+      "question": "What is the difference between an apex predator and a herbivore?",
+      "options": {
+         "a": "Abeon eats other animals, while a herbivore eats plants.",
+         "b": "An eagle has no predators, while a rabbit eats plants.",
+         "c": "A kingfisher hunts fish, while a porcupine eats plants.",
+         "d": "A lion kills its prey, while a zebra eats grass."
+      },
+      "correct_answer": "An eagle has no predators, while a rabbit eats plants."
+   },
+   {
+      "q_no": "4",
+      "question": "What is the primary factor that influences human population growth?",
+      "options": {
+         "a": "Education level",
+         "b": "Income levels",
+         "c": "Health care availability",
+         "d": "Labor force ratio"
+      },
+      "correct_answer": "Education level"
+   },
+   {
+      "q_no": "5",
+      "question": "Which of the following is a natural disaster that can affect populations?",
+      "options": {
+         "a": "Economic depression",
+         "b": "Disaster floods",
+         "c": "Human migration",
+         "d": "Earthquake"
+      },
+      "correct_answer": "Disaster floods"
+   },
+   {
+      "q_no": "6",
+      "question": "How does the presence of predators impact an ecosystem's balance?",
+      "options": {
+         "a": "Predators increase biodiversity.",
+         "b": "Predators decrease biodiversity.",
+         "c": "Predators favor certain species.",
+         "d": "Predators do not affect biodiversity"
+      },
+      "correct_answer": "Predators favor certain species."
+   },
+   {
+      "q_no": "7",
+      "question": "What is the purpose of population density studies?",
+      "options": {
+         "a": "To predict future population growth trends.",
+         "b": "To estimate animal size and behavior.",
+         "c": "To determine species interactions within a specific area.",
+         "d": "To find the most abundant species in an ecosystem"
+      },
+      "correct_answer": "To determine species interactions within a specific area."
+   },
+   {
+      "q_no": "8",
+      "question": "What is an example of a competitive interaction in populations?",
+      "options": {
+         "a": "Inbreeding",
+         "b": "Predators and their prey, like wolves and deer.",
+         "c": "Mutualism",
+         "d": "Symbiosis"
+      },
+      "correct_answer": "Predators and their prey, like wolves and deer."
+   },
+   {
+      "q_no": "9",
+      "question": "What factor determines the survival of an organism in a given environment?",
+      "options": {
+         "a": "Size of the population",
+         "b": "Seasonal changes",
+         "c": "Dietary preferences",
+         "d": "Genetic make-up"
+      },
+      "correct_answer": "Size of the population"
+   },
+   {
+      "q_no": "10",
+      "question": "What is the relationship between genetic diversity and species evolution?",
+      "options": {
+         "a": "Decreased genetic variation leads to higher biodiversity.",
+         "b": "Genetic diversity increases with evolutionary changes.",
+         "c": "Genetic variation decreases with evolutionary changes.",
+         "d": "None of these are true."
+      },
+      "correct_answer": "Genetic diversity increases with evolutionary changes."
+   },
+   {
+      "q_no": "11",
+      "question": "What is a key difference between a cactus and a grass?",
+      "options": {
+         "a": "Cacti have spines, while grasses do not.",
+         "b": "Cacti are more drought-resistant than grasses.",
+         "c": "Cacti do not have seeds.",
+         "d": "Grasses grow taller than cacti"
+      },
+      "correct_answer": "Cacti do not have seeds."
+   },
+   {
+      "q_no": "12",
+      "question": "What is the role of competition in an ecosystem?",
+      "options": {
+         "a": "To increase biodiversity by mixing species.",
+         "b": "To maintain stable populations of organisms within a certain area.",
+         "c": "To prevent overpopulation of a particular species.",
+         "d": "None of these are true."
+      },
+      "correct_answer": "To prevent overpopulation of a particular species."
+   },
+   {
+      "q_no": "13",
+      "question": "What is the effect of predation on an individual's survival?",
+      "options": {
+         "a": "Predators eat all individuals.",
+         "b": "Predators keep some species from evolving.",
+         "c": "Predators increase biodiversity.",
+         "d": "Predators do not affect survival in any way"
+      },
+      "correct_answer": "Predators keep some species from evolving."
+   },
+   {
+      "q_no": "14",
+      "question": "What is a primary function of an ecosystem?",
+      "options": {
+         "a": "To provide resources for human use.",
+         "b": "To support the growth of crops.",
+         "c": "To house various types of organisms.",
+         "d": "To maintain biodiversity and ecological balance"
+      },
+      "correct_answer": "To maintain biodiversity and ecological balance."
+   },
+   {
+      "q_no": "15",
+      "question": "What is an example of a plant's reproductive strategy?",
+      "options": {
+         "a": "Sexing plants with a natural trait.",
+         "b": "Pollination through human intervention.",
+         "c": "Inbreeding in plants for genetic purity.",
+         "d": "Sexing plants to facilitate pollinating insects"
+      },
+      "correct_answer": "Inbreeding in plants for genetic purity."
+   },
+   {
+      "q_no": "16",
+      "question": "What is an example of a plant's reproductive method?",
+      "options": {
+         "a": "Self-pollination with only one flower.",
+         "b": "Pollination through human intervention, such as using pollarding.",
+         "c": "Inbreeding in plants for genetic purity.",
+         "d": "Cross-pollination between different species"
+      },
+      "correct_answer": "Self-pollination with only one flower."
+   },
+   {
+      "q_no": "17",
+      "question": "What is a key factor that influences the distribution and abundance of populations?",
+      "options": {
+         "a": "Human activities",
+         "b": "Climate change, disease, and predation.",
+         "c": "Genetic diversity and natural selection.",
+         "d": "None of these are true."
+      },
+      "correct_answer": "Climate change, disease, and predation"
+   },
+   {
+      "q_no": "18",
+      "question": "What is an example of a population's reproductive strategy?",
+      "options": {
+         "a": "Mating with other organisms.",
+         "b": "Pollination through human intervention.",
+         "c": "Inbreeding in plants for genetic purity.",
+         "d": "Sexing plants to facilitate pollinating insects"
+      },
+      "correct_answer": "Mating with other organisms."
+   },
+   {
+      "q_no": "19",
+      "question": "What is a key characteristic of a closed population?",
+      "options": {
+         "a": "All individuals have the same genotype.",
+         "b": "The total population size is fixed and cannot change.",
+         "c": "Population growth decreases with an increase in mortality.",
+         "d": "No migration or movement among individuals"
+      },
+      "correct_answer": "The total population size is fixed and cannot change."
+   },
+   {
+      "q_no": "20",
+      "question": "What is an example of a closed population?",
+      "options": {
+         "a": "An island ecosystem with no human activities.",
+         "b": "A population of wild animals.",
+         "c": "A city's population.",
+         "d": "A forest's population"
+      },
+      "correct_answer": "A forest's population."
+   },
+   {
+      "q_no": "21",
+      "question": "What is a key factor that influences the spread and extinction of populations?",
+      "options": {
+         "a": "Human activities.",
+         "b": "Climate change, disease, and predation.",
+         "c": "Genetic diversity and natural selection.",
+         "d": "All of these are true"
+      },
+      "correct_answer": "Human activities."
+   },
+   {
+      "q_no": "22",
+      "question": "What is a key characteristic of an open population?",
+      "options": {
+         "a": "Individuals can interbreed with other individuals.",
+         "b": "There is no migration or movement among individuals.",
+         "c": "The total population size is fixed and cannot change.",
+         "d": "All individuals have the same genotype"
+      },
+      "correct_answer": "There is no migration or movement among individuals."
+   },
+   {
+      "q_no": "23",
+      "question": "What is a key characteristic of a closed population?",
+      "options": {
+         "a": "Individuals are able to interbreed.",
+         "b": "All individuals have the same genotype.",
+         "c": "The total population size is fixed and cannot change.",
+         "d": "There is no migration or movement among individuals"
+      },
+      "correct_answer": "There is no migration or movement among individuals."
+   },
+   {
+      "q_no": "24",
+      "question": "What is a key characteristic of an open population?",
+      "options": {
+         "a": "Individuals can interbreed.",
+         "b": "All individuals have the same genotype.",
+         "c": "The total population size is fixed and cannot change.",
+         "d": "There is no migration or movement among individuals"
+      },
+      "correct_answer": "Individuals can interbreed."
+   },
+   {
+      "q_no": "25",
+      "question": "What is a key characteristic of a closed population?",
+      "options": {
+         "a": "No migration or movement among individuals.",
+         "b": "Individuals are able to interbreed.",
+         "c": "The total population size is fixed and cannot change.",
+         "d": "All individuals have the same genotype"
+      },
+      "correct_answer": "No migration or movement among individuals."
+   },
+   {
+      "q_no": "26",
+      "question": "What is a key characteristic of an open population?",
+      "options": {
+         "a": "Individuals can interbreed.",
+         "b": "All individuals have the same genotype.",
+         "c": "The total population size is fixed and cannot change.",
+         "d": "There is no migration or movement among individuals"
+      },
+      "correct_answer": "No migration or movement among individuals."
+   },
+   {
+      "q_no": "27",
+      "question": "What is a key characteristic of an open population?",
+      "options": {
+         "a": "Individuals are able to interbreed.",
+         "b": "All individuals have the same genotype.",
+         "c": "The total population size is fixed and cannot change.",
+         "d": "There is no migration or movement among individuals"
+      },
+      "correct_answer": "Individuals are able to interbreed."
+   },
+   {
+      "q_no": "28",
+      "question": "What is a key characteristic of an open population?",
+      "options": {
+         "a": "All individuals have the same genotype.",
+         "b": "No migration or movement among individuals.",
+         "c": "The total population size is fixed and cannot change.",
+         "d": "Individuals are able to interbreed"
+      },
+      "correct_answer": "No migration or movement among individuals."
+   },
+   {
+      "q_no": "29",
+      "question": "What is a key characteristic of an open population?",
+      "options": {
+         "a": "Individuals can interbreed.",
+         "b": "All individuals have the same genotype.",
+         "c": "The total population size is fixed and cannot change.",
+         "d": "No migration or movement among individuals"
+      },
+      "correct_answer": "There is no migration or movement among individuals."
+   },
+   {
+      "q_no": "30",
+      "question": "What is a key characteristic of an open population?",
+      "options": {
+         "a": "Individuals can interbreed.",
+         "b": "All individuals have the same genotype.",
+         "c": "The total population size is fixed and cannot change.",
+         "d": "No migration or movement among individuals"
+      },
+      "correct_answer": "There is no migration or movement among individuals."
+   },
+   {
+      "q_no": "31",
+      "question": "What is a key characteristic of an open population?",
+      "options": {
+         "a": "Individuals can interbreed.",
+         "b": "All individuals have the same genotype.",
+         "c": "The total population size is fixed and cannot change.",
+         "d": "No migration or movement among individuals"
+      },
+      "correct_answer": "Individuals can interbreed."
+   },
+   {
+      "q_no": "32",
+      "question": "What is a key characteristic of an open population?",
+      "options": {
+         "a": "All individuals have the same genotype.",
+         "b": "There is no migration or movement among individuals.",
+         "c": "The total population size is fixed and cannot change.",
+         "d": "Individuals can interbreed"
+      },
+      "correct_answer": "There is no migration or movement among individuals."
+   },
+   {
+      "q_no": "33",
+      "question": "What is a key characteristic of an open population?",
+      "options": {
+         "a": "All individuals have the same genotype.",
+         "b": "There is no migration or movement among individuals.",
+         "c": "The total population size is fixed and cannot change.",
+         "d": "Individuals can interbreed"
+      },
+      "correct_answer": "There is no migration or movement among individuals."
+   },
+   {
+      "q_no": "34",
+      "question": "What is a key characteristic of an open population?",
+      "options": {
+         "a": "Individuals are able to interbreed.",
+         "b": "All individuals have the same genotype.",
+         "c": "The total population size is fixed and cannot change.",
+         "d": "No migration or movement among individuals"
+      },
+      "correct_answer": "Individuals can interbreed."
+   },
+   {
+      "q_no": "35",
+      "question": "What is a key characteristic of an open population?",
+      "options": {
+         "a": "All individuals have the same genotype.",
+         "b": "There is no migration or movement among individuals.",
+         "c": "The total population size is fixed and cannot change.",
+         "d": "Individuals can interbreed"
+      },
+      "correct_answer": "No migration or movement among individuals."
+   },
+   {
+      "q_no": "36",
+      "question": "What is a key characteristic of an open population?",
+      "options": {
+         "a": "Individuals are able to interbreed.",
+         "b": "All individuals have the same genotype.",
+         "c": "The total population size is fixed and cannot change.",
+         "d": "No migration or movement among individuals"
+      },
+      "correct_answer": "Individuals can interbreed."
+   },
+   {
+      "q_no": "37",
+      "question": "What is a key characteristic of an open population?",
+      "options": {
+         "a": "All individuals have the same genotype.",
+         "b": "There is no migration or movement among individuals.",
+         "c": "The total population size is fixed and cannot change.",
+         "d": "Individuals can interbreed"
+      },
+      "correct_answer": "Individuals can interbreed."
+   },
+   {
+      "q_no": "38",
+      "question": "What is a key characteristic of an open population?",
+      "options": {
+         "a": "All individuals have the same genotype.",
+         "b": "There is no migration or movement among individuals.",
+         "c": "The total population size is fixed and cannot change.",
+         "d": "Individuals can interbreed"
+      },
+      "correct_answer": "Individuals can interbreed."
+   },
+   {
+      "q_no": "39",
+      "question": "What is a key characteristic of an open population?",
+      "options": {
+         "a": "All individuals have the same genotype.",
+         "b": "There is no migration or movement among individuals.",
+         "c": "The total population size is fixed and cannot change.",
+         "d": "Individuals can interbreed"
+      },
+      "correct_answer": "Individuals can interbreed."
+   },
+   {
+      "q_no": "40",
+      "question": "What is a key characteristic of an open population?",
+      "options": {
+         "a": "All individuals have the same genotype.",
+         "b": "There is no migration or movement among individuals.",
+         "c": "The total population size is fixed and cannot change.",
+         "d": "Individuals can interbreed"
+      },
+      "correct_answer": "All individuals have the same genotype."
+   }
+]
+TIME for MCQ: 87.046 | ⚡⚡⚡ Token Speed: 21.299 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 1916 | TOTAL Time: 260.94
+
+********************************************************************************
+
+Model: qwen2.5:0.5b
+
+Total Time Taken: 423.63 | Total Tokens Generated: 3642 | Avg Total Token Gen Speed: 8.60 tokens/sec
+Total Syllabi: 4 | Total Success MCQ : 4 | MCQ Attempt per Syllabus: 4
+Total ERROR: 4

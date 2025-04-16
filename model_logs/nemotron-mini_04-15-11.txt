@@ -1,0 +1,213 @@
+********************************************************************************
+Syllabus NUMBER 1
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Edexcel Grade 12 Mathematics - Calculus - Differentiation:
+- Introduction to calculus and its applications in mathematics and science
+- The concept of a derivative as the slope of a tangent line at a point on a curve
+- First principles methods for finding derivatives using limits, algebraic differentiation rules, power rule, product rule, quotient rule.
+- Second order methods including implicit differentiation and chain rule
+- Applications of derivatives such as optimization problems, motion along curves, related rates problems etc.
+- Techniques to compute higher order derivatives if necessary.
+- Antiderivatives (indefinite integrals) using the Fundamental Theorem of Calculus
+- Definite integrals involving areas under graphs or volumes in 3D spaces
+TIME for SYLLABUS: 15.275 | ⚡⚡⚡ Token Speed: 7.463 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 16
+Attempt 1 out of 5... nemotron-mini
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "The concept of a derivative is closely related to the slope of a tangent line at which point on a curve?",
+        "options": {
+            "a": "A random point",
+            "b": "Any point except for inflection points or corners",
+            "c": "Inflection points only",
+            "d": "Corners and inflection points only"
+        },
+        "correct_answer": "Any point except for inflection points or corners"
+    },
+    {
+        "q_no": 2,
+        "question": "What is the definition of a derivative as it relates to calculus?",
+        "options": {
+            "a": "The instantaneous rate of change",
+            "b": "The average rate of change",
+            "c": "The maximum value at which something occurs",
+            "d": "None of these"
+        },
+        "correct_answer": "The instantaneous rate of change"
+    },
+    {
+        "q_no": 3,
+        "question": "What is the fundamental theorem of calculus?",
+        "options": {
+            "a": "The statement that any area under a curve can be calculated using definite integrals",
+            "b": "The statement that if you know the derivative and an initial value then you can find all values in between, including the final one",
+            "c": "None of these",
+            "d": "The statement that limits do not exist for continuous functions"
+        },
+        "correct_answer": "The statement that any area under a curve can be calculated using definite integrals"
+    }
+]
+Time Taken: 51.81 seconds | Tokens Produced: 198 | ⚡⚡⚡ Token Speed 3.822 tokens/sec
+⚠️ Warning: Expected 16 MCQs but got 3...
+
+Attempt 2 out of 5... nemotron-mini
+🔍🔍🔍 Generated MCQ:
+
+ [
+  {
+    "q_no": 1,
+    "question": "What is the concept of a derivative as?",
+    "options": {
+      "a": "The slope at every point on a curve",
+      "b": "The tangent line passing through every point on a curve",
+      "c": "The area under the graph of a function",
+      "d": "The difference between any two adjacent points on a curve"
+    },
+    "correct_answer": "The slope at every point on a curve"
+  },
+  {
+    "q_no": 2,
+    "question": "Which rule is used to find the derivative of x^3?",
+    "options": {
+      "a": "Power Rule",
+      "b": "Quotient Rule",
+      "c": "Chain Rule",
+      "d": "None of these rules are applicable."
+    },
+  {
+    "q_no": 3,
+    "question": "What is the derivative of sin(x) / cos(x)?",
+    "options": {
+      "a": "(cos x * cos x)^(-1)",
+      "b": "(sin x^2)/cos(x)",
+      "c": "(sin x)/(cos x*cos x)",
+      "d": "None of these options are correct."
+    },
+  {
+    "q_no": 4,
+    "question": "Which technique is used to compute the derivative of a function implicitly defined?",
+    "options": {
+      "a": "Implicit Differentiation",
+      "b": "Chain Rule",
+      "c": "None of these rules are applicable.",
+      "d": "Algebraic Differentiation"
+    },
+  {
+    "q_no": 5,
+    "question": "Which is the Fundamental Theorem of Calculus?",
+    "options": {
+      "a": "The definite integral exists for any continuous function and its antiderivative",
+      "b": "The derivative of an antiderivative is that function itself",
+      "c": "The tangent line to a curve at every point is unique.",
+      "d": "None of these options are correct."
+    },
+  {
+    "q_no": 6,
+    "question": "What does 'Definite Integral' mean in calculus?",
+    "options": {
+      "a": "The area between a curve and the x-axis",
+      "b": "The volume enclosed by a solid figure or surface of revolution.",
+      "c": "The sum of all the antiderivatives within an interval",
+      "d": "None of these options are correct."
+    },
+  {
+    "q_no": 7,
+    "question": "What is optimization problems in calculus about?",
+    "options": {
+      "a": "Finding the maximum or minimum value of a function",
+      "b": "Finding the tangent line to a curve at any point.",
+      "c": "Finding the derivative of an infinite number of functions.",
+      "d": "None of these options are correct."
+    },
+  {
+    "q_no": 8,
+    "question": "What is related rates problems in calculus about?",
+    "options": {
+      "a": "Finding the velocity or acceleration at a point.",
+      "b": "Finding the position of an object moving along a curve given its speed and direction",
+      "c": "Finding the derivative of time with respect to position." ,
+      "d": "None of these options are correct."
+    },
+  {
+    "q_no": 9,
+    "question": "What is volume in three dimensional space defined as?",
+    "options": {
+      "a": "The area enclosed by a plane figure.",
+      "b": "The amount of space occupied by an object or a set of objects.",
+      "c": "None of these options are correct.",
+      "d": "The limit of the difference quotient."
+    },
+  {
+    "q_no": 10,
+    "question": "What is optimization problems in calculus about?",
+    "options": {
+      "a": "Finding the maximum or minimum value of a function",
+      "b": "Finding the tangent line to a curve at any point.",
+      "c": "Finding the derivative of an infinite number of functions." ,
+      "d": "None of these options are correct."
+    },
+  {
+    "q_no": 11,
+    "question": "What is related rates problems in calculus about?",
+    "options": {
+      "a": "Finding the velocity or acceleration at a point.",
+      "b": "Finding the position of an object moving along a curve given its speed and direction",
+      "c": "Finding the derivative of time with respect to position." ,
+      "d": "None of these options are correct."
+    },
+  {
+    "q_no": 12,
+    "question": "What is volume in three dimensional space defined as?",
+    "options": {
+      "a": "The area enclosed by a plane figure.",
+      "b": "The amount of space occupied by an object or a set of objects.",
+      "c": "None of these options are correct.",
+      "d": "The limit of the difference quotient."
+    },
+  {
+    "q_no": 13,
+    "question": "What is optimization problems in calculus about?",
+    "options": {
+      "a": "Finding the maximum or minimum value of a function",
+      "b": "Finding the tangent line to a curve at any point.",
+      "c": "Finding the derivative of an infinite number of functions." ,
+      "d": "None of these options are correct."
+    },
+  {
+    "q_no": 14,
+    "question": "What is related rates problems in calculus about?",
+    "options": {
+      "a": "Finding the velocity or acceleration at a point.",
+      "b": "Finding the position of an object moving along a curve given its speed and direction",
+      "c": "Finding the derivative of time with respect to position." ,
+      "d": "None of these options are correct."
+    },
+  {
+    "q_no": 15,
+    "question": "What is volume in three dimensional space defined as?",
+    "options": {
+      "a": "The area enclosed by a plane figure.",
+      "b": "The amount of space occupied by an object or a set of objects.",
+      "c": "None of these options are correct.",
+      "d": "The limit of the difference quotient."
+    },
+  {
+    "q_no": 16,
+    "question": "What is optimization problems in calculus about?",
+    "options": {
+      "a": "Finding the maximum or minimum value of a function",
+      "b": "Finding the tangent line to a curve at any point.",
+      "c": "Finding the derivative of an infinite number of functions." ,
+      "d": "None of these options are correct."
+    }
+  ]
+Time Taken: 130.48 seconds | Tokens Produced: 820 | ⚡⚡⚡ Token Speed 6.284 tokens/sec
+⚠️ Warning: Expected 16 MCQs but got 3...
+⚠️ Error: Invalid JSON format...
+
+Attempt 3 out of 5... nemotron-mini

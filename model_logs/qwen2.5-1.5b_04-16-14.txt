@@ -1,0 +1,436 @@
+[IB G11 Mathematics > Trigonometry] - Starting syllabus generation...
+[Cambridge G8 Mathematics > Geometry] - Starting syllabus generation...
+Syllabus for International Baccalaureate (IB) Grade 11 Mathematics - Trigonometry - Angle Measurement:
+- Introduction to angles and their measurement systems
+- Conversion between degrees and radians
+- Understanding the unit circle in radians
+- Finding trigonometric values using inverse functions
+- Solving problems involving right triangles
+- Applying trigonometric ratios in real-world scenarios
+
+END IT AFTER CREATING THE SYLLABUS
+[IB G11 Mathematics > Trigonometry] - Starting MCQ generation...
+Syllabus for Cambridge Grade 8 Mathematics - Geometry - Angles and Their Properties:
+- Introduction to angles
+- Understanding right angles, acute angles, obtuse angles, and straight angles
+- Measuring angles using a protractor
+- Converting between degrees and radians
+- Identifying parallel lines
+- Determining angle relationships in triangles (complementary, supplementary)
+- Applying properties of intersecting lines
+- Solving problems involving angle measures in polygons
+- Proving geometric theorems related to angles
+END IT AFTER CREATING THE SYLLABUS
+[Cambridge G8 Mathematics > Geometry] - Starting MCQ generation...
+[
+  {
+    "question": "What is the measure of an angle that is 270 degrees?",
+    "options": [
+      "180 degrees",
+      "90 degrees",
+      "360 degrees",
+      "Cannot be determined"
+    ],
+    "answer": "360 degrees"
+  },
+  {
+    "question": "Which of the following correctly converts 45 degrees to radians?",
+    "options": [
+      "\u03c0/4 radians",
+      "2\u03c0/9 radians",
+      "\u03c0/2 radians",
+      "Cannot be determined"
+    ],
+    "answer": "\u03c0/2 radians"
+  },
+  {
+    "question": "What is the value of sin(30 degrees)?",
+    "options": [
+      "1/4",
+      "1/2",
+      "\u221a3/2",
+      "Cannot be determined"
+    ],
+    "answer": "1/2"
+  },
+  {
+    "question": "How would you find cos(60 degrees) using a calculator?",
+    "options": [
+      "sin(60 degrees)",
+      "cos(30 degrees)",
+      "sin^-1(60 degrees)",
+      "Cannot be determined"
+    ],
+    "answer": "Cannot be determined"
+  },
+  {
+    "question": "If sin(x) = 0.5, what is the value of x?",
+    "options": [
+      "45 degrees",
+      "30 degrees",
+      "60 degrees",
+      "Cannot be determined"
+    ],
+    "answer": "30 degrees"
+  },
+  {
+    "question": "If a right triangle has an angle measure of 90 degrees, what is the degree measurement of this angle?",
+    "options": [
+      "45 degrees",
+      "60 degrees",
+      "90 degrees",
+      "Cannot be determined"
+    ],
+    "answer": "Cannot be determined"
+  },
+  {
+    "question": "What trigonometric function gives the ratio of the opposite side to the adjacent side in a right triangle?",
+    "options": [
+      "Sine (sin)",
+      "Cosine (cos)",
+      "Tangent (tan)",
+      "Cannot be determined"
+    ],
+    "answer": "Tangent (tan)"
+  },
+  {
+    "question": "If tan(45 degrees) = 1, what is the value of sin(45 degrees)?",
+    "options": [
+      "0.707",
+      "1/\u221a2",
+      "Cannot be determined"
+    ],
+    "answer": "Cannot be determined"
+  },
+  {
+    "question": "What trigonometric function gives the ratio of the adjacent side to the hypotenuse in a right triangle?",
+    "options": [
+      "Sine (sin)",
+      "Cosine (cos)",
+      "Tangent (tan)",
+      "Cannot be determined"
+    ],
+    "answer": "Cosine (cos)"
+  },
+  {
+    "question": "If tan(x) = 1, what is the value of x?",
+    "options": [
+      "45 degrees",
+      "30 degrees",
+      "60 degrees",
+      "Cannot be determined"
+    ],
+    "answer": "Cannot be determined"
+  },
+  {
+    "question": "What trigonometric function gives the ratio of the opposite side to the hypotenuse in a right triangle?",
+    "options": [
+      "Sine (sin)",
+      "Cosine (cos)",
+      "Tangent (tan)",
+      "Cannot be determined"
+    ],
+    "answer": "Tangent (tan)"
+  },
+  {
+    "question": "If tan(x) = 2, what is the value of x?",
+    "options": [
+      "45 degrees",
+      "30 degrees",
+      "60 degrees",
+      "Cannot be determined"
+    ],
+    "answer": "Cannot be determined"
+  }
+]
+[IB G11 Mathematics > Trigonometry] - Done! Took 48.80 seconds | 427 tokens
+[Cambridge G10 Mathematics > Algebra] - Starting syllabus generation...
+Syllabus for Cambridge Grade 10 Mathematics - Algebra - Exponents and Powers:
+- Introduction to exponents as repeated multiplication
+- Understanding base numbers and powers
+- Rules of exponents (laws)
+- Simplifying expressions with exponents
+- Solving equations involving exponents
+- Applications of exponents in real-world scenarios
+
+END IT AFTER CREATING THE SYLLABUS
+[Cambridge G10 Mathematics > Algebra] - Starting MCQ generation...
+[
+  {
+    "Q1": "What is a right angle?",
+    "A1": "90 degrees",
+    "A2": "60 degrees",
+    "A3": "80 degrees",
+    "A4": "70 degrees"
+  },
+  {
+    "Q2": "Which of the following angles measures 35\u00b0?",
+    "A1": "Acute angle",
+    "A2": "Obtuse angle",
+    "A3": "Right angle",
+    "A4": "Straight angle"
+  },
+  {
+    "Q3": "How do you measure an angle using a protractor?",
+    "A1": "Draw the line of sight from your eye towards the angle, then move the protractor along until it aligns with one of its sides.",
+    "A2": "Measure the distance between any two points on the ruler and divide by 360.",
+    "A3": "Align the zero mark at one side of the angle and read off the number where it touches the other side.",
+    "A4": "None of the above"
+  },
+  {
+    "Q4": "What is the conversion factor between degrees and radians?",
+    "A1": "180/\u03c0",
+    "A2": "\u03c0/180",
+    "A3": "1/\u03c0",
+    "A4": "\u03c0/1"
+  },
+  {
+    "Q5": "Identify two parallel lines in the following diagram.",
+    "A1": "Line AB and CD",
+    "A2": "Line EF and GH",
+    "A3": "Line IJ and KL",
+    "A4": "None of the above"
+  },
+  {
+    "Q6": "What is an intersecting line in geometry?",
+    "A1": "Two lines that meet at exactly one point without overlapping.",
+    "A2": "Lines that do not meet but are on the same plane and parallel to each other.",
+    "A3": "Two lines that run perpendicular to each other.",
+    "A4": "None of the above"
+  },
+  {
+    "Q7": "In a triangle, what is supplementary to 60\u00b0?",
+    "A1": "90\u00b0",
+    "A2": "120\u00b0",
+    "A3": "60\u00b0",
+    "A4": "180\u00b0"
+  },
+  {
+    "Q8": "How do you determine if two triangles are similar based on angle measures?",
+    "A1": "The corresponding angles must be equal.",
+    "A2": "The corresponding sides must be proportional.",
+    "A3": "Both the angles and sides must match exactly.",
+    "A4": "None of the above"
+  },
+  {
+    "Q9": "What is a geometric theorem related to angles?",
+    "A1": "Parallel lines never intersect.",
+    "A2": "Angles at the base of an isosceles triangle are equal.",
+    "A3": "An angle in a polygon increases by 1 degree if one more side is added.",
+    "A4": "None of the above"
+  },
+  {
+    "Q10": "If you know that three angles in a quadrilateral add up to 360\u00b0, how can you find the measure of the fourth angle?",
+    "A1": "Add up all three known angles and subtract from 360\u00b0.",
+    "A2": "Subtract the sum of the first three angles from 720\u00b0 and divide by 4.",
+    "A3": "Divide the total angle measure by 90\u00b0.",
+    "A4": "None of the above"
+  },
+  {
+    "Q11": "What is an acute angle?",
+    "A1": "An angle less than 90\u00b0",
+    "A2": "An angle equal to 360\u00b0",
+    "A3": "An angle greater than 45\u00b0 but not more than 180\u00b0",
+    "A4": "None of the above"
+  },
+  {
+    "Q12": "How do you find the missing angles in a triangle if two angles measure 40\u00b0 and 60\u00b0?",
+    "A1": "Add up all three angles to get 180\u00b0, then subtract from that sum.",
+    "A2": "Subtract each angle from 90\u00b0 to find the complement of each.",
+    "A3": "Use the fact that a triangle's angles add up to 180\u00b0 and solve for the third angle.",
+    "A4": "None of the above"
+  },
+  {
+    "Q13": "What is an obtuse angle?",
+    "A1": "An angle greater than 90\u00b0 but less than 180\u00b0",
+    "A2": "An angle equal to 180\u00b0",
+    "A3": "An angle that cannot be measured in degrees or radians.",
+    "A4": "None of the above"
+  },
+  {
+    "Q14": "How do you determine if two triangles are congruent based on angles?",
+    "A1": "The corresponding angles must match exactly.",
+    "A2": "The corresponding sides must be equal in length.",
+    "A3": "Both the angles and sides must match exactly.",
+    "A4": "None of the above"
+  },
+  {
+    "Q15": "What is a straight angle?",
+    "A1": "An angle that measures 90\u00b0",
+    "A2": "An angle that measures 180\u00b0 or three right angles.",
+    "A3": "An angle with no measure.",
+    "A4": "None of the above"
+  },
+  {
+    "Q16": "What is a complementary angle?",
+    "A1": "An angle that measures 90\u00b0 less than its supplement.",
+    "A2": "An angle that adds up to 360\u00b0 with another angle.",
+    "A3": "An angle that measures half of the sum of two angles.",
+    "A4": "None of the above"
+  },
+  {
+    "Q17": "How do you determine if two polygons are similar based on their sides?",
+    "A1": "The corresponding sides must be proportional.",
+    "A2": "Both polygons must have an equal number of angles.",
+    "A3": "An angle in a polygon increases by 1 degree if one more side is added.",
+    "A4": "None of the above"
+  },
+  {
+    "Q18": "What is supplementary to 150\u00b0?",
+    "A1": "60\u00b0",
+    "A2": "90\u00b0",
+    "A3": "120\u00b0",
+    "A4": "180\u00b0"
+  }
+]
+[Cambridge G8 Mathematics > Geometry] - Done! Took 80.43 seconds | 824 tokens
+[IB G10 Mathematics > Functions] - Starting syllabus generation...
+Syllabus for International Baccalaureate (IB) Grade 10 Mathematics - Functions:
+- Introduction to functions as mappings between sets
+- Identifying functions from graphs and tables
+- Understanding notation: function notation, domain, range, and evaluation
+- Representing functions through equations, inequalities, and table representations
+- Graphing linear and quadratic functions
+- Solving problems using graphing methods
+- Finding the inverse of a function
+- Applying transformations to functions
+
+Please note: This syllabus is for reference purposes only. Always consult with your educational institution or authorized source for official guidelines and requirements.
+[IB G10 Mathematics > Functions] - Starting MCQ generation...
+[
+  {
+    "Q": "What does the base number represent in an exponent?",
+    "A1": "Repeated multiplication",
+    "A2": "Exponent value",
+    "Ans": "Base number"
+  },
+  {
+    "Q": "Which rule states that a^(n+m) = a^n * a^m when n and m are positive integers?",
+    "A1": "Commutative property of multiplication",
+    "A2": "Property of exponents for addition",
+    "Ans": "Property of exponents for addition"
+  },
+  {
+    "Q": "How do you simplify the expression 3^4 * 3^5 using the rules of exponents?",
+    "A1": "3^9",
+    "A2": "6^8",
+    "Ans": "3^9"
+  },
+  {
+    "Q": "Solve for x in the equation 2^x = 16.",
+    "A1": "4",
+    "A2": "5",
+    "Ans": "4"
+  },
+  {
+    "Q": "An exponent represents a power. What is the power of an exponent?",
+    "A1": "The base number",
+    "A2": "The answer to the equation",
+    "Ans": "The answer to the equation"
+  },
+  {
+    "Q": "Exponents can be used in real-world scenarios like calculating compound interest. Which formula shows this concept mathematically?",
+    "A1": "A = P(1 + r)^t",
+    "A2": "P = A / (r^(-1))",
+    "Ans": "A = P(1 + r)^t"
+  },
+  {
+    "Q": "What is the simplified form of 7^(2/3) * 7^(-5/3)?",
+    "A1": "1/7",
+    "A2": "7^(-3)",
+    "Ans": "7^(-3)"
+  },
+  {
+    "Q": "Solve for y in the equation 4^y = 64.",
+    "A1": "3",
+    "A2": "4",
+    "Ans": "3"
+  },
+  {
+    "Q": "What is the simplified form of (3^2)^3?",
+    "A1": "81",
+    "A2": "729",
+    "Ans": "81"
+  },
+  {
+    "Q": "Exponents can be used to represent large numbers in scientific notation. Which number is equivalent to 50,000 in scientific notation?",
+    "A1": "5 x 10^4",
+    "A2": "5 x 10^3",
+    "Ans": "5 x 10^4"
+  },
+  {
+    "Q": "Exponents help us understand growth patterns. Which scenario best illustrates exponential growth?",
+    "A1": "The growth of a bacterial population over time",
+    "A2": "The decay of radioactive isotopes in Earth's crust",
+    "Ans": "The growth of a bacterial population over time"
+  },
+  {
+    "Q": "How do exponents help solve equations quickly, such as 3^(x+1) = 9?",
+    "A1": "Simplifying the left side and then taking logarithms on both sides",
+    "A2": "By recognizing that 3^2 = 9 and thus x+1 = 2, leading to x=1",
+    "Ans": "By recognizing that 3^2 = 9 and thus x+1 = 2, leading to x=1"
+  }
+]
+[Cambridge G10 Mathematics > Algebra] - Done! Took 51.26 seconds | 410 tokens
+[
+  {
+    "question": "What does 'Domain' refer to in mathematics?",
+    "A": "The range of values a function can produce",
+    "B": "The set of all possible inputs to the function",
+    "C": "The smallest value of the function's output",
+    "D": "The maximum value of the function's input"
+  },
+  {
+    "question": "What does 'Range' refer to in mathematics?",
+    "A": "The range of values a function can produce",
+    "B": "The set of all possible inputs to the function",
+    "C": "The smallest value of the function's output",
+    "D": "The maximum value of the function's input"
+  },
+  {
+    "question": "What does 'Inverse' mean in mathematics?",
+    "A": "Reversing the order of an operation",
+    "B": "Inverting a function or mapping, finding the original input for a given output",
+    "C": "Replacing a variable with its value squared",
+    "D": "Shifting a graph horizontally"
+  },
+  {
+    "question": "What does 'Transformation' mean in mathematics?",
+    "A": "Changing the position of an object without altering it's size or shape",
+    "B": "Adding a constant to every element in a set",
+    "C": "Multiplying every element by a constant factor",
+    "D": "Subtracting a value from every element"
+  },
+  {
+    "question": "What does 'Function' mean?",
+    "A": "A rule that assigns exactly one output for each input",
+    "B": "A relationship where the output depends on multiple inputs",
+    "C": "A graph showing all possible outputs of a function",
+    "D": "A table listing pairs of numbers where the first number is the input and the second is the output"
+  },
+  {
+    "question": "What does 'Graph' mean in mathematics?",
+    "A": "A visual representation that shows how two quantities relate to each other by showing all possible outcomes",
+    "B": "A set of instructions for performing a task",
+    "C": "A written description of a process or procedure",
+    "D": "A diagram representing an idea"
+  },
+  {
+    "question": "What does 'Linear' mean in mathematics?",
+    "A": "A function where the output increases at a constant rate as the input increases",
+    "B": "A relation that can be described by an equation of first degree",
+    "C": "A graph with evenly spaced intervals on both axes",
+    "D": "A set of points that are collinear"
+  },
+  {
+    "question": "What does 'Quadratic' mean in mathematics?",
+    "A": "A function where the output is a constant multiplied by an input raised to the power of two",
+    "B": "A relation between variables expressed as a quadratic equation",
+    "C": "An operation involving square roots",
+    "D": "A graph that forms a parabola"
+  }
+]
+[IB G10 Mathematics > Functions] - Done! Took 184.81 seconds | 489 tokens
+
+🏁 ALL DONE!
+Total Time: 265.77s | Total Tokens: 2150 | Avg Speed: 8.09 tokens/sec

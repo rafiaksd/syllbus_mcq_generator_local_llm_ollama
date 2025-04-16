@@ -1,0 +1,1918 @@
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "Which type of angle has an acute measure less than 90 degrees?", "options": {"a": "Right", "b": "Obtuse", "c": "Acute", "d": "Straight"}, "correct_answer": "Acute"},
+    {"q_no": "2", "question": "What is the sum of the measures of the angles in a straight line?", "options": {"a": "180 degrees", "b": "90 degrees", "c": "360 degrees", "d": "270 degrees"}, "correct_answer": "180 degrees"},
+    {"q_no": "3", "question": "What is the property that describes an angle with a measure of 90 degrees?", "options": {"a": "Right", "b": "Obtuse", "c": "Acute", "d": "Straight"}, "correct_answer": "Right"},
+    {"q_no": "4", "question": "What is the term for an angle whose adjacent angles add up to 180 degrees?", "options": {"a": "Complementary", "b": "Linear pair", "c": "Supplementary", "d": "Corresponding"}, "correct_answer": "Supplementary"},
+    {"q_no": "5", "question": "Which pair of angles are equal in measure because their adjacent angles add up to 180 degrees?", "options": {"a": "Complementary angles", "b": "Linear pairs", "c": "Corresponding angles", "d": "Supplementary angles"}, "correct_answer": "Complementary angles"},
+    {"q_no": "6", "question": "What type of angle has an adjacent angle that is also the exterior angle of a triangle?", "options": {"a": "Exterior", "b": "Right", "c": "Obtuse", "d": "Acute"}, "correct_answer": "Exterior"},
+    {"q_no": "7", "question": "What is the term for an angle formed when two lines intersect?", "options": {"a": "Interior angle", "b": "Exterior angle", "c": "Corresponding angle", "d": "Supplementary angle"}, "correct_answer": "Corresponding angle"},
+    {"q_no": "8", "question": "What is the property that describes an angle with a measure of 90 degrees?", "options": {"a": "Right", "b": "Obtuse", "c": "Acute", "d": "Straight"}, "correct_answer": "Right"},
+    {"q_no": "9", "question": "Which pair of angles are equal in measure because they form a linear pair?", "options": {"a": "Complementary angles", "b": "Linear pairs", "c": "Corresponding angles", "d": "Supplementary angles"}, "correct_answer": "Linear pairs"},
+    {"q_no": "10", "question": "What type of angle is formed when two lines intersect and the exterior angle is equal to the adjacent interior angle?", "options": {"a": "Exterior", "b": "Right", "c": "Obtuse", "d": "Acute"}, "correct_answer": "Right"},
+    {"q_no": "11", "question": "What type of angles are found in a triangle?", "options": {"a": "Right angles", "b": "Obtuse angles", "c": "Acute angles", "d": "All types of angles"}, "correct_answer": "All types of angles"},
+    {"q_no": "12", "question": "What is the sum of the measures of the interior angles of a triangle?", "options": {"a": "180 degrees", "b": "90 degrees", "c": "360 degrees", "d": "270 degrees"}, "correct_answer": "180 degrees"}
+]
+Time Taken: 105.07 seconds | Tokens Produced: 378 | ⚡⚡⚡ Token Speed 3.598 tokens/sec
+✅✅✅ Successfully generated 12 MCQs. Attempts Needed 2
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 2 of 5
+[
+   {
+      "q_no": "1",
+      "question": "Which type of angle has an acute measure less than 90 degrees?",
+      "options": {
+         "a": "Right",
+         "b": "Obtuse",
+         "c": "Acute",
+         "d": "Straight"
+      },
+      "correct_answer": "Acute"
+   },
+   {
+      "q_no": "2",
+      "question": "What is the sum of the measures of the angles in a straight line?",
+      "options": {
+         "a": "180 degrees",
+         "b": "90 degrees",
+         "c": "360 degrees",
+         "d": "270 degrees"
+      },
+      "correct_answer": "180 degrees"
+   },
+   {
+      "q_no": "3",
+      "question": "What is the property that describes an angle with a measure of 90 degrees?",
+      "options": {
+         "a": "Right",
+         "b": "Obtuse",
+         "c": "Acute",
+         "d": "Straight"
+      },
+      "correct_answer": "Right"
+   },
+   {
+      "q_no": "4",
+      "question": "What is the term for an angle whose adjacent angles add up to 180 degrees?",
+      "options": {
+         "a": "Complementary",
+         "b": "Linear pair",
+         "c": "Supplementary",
+         "d": "Corresponding"
+      },
+      "correct_answer": "Supplementary"
+   },
+   {
+      "q_no": "5",
+      "question": "Which pair of angles are equal in measure because their adjacent angles add up to 180 degrees?",
+      "options": {
+         "a": "Complementary angles",
+         "b": "Linear pairs",
+         "c": "Corresponding angles",
+         "d": "Supplementary angles"
+      },
+      "correct_answer": "Complementary angles"
+   },
+   {
+      "q_no": "6",
+      "question": "What type of angle has an adjacent angle that is also the exterior angle of a triangle?",
+      "options": {
+         "a": "Exterior",
+         "b": "Right",
+         "c": "Obtuse",
+         "d": "Acute"
+      },
+      "correct_answer": "Exterior"
+   },
+   {
+      "q_no": "7",
+      "question": "What is the term for an angle formed when two lines intersect?",
+      "options": {
+         "a": "Interior angle",
+         "b": "Exterior angle",
+         "c": "Corresponding angle",
+         "d": "Supplementary angle"
+      },
+      "correct_answer": "Corresponding angle"
+   },
+   {
+      "q_no": "8",
+      "question": "What is the property that describes an angle with a measure of 90 degrees?",
+      "options": {
+         "a": "Right",
+         "b": "Obtuse",
+         "c": "Acute",
+         "d": "Straight"
+      },
+      "correct_answer": "Right"
+   },
+   {
+      "q_no": "9",
+      "question": "Which pair of angles are equal in measure because they form a linear pair?",
+      "options": {
+         "a": "Complementary angles",
+         "b": "Linear pairs",
+         "c": "Corresponding angles",
+         "d": "Supplementary angles"
+      },
+      "correct_answer": "Linear pairs"
+   },
+   {
+      "q_no": "10",
+      "question": "What type of angle is formed when two lines intersect and the exterior angle is equal to the adjacent interior angle?",
+      "options": {
+         "a": "Exterior",
+         "b": "Right",
+         "c": "Obtuse",
+         "d": "Acute"
+      },
+      "correct_answer": "Right"
+   },
+   {
+      "q_no": "11",
+      "question": "What type of angles are found in a triangle?",
+      "options": {
+         "a": "Right angles",
+         "b": "Obtuse angles",
+         "c": "Acute angles",
+         "d": "All types of angles"
+      },
+      "correct_answer": "All types of angles"
+   },
+   {
+      "q_no": "12",
+      "question": "What is the sum of the measures of the interior angles of a triangle?",
+      "options": {
+         "a": "180 degrees",
+         "b": "90 degrees",
+         "c": "360 degrees",
+         "d": "270 degrees"
+      },
+      "correct_answer": "180 degrees"
+   }
+]
+TIME for MCQ: 105.068 | ⚡⚡⚡ Token Speed: 3.598 tokens/sec
+TOTAL Tokens for Syllabus 2 & its MCQ: 429 | TOTAL Time: 238.36
+
+********************************************************************************
+
+Syllabus NUMBER 3 of 5 --- | llama3.2:3b
+
+📝📝📝 GOTTEN SYLLABUS 3 of 5 📝📝📝
+Syllabus for Cambridge Grade 10 Mathematics - Algebra - Exponents and Powers:
+- Introduction to exponents and power notation
+- Evaluating expressions with exponents
+- Adding and subtracting exponential terms
+- Multiplying exponential terms
+- Applying exponent rules in algebraic equations
+- Simplifying expressions using exponent properties
+TIME for SYLLABUS: 10.864 | ⚡⚡⚡ Token Speed: 4.326 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1/4 for Syllabus 3 of 5... | llama3.2:3b
+
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What is the meaning of the symbol ^ in power notation?", "options": {"a": "Exponentiation", "b": "Root extraction", "c": "Order of operations", "d": "Trigonometric function"}, "correct_answer": "Exponentiation"},
+    {"q_no": "2", "question": "What is the result of 2^3?", "options": {"a": "8", "b": "6", "c": "4", "d": "10"}, "correct_answer": "8"},
+    {"q_no": "3", "question": "Simplify the expression (2x)^3", "options": {"a": "8x^3", "b": "2x^3", "c": "6x^3", "d": "10x^3"}, "correct_answer": "8x^3"},
+    {"q_no": "4", "question": "What is the result of 5^(-2)?", "options": {"a": "0.04", "b": "0.25", "c": "0.1", "d": "0.01"}, "correct_answer": "0.04"},
+    {"q_no": "5", "question": "What is the meaning of e in exponential notation?", "options": {"a": "Base of natural logarithm", "b": "Exponentiation base", "c": "Trigonometric function", "d": "Order of operations"}, "correct_answer": "Exponentiation base"},
+    {"q_no": "6", "question": "Simplify the expression e^(2x+1)", "options": {"a": "e^2x + e", "b": "e^(2x+1) + 1", "c": "2ex + e", "d": "ex^2 + e"}, "correct_answer": "e^(2x+1)"},
+    {"q_no": "7", "question": "What is the result of (2x)^(-3)?", "options": {"a": "8x^(-3)", "b": "2x^(-3)", "c": "6x^(-3)", "d": "10x^(-3)"}, "correct_answer": "2x^(-3)"},
+    {"q_no": "8", "question": "Simplify the expression x^(a/b)", "options": {"a": "x^a / x^b", "b": "x^a * x^b", "c": "x^(a+b)", "d": "x^(a-b)"}, "correct_answer": "x^(a/b)"},
+    {"q_no": "9", "question": "What is the result of 3^(-2/3)?", "options": {"a": "0.09", "b": "0.33", "c": "0.27", "d": "0.36"}, "correct_answer": "0.09"},
+    {"q_no": "10", "question": "Simplify the expression (x^2)^(-3)", "options": {"a": "x^(-6)", "b": "x^(-4)", "c": "x^(-5)", "d": "x^(-2)"}, "correct_answer": "x^(-6)"},
+    {"q_no": "11", "question": "What is the result of e^(2+ln(x))?", "options": {"a": "e^2 * x", "b": "e^2 + ln(x)", "c": "2ex + e", "d": "e^x"}, "correct_answer": "e^(2+ln(x))"},
+    {"q_no": "12", "question": "Simplify the expression (x^a)^b", "options": {"a": "x^(ab)", "b": "x^(a+b)", "c": "x^(a-b)", "d": "x^(a/b)"}, "correct_answer": "x^(a*b)"}
+]
+Time Taken: 115.18 seconds | Tokens Produced: 270 | ⚡⚡⚡ Token Speed 2.344 tokens/sec
+✅✅✅ Successfully generated 12 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 3 of 5
+[
+   {
+      "q_no": "1",
+      "question": "What is the meaning of the symbol ^ in power notation?",
+      "options": {
+         "a": "Exponentiation",
+         "b": "Root extraction",
+         "c": "Order of operations",
+         "d": "Trigonometric function"
+      },
+      "correct_answer": "Exponentiation"
+   },
+   {
+      "q_no": "2",
+      "question": "What is the result of 2^3?",
+      "options": {
+         "a": "8",
+         "b": "6",
+         "c": "4",
+         "d": "10"
+      },
+      "correct_answer": "8"
+   },
+   {
+      "q_no": "3",
+      "question": "Simplify the expression (2x)^3",
+      "options": {
+         "a": "8x^3",
+         "b": "2x^3",
+         "c": "6x^3",
+         "d": "10x^3"
+      },
+      "correct_answer": "8x^3"
+   },
+   {
+      "q_no": "4",
+      "question": "What is the result of 5^(-2)?",
+      "options": {
+         "a": "0.04",
+         "b": "0.25",
+         "c": "0.1",
+         "d": "0.01"
+      },
+      "correct_answer": "0.04"
+   },
+   {
+      "q_no": "5",
+      "question": "What is the meaning of e in exponential notation?",
+      "options": {
+         "a": "Base of natural logarithm",
+         "b": "Exponentiation base",
+         "c": "Trigonometric function",
+         "d": "Order of operations"
+      },
+      "correct_answer": "Exponentiation base"
+   },
+   {
+      "q_no": "6",
+      "question": "Simplify the expression e^(2x+1)",
+      "options": {
+         "a": "e^2x + e",
+         "b": "e^(2x+1) + 1",
+         "c": "2ex + e",
+         "d": "ex^2 + e"
+      },
+      "correct_answer": "e^(2x+1)"
+   },
+   {
+      "q_no": "7",
+      "question": "What is the result of (2x)^(-3)?",
+      "options": {
+         "a": "8x^(-3)",
+         "b": "2x^(-3)",
+         "c": "6x^(-3)",
+         "d": "10x^(-3)"
+      },
+      "correct_answer": "2x^(-3)"
+   },
+   {
+      "q_no": "8",
+      "question": "Simplify the expression x^(a/b)",
+      "options": {
+         "a": "x^a / x^b",
+         "b": "x^a * x^b",
+         "c": "x^(a+b)",
+         "d": "x^(a-b)"
+      },
+      "correct_answer": "x^(a/b)"
+   },
+   {
+      "q_no": "9",
+      "question": "What is the result of 3^(-2/3)?",
+      "options": {
+         "a": "0.09",
+         "b": "0.33",
+         "c": "0.27",
+         "d": "0.36"
+      },
+      "correct_answer": "0.09"
+   },
+   {
+      "q_no": "10",
+      "question": "Simplify the expression (x^2)^(-3)",
+      "options": {
+         "a": "x^(-6)",
+         "b": "x^(-4)",
+         "c": "x^(-5)",
+         "d": "x^(-2)"
+      },
+      "correct_answer": "x^(-6)"
+   },
+   {
+      "q_no": "11",
+      "question": "What is the result of e^(2+ln(x))?",
+      "options": {
+         "a": "e^2 * x",
+         "b": "e^2 + ln(x)",
+         "c": "2ex + e",
+         "d": "e^x"
+      },
+      "correct_answer": "e^(2+ln(x))"
+   },
+   {
+      "q_no": "12",
+      "question": "Simplify the expression (x^a)^b",
+      "options": {
+         "a": "x^(ab)",
+         "b": "x^(a+b)",
+         "c": "x^(a-b)",
+         "d": "x^(a/b)"
+      },
+      "correct_answer": "x^(a*b)"
+   }
+]
+TIME for MCQ: 115.18 | ⚡⚡⚡ Token Speed: 2.344 tokens/sec
+TOTAL Tokens for Syllabus 3 & its MCQ: 317 | TOTAL Time: 126.06
+
+********************************************************************************
+
+Syllabus NUMBER 4 of 5 --- | llama3.2:3b
+
+📝📝📝 GOTTEN SYLLABUS 4 of 5 📝📝📝
+Syllabus for IB Grade 10 Mathematics - Functions - Notation and Representation:
+- Introduction to function notation
+- Graphical representation of functions
+- Function evaluation using tables and algebraic methods
+- Understanding horizontal lines and their relation to functions
+- Interpreting x-intercepts, y-intercepts, and symmetry
+- Analyzing function composition
+TIME for SYLLABUS: 11.544 | ⚡⚡⚡ Token Speed: 4.245 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1/4 for Syllabus 4 of 5... | llama3.2:3b
+
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What notation is commonly used to represent a function?", "options": {"a": "y=f(x)", "b": "x^2+3x+2", "c": "y-2x+4=0", "d": "sin(x)"}, "correct_answer": "a"},
+    {"q_no": "2", "question": "Graphical representation of functions is useful for which purpose?", "options": {"a": "Solving equations algebraically", "b": "Interpreting x-intercepts and y-intercepts", "c": "Evaluating function values at specific points", "d": "Analyzing function composition"}, "correct_answer": "b"},
+    {"q_no": "3", "question": "Function evaluation using tables is typically used for which type of problems?", "options": {"a": "Algebraic simplification", "b": "Graphical analysis", "c": "Numerical approximation", "d": "Symbolic manipulation"}, "correct_answer": "c"},
+    {"q_no": "4", "question": "Horizontal lines are related to functions in which way?", "options": {"a": "Vertical asymptotes occur on horizontal lines", "b": "Horizontal asymptotes occur at y=0", "c": "Horizontal lines represent the function's intercepts", "d": "No specific relation exists between horizontal lines and functions"}, "correct_answer": "c"},
+    {"q_no": "5", "question": "X-intercepts of a function are determined by which line?", "options": {"a": "y=0", "b": "x=0", "c": "y=x", "d": "2x-y+4=0"}, "correct_answer": "b"},
+    {"q_no": "6", "question": "Symmetry in a function can be identified by which type of line?", "options": {"a": "x=y", "b": "y=x", "c": "2x+y-3=0", "d": "x-2y+4=0"}, "correct_answer": "b"},
+    {"q_no": "7", "question": "What is the result of evaluating a function at x=a?", "options": {"a": "f(a)", "b": "f^(-1)(a)", "c": "sin(2a)", "d": "cos(h)}, "correct_answer": "a"},
+    {"q_no": "8", "question": "What notation is used to represent function composition?", "options": {"a": "•(x)", "b": "(f ∘ g)(x)", "c": "f(g(x))", "d": "sin(x) + 3"}, "correct_answer": "b"},
+    {"q_no": "9", "question": "Which operation is involved in function composition?", "options": {"a": "Multiplication", "b": "Division", "c": "Addition and Subtraction", "d": "None of the above"}, "correct_answer": "d"},
+    {"q_no": "10", "question": "What type of problem requires analyzing function composition?", "options": {"a": "Solving quadratic equations", "b": "Evaluating trigonometric functions", "c": "Analyzing function behavior", "d": "Graphing rational expressions"}, "correct_answer": "c"},
+    {"q_no": "11", "question": "Which of the following is NOT a type of symmetry in a function?", "options": {"a": "Line of symmetry", "b": "Point of symmetry", "c": "Midpoint of symmetry", "d": "None of the above"}, "correct_answer": "d"},
+    {"q_no": "12", "question": "Which characteristic is true for horizontal lines in function representation?", "options": {"a": "They always intersect with functions at exactly one point", "b": "They are always vertical asymptotes", "c": "They represent the function's intercepts", "d": "They have no relation to functions"}, "correct_answer": "c"}
+]
+Time Taken: 106.32 seconds | Tokens Produced: 371 | ⚡⚡⚡ Token Speed 3.490 tokens/sec
+⚠️ Error: Invalid JSON format...
+
+Attempt 2/4 for Syllabus 4 of 5... | llama3.2:3b
+
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What is the primary purpose of using function notation?", "options": {"a": "To represent a linear relationship", "b": "To define the input-output relationship of a function", "c": "To graph a polynomial equation", "d": "To solve a system of equations"}, "correct_answer": "To define the input-output relationship of a function"},
+    {"q_no": "2", "question": "What is the main difference between a horizontal line and a vertical line in graphical representation?", "options": {"a": "Direction", "b": "Slope", "c": "Intercept", "d": "Both horizontal and vertical lines are used to represent functions"}, "correct_answer": "Direction"},
+    {"q_no": "3", "question": "What type of line represents a function?", "options": {"a": "Horizontal line", "b": "Vertical line", "c": "Oblique line", "d": "Diagonal line"}, "correct_answer": "Horizontal line"},
+    {"q_no": "4", "question": "How do x-intercepts relate to functions?", "options": {"a": "They define the range of values for a function", "b": "They determine the domain and range of a function", "c": "They show where a function intersects the x-axis", "d": "They measure the distance between points on a graph"}, "correct_answer": "They show where a function intersects the x-axis"},
+    {"q_no": "5", "question": "What is the purpose of analyzing symmetry in functions?", "options": {"a": "To determine if a function is even or odd", "b": "To identify where a function has maxima or minima", "c": "To understand how a function behaves under transformations", "d": "All of the above"}, "correct_answer": "All of the above"},
+    {"q_no": "6", "question": "How do tables and algebraic methods differ in evaluating functions?", "options": {"a": "One is more accurate than the other", "b": "One provides more information about a function's behavior", "c": "One is used for simple calculations while the other is used for complex ones", "d": "Both are equally effective"}, "correct_answer": "Both are equally effective"},
+    {"q_no": "7", "question": "What type of line shows where a function has no y-intercept?", "options": {"a": "Horizontal line", "b": "Vertical line", "c": "Oblique line", "d": "Diagonal line"}, "correct_answer": "Vertical line"},
+    {"q_no": "8", "question": "What is the relation between a function and its inverse?", "options": {"a": "They are always equal to each other", "b": "They are never equal to each other", "c": "One can be expressed in terms of the other using composition or substitution", "d": "They measure distance on a graph"}, "correct_answer": "They can be expressed in terms of each other using composition or substitution"},
+    {"q_no": "9", "question": "What type of transformation is represented by function composition?", "options": {"a": "Reflexive", "b": "Symmetric", "c": "Transitive and reflexive", "d": "All of the above"}, "correct_answer": "All of the above"},
+    {"q_no": "10", "question": "How do horizontal lines relate to functions?", "options": {"a": "They intersect with a function at a single point", "b": "They are parallel to a function's graph", "c": "They represent a function itself", "d": "All of the above"}, "correct_answer": "All of the above"},
+    {"q_no": "11", "question": "What is the purpose of analyzing function composition?", "options": {"a": "To determine if a function is one-to-one or not", "b": "To understand how a function behaves under repeated applications", "c": "To simplify complex functions into more manageable ones", "d": "All of the above"}, "correct_answer": "All of the above"},
+    {"q_no": "12", "question": "How do intercepts relate to a function's graph?", "options": {"a": "They define where a function crosses the x-axis or y-axis", "b": "They measure the distance between points on a graph", "c": "They determine if a function is even or odd", "d": "Both horizontal and vertical lines are used to represent functions"}, "correct_answer": "They define where a function crosses the x-axis or y-axis"}
+Time Taken: 121.08 seconds | Tokens Produced: 569 | ⚡⚡⚡ Token Speed 4.699 tokens/sec
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+
+Attempt 3/4 for Syllabus 4 of 5... | llama3.2:3b
+
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What is the primary use of parentheses in function notation?", "options": {"a": "To represent the domain of a function", "b": "To simplify calculations", "c": "To specify the output value", "d": "To define the input variable"}, "correct_answer": "To simplify calculations"},
+    {"q_no": "2", "question": "Which of the following is an example of a horizontal line in graphical representation?", "options": {"a": "Vertical line", "b": "Horizontal line", "c": "Diagonal line", "d": "Slanted line"}, "correct_answer": "Horizontal line"},
+    {"q_no": "3", "question": "What is the purpose of using algebraic methods to evaluate functions?", "options": {"a": "To determine the domain", "b": "To find x-intercepts and y-intercepts", "c": "To analyze function composition", "d": "To graph functions"}, "correct_answer": "To find x-intercepts and y-intercepts"},
+    {"q_no": "4", "question": "Which type of line is used to represent the value of a function at a given point?", "options": {"a": "Horizontal line", "b": "Vertical line", "c": "Diagonal line", "d": "Slanted line"}, "correct_answer": "Vertical line"},
+    {"q_no": "5", "question": "What is the significance of x-intercepts in a graphical representation?", "options": {"a": "To determine the domain", "b": "To find the maximum value", "c": "To analyze function composition", "d": "To identify key features"}, "correct_answer": "To identify key features"},
+    {"q_no": "6", "question": "Which of the following represents the equation of a horizontal line?", "options": {"a": "y = x^2", "b": "y = 2x + 1", "c": "y = constant", "d": "y = sin(x)"}, "correct_answer": "c": "y = constant"},
+    {"q_no": "7", "question": "What is the purpose of analyzing function composition?", "options": {"a": "To determine the domain", "b": "To find x-intercepts and y-intercepts", "c": "To understand how functions relate to each other", "d": "To graph functions"}, "correct_answer": "To understand how functions relate to each other"},
+    {"q_no": "8", "question": "Which of the following is an example of function composition?", "options": {"a": "(f ∘ g)(x) = f(g(x))", "b": "g(f(x))", "c": "f(x) + g(x)", "d": "g(x) - f(x)"}, "correct_answer": "a": "(f ∘ g)(x) = f(g(x))"},
+    {"q_no": "9", "question": "What is the significance of symmetry in a graphical representation?", "options": {"a": "To determine the domain", "b": "To find x-intercepts and y-intercepts", "c": "To analyze function composition", "d": "To identify key features"}, "correct_answer": "To identify key features"},
+    {"q_no": "10", "question": "Which of the following represents the equation of a line that passes through the origin?", "options": {"a": "y = x^2", "b": "x = y + 1", "c": "x = y - 1", "d": "y = constant"}, "correct_answer": "b": "x = y + 1"},
+    {"q_no": "11", "question": "What is the purpose of using tables to evaluate functions?", "options": {"a": "To determine the domain", "b": "To find x-intercepts and y-intercepts", "c": "To analyze function composition", "d": "To visualize relationships"}, "correct_answer": "To visualize relationships"},
+    {"q_no": "12", "question": "Which of the following is an example of a function that has no domain restrictions?", "options": {"a": "x^2 + 1", "b": "sin(x)", "c": "e^x", "d": "g(x) = 1/x"}, "correct_answer": "d": "g(x) = 1/x"}
+]
+Time Taken: 119.93 seconds | Tokens Produced: 474 | ⚡⚡⚡ Token Speed 3.952 tokens/sec
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+
+Attempt 4/4 for Syllabus 4 of 5... | llama3.2:3b
+
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What is the primary purpose of using function notation?", "options": {"a": "To represent a relationship between variables", "b": "To find the value of a specific input", "c": "To graph a function visually", "d": "To solve equations algebraically"}, "correct_answer": "To represent a relationship between variables"},
+    {"q_no": "2", "question": "What type of line represents a constant output value for a given input in a function?", "options": {"a": "Horizontal line", "b": "Vertical line", "c": "Oblique line", "d": "Diagonal line"}, "correct_answer": "Horizontal line"},
+    {"q_no": "3", "question": "Which method is used to evaluate functions by looking at the output values for specific input values?", "options": {"a": "Table method", "b": "Algebraic method", "c": "Graphical method", "d": "Numerical method"}, "correct_answer": "Table method"},
+    {"q_no": "4", "question": "What is the significance of an x-intercept in a function?", "options": {"a": "It represents the point where the function crosses the y-axis", "b": "It represents the point where the function crosses the x-axis", "c": "It represents the point where the function changes direction", "d": "It represents the point where the function is undefined"}, "correct_answer": "It represents the point where the function crosses the x-axis"},
+    {"q_no": "5", "question": "What type of symmetry occurs when a function has equal y-values for equal positive and negative input values?", "options": {"a": "Vertical symmetry", "b": "Horizontal symmetry", "c": "Rotational symmetry", "d": "Glacial symmetry"}, "correct_answer": "Horizontal symmetry"},
+    {"q_no": "6", "question": "What is the primary purpose of function composition?", "options": {"a": "To simplify complex functions", "b": "To find the inverse of a function", "c": "To represent multiple functions as one", "d": "To graph functions visually"}, "correct_answer": "To represent multiple functions as one"},
+    {"q_no": "7", "question": "What type of line represents an increasing output value for a given input in a function?", "options": {"a": "Increasing line", "b": "Decreasing line", "c": "Oblique line", "d": "Diagonal line"}, "correct_answer": "Increasing line"},
+    {"q_no": "8", "question": "What is the significance of a y-intercept in a function?", "options": {"a": "It represents the point where the function crosses the x-axis", "b": "It represents the point where the function changes direction", "c": "It represents the point where the function is undefined", "d": "It represents the point where the function has zero output"}, "correct_answer": "It represents the point where the function crosses the y-axis"},
+    {"q_no": "9", "question": "What type of symmetry occurs when a function has equal x-values for equal positive and negative input values?", "options": {"a": "Vertical symmetry", "b": "Horizontal symmetry", "c": "Rotational symmetry", "d": "Glacial symmetry"}, "correct_answer": "Vertical symmetry"},
+    {"q_no": "10", "question": "What is the primary purpose of evaluating a function at specific input values?", "options": {"a": "To find the inverse of a function", "b": "To represent multiple functions as one", "c": "To simplify complex functions", "d": "To graph functions visually"}, "correct_answer": "To find the value of a specific input"},
+    {"q_no": "11", "question": "What type of line represents a decreasing output value for a given input in a function?", "options": {"a": "Increasing line", "b": "Decreasing line", "c": "Oblique line", "d": "Diagonal line"}, "correct_answer": "Decreasing line"},
+    {"q_no": "12", "question": "What is the significance of an x-intercept in a function in terms of its relationship to the graph?", "options": {"a": "It represents the point where the function crosses the y-axis", "b": "It represents the point where the function changes direction", "c": "It represents the point where the function is undefined", "d": "It represents the point where the function has zero output"}, "correct_answer": "It represents the point where the function crosses the x-axis"}
+]
+Time Taken: 120.73 seconds | Tokens Produced: 568 | ⚡⚡⚡ Token Speed 4.705 tokens/sec
+✅✅✅ Successfully generated 12 MCQs. Attempts Needed 4
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 4 of 5
+[
+   {
+      "q_no": "1",
+      "question": "What is the primary purpose of using function notation?",
+      "options": {
+         "a": "To represent a relationship between variables",
+         "b": "To find the value of a specific input",
+         "c": "To graph a function visually",
+         "d": "To solve equations algebraically"
+      },
+      "correct_answer": "To represent a relationship between variables"
+   },
+   {
+      "q_no": "2",
+      "question": "What type of line represents a constant output value for a given input in a function?",
+      "options": {
+         "a": "Horizontal line",
+         "b": "Vertical line",
+         "c": "Oblique line",
+         "d": "Diagonal line"
+      },
+      "correct_answer": "Horizontal line"
+   },
+   {
+      "q_no": "3",
+      "question": "Which method is used to evaluate functions by looking at the output values for specific input values?",
+      "options": {
+         "a": "Table method",
+         "b": "Algebraic method",
+         "c": "Graphical method",
+         "d": "Numerical method"
+      },
+      "correct_answer": "Table method"
+   },
+   {
+      "q_no": "4",
+      "question": "What is the significance of an x-intercept in a function?",
+      "options": {
+         "a": "It represents the point where the function crosses the y-axis",
+         "b": "It represents the point where the function crosses the x-axis",
+         "c": "It represents the point where the function changes direction",
+         "d": "It represents the point where the function is undefined"
+      },
+      "correct_answer": "It represents the point where the function crosses the x-axis"
+   },
+   {
+      "q_no": "5",
+      "question": "What type of symmetry occurs when a function has equal y-values for equal positive and negative input values?",
+      "options": {
+         "a": "Vertical symmetry",
+         "b": "Horizontal symmetry",
+         "c": "Rotational symmetry",
+         "d": "Glacial symmetry"
+      },
+      "correct_answer": "Horizontal symmetry"
+   },
+   {
+      "q_no": "6",
+      "question": "What is the primary purpose of function composition?",
+      "options": {
+         "a": "To simplify complex functions",
+         "b": "To find the inverse of a function",
+         "c": "To represent multiple functions as one",
+         "d": "To graph functions visually"
+      },
+      "correct_answer": "To represent multiple functions as one"
+   },
+   {
+      "q_no": "7",
+      "question": "What type of line represents an increasing output value for a given input in a function?",
+      "options": {
+         "a": "Increasing line",
+         "b": "Decreasing line",
+         "c": "Oblique line",
+         "d": "Diagonal line"
+      },
+      "correct_answer": "Increasing line"
+   },
+   {
+      "q_no": "8",
+      "question": "What is the significance of a y-intercept in a function?",
+      "options": {
+         "a": "It represents the point where the function crosses the x-axis",
+         "b": "It represents the point where the function changes direction",
+         "c": "It represents the point where the function is undefined",
+         "d": "It represents the point where the function has zero output"
+      },
+      "correct_answer": "It represents the point where the function crosses the y-axis"
+   },
+   {
+      "q_no": "9",
+      "question": "What type of symmetry occurs when a function has equal x-values for equal positive and negative input values?",
+      "options": {
+         "a": "Vertical symmetry",
+         "b": "Horizontal symmetry",
+         "c": "Rotational symmetry",
+         "d": "Glacial symmetry"
+      },
+      "correct_answer": "Vertical symmetry"
+   },
+   {
+      "q_no": "10",
+      "question": "What is the primary purpose of evaluating a function at specific input values?",
+      "options": {
+         "a": "To find the inverse of a function",
+         "b": "To represent multiple functions as one",
+         "c": "To simplify complex functions",
+         "d": "To graph functions visually"
+      },
+      "correct_answer": "To find the value of a specific input"
+   },
+   {
+      "q_no": "11",
+      "question": "What type of line represents a decreasing output value for a given input in a function?",
+      "options": {
+         "a": "Increasing line",
+         "b": "Decreasing line",
+         "c": "Oblique line",
+         "d": "Diagonal line"
+      },
+      "correct_answer": "Decreasing line"
+   },
+   {
+      "q_no": "12",
+      "question": "What is the significance of an x-intercept in a function in terms of its relationship to the graph?",
+      "options": {
+         "a": "It represents the point where the function crosses the y-axis",
+         "b": "It represents the point where the function changes direction",
+         "c": "It represents the point where the function is undefined",
+         "d": "It represents the point where the function has zero output"
+      },
+      "correct_answer": "It represents the point where the function crosses the x-axis"
+   }
+]
+TIME for MCQ: 120.732 | ⚡⚡⚡ Token Speed: 4.705 tokens/sec
+TOTAL Tokens for Syllabus 4 & its MCQ: 617 | TOTAL Time: 479.63
+
+********************************************************************************
+
+Syllabus NUMBER 5 of 5 --- | llama3.2:3b
+
+📝📝📝 GOTTEN SYLLABUS 5 of 5 📝📝📝
+Syllabus for IB Grade 12 Physics - Quantum Physics:
+- Understanding wave-particle duality
+- The photoelectric effect: classical and quantum perspectives
+- Einstein's explanation of the photoelectric effect
+- Quantization of energy in photons
+- Energy-momentum relations in quantum mechanics
+- Applications of the photoelectric effect
+TIME for SYLLABUS: 11.215 | ⚡⚡⚡ Token Speed: 4.102 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1/4 for Syllabus 5 of 5... | llama3.2:3b
+
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What is the fundamental concept that underlies both wave-like and particle-like behavior of matter?", "options": {"a": "Wave-particle duality", "b": "Quantization of energy", "c": "Energy-momentum relations", "d": "Photoelectric effect"}, "correct_answer": "Wave-particle duality"},
+    {"q_no": "2", "question": "According to Einstein's explanation of the photoelectric effect, what is the minimum energy required for an electron to be emitted from a metal surface?", "options": {"a": "Photon's frequency", "b": "Photon's intensity", "c": "Photon's wavelength", "d": "Photon's speed"}, "correct_answer": "Photon's frequency"},
+    {"q_no": "3", "question": "In the context of quantum mechanics, what is quantization of energy in photons?", "options": {"a": "Energy transfer between particles", "b": "Quantum fluctuations", "c": "Discrete packets of energy", "d": "Wave-particle duality"}, "correct_answer": "Discrete packets of energy"},
+    {"q_no": "4", "question": "Which relationship in quantum mechanics relates the energy and momentum of a photon?", "options": {"a": "E=mc^2", "b": "E=E0+hc/λ", "c": "p=mv", "d": "E=p^2/c^2"}, "correct_answer": "E=E0+hc/λ"},
+    {"q_no": "5", "question": "What is the primary application of the photoelectric effect in physics?", "options": {"a": "Quantum computing", "b": "Particle accelerator", "c": "Solar cells", "d": "Electrical switching"}, "correct_answer": "Solar cells"},
+    {"q_no": "6", "question": "In the context of wave-particle duality, what is the primary difference between a particle and a wave?", "options": {"a": "Wave has amplitude, particle has momentum", "b": "Particle has amplitude, wave has momentum", "c": "Both have amplitude and momentum", "d": "Neither has amplitude or momentum"}, "correct_answer": "Both have amplitude and momentum"},
+    {"q_no": "7", "question": "According to the energy-momentum relations in quantum mechanics, what is the relationship between an object's mass and its momentum?", "options": {"a": "E=mc^2", "b": "p=mv", "c": "E=p^2/c^2", "d": "p=E/mc^2"}, "correct_answer": "p=mv"},
+    {"q_no": "8", "question": "What is the primary consequence of wave-particle duality in quantum physics?", "options": {"a": "Particles have definite position and momentum", "b": "Waves have definite position and momentum", "c": "Neither particles nor waves have definite position or momentum", "d": "Both particles and waves can exhibit both properties"}, "correct_answer": "Both particles and waves can exhibit both properties"},
+    {"q_no": "9", "question": "In the context of the photoelectric effect, what is the primary role of the material surface?", "options": {"a": "To absorb photons", "b": "To emit electrons", "c": "To reflect photons", "d": "To transmit electrons"}, "correct_answer": "To reflect photons"},
+    {"q_no": "10", "question": "According to Einstein's explanation of the photoelectric effect, what is the relationship between the photon's energy and its frequency?", "options": {"a": "Energy = h*frequency", "b": "Frequency = Energy/h", "c": "Energy = hc/λ", "d": "Frequency = λ/Energy"}, "correct_answer": "Energy = h*frequency"},
+    {"q_no": "11", "question": "In the context of quantum mechanics, what is the primary difference between wave-particle duality and energy-momentum relations?", "options": {"a": "Wave-particle duality deals with particles, while energy-momentum relations deal with waves", "b": "Wave-particle duality deals with waves, while energy-momentum relations deal with particles", "c": "Both deal with particles and waves", "d": "Neither deals with particles nor waves"}, "correct_answer": "Both deal with particles and waves"},
+    {"q_no": "12", "question": "According to the photoelectric effect, what is the primary role of light in this phenomenon?", "options": {"a": "To absorb electrons from a material surface", "b": "To emit electrons from a material surface", "c": "To reflect photons off a material surface", "d": "To transmit electrons through a material surface"}, "correct_answer": "To emit electrons from a material surface"}
+Time Taken: 112.99 seconds | Tokens Produced: 524 | ⚡⚡⚡ Token Speed 4.638 tokens/sec
+⚠️ Error: Invalid JSON format...
+
+Attempt 2/4 for Syllabus 5 of 5... | llama3.2:3b
+
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What is the fundamental principle that describes the dual nature of matter and energy?", "options": {"a": "Wave-particle duality", "b": "Quantization of energy", "c": "Uncertainty principle", "d": "Entanglement"}, "correct_answer": "Wave-particle duality"},
+    {"q_no": "2", "question": "Which experiment provides evidence for the particle nature of light?", "options": {"a": "Photoelectric effect", "b": "Compton scattering", "c": "Mossbauer effect", "d": "Lamb shift"}, "correct_answer": "Photoelectric effect"},
+    {"q_no": "3", "question": "According to Einstein, what is the minimum energy required for an electron to escape from a metal surface?", "options": {"a": "Kinetic energy of photon", "b": "Work function of material", "c": "Energy of photon minus work function", "d": "Heat energy transferred"}, "correct_answer": "Energy of photon minus work function"},
+    {"q_no": "4", "question": "What is the fundamental principle that governs the quantization of energy in photons?", "options": {"a": "Planck's constant", "b": "Schrodinger equation", "c": "Heisenberg uncertainty principle", "d": "Dirac equation"}, "correct_answer": "Quantization of energy"},
+    {"q_no": "5", "question": "Which relationship describes the connection between energy and momentum in quantum mechanics?", "options": {"a": "E = mc^2", "b": "E^2 = (pc)^2 + (mc^2)^2", "c": "E = hf", "d": "p = mv"}, "correct_answer": "E^2 = (pc)^2 + (mc^2)^2"},
+    {"q_no": "6", "question": "What is the term used to describe the phenomenon where the energy of a photon is dependent on its frequency?", "options": {"a": "Quantization of energy", "b": "Wave-particle duality", "c": "Photoelectric effect", "d": "Compton scattering"}, "correct_answer": "Photoelectric effect"},
+    {"q_no": "7", "question": "According to the photoelectric effect, what happens when a photon with insufficient energy hits an electron?", "options": {"a": "The electron is ejected", "b": "The electron is absorbed", "c": "The photon is reflected", "d": "The electron is emitted"}, "correct_answer": "The electron is not ejected"},
+    {"q_no": "8", "question": "Which application of the photoelectric effect involves the emission of electrons from a material when illuminated with light?", "options": {"a": "Solar cells", "b": "Lamps", "c": "Lasers", "d": "Computing"}, "correct_answer": "Solar cells"},
+    {"q_no": "9", "question": "What is the term used to describe the phenomenon where the energy of a photon is dependent on its frequency?", "options": {"a": "Quantization of energy", "b": "Wave-particle duality", "c": "Photoelectric effect", "d": "Compton scattering"}, "correct_answer": "Quantization of energy"},
+    {"q_no": "10", "question": "According to Einstein, what is the minimum time required for an electron to escape from a metal surface?", "options": {"a": "Time dependent on kinetic energy", "b": "Time dependent on work function", "c": "Time dependent on frequency of photon", "d": "Time dependent on momentum"}, "correct_answer": "Time dependent on frequency of photon"},
+    {"q_no": "11", "question": "What is the fundamental principle that describes the connection between energy and time in quantum mechanics?", "options": {"a": "Heisenberg uncertainty principle", "b": "Schrodinger equation", "c": "Dirac equation", "d": "Planck's constant"}, "correct_answer": "Heisenberg uncertainty principle"},
+    {"q_no": "12", "question": "Which phenomenon involves the transfer of energy from a photon to an electron in a material?", "options": {"a": "Compton scattering", "b": "Mossbauer effect", "c": "Lamb shift", "d": "Photoelectric effect"}, "correct_answer": "Photoelectric effect"}
+]
+Time Taken: 124.22 seconds | Tokens Produced: 474 | ⚡⚡⚡ Token Speed 3.816 tokens/sec
+✅✅✅ Successfully generated 12 MCQs. Attempts Needed 2
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 5 of 5
+[
+   {
+      "q_no": "1",
+      "question": "What is the fundamental principle that describes the dual nature of matter and energy?",
+      "options": {
+         "a": "Wave-particle duality",
+         "b": "Quantization of energy",
+         "c": "Uncertainty principle",
+         "d": "Entanglement"
+      },
+      "correct_answer": "Wave-particle duality"
+   },
+   {
+      "q_no": "2",
+      "question": "Which experiment provides evidence for the particle nature of light?",
+      "options": {
+         "a": "Photoelectric effect",
+         "b": "Compton scattering",
+         "c": "Mossbauer effect",
+         "d": "Lamb shift"
+      },
+      "correct_answer": "Photoelectric effect"
+   },
+   {
+      "q_no": "3",
+      "question": "According to Einstein, what is the minimum energy required for an electron to escape from a metal surface?",
+      "options": {
+         "a": "Kinetic energy of photon",
+         "b": "Work function of material",
+         "c": "Energy of photon minus work function",
+         "d": "Heat energy transferred"
+      },
+      "correct_answer": "Energy of photon minus work function"
+   },
+   {
+      "q_no": "4",
+      "question": "What is the fundamental principle that governs the quantization of energy in photons?",
+      "options": {
+         "a": "Planck's constant",
+         "b": "Schrodinger equation",
+         "c": "Heisenberg uncertainty principle",
+         "d": "Dirac equation"
+      },
+      "correct_answer": "Quantization of energy"
+   },
+   {
+      "q_no": "5",
+      "question": "Which relationship describes the connection between energy and momentum in quantum mechanics?",
+      "options": {
+         "a": "E = mc^2",
+         "b": "E^2 = (pc)^2 + (mc^2)^2",
+         "c": "E = hf",
+         "d": "p = mv"
+      },
+      "correct_answer": "E^2 = (pc)^2 + (mc^2)^2"
+   },
+   {
+      "q_no": "6",
+      "question": "What is the term used to describe the phenomenon where the energy of a photon is dependent on its frequency?",
+      "options": {
+         "a": "Quantization of energy",
+         "b": "Wave-particle duality",
+         "c": "Photoelectric effect",
+         "d": "Compton scattering"
+      },
+      "correct_answer": "Photoelectric effect"
+   },
+   {
+      "q_no": "7",
+      "question": "According to the photoelectric effect, what happens when a photon with insufficient energy hits an electron?",
+      "options": {
+         "a": "The electron is ejected",
+         "b": "The electron is absorbed",
+         "c": "The photon is reflected",
+         "d": "The electron is emitted"
+      },
+      "correct_answer": "The electron is not ejected"
+   },
+   {
+      "q_no": "8",
+      "question": "Which application of the photoelectric effect involves the emission of electrons from a material when illuminated with light?",
+      "options": {
+         "a": "Solar cells",
+         "b": "Lamps",
+         "c": "Lasers",
+         "d": "Computing"
+      },
+      "correct_answer": "Solar cells"
+   },
+   {
+      "q_no": "9",
+      "question": "What is the term used to describe the phenomenon where the energy of a photon is dependent on its frequency?",
+      "options": {
+         "a": "Quantization of energy",
+         "b": "Wave-particle duality",
+         "c": "Photoelectric effect",
+         "d": "Compton scattering"
+      },
+      "correct_answer": "Quantization of energy"
+   },
+   {
+      "q_no": "10",
+      "question": "According to Einstein, what is the minimum time required for an electron to escape from a metal surface?",
+      "options": {
+         "a": "Time dependent on kinetic energy",
+         "b": "Time dependent on work function",
+         "c": "Time dependent on frequency of photon",
+         "d": "Time dependent on momentum"
+      },
+      "correct_answer": "Time dependent on frequency of photon"
+   },
+   {
+      "q_no": "11",
+      "question": "What is the fundamental principle that describes the connection between energy and time in quantum mechanics?",
+      "options": {
+         "a": "Heisenberg uncertainty principle",
+         "b": "Schrodinger equation",
+         "c": "Dirac equation",
+         "d": "Planck's constant"
+      },
+      "correct_answer": "Heisenberg uncertainty principle"
+   },
+   {
+      "q_no": "12",
+      "question": "Which phenomenon involves the transfer of energy from a photon to an electron in a material?",
+      "options": {
+         "a": "Compton scattering",
+         "b": "Mossbauer effect",
+         "c": "Lamb shift",
+         "d": "Photoelectric effect"
+      },
+      "correct_answer": "Photoelectric effect"
+   }
+]
+TIME for MCQ: 124.217 | ⚡⚡⚡ Token Speed: 3.816 tokens/sec
+TOTAL Tokens for Syllabus 5 & its MCQ: 520 | TOTAL Time: 248.44
+
+********************************************************************************
+
+Model: llama3.2:3b
+
+Total Time Taken: 1427.91 | Total Tokens Generated: 2257 | Avg Total Token Gen Speed: 1.58 tokens/sec
+Total Syllabi: 5 | Total Success MCQ : 0 | MCQ Attempt per Syllabus: 4
+Total ERROR: 0
+Using 2 parallel processes.
+********************************************************************************
+********************************************************************************
+
+Syllabus NUMBER 1 of 5 --- | llama3.2:3b
+
+Syllabus NUMBER 2 of 5 --- | llama3.2:3b
+
+
+📝📝📝 GOTTEN SYLLABUS 1 of 5 📝📝📝
+Syllabus for IB Grade 11 Mathematics - Trigonometry - Angle Measurement:
+- Understanding degrees and radians as units of angle measurement
+- Converting between degrees and radians
+- Interpreting trigonometric ratios in different quadrants
+- Using the unit circle to visualize angle measurements
+- Solving problems involving angle addition and subtraction
+- Graphing trigonometric functions
+TIME for SYLLABUS: 15.742 | ⚡⚡⚡ Token Speed: 3.494 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1/4 for Syllabus 1 of 5... | llama3.2:3b
+
+📝📝📝 GOTTEN SYLLABUS 2 of 5 📝📝📝
+Syllabus for Cambridge Grade 8 Mathematics - Geometry - Angles and Their Properties:
+- Defining angles and measuring them in degrees
+- Identifying and naming different types of angles (acute, right, obtuse, straight)
+- Understanding angle properties (complementary, supplementary, corresponding)
+- Solving problems involving angle calculations and conversions
+- Using angles to solve problems in geometry
+- Exploring and applying theorems related to angles
+TIME for SYLLABUS: 16.801 | ⚡⚡⚡ Token Speed: 3.809 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1/4 for Syllabus 2 of 5... | llama3.2:3b
+
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "Which angle is always 90 degrees?", "options": {"a": "Acute angle", "b": "Right angle", "c": "Obtuse angle", "d": "Straight angle"}, "correct_answer": "b"},
+    {"q_no": "2", "question": "What is the sum of two complementary angles?", "options": {"a": "90 degrees", "b": "180 degrees", "c": "360 degrees", "d": "450 degrees"}, "correct_answer": "a"},
+    {"q_no": "3", "question": "Which type of angle has a measure greater than 90 degrees but less than 180 degrees?", "options": {"a": "Acute angle", "b": "Obtuse angle", "c": "Right angle", "d": "Straight angle"}, "correct_answer": "b"},
+    {"q_no": "4", "question": "How many degrees are in a straight angle?", "options": {"a": "180 degrees", "b": "270 degrees", "c": "360 degrees", "d": "450 degrees"}, "correct_answer": "a"},
+    {"q_no": "5", "question": "What is the sum of two supplementary angles?", "options": {"a": "90 degrees", "b": "180 degrees", "c": "270 degrees", "d": "360 degrees"}, "correct_answer": "b"},
+    {"q_no": "6", "question": "Which angle has a measure equal to 180 degrees?", "options": {"a": "Acute angle", "b": "Right angle", "c": "Obtuse angle", "d": "Straight angle"}, "correct_answer": "d"},
+    {"q_no": "7", "question": "What is the corresponding angle of a given angle in a triangle?", "options": {"a": "The angle opposite the given angle", "b": "The angle adjacent to the given angle", "c": "The angle on the same side as the given angle and inside the triangle", "d": "The angle outside the triangle but formed by the same line and vertex"}, "correct_answer": "d"},
+    {"q_no": "8", "question": "Which theorem states that corresponding angles are congruent?", "options": {"a": "Angle-Angle (AA) Theorem", "b": "Side-Side-Side (SSS) Theorem", "c": "Hypotenuse-Leg (HL) Theorem", "d": "Corresponding Angles Theorem"}, "correct_answer": "d"},
+    {"q_no": "9", "question": "What is the purpose of using angles in geometry?", "options": {"a": "To calculate perimeter and area", "b": "To solve problems involving shape properties", "c": "To find congruent and similar figures", "d": "All of the above"}, "correct_answer": "d"},
+    {"q_no": "10", "question": "Which type of angle is always 90 degrees?", "options": {"a": "Acute angle", "b": "Right angle", "c": "Obtuse angle", "d": "Straight angle"}, "correct_answer": "b"},
+    {"q_no": "11", "question": "What is the sum of two complementary angles in a right triangle?", "options": {"a": "90 degrees", "b": "180 degrees", "c": "270 degrees", "d": "360 degrees"}, "correct_answer": "a"},
+    {"q_no": "12", "question": "Which theorem states that the sum of interior angles on the same side of a transversal is supplementary?", "options": {"a": "Angle-Angle (AA) Theorem", "b": "Side-Side-Side (SSS) Theorem", "c": "Hypotenuse-Leg (HL) Theorem", "d": "Corresponding Angles Theorem"}, "correct_answer": "d"}
+]
+Time Taken: 187.72 seconds | Tokens Produced: 393 | ⚡⚡⚡ Token Speed 2.094 tokens/sec
+✅✅✅ Successfully generated 12 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 2 of 5
+[
+   {
+      "q_no": "1",
+      "question": "Which angle is always 90 degrees?",
+      "options": {
+         "a": "Acute angle",
+         "b": "Right angle",
+         "c": "Obtuse angle",
+         "d": "Straight angle"
+      },
+      "correct_answer": "b"
+   },
+   {
+      "q_no": "2",
+      "question": "What is the sum of two complementary angles?",
+      "options": {
+         "a": "90 degrees",
+         "b": "180 degrees",
+         "c": "360 degrees",
+         "d": "450 degrees"
+      },
+      "correct_answer": "a"
+   },
+   {
+      "q_no": "3",
+      "question": "Which type of angle has a measure greater than 90 degrees but less than 180 degrees?",
+      "options": {
+         "a": "Acute angle",
+         "b": "Obtuse angle",
+         "c": "Right angle",
+         "d": "Straight angle"
+      },
+      "correct_answer": "b"
+   },
+   {
+      "q_no": "4",
+      "question": "How many degrees are in a straight angle?",
+      "options": {
+         "a": "180 degrees",
+         "b": "270 degrees",
+         "c": "360 degrees",
+         "d": "450 degrees"
+      },
+      "correct_answer": "a"
+   },
+   {
+      "q_no": "5",
+      "question": "What is the sum of two supplementary angles?",
+      "options": {
+         "a": "90 degrees",
+         "b": "180 degrees",
+         "c": "270 degrees",
+         "d": "360 degrees"
+      },
+      "correct_answer": "b"
+   },
+   {
+      "q_no": "6",
+      "question": "Which angle has a measure equal to 180 degrees?",
+      "options": {
+         "a": "Acute angle",
+         "b": "Right angle",
+         "c": "Obtuse angle",
+         "d": "Straight angle"
+      },
+      "correct_answer": "d"
+   },
+   {
+      "q_no": "7",
+      "question": "What is the corresponding angle of a given angle in a triangle?",
+      "options": {
+         "a": "The angle opposite the given angle",
+         "b": "The angle adjacent to the given angle",
+         "c": "The angle on the same side as the given angle and inside the triangle",
+         "d": "The angle outside the triangle but formed by the same line and vertex"
+      },
+      "correct_answer": "d"
+   },
+   {
+      "q_no": "8",
+      "question": "Which theorem states that corresponding angles are congruent?",
+      "options": {
+         "a": "Angle-Angle (AA) Theorem",
+         "b": "Side-Side-Side (SSS) Theorem",
+         "c": "Hypotenuse-Leg (HL) Theorem",
+         "d": "Corresponding Angles Theorem"
+      },
+      "correct_answer": "d"
+   },
+   {
+      "q_no": "9",
+      "question": "What is the purpose of using angles in geometry?",
+      "options": {
+         "a": "To calculate perimeter and area",
+         "b": "To solve problems involving shape properties",
+         "c": "To find congruent and similar figures",
+         "d": "All of the above"
+      },
+      "correct_answer": "d"
+   },
+   {
+      "q_no": "10",
+      "question": "Which type of angle is always 90 degrees?",
+      "options": {
+         "a": "Acute angle",
+         "b": "Right angle",
+         "c": "Obtuse angle",
+         "d": "Straight angle"
+      },
+      "correct_answer": "b"
+   },
+   {
+      "q_no": "11",
+      "question": "What is the sum of two complementary angles in a right triangle?",
+      "options": {
+         "a": "90 degrees",
+         "b": "180 degrees",
+         "c": "270 degrees",
+         "d": "360 degrees"
+      },
+      "correct_answer": "a"
+   },
+   {
+      "q_no": "12",
+      "question": "Which theorem states that the sum of interior angles on the same side of a transversal is supplementary?",
+      "options": {
+         "a": "Angle-Angle (AA) Theorem",
+         "b": "Side-Side-Side (SSS) Theorem",
+         "c": "Hypotenuse-Leg (HL) Theorem",
+         "d": "Corresponding Angles Theorem"
+      },
+      "correct_answer": "d"
+   }
+]
+TIME for MCQ: 187.721 | ⚡⚡⚡ Token Speed: 2.094 tokens/sec
+TOTAL Tokens for Syllabus 2 & its MCQ: 457 | TOTAL Time: 204.54
+
+********************************************************************************
+
+Syllabus NUMBER 3 of 5 --- | llama3.2:3b
+
+📝📝📝 GOTTEN SYLLABUS 3 of 5 📝📝📝
+Syllabus for Cambridge Grade 10 Mathematics - Algebra - Exponents and Powers:
+- Introduction to exponents and powers
+- Simplifying expressions with exponents
+- Evaluating exponential expressions
+- Graphing exponential functions
+- Understanding the laws of indices
+- Solving equations involving exponents
+TIME for SYLLABUS: 15.779 | ⚡⚡⚡ Token Speed: 2.662 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1/4 for Syllabus 3 of 5... | llama3.2:3b
+
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "Which unit of measurement for angles is commonly used in physics and engineering?", "options": {"a": "Degrees", "b": "Radians", "c": "Gradians", "d": "Sexagesimal"}, "correct_answer": "Degrees"},
+    {"q_no": "2", "question": "What is the conversion factor to convert degrees to radians?", "options": {"a": "180/\u00b0", "b": "1/\u00b0", "c": "10/\u00b0", "d": "2/\u00b0"}, "correct_answer": "180/\u00b0"},
+    {"q_no": "3", "question": "In which quadrant do the trigonometric ratios of the sine and cosine functions have opposite signs?", "options": {"a": "First", "b": "Second", "c": "Third", "d": "Fourth"}, "correct_answer": "Fourth"},
+    {"q_no": "4", "question": "What is the relationship between the values of sine, cosine, and tangent in a right triangle?", "options": {"a": "Sine = Cosine = Tangent", "b": "Sine + Cosine = Tangent", "c": "Sine \u2212 Cosine = Tangent", "d": "Sine / Cosine = Tangent"}, "correct_answer": "Sine / Cosine = Tangent"},
+    {"q_no": "5", "question": "How do you determine the quadrant in which an angle lies using the unit circle?", "options": {"a": "By measuring the length of the arc", "b": "By determining the reference angle", "c": "By identifying the asymptotes", "d": "By observing the x-intercept"}, "correct_answer": "By determining the reference angle"},
+    {"q_no": "6", "question": "What is the formula to find the value of sine, cosine, or tangent in a right triangle?", "options": {"a": "Sine = Opposite / Hypotenuse", "b": "Cosine = Adjacent / Hypotenuse", "c": "Tangent = Opposite / Adjacent", "d": "2 \u00d7 Sine + Cosine"}, "correct_answer": "Sine = Opposite / Hypotenuse"},
+    {"q_no": "7", "question": "How do you solve angle addition and subtraction problems involving trigonometric ratios?", "options": {"a": "By applying the angle sum identity", "b": "By using the unit circle", "c": "By identifying common angles", "d": "By simplifying expressions"}, "correct_answer": "By applying the angle sum identity"},
+    {"q_no": "8", "question": "What is the purpose of graphing trigonometric functions?", "options": {"a": "To solve equations", "b": "To identify maxima and minima", "c": "To visualize periodic behavior", "d": "To calculate definite integrals"}, "correct_answer": "To visualize periodic behavior"},
+    {"q_no": "9", "question": "How do you evaluate trigonometric functions at specific angles?", "options": {"a": "By memorizing values", "b": "By using a calculator", "c": "By applying trigonometric identities", "d": "By solving equations"}, "correct_answer": "By using a calculator"},
+    {"q_no": "10", "question": "What is the significance of the reference angle in determining the quadrant?", "options": {"a": "It determines the quadrant", "b": "It eliminates multiple solutions", "c": "It represents the acute angle", "d": "It has no effect on the solution"}, "correct_answer": "It represents the acute angle"},
+    {"q_no": "11", "question": "How do you solve trigonometric equations involving sine, cosine, or tangent?", "options": {"a": "By applying inverse functions", "b": "By using algebraic manipulations", "c": "By graphing the equation", "d": "By solving by inspection"}, "correct_answer": "By applying inverse functions"},
+    {"q_no": "12", "question": "What is the relationship between trigonometric ratios and the sides of a right triangle?", "options": {"a": "Sine = Opposite / Hypotenuse", "b": "Cosine = Adjacent / Hypotenuse", "c": "Tangent = Opposite / Adjacent", "d": "2 \u00d7 Sine + Cosine"}, "correct_answer": "Sine = Opposite / Hypotenuse"}
+Time Taken: 264.19 seconds | Tokens Produced: 484 | ⚡⚡⚡ Token Speed 1.832 tokens/sec
+⚠️ Error: Invalid JSON format...
+
+Attempt 2/4 for Syllabus 1 of 5... | llama3.2:3b
+
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What is the primary function of an exponent in a mathematical expression?", "options": {"a": "To represent multiplication by a repeated variable", "b": "To indicate division by a fraction", "c": "To simplify expressions with repeated variables", "d": "To solve equations with multiple solutions"}, "correct_answer": "a"},
+    {"q_no": "2", "question": "Which operation is represented by the exponent 1/3?", "options": {"a": "Cube root", "b": "Square root", "c": "Cubic root", "d": "Quartic root"}, "correct_answer": "a"},
+    {"q_no": "3", "question": "What is the value of x in the equation 2^x = 8?", "options": {"a": "2", "b": "3", "c": "4", "d": "5"}, "correct_answer": "b"},
+    {"q_no": "4", "question": "Which law states that a^m * a^n = a^(m+n)?", "options": {"a": "Product of powers", "b": "Quotient of powers", "c": "Sum of powers", "d": "Difference of powers"}, "correct_answer": "a"},
+    {"q_no": "5", "question": "What is the correct order of operations when simplifying an expression with exponents?", "options": {"a": "PEMDAS", "b": "PODS", "c": "POMS", "d": "QWOP"}, "correct_answer": "a"},
+    {"q_no": "6", "question": "Which type of function is represented by the equation y = 2^x?", "options": {"a": "Linear", "b": "Quadratic", "c": "Exponential", "d": "Polynomial"}, "correct_answer": "c"},
+    {"q_no": "7", "question": "What is the graph of the function f(x) = 3^x?", "options": {"a": "A straight line", "b": "An exponential curve", "c": "A quadratic curve", "d": "A polynomial curve"}, "correct_answer": "b"},
+    {"q_no": "8", "question": "Which property of exponents states that a^0 = 1?", "options": {"a": "Product of powers", "b": "Quotient of powers", "c": "Sum of powers", "d": "Difference of powers"}, "correct_answer": "c"},
+    {"q_no": "9", "question": "What is the value of x in the equation 5^x = 10?", "options": {"a": "1", "b": "2", "c": "3", "d": "4"}, "correct_answer": "b"},
+    {"q_no": "10", "question": "Which law states that a^(mn) = (a^m)^n?", "options": {"a": "Product of powers", "b": "Quotient of powers", "c": "Sum of powers", "d": "Difference of powers"}, "correct_answer": "a"},
+    {"q_no": "11", "question": "What is the correct way to simplify an expression with multiple exponents?", "options": {"a": "To multiply the bases and add the exponents", "b": "To divide the bases and subtract the exponents", "c": "To add the exponents and keep the same base", "d": "To subtract the exponents and keep the same base"}, "correct_answer": "a"},
+    {"q_no": "12", "question": "Which type of equation typically involves exponential functions?", "options": {"a": "Linear equations", "b": "Quadratic equations", "c": "Exponential equations", "d": "Polynomial equations"}, "correct_answer": "c"}
+]
+Time Taken: 220.49 seconds | Tokens Produced: 385 | ⚡⚡⚡ Token Speed 1.746 tokens/sec
+✅✅✅ Successfully generated 12 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 3 of 5
+[
+   {
+      "q_no": "1",
+      "question": "What is the primary function of an exponent in a mathematical expression?",
+      "options": {
+         "a": "To represent multiplication by a repeated variable",
+         "b": "To indicate division by a fraction",
+         "c": "To simplify expressions with repeated variables",
+         "d": "To solve equations with multiple solutions"
+      },
+      "correct_answer": "a"
+   },
+   {
+      "q_no": "2",
+      "question": "Which operation is represented by the exponent 1/3?",
+      "options": {
+         "a": "Cube root",
+         "b": "Square root",
+         "c": "Cubic root",
+         "d": "Quartic root"
+      },
+      "correct_answer": "a"
+   },
+   {
+      "q_no": "3",
+      "question": "What is the value of x in the equation 2^x = 8?",
+      "options": {
+         "a": "2",
+         "b": "3",
+         "c": "4",
+         "d": "5"
+      },
+      "correct_answer": "b"
+   },
+   {
+      "q_no": "4",
+      "question": "Which law states that a^m * a^n = a^(m+n)?",
+      "options": {
+         "a": "Product of powers",
+         "b": "Quotient of powers",
+         "c": "Sum of powers",
+         "d": "Difference of powers"
+      },
+      "correct_answer": "a"
+   },
+   {
+      "q_no": "5",
+      "question": "What is the correct order of operations when simplifying an expression with exponents?",
+      "options": {
+         "a": "PEMDAS",
+         "b": "PODS",
+         "c": "POMS",
+         "d": "QWOP"
+      },
+      "correct_answer": "a"
+   },
+   {
+      "q_no": "6",
+      "question": "Which type of function is represented by the equation y = 2^x?",
+      "options": {
+         "a": "Linear",
+         "b": "Quadratic",
+         "c": "Exponential",
+         "d": "Polynomial"
+      },
+      "correct_answer": "c"
+   },
+   {
+      "q_no": "7",
+      "question": "What is the graph of the function f(x) = 3^x?",
+      "options": {
+         "a": "A straight line",
+         "b": "An exponential curve",
+         "c": "A quadratic curve",
+         "d": "A polynomial curve"
+      },
+      "correct_answer": "b"
+   },
+   {
+      "q_no": "8",
+      "question": "Which property of exponents states that a^0 = 1?",
+      "options": {
+         "a": "Product of powers",
+         "b": "Quotient of powers",
+         "c": "Sum of powers",
+         "d": "Difference of powers"
+      },
+      "correct_answer": "c"
+   },
+   {
+      "q_no": "9",
+      "question": "What is the value of x in the equation 5^x = 10?",
+      "options": {
+         "a": "1",
+         "b": "2",
+         "c": "3",
+         "d": "4"
+      },
+      "correct_answer": "b"
+   },
+   {
+      "q_no": "10",
+      "question": "Which law states that a^(mn) = (a^m)^n?",
+      "options": {
+         "a": "Product of powers",
+         "b": "Quotient of powers",
+         "c": "Sum of powers",
+         "d": "Difference of powers"
+      },
+      "correct_answer": "a"
+   },
+   {
+      "q_no": "11",
+      "question": "What is the correct way to simplify an expression with multiple exponents?",
+      "options": {
+         "a": "To multiply the bases and add the exponents",
+         "b": "To divide the bases and subtract the exponents",
+         "c": "To add the exponents and keep the same base",
+         "d": "To subtract the exponents and keep the same base"
+      },
+      "correct_answer": "a"
+   },
+   {
+      "q_no": "12",
+      "question": "Which type of equation typically involves exponential functions?",
+      "options": {
+         "a": "Linear equations",
+         "b": "Quadratic equations",
+         "c": "Exponential equations",
+         "d": "Polynomial equations"
+      },
+      "correct_answer": "c"
+   }
+]
+TIME for MCQ: 220.488 | ⚡⚡⚡ Token Speed: 1.746 tokens/sec
+TOTAL Tokens for Syllabus 3 & its MCQ: 427 | TOTAL Time: 236.29
+
+********************************************************************************
+
+Syllabus NUMBER 4 of 5 --- | llama3.2:3b
+
+📝📝📝 GOTTEN SYLLABUS 4 of 5 📝📝📝
+Syllabus for IB Grade 10 Mathematics - Functions - Notation and Representation:
+- Defining functions using tables, graphs, and algebraic equations
+- Understanding function notation and its applications
+- Interpreting domain and range in various function representations
+- Simplifying expressions with variables and constants
+- Analyzing and creating functions from linear and quadratic relations
+- Graphing functions on a coordinate plane
+TIME for SYLLABUS: 17.655 | ⚡⚡⚡ Token Speed: 3.455 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1/4 for Syllabus 4 of 5... | llama3.2:3b
+
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "Which is another term for radian?", "options": {"a": "A unit of time", "b": "A measure of the arc length of a circle", "c": "A measure of angle measurement in degrees", "d": "A measure of the distance travelled by an object"}, "correct_answer": "A measure of the arc length of a circle"},
+    {"q_no": "2", "question": "What is the conversion factor to convert from degrees to radians?", "options": {"a": "180\u00b0 / \u03c0 rad", "b": "\u03c0 rad / 180\u00b0", "c": "1\u00b0 / \u03c0 rad", "d": "1\u00b0 / \u03c0 rad"}, "correct_answer": "\u03c0 rad / 180\u00b0"},
+    {"q_no": "3", "question": "Which trigonometric ratio is used to find the length of the side opposite a given angle?", "options": {"a": "Sine", "b": "Cosine", "c": "Tangent", "d": "Cosecant"}, "correct_answer": "Sine"},
+    {"q_no": "4", "question": "What is the relationship between the sine, cosine, and tangent of an angle in a right-angled triangle?", "options": {"a": "Sine = Cosine", "b": "Tangent = Sine + Cosine", "c": "Cosecant = 1/Sin", "d": "Tan = Sin/Cos"}, "correct_answer": "tan = sin/cos"},
+    {"q_no": "5", "question": "In which quadrant is the sine function positive?", "options": {"a": "First, second and fourth quadrants", "b": "Second and third quadrants", "c": "Third and fourth quadrants", "d": "All quadrants"}, "correct_answer": "All quadrants"},
+    {"q_no": "6", "question": "What is the purpose of using the unit circle to visualize angle measurements?", "options": {"a": "To find the reference angle", "b": "To determine the quadrant of an angle", "c": "To calculate the sine, cosine and tangent values", "d": "To graph trigonometric functions"}, "correct_answer": "To determine the quadrant of an angle"},
+    {"q_no": "7", "question": "Which operation is used to find the reference angle of an angle?", "options": {"a": "Subtraction", "b": "Addition", "c": "Multiplication", "d": "Division"}, "correct_answer": "Addition"},
+    {"q_no": "8", "question": "What is the relationship between the sine, cosine and tangent of an angle in a right-angled triangle?", "options": {"a": "Sine = Cosine + Tan", "b": "Tangent = Sine - Cosine", "c": "Cosecant = 1/Sin + Cos", "d": "Tan = Sin/Cos"}, "correct_answer": "tan = sin/cos"},
+    {"q_no": "9", "question": "In which quadrant is the cosine function positive?", "options": {"a": "First and fourth quadrants", "b": "Second and third quadrants", "c": "Third and fourth quadrants", "d": "All quadrants"}, "correct_answer": "All quadrants"},
+    {"q_no": "10", "question": "What is the purpose of using trigonometric functions to model periodic phenomena?", "options": {"a": "To find the maximum and minimum values of an angle", "b": "To calculate the area under a curve", "c": "To graph and analyze periodic functions", "d": "To solve trigonometry problems"}, "correct_answer": "To graph and analyze periodic functions"},
+    {"q_no": "11", "question": "What is the relationship between the sine and cosine of an angle in a right-angled triangle?", "options": {"a": "Sine = Cosine + Sinusoidal Term", "b": "Tangent = Sine - Cosine", "c": "Cosecant = 1/Sin + Cos", "d": "Tan = Sine/Cos"}, "correct_answer": "tan = sin/cos"},
+    {"q_no": "12", "question": "What is the purpose of solving angle addition and subtraction problems?", "options": {"a": "To find the value of an expression", "b": "To solve a trigonometry problem", "c": "To graph a function", "d": "To analyze periodic phenomena"}, "correct_answer": "To solve a trigonometry problem"}
+]
+Time Taken: 243.96 seconds | Tokens Produced: 507 | ⚡⚡⚡ Token Speed 2.078 tokens/sec
+✅✅✅ Successfully generated 12 MCQs. Attempts Needed 2
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 1 of 5
+[
+   {
+      "q_no": "1",
+      "question": "Which is another term for radian?",
+      "options": {
+         "a": "A unit of time",
+         "b": "A measure of the arc length of a circle",
+         "c": "A measure of angle measurement in degrees",
+         "d": "A measure of the distance travelled by an object"
+      },
+      "correct_answer": "A measure of the arc length of a circle"
+   },
+   {
+      "q_no": "2",
+      "question": "What is the conversion factor to convert from degrees to radians?",
+      "options": {
+         "a": "180\u00b0 / \u03c0 rad",
+         "b": "\u03c0 rad / 180\u00b0",
+         "c": "1\u00b0 / \u03c0 rad",
+         "d": "1\u00b0 / \u03c0 rad"
+      },
+      "correct_answer": "\u03c0 rad / 180\u00b0"
+   },
+   {
+      "q_no": "3",
+      "question": "Which trigonometric ratio is used to find the length of the side opposite a given angle?",
+      "options": {
+         "a": "Sine",
+         "b": "Cosine",
+         "c": "Tangent",
+         "d": "Cosecant"
+      },
+      "correct_answer": "Sine"
+   },
+   {
+      "q_no": "4",
+      "question": "What is the relationship between the sine, cosine, and tangent of an angle in a right-angled triangle?",
+      "options": {
+         "a": "Sine = Cosine",
+         "b": "Tangent = Sine + Cosine",
+         "c": "Cosecant = 1/Sin",
+         "d": "Tan = Sin/Cos"
+      },
+      "correct_answer": "tan = sin/cos"
+   },
+   {
+      "q_no": "5",
+      "question": "In which quadrant is the sine function positive?",
+      "options": {
+         "a": "First, second and fourth quadrants",
+         "b": "Second and third quadrants",
+         "c": "Third and fourth quadrants",
+         "d": "All quadrants"
+      },
+      "correct_answer": "All quadrants"
+   },
+   {
+      "q_no": "6",
+      "question": "What is the purpose of using the unit circle to visualize angle measurements?",
+      "options": {
+         "a": "To find the reference angle",
+         "b": "To determine the quadrant of an angle",
+         "c": "To calculate the sine, cosine and tangent values",
+         "d": "To graph trigonometric functions"
+      },
+      "correct_answer": "To determine the quadrant of an angle"
+   },
+   {
+      "q_no": "7",
+      "question": "Which operation is used to find the reference angle of an angle?",
+      "options": {
+         "a": "Subtraction",
+         "b": "Addition",
+         "c": "Multiplication",
+         "d": "Division"
+      },
+      "correct_answer": "Addition"
+   },
+   {
+      "q_no": "8",
+      "question": "What is the relationship between the sine, cosine and tangent of an angle in a right-angled triangle?",
+      "options": {
+         "a": "Sine = Cosine + Tan",
+         "b": "Tangent = Sine - Cosine",
+         "c": "Cosecant = 1/Sin + Cos",
+         "d": "Tan = Sin/Cos"
+      },
+      "correct_answer": "tan = sin/cos"
+   },
+   {
+      "q_no": "9",
+      "question": "In which quadrant is the cosine function positive?",
+      "options": {
+         "a": "First and fourth quadrants",
+         "b": "Second and third quadrants",
+         "c": "Third and fourth quadrants",
+         "d": "All quadrants"
+      },
+      "correct_answer": "All quadrants"
+   },
+   {
+      "q_no": "10",
+      "question": "What is the purpose of using trigonometric functions to model periodic phenomena?",
+      "options": {
+         "a": "To find the maximum and minimum values of an angle",
+         "b": "To calculate the area under a curve",
+         "c": "To graph and analyze periodic functions",
+         "d": "To solve trigonometry problems"
+      },
+      "correct_answer": "To graph and analyze periodic functions"
+   },
+   {
+      "q_no": "11",
+      "question": "What is the relationship between the sine and cosine of an angle in a right-angled triangle?",
+      "options": {
+         "a": "Sine = Cosine + Sinusoidal Term",
+         "b": "Tangent = Sine - Cosine",
+         "c": "Cosecant = 1/Sin + Cos",
+         "d": "Tan = Sine/Cos"
+      },
+      "correct_answer": "tan = sin/cos"
+   },
+   {
+      "q_no": "12",
+      "question": "What is the purpose of solving angle addition and subtraction problems?",
+      "options": {
+         "a": "To find the value of an expression",
+         "b": "To solve a trigonometry problem",
+         "c": "To graph a function",
+         "d": "To analyze periodic phenomena"
+      },
+      "correct_answer": "To solve a trigonometry problem"
+   }
+]
+TIME for MCQ: 243.957 | ⚡⚡⚡ Token Speed: 2.078 tokens/sec
+TOTAL Tokens for Syllabus 1 & its MCQ: 562 | TOTAL Time: 523.97
+
+********************************************************************************
+
+Syllabus NUMBER 5 of 5 --- | llama3.2:3b
+
+📝📝📝 GOTTEN SYLLABUS 5 of 5 📝📝📝
+Syllabus for IB Grade 12 Physics - Quantum Physics:
+- Introduction to wave-particle duality
+- Understanding the photoelectric effect
+- Einstein's explanation of the photoelectric effect
+- Energy and work in the context of the photoelectric effect
+- Relating energy to light intensity
+- Analyzing experimental data related to the photoelectric effect
+TIME for SYLLABUS: 18.617 | ⚡⚡⚡ Token Speed: 2.793 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1/4 for Syllabus 5 of 5... | llama3.2:3b
+
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What type of table is used to define a function in mathematics?", "options": {"a": "Coordinate table", "b": "Function table", "c": "Graphical representation", "d": "Algebraic equation"}, "correct_answer": "Function table"},
+    {"q_no": "2", "question": "What notation is used to represent a function in mathematics?", "options": {"a": "y = f(x)", "b": "f(x) = y", "c": "x - f(y)", "d": "y = x + c"}, "correct_answer": "y = f(x")},
+    {"q_no": "3", "question": "What is the domain of a function represented by an algebraic equation?", "options": {"a": "The set of input values", "b": "The set of output values", "c": "The set of all possible solutions", "d": "The set of all real numbers"}, "correct_answer": "The set of input values"},
+    {"q_no": "4", "question": "What is the range of a function represented by a graph?", "options": {"a": "The set of output values", "b": "The set of input values", "c": "The set of all possible solutions", "d": "The set of all real numbers"}, "correct_answer": "The set of output values"},
+    {"q_no": "5", "question": "How do you simplify expressions with variables and constants?", "options": {"a": "By rearranging terms", "b": "By combining like terms", "c": "By factoring out common terms", "d": "By using algebraic identities"}, "correct_answer": "By combining like terms"},
+    {"q_no": "6", "question": "What is the difference between a linear and quadratic relation?", "options": {"a": "A quadratic relation is more complex than a linear one", "b": "A linear relation is more complex than a quadratic one", "c": "A quadratic relation has only two x-intercepts", "d": "A linear relation has only one y-intercept"}, "correct_answer": "A quadratic relation has a higher degree of complexity"},
+    {"q_no": "7", "question": "How do you analyze and create functions from linear relations?", "options": {"a": "By graphing the relation", "b": "By using algebraic equations", "c": "By identifying patterns in the data", "d": "By using technology"}, "correct_answer": "By graphing the relation"},
+    {"q_no": "8", "question": "What is the purpose of graphing functions on a coordinate plane?", "options": {"a": "To visualize the function's behavior", "b": "To solve equations algebraically", "c": "To find the derivative of the function", "d": "To integrate the function"}, "correct_answer": "To visualize the function's behavior"},
+    {"q_no": "9", "question": "What is the difference between a table and a graph in representing a function?", "options": {"a": "A table is more accurate than a graph", "b": "A graph is more accurate than a table", "c": "A table is better for algebraic equations, while a graph is better for visualizing functions", "d": "A table and a graph are equally useful"}, "correct_answer": "A table is better for algebraic equations, while a graph is better for visualizing functions"},
+    {"q_no": "10", "question": "How do you identify the domain and range of a function represented by a graph?", "options": {"a": "By finding the x-intercepts and y-intercepts", "b": "By identifying the horizontal and vertical asymptotes", "c": "By analyzing the shape of the graph", "d": "By using algebraic equations"}, "correct_answer": "By analyzing the shape of the graph"},
+    {"q_no": "11", "question": "What is the purpose of simplifying expressions with variables and constants?", "options": {"a": "To make the expression easier to evaluate", "b": "To make the expression harder to solve", "c": "To make the expression more precise", "d": "To make the expression less accurate"}, "correct_answer": "To make the expression easier to evaluate"},
+    {"q_no": "12", "question": "How do you create functions from linear relations?", "options": {"a": "By graphing the relation and identifying patterns", "b": "By using algebraic equations and formulas", "c": "By using technology and software tools", "d": "By combining multiple linear relations"}, "correct_answer": "By graphing the relation and identifying patterns"}
+]
+Time Taken: 239.63 seconds | Tokens Produced: 582 | ⚡⚡⚡ Token Speed 2.429 tokens/sec
+⚠️ Error: Invalid JSON format...
+
+Attempt 2/4 for Syllabus 4 of 5... | llama3.2:3b
+
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What phenomenon describes the dual nature of particles, such as electrons, that can exhibit both wave-like and particle-like behavior?", "options": {"a": "Wave-particle duality", "b": "Quantum entanglement", "c": "Schr\u00e4dinger equation", "d": "Heisenberg uncertainty principle"}, "correct_answer": "Wave-particle duality"},
+    {"q_no": "2", "question": "According to Einstein's explanation of the photoelectric effect, what is the minimum energy required for electrons to be emitted from a metal surface?", "options": {"a": "Photon energy", "b": "Electron affinity", "c": "Work function", "d": "Ionization energy"}, "correct_answer": "Work function"},
+    {"q_no": "3", "question": "What is the primary factor that determines the maximum kinetic energy of electrons emitted in the photoelectric effect?", "options": {"a": "Photon energy", "b": "Electron mass", "c": "Metal work function", "d": "Light intensity"}, "correct_answer": "Photon energy"},
+    {"q_no": "4", "question": "How does the energy of light relate to its intensity in the context of the photoelectric effect?", "options": {"a": "Directly proportional", "b": "Inversely proportional", "c": "Equal to work function", "d": "Independent of intensity"}, "correct_answer": "Inversely proportional"},
+    {"q_no": "5", "question": "What type of data analysis is typically used to study the photoelectric effect?", "options": {"a": "Descriptive statistics", "b": " Inferential statistics", "c": "Experimental data analysis", "d": "Quantitative reasoning"}, "correct_answer": "Experimental data analysis"},
+    {"q_no": "6", "question": "According to wave-particle duality, what is the property of light that exhibits particle-like behavior?", "options": {"a": "Wavelength", "b": "Frequency", "c": "Amplitude", "d": "Velocity"}, "correct_answer": "Frequency"},
+    {"q_no": "7", "question": "What concept in quantum physics describes the relationship between energy and work in the context of particle interactions?", "options": {"a": "Conservation of energy", "b": "Work-energy theorem", "c": "Einstein's mass-energy equivalence", "d": "Quantum tunneling"}, "correct_answer": "Work-energy theorem"},
+    {"q_no": "8", "question": "How does the intensity of light affect the kinetic energy of electrons emitted in the photoelectric effect?", "options": {"a": "Directly proportional", "b": "Inversely proportional", "c": "Equal to photon energy", "d": "Independent of intensity"}, "correct_answer": "Directly proportional"},
+    {"q_no": "9", "question": "What is the primary factor that distinguishes the photoelectric effect from other types of light interactions?", "options": {"a": "Photon energy", "b": "Electron mass", "c": "Metal work function", "d": "Light intensity"}, "correct_answer": "Photon energy"},
+    {"q_no": "10", "question": "According to Einstein's explanation of the photoelectric effect, what is the role of the metal surface in the process?", "options": {"a": " Absorbing photons", "b": " Emitting electrons", "c": " Reflecting light", "d": "Transmitting photons"}, "correct_answer": "Emitting electrons"},
+    {"q_no": "11", "question": "What is the fundamental principle that underlies the photoelectric effect?", "options": {"a": "Conservation of energy", "b": "Work-energy theorem", "c": "Quantum tunneling", "d": "Wave-particle duality"}, "correct_answer": "Work-energy theorem"},
+    {"q_no": "12", "question": "What is the primary application of wave-particle duality in physics?", "options": {"a": "Quantum computing", "b": "Particle accelerators", "c": "Spectroscopy", "d": "Radiation detection"}, "correct_answer": "Quantum computing"}
+]
+Time Taken: 221.52 seconds | Tokens Produced: 436 | ⚡⚡⚡ Token Speed 1.968 tokens/sec
+✅✅✅ Successfully generated 12 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 5 of 5
+[
+   {
+      "q_no": "1",
+      "question": "What phenomenon describes the dual nature of particles, such as electrons, that can exhibit both wave-like and particle-like behavior?",
+      "options": {
+         "a": "Wave-particle duality",
+         "b": "Quantum entanglement",
+         "c": "Schr\u00e4dinger equation",
+         "d": "Heisenberg uncertainty principle"
+      },
+      "correct_answer": "Wave-particle duality"
+   },
+   {
+      "q_no": "2",
+      "question": "According to Einstein's explanation of the photoelectric effect, what is the minimum energy required for electrons to be emitted from a metal surface?",
+      "options": {
+         "a": "Photon energy",
+         "b": "Electron affinity",
+         "c": "Work function",
+         "d": "Ionization energy"
+      },
+      "correct_answer": "Work function"
+   },
+   {
+      "q_no": "3",
+      "question": "What is the primary factor that determines the maximum kinetic energy of electrons emitted in the photoelectric effect?",
+      "options": {
+         "a": "Photon energy",
+         "b": "Electron mass",
+         "c": "Metal work function",
+         "d": "Light intensity"
+      },
+      "correct_answer": "Photon energy"
+   },
+   {
+      "q_no": "4",
+      "question": "How does the energy of light relate to its intensity in the context of the photoelectric effect?",
+      "options": {
+         "a": "Directly proportional",
+         "b": "Inversely proportional",
+         "c": "Equal to work function",
+         "d": "Independent of intensity"
+      },
+      "correct_answer": "Inversely proportional"
+   },
+   {
+      "q_no": "5",
+      "question": "What type of data analysis is typically used to study the photoelectric effect?",
+      "options": {
+         "a": "Descriptive statistics",
+         "b": " Inferential statistics",
+         "c": "Experimental data analysis",
+         "d": "Quantitative reasoning"
+      },
+      "correct_answer": "Experimental data analysis"
+   },
+   {
+      "q_no": "6",
+      "question": "According to wave-particle duality, what is the property of light that exhibits particle-like behavior?",
+      "options": {
+         "a": "Wavelength",
+         "b": "Frequency",
+         "c": "Amplitude",
+         "d": "Velocity"
+      },
+      "correct_answer": "Frequency"
+   },
+   {
+      "q_no": "7",
+      "question": "What concept in quantum physics describes the relationship between energy and work in the context of particle interactions?",
+      "options": {
+         "a": "Conservation of energy",
+         "b": "Work-energy theorem",
+         "c": "Einstein's mass-energy equivalence",
+         "d": "Quantum tunneling"
+      },
+      "correct_answer": "Work-energy theorem"
+   },
+   {
+      "q_no": "8",
+      "question": "How does the intensity of light affect the kinetic energy of electrons emitted in the photoelectric effect?",
+      "options": {
+         "a": "Directly proportional",
+         "b": "Inversely proportional",
+         "c": "Equal to photon energy",
+         "d": "Independent of intensity"
+      },
+      "correct_answer": "Directly proportional"
+   },
+   {
+      "q_no": "9",
+      "question": "What is the primary factor that distinguishes the photoelectric effect from other types of light interactions?",
+      "options": {
+         "a": "Photon energy",
+         "b": "Electron mass",
+         "c": "Metal work function",
+         "d": "Light intensity"
+      },
+      "correct_answer": "Photon energy"
+   },
+   {
+      "q_no": "10",
+      "question": "According to Einstein's explanation of the photoelectric effect, what is the role of the metal surface in the process?",
+      "options": {
+         "a": " Absorbing photons",
+         "b": " Emitting electrons",
+         "c": " Reflecting light",
+         "d": "Transmitting photons"
+      },
+      "correct_answer": "Emitting electrons"
+   },
+   {
+      "q_no": "11",
+      "question": "What is the fundamental principle that underlies the photoelectric effect?",
+      "options": {
+         "a": "Conservation of energy",
+         "b": "Work-energy theorem",
+         "c": "Quantum tunneling",
+         "d": "Wave-particle duality"
+      },
+      "correct_answer": "Work-energy theorem"
+   },
+   {
+      "q_no": "12",
+      "question": "What is the primary application of wave-particle duality in physics?",
+      "options": {
+         "a": "Quantum computing",
+         "b": "Particle accelerators",
+         "c": "Spectroscopy",
+         "d": "Radiation detection"
+      },
+      "correct_answer": "Quantum computing"
+   }
+]
+TIME for MCQ: 221.519 | ⚡⚡⚡ Token Speed: 1.968 tokens/sec
+TOTAL Tokens for Syllabus 5 & its MCQ: 488 | TOTAL Time: 240.15
+
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "Which type of equation is typically used to define a function in algebraic form?", "options": {"a": "Linear equation", "b": "Quadratic equation", "c": "Polynomial equation", "d": "Exponential equation"}, "correct_answer": "Algebraic equation"},
+    {"q_no": "2", "question": "What is the primary purpose of understanding function notation?", "options": {"a": "To graph functions", "b": "To analyze and create functions", "c": "To simplify expressions with variables", "d": "To define functions using tables"}, "correct_answer": "To analyze and create functions"},
+    {"q_no": "3", "question": "What is the difference between the domain and range of a function?", "options": {"a": "Domain refers to the set of all possible inputs, while range refers to the set of all possible outputs.", "b": "Range refers to the set of all possible inputs, while domain refers to the set of all possible outputs.", "c": "Domain refers to the set of all possible outputs, while range refers to the set of all possible inputs.", "d": "Range refers to the set of all possible inputs, while domain refers to the set of all possible outputs.", "correct_answer": "Domain refers to the set of all possible inputs, while range refers to the set of all possible outputs."},
+    {"q_no": "4", "question": "What is the process of simplifying expressions with variables and constants called?", "options": {"a": "Algebraic manipulation", "b": "Geometric transformation", "c": "Analytical reduction", "d": "Numerical approximation"}, "correct_answer": "Algebraic manipulation"},
+    {"q_no": "5", "question": "What is the primary method used to create functions from linear relations?", "options": {"a": "Quadratic formula", "b": "Linear equation", "c": "Polynomial expression", "d": "Exponential function"}, "correct_answer": "Quadratic relation"},
+    {"q_no": "6", "question": "What is the purpose of graphing functions on a coordinate plane?", "options": {"a": "To analyze and create functions", "b": "To define functions using tables", "c": "To simplify expressions with variables", "d": "To visualize relationships between inputs and outputs.", "correct_answer": "To visualize relationships between inputs and outputs."},
+    {"q_no": "7", "question": "What is the type of equation that defines a function in terms of x and y coordinates?", "options": {"a": "Algebraic equation", "b": "Graphical equation", "c": "Numerical equation", "d": "Analytical equation"}, "correct_answer": "Graphical equation"},
+    {"q_no": "8", "question": "What is the process of analyzing functions from linear relations called?", "options": {"a": "Quadratic analysis", "b": "Linear examination", "c": "Polynomial inspection", "d": "Analytical reduction"}, "correct_answer": "Analytical reduction"},
+    {"q_no": "9", "question": "What is the type of equation that defines a function in terms of x and y coordinates?", "options": {"a": "Algebraic equation", "b": "Graphical equation", "c": "Numerical equation", "d": "Exponential equation"}, "correct_answer": "Exponential equation"},
+    {"q_no": "10", "question": "What is the primary method used to create functions from quadratic relations?", "options": {"a": "Quadratic formula", "b": "Linear equation", "c": "Polynomial expression", "d": "Analytical reduction"}, "correct_answer": "Quadratic relation"},
+    {"q_no": "11", "question": "What is the purpose of understanding function notation and its applications?", "options": {"a": "To graph functions", "b": "To analyze and create functions", "c": "To simplify expressions with variables", "d": "To define functions using tables"}, "correct_answer": "To analyze and create functions"},
+    {"q_no": "12", "question": "What is the type of equation that defines a function in terms of x and y coordinates?", "options": {"a": "Algebraic equation", "b": "Graphical equation", "c": "Numerical equation", "d": "Analytical equation"}, "correct_answer": "Analytical equation"}
+]
+Time Taken: 144.69 seconds | Tokens Produced: 515 | ⚡⚡⚡ Token Speed 3.559 tokens/sec
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+
+Attempt 3/4 for Syllabus 4 of 5... | llama3.2:3b
+
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What type of function notation is used to represent the relationship between an input (x) and output (y)?", "options": {"a": "Vertical line graph", "b": "Horizontal line graph", "c": "Algebraic equation", "d": "Tabular form"}, "correct_answer": "Algebraic equation"},
+    {"q_no": "2", "question": "Which of the following represents the domain of a function?", "options": {"a": "The set of all possible x-values", "b": "The set of all possible y-values", "c": "Both (a) and (b)", "d": "Neither (a) nor (b)"}, "correct_answer": "The set of all possible x-values"},
+    {"q_no": "3", "question": "What is the correct way to write a function notation for f(x) = 2x + 1?", "options": {"a": "f(x+1)", "b": "f(2x-1)", "c": "f(x)+1", "d": "f(x)=2x+1"}, "correct_answer": "f(x)=2x+1"},
+    {"q_no": "4", "question": "Which type of function graph represents a one-to-one correspondence between x and y?", "options": {"a": "Horizontal line graph", "b": "Vertical line graph", "c": "Curved line graph", "d": "Parabola"}, "correct_answer": "Vertical line graph"},
+    {"q_no": "5", "question": "What is the range of a function with domain x and range y?", "options": {"a": "The set of all possible x-values", "b": "The set of all possible y-values", "c": "Both (a) and (b)", "d": "Neither (a) nor (b)"}, "correct_answer": "The set of all possible y-values"},
+    {"q_no": "6", "question": "How do you simplify expressions with variables and constants?", "options": {"a": "Combine like terms", "b": "Use the distributive property", "c": "Factor out common factors", "d": "All of the above"}, "correct_answer": "All of the above"},
+    {"q_no": "7", "question": "What type of function is represented by a linear relation?", "options": {"a": "Quadratic function", "b": "Linear function", "c": "Exponential function", "d": "Radical function"}, "correct_answer": "Linear function"},
+    {"q_no": "8", "question": "How do you graph functions on a coordinate plane?", "options": {"a": "Use a ruler and pencil", "b": "Use a graphing calculator", "c": "Graph the x-values first, then find corresponding y-values", "d": "Graph the y-values first, then find corresponding x-values"}, "correct_answer": "c"},
+    {"q_no": "9", "question": "What is the purpose of simplifying expressions with variables and constants?", "options": {"a": "To make calculations easier", "b": "To solve equations faster", "c": "To find function notation", "d": "All of the above"}, "correct_answer": "d"},
+    {"q_no": "10", "question": "How do you analyze functions from linear and quadratic relations?", "options": {"a": "Use a graphing calculator", "b": "Use algebraic manipulations", "c": "Find the x-intercept and y-intercept", "d": "Use numerical methods"}, "correct_answer": "c"},
+    {"q_no": "11", "question": "What is the correct way to find the domain of a function?", "options": {"a": "The set of all possible y-values", "b": "The set of all possible x-values", "c": "Both (a) and (b)", "d": "Neither (a) nor (b)"}, "correct_answer": "b"},
+    {"q_no": "12", "question": "How do you determine the range of a function?", "options": {"a": "The set of all possible x-values", "b": "The set of all possible y-values", "c": "Both (a) and (b)", "d": "Neither (a) nor (b)"}, "correct_answer": "b"}
+]
+Time Taken: 142.83 seconds | Tokens Produced: 462 | ⚡⚡⚡ Token Speed 3.235 tokens/sec
+✅✅✅ Successfully generated 12 MCQs. Attempts Needed 3
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 4 of 5
+[
+   {
+      "q_no": "1",
+      "question": "What type of function notation is used to represent the relationship between an input (x) and output (y)?",
+      "options": {
+         "a": "Vertical line graph",
+         "b": "Horizontal line graph",
+         "c": "Algebraic equation",
+         "d": "Tabular form"
+      },
+      "correct_answer": "Algebraic equation"
+   },
+   {
+      "q_no": "2",
+      "question": "Which of the following represents the domain of a function?",
+      "options": {
+         "a": "The set of all possible x-values",
+         "b": "The set of all possible y-values",
+         "c": "Both (a) and (b)",
+         "d": "Neither (a) nor (b)"
+      },
+      "correct_answer": "The set of all possible x-values"
+   },
+   {
+      "q_no": "3",
+      "question": "What is the correct way to write a function notation for f(x) = 2x + 1?",
+      "options": {
+         "a": "f(x+1)",
+         "b": "f(2x-1)",
+         "c": "f(x)+1",
+         "d": "f(x)=2x+1"
+      },
+      "correct_answer": "f(x)=2x+1"
+   },
+   {
+      "q_no": "4",
+      "question": "Which type of function graph represents a one-to-one correspondence between x and y?",
+      "options": {
+         "a": "Horizontal line graph",
+         "b": "Vertical line graph",
+         "c": "Curved line graph",
+         "d": "Parabola"
+      },
+      "correct_answer": "Vertical line graph"
+   },
+   {
+      "q_no": "5",
+      "question": "What is the range of a function with domain x and range y?",
+      "options": {
+         "a": "The set of all possible x-values",
+         "b": "The set of all possible y-values",
+         "c": "Both (a) and (b)",
+         "d": "Neither (a) nor (b)"
+      },
+      "correct_answer": "The set of all possible y-values"
+   },
+   {
+      "q_no": "6",
+      "question": "How do you simplify expressions with variables and constants?",
+      "options": {
+         "a": "Combine like terms",
+         "b": "Use the distributive property",
+         "c": "Factor out common factors",
+         "d": "All of the above"
+      },
+      "correct_answer": "All of the above"
+   },
+   {
+      "q_no": "7",
+      "question": "What type of function is represented by a linear relation?",
+      "options": {
+         "a": "Quadratic function",
+         "b": "Linear function",
+         "c": "Exponential function",
+         "d": "Radical function"
+      },
+      "correct_answer": "Linear function"
+   },
+   {
+      "q_no": "8",
+      "question": "How do you graph functions on a coordinate plane?",
+      "options": {
+         "a": "Use a ruler and pencil",
+         "b": "Use a graphing calculator",
+         "c": "Graph the x-values first, then find corresponding y-values",
+         "d": "Graph the y-values first, then find corresponding x-values"
+      },
+      "correct_answer": "c"
+   },
+   {
+      "q_no": "9",
+      "question": "What is the purpose of simplifying expressions with variables and constants?",
+      "options": {
+         "a": "To make calculations easier",
+         "b": "To solve equations faster",
+         "c": "To find function notation",
+         "d": "All of the above"
+      },
+      "correct_answer": "d"
+   },
+   {
+      "q_no": "10",
+      "question": "How do you analyze functions from linear and quadratic relations?",
+      "options": {
+         "a": "Use a graphing calculator",
+         "b": "Use algebraic manipulations",
+         "c": "Find the x-intercept and y-intercept",
+         "d": "Use numerical methods"
+      },
+      "correct_answer": "c"
+   },
+   {
+      "q_no": "11",
+      "question": "What is the correct way to find the domain of a function?",
+      "options": {
+         "a": "The set of all possible y-values",
+         "b": "The set of all possible x-values",
+         "c": "Both (a) and (b)",
+         "d": "Neither (a) nor (b)"
+      },
+      "correct_answer": "b"
+   },
+   {
+      "q_no": "12",
+      "question": "How do you determine the range of a function?",
+      "options": {
+         "a": "The set of all possible x-values",
+         "b": "The set of all possible y-values",
+         "c": "Both (a) and (b)",
+         "d": "Neither (a) nor (b)"
+      },
+      "correct_answer": "b"
+   }
+]
+TIME for MCQ: 142.833 | ⚡⚡⚡ Token Speed: 3.235 tokens/sec
+TOTAL Tokens for Syllabus 4 & its MCQ: 523 | TOTAL Time: 544.84
+
+********************************************************************************
+
+Model: llama3.2:3b
+
+Total Time Taken: 986.15 | Total Tokens Generated: 2457 | Avg Total Token Gen Speed: 2.49 tokens/sec
+Total Syllabi: 5 | Total Success MCQ : 0 | MCQ Attempt per Syllabus: 4
+Total ERROR: 0
+Using 2 parallel processes.
+********************************************************************************
+
+Syllabus NUMBER 1 of 3 --- | llama3.2:3b
+
+********************************************************************************
+
+Syllabus NUMBER 2 of 3 --- | llama3.2:3b
+
+📝📝📝 GOTTEN SYLLABUS 1 of 3 📝📝📝
+Syllabus for Cambridge Grade 10 Mathematics - Algebra - Exponents and Powers:
+- Introduction to exponents and powers
+- Evaluating expressions with exponents and powers
+- Simplifying expressions with exponent rules
+- Properties of exponents
+- Solving equations with exponential terms
+- Graphing exponential functions
+TIME for SYLLABUS: 17.101 | ⚡⚡⚡ Token Speed: 2.631 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1/4 for Syllabus 1 of 3... | llama3.2:3b
+
+📝📝📝 GOTTEN SYLLABUS 2 of 3 📝📝📝
+Syllabus for IB Grade 10 Mathematics - Functions - Notation and Representation:
+- Introduction to function notation
+- Understanding function representations (tables, graphs)
+- Interpreting domain and range
+- Evaluating functions with variables
+- Writing and simplifying algebraic expressions
+- Graphing linear and quadratic functions
+TIME for SYLLABUS: 17.165 | ⚡⚡⚡ Token Speed: 2.622 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1/4 for Syllabus 2 of 3... | llama3.2:3b
+
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What is the notation used to represent a function?", "options": {"a": "x^2 + 3x -4", "b": "(x)^2+3(x)-4", "c": "[x]^2+3[x]-4", "d": "f(x)"}, "correct_answer": "d"},
+    {"q_no": "2", "question": "What is the purpose of a domain in function notation?", "options": {"a": "To represent the range of values for which the function is defined", "b": "To find the output value of the function given an input value", "c": "To graph the function", "d": "To evaluate the function with variables", "correct_answer": "a"},
+    {"q_no": "3", "question": "What type of relationship between variables is represented by a function?", "options": {"a": "One-to-one correspondence", "b": "Many-to-many relationship", "c": "One-to-one or many-to-many relationship", "d": "No relationship exists", "correct_answer": "a"},
+    {"q_no": "4", "question": "What is the correct order of operations when writing and simplifying algebraic expressions?", "options": {"a": "PEMDAS", "b": "BIDMAS", "c": "(P(E)M(D)(A(S)))", "d": "POKE", "correct_answer": "a"},
+    {"q_no": "5", "question": "What is the key difference between a linear function and a quadratic function?", "options": {"a": "Quadratic functions have an increasing rate of change", "b": "Linear functions have a decreasing rate of change", "c": "Both linear and quadratic functions have a constant rate of change", "d": "Neither linear nor quadratic functions exist", "correct_answer": "a"},
+    {"q_no": "6", "question": "What is the purpose of graphing a function?", "options": {"a": "To find the output value of the function given an input value", "b": "To represent the relationship between variables", "c": "To visualize the domain and range", "d": "All of the above", "correct_answer": "d"},
+    {"q_no": "7", "question": "What type of graph is used to represent a linear function?", "options": {"a": "Quadratic graph", "b": "Linear graph", "c": "Both linear and quadratic graphs exist", "d": "Neither linear nor quadratic graphs exist", "correct_answer": "b"},
+    {"q_no": "8", "question": "What is the term for a value that is not part of the domain of a function?", "options": {"a": "Outlier", "b": "Domain outlier", "c": "Range outlier", "d": "Excluded value", "correct_answer": "d"},
+    {"q_no": "9", "question": "What is the purpose of evaluating a function with variables?", "options": {"a": "To find the output value of the function given an input value", "b": "To represent the relationship between variables", "c": "To simplify algebraic expressions", "d": "All of the above", "correct_answer": "d"},
+    {"q_no": "10", "question": "What type of expression is used to represent a linear function?", "options": {"a": "Quadratic expression", "b": "Linear expression", "c": "Both linear and quadratic expressions exist", "d": "Neither linear nor quadratic expressions exist", "correct_answer": "b"},
+    {"q_no": "11", "question": "What is the purpose of simplifying algebraic expressions?", "options": {"a": "To evaluate functions with variables", "b": "To graph functions", "c": "To represent relationships between variables", "d": "All of the above", "correct_answer": "d"},
+    {"q_no": "12", "question": "What is the correct way to graph a quadratic function?", "options": {"a": "Using only linear segments", "b": "Using parabolic arcs", "c": "Both linear and parabolic segments exist", "d": "Neither linear nor parabolic graphs exist", "correct_answer": "b"}
+]
+Time Taken: 164.15 seconds | Tokens Produced: 471 | ⚡⚡⚡ Token Speed 2.869 tokens/sec
+⚠️ Error: Invalid JSON format...
+
+Attempt 2/4 for Syllabus 2 of 3... | llama3.2:3b
+
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What is the primary function of exponents in algebra?", "options": {"a": "To represent variables", "b": "To solve linear equations", "c": "To simplify expressions with powers", "d": "To graph functions"}, "correct_answer": "To simplify expressions with powers"},
+    {"q_no": "2", "question": "Which of the following is a property of exponents that allows for simplification?", "options": {"a": "Product rule", "b": "Power rule", "c": "Quotient rule", "d": "None of these"}, "correct_answer": "Power rule"},
+    {"q_no": "3", "question": "What is the result when you raise a number to the power of zero?", "options": {"a": "The number itself", "b": "One", "c": "Zero", "d": "-1"}, "correct_answer": "The number itself"},
+    {"q_no": "4", "question": "Which of the following types of equations typically involves exponential terms?", "options": {"a": "Linear equations", "b": "Quadratic equations", "c": "Exponential equations", "d": "None of these"}, "correct_answer": "Exponential equations"},
+    {"q_no": "5", "question": "What is the primary characteristic of an exponential function?", "options": {"a": "A constant rate of change", "b": "An increasing rate of change", "c": "A decreasing rate of change", "d": "None of these"}, "correct_answer": "A decreasing rate of change"},
+    {"q_no": "6", "question": "How do you graph an exponential function?", "options": {"a": "By plotting multiple points and drawing a curve", "b": "By using the x-axis as the input variable", "c": "By using the y-axis as the output variable", "d": "None of these"}, "correct_answer": "By plotting multiple points and drawing a curve"},
+    {"q_no": "7", "question": "What is the difference between a zero exponent and a non-zero exponent?", "options": {"a": "A zero exponent is always equal to one", "b": "A non-zero exponent can be equal to any number", "c": "A zero exponent is not defined", "d": "None of these"}, "correct_answer": "A zero exponent is always equal to one"},
+    {"q_no": "8", "question": "How do you simplify an expression with multiple exponents?", "options": {"a": "By applying the product rule and power rule simultaneously", "b": "By applying the power rule only", "c": "By applying the quotient rule only", "d": "None of these"}, "correct_answer": "By applying the product rule and power rule simultaneously"},
+    {"q_no": "9", "question": "What is the purpose of evaluating expressions with exponents and powers?", "options": {"a": "To simplify expressions", "b": "To solve equations", "c": "To graph functions", "d": "None of these"}, "correct_answer": "To simplify expressions"},
+    {"q_no": "10", "question": "How do you solve an equation with exponential terms?", "options": {"a": "By applying the power rule and isolating the variable", "b": "By applying the product rule and simplifying", "c": "By applying the quotient rule and solving for the exponent", "d": "None of these"}, "correct_answer": "By applying the power rule and isolating the variable"},
+    {"q_no": "11", "question": "What is a key characteristic of exponential functions?", "options": {"a": "They have a constant rate of change", "b": "They have an increasing rate of change", "c": "They have a decreasing rate of change", "d": "None of these"}, "correct_answer": "They have a decreasing rate of change"},
+    {"q_no": "12", "question": "How do you represent an exponential function algebraically?", "options": {"a": "Using the variable as the input and output", "b": "Using the x-axis as the input variable", "c": "Using the y-axis as the output variable", "d": "None of these"}, "correct_answer": "Using the variable as the input and output"}
+]
+Time Taken: 165.39 seconds | Tokens Produced: 523 | ⚡⚡⚡ Token Speed 3.162 tokens/sec
+✅✅✅ Successfully generated 12 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 1 of 3
+[
+   {
+      "q_no": "1",
+      "question": "What is the primary function of exponents in algebra?",
+      "options": {
+         "a": "To represent variables",
+         "b": "To solve linear equations",
+         "c": "To simplify expressions with powers",
+         "d": "To graph functions"
+      },
+      "correct_answer": "To simplify expressions with powers"
+   },
+   {
+      "q_no": "2",
+      "question": "Which of the following is a property of exponents that allows for simplification?",
+      "options": {
+         "a": "Product rule",
+         "b": "Power rule",
+         "c": "Quotient rule",
+         "d": "None of these"
+      },
+      "correct_answer": "Power rule"
+   },
+   {
+      "q_no": "3",
+      "question": "What is the result when you raise a number to the power of zero?",
+      "options": {
+         "a": "The number itself",
+         "b": "One",
+         "c": "Zero",
+         "d": "-1"
+      },
+      "correct_answer": "The number itself"
+   },
+   {
+      "q_no": "4",
+      "question": "Which of the following types of equations typically involves exponential terms?",
+      "options": {
+         "a": "Linear equations",
+         "b": "Quadratic equations",
+         "c": "Exponential equations",
+         "d": "None of these"
+      },
+      "correct_answer": "Exponential equations"
+   },
+   {
+      "q_no": "5",
+      "question": "What is the primary characteristic of an exponential function?",
+      "options": {
+         "a": "A constant rate of change",
+         "b": "An increasing rate of change",
+         "c": "A decreasing rate of change",
+         "d": "None of these"
+      },
+      "correct_answer": "A decreasing rate of change"
+   },
+   {
+      "q_no": "6",
+      "question": "How do you graph an exponential function?",
+      "options": {
+         "a": "By plotting multiple points and drawing a curve",
+         "b": "By using the x-axis as the input variable",
+         "c": "By using the y-axis as the output variable",
+         "d": "None of these"
+      },
+      "correct_answer": "By plotting multiple points and drawing a curve"
+   },
+   {
+      "q_no": "7",
+      "question": "What is the difference between a zero exponent and a non-zero exponent?",
+      "options": {
+         "a": "A zero exponent is always equal to one",
+         "b": "A non-zero exponent can be equal to any number",
+         "c": "A zero exponent is not defined",
+         "d": "None of these"
+      },
+      "correct_answer": "A zero exponent is always equal to one"
+   },
+   {
+      "q_no": "8",
+      "question": "How do you simplify an expression with multiple exponents?",
+      "options": {
+         "a": "By applying the product rule and power rule simultaneously",
+         "b": "By applying the power rule only",
+         "c": "By applying the quotient rule only",
+         "d": "None of these"
+      },
+      "correct_answer": "By applying the product rule and power rule simultaneously"
+   },
+   {
+      "q_no": "9",
+      "question": "What is the purpose of evaluating expressions with exponents and powers?",
+      "options": {
+         "a": "To simplify expressions",
+         "b": "To solve equations",
+         "c": "To graph functions",
+         "d": "None of these"
+      },
+      "correct_answer": "To simplify expressions"
+   },
+   {
+      "q_no": "10",
+      "question": "How do you solve an equation with exponential terms?",
+      "options": {
+         "a": "By applying the power rule and isolating the variable",
+         "b": "By applying the product rule and simplifying",
+         "c": "By applying the quotient rule and solving for the exponent",
+         "d": "None of these"
+      },
+      "correct_answer": "By applying the power rule and isolating the variable"
+   },
+   {
+      "q_no": "11",
+      "question": "What is a key characteristic of exponential functions?",
+      "options": {
+         "a": "They have a constant rate of change",
+         "b": "They have an increasing rate of change",
+         "c": "They have a decreasing rate of change",
+         "d": "None of these"
+      },
+      "correct_answer": "They have a decreasing rate of change"
+   },
+   {
+      "q_no": "12",
+      "question": "How do you represent an exponential function algebraically?",
+      "options": {
+         "a": "Using the variable as the input and output",
+         "b": "Using the x-axis as the input variable",
+         "c": "Using the y-axis as the output variable",
+         "d": "None of these"
+      },
+      "correct_answer": "Using the variable as the input and output"
+   }
+]
+TIME for MCQ: 165.39 | ⚡⚡⚡ Token Speed: 3.162 tokens/sec
+TOTAL Tokens for Syllabus 1 & its MCQ: 568 | TOTAL Time: 182.50
+
+********************************************************************************
+
+Syllabus NUMBER 3 of 3 --- | llama3.2:3b

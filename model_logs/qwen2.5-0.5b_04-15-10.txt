@@ -1,0 +1,19 @@
+********************************************************************************
+Syllabus NUMBER 1
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Edexcel Grade 12 Mathematics - Calculus - Differentiation:
+
+- Introduction to derivatives
+- Understanding functions and their graphs
+- The rule of differentiation
+- The chain rule
+- Higher-order derivatives
+- Integration basics
+- Applications in real-life scenarios
+
+Do not deviate from this structure. Do not add any titles, headings, or explanations. END IT AFTER CREATING THE SYLLABUS
+TIME for SYLLABUS: 4.991 | ⚡⚡⚡ Token Speed: 12.021 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 14
+Attempt 1 out of 5... qwen2.5:0.5b

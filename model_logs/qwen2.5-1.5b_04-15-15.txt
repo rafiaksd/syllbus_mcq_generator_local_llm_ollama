@@ -1,0 +1,693 @@
+********************************************************************************
+Syllabus NUMBER 1 of 4
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for IB Grade 9 Mathematics - Geometry - Trigonometry:
+- Introduction to trigonometric ratios
+- Understanding sine, cosine, and tangent values in a right triangle
+- Solving problems using trigonometry
+- Finding angles and sides of triangles using trigonometric functions
+- Using trigonometry in real-world applications
+
+END.
+TIME for SYLLABUS: 7.965 | ⚡⚡⚡ Token Speed: 6.026 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 10
+Attempt 1 out of 5 for Syllabus 1 of 4... qwen2.5:1.5b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What is the reciprocal ratio of sine in a right triangle?", "options": {"a": "Cosecant (csc)", "b": "Secant (sec)", "c": "Tangent (tan)", "d": "Sine (sin)"}, "correct_answer": "Cosecant (csc)"},
+    {"q_no": "2", "question": "In a right triangle, if angle A is 45 degrees, what is the value of cosine A?", "options": {"a": "1/√2", "b": "√2/2", "c": "0.5", "d": "1"}, "correct_answer": "√2/2"},
+    {"q_no": "3", "question": "How does the sine of an angle relate to its cosine in a right triangle?", "options": {"a": "sin = cos", "b": "sin = 1/cos", "c": "cos = sin", "d": "None of these"}, "correct_answer": "sin = cos"},
+    {"q_no": "4", "question": "Given an angle θ in a right triangle, what is the length of the side opposite to θ?", "options": {"a": "Adjacent side × Tan(θ)", "b": "Opposite side ÷ Cos(θ)", "c": "Opposite side × Sin(θ)", "d": "None of these"}, "correct_answer": "Opposite side × Sin(θ)"},
+    {"q_no": "5", "question": "A ship sails 10 km north and then 10 km east. What is the bearing from its initial position?", "options": {"a": "45°", "b": "30°", "c": "60°", "d": "90°"}, "correct_answer": "30°"},
+    {"q_no": "6", "question": "If sin(θ) = 0.6, what is the value of tan(θ)?", "options": {"a": "1/√3", "b": "0.5", "c": "2/3", "d": "3/4"}, "correct_answer": "2/3"},
+    {"q_no": "7", "question": "A ladder makes an angle of 60 degrees with the ground at a certain height above it. What is the length of the ladder?", "options": {"a": "√3 times its width", "b": "4 units longer than its width", "c": "2/√3 times its width", "d": "None of these"}, "correct_answer": "4 units longer than its width"},
+    {"q_no": "8", "question": "A triangle has sides 5 cm, 12 cm, and 13 cm. What is the length of the angle opposite to the side of 13 cm?", "options": {"a": "10 cm", "b": "6.5 cm", "c": "8 cm", "d": "9 cm"}, "correct_answer": "6.5 cm"},
+    {"q_no": "9", "question": "A plane is flying at a constant altitude above the Earth's surface. If the angle of depression from the plane to an object on the ground is 30 degrees, what is the height of the plane?", "options": {"a": "2 units longer than its width", "b": "√3 times its width", "c": "1 unit shorter than its width", "d": "None of these"}, "correct_answer": "2 units longer than its width"},
+    {"q_no": "10", "question": "If tan(θ) = 5/4, what is the value of sin(θ)?", "options": {"a": "3/√4", "b": "5/4", "c": "1/2", "d": "2/3"}, "correct_answer": "3/√4"},
+    {"q_no": "11", "question": "A right triangle has angles 30° and 60°. What is the ratio of the lengths of its sides?", "options": {"a": "1:√3:2", "b": "1:2:√3", "c": "1:√2:√3", "d": "None of these"}, "correct_answer": "1:√2:√3"},
+    {"q_no": "12", "question": "If tan(θ) = 0.5, what is the value of sin(θ)?", "options": {"a": "1/2", "b": "0.5", "c": "1/4", "d": "None of these"}, "correct_answer": "1/4"}
+]
+Time Taken: 58.77 seconds | Tokens Produced: 459 | ⚡⚡⚡ Token Speed 7.811 tokens/sec
+✅✅✅ Successfully generated 12 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 1 of 4
+[
+   {
+      "q_no": "1",
+      "question": "What is the reciprocal ratio of sine in a right triangle?",
+      "options": {
+         "a": "Cosecant (csc)",
+         "b": "Secant (sec)",
+         "c": "Tangent (tan)",
+         "d": "Sine (sin)"
+      },
+      "correct_answer": "Cosecant (csc)"
+   },
+   {
+      "q_no": "2",
+      "question": "In a right triangle, if angle A is 45 degrees, what is the value of cosine A?",
+      "options": {
+         "a": "1/\u221a2",
+         "b": "\u221a2/2",
+         "c": "0.5",
+         "d": "1"
+      },
+      "correct_answer": "\u221a2/2"
+   },
+   {
+      "q_no": "3",
+      "question": "How does the sine of an angle relate to its cosine in a right triangle?",
+      "options": {
+         "a": "sin = cos",
+         "b": "sin = 1/cos",
+         "c": "cos = sin",
+         "d": "None of these"
+      },
+      "correct_answer": "sin = cos"
+   },
+   {
+      "q_no": "4",
+      "question": "Given an angle \u03b8 in a right triangle, what is the length of the side opposite to \u03b8?",
+      "options": {
+         "a": "Adjacent side \u00d7 Tan(\u03b8)",
+         "b": "Opposite side \u00f7 Cos(\u03b8)",
+         "c": "Opposite side \u00d7 Sin(\u03b8)",
+         "d": "None of these"
+      },
+      "correct_answer": "Opposite side \u00d7 Sin(\u03b8)"
+   },
+   {
+      "q_no": "5",
+      "question": "A ship sails 10 km north and then 10 km east. What is the bearing from its initial position?",
+      "options": {
+         "a": "45\u00b0",
+         "b": "30\u00b0",
+         "c": "60\u00b0",
+         "d": "90\u00b0"
+      },
+      "correct_answer": "30\u00b0"
+   },
+   {
+      "q_no": "6",
+      "question": "If sin(\u03b8) = 0.6, what is the value of tan(\u03b8)?",
+      "options": {
+         "a": "1/\u221a3",
+         "b": "0.5",
+         "c": "2/3",
+         "d": "3/4"
+      },
+      "correct_answer": "2/3"
+   },
+   {
+      "q_no": "7",
+      "question": "A ladder makes an angle of 60 degrees with the ground at a certain height above it. What is the length of the ladder?",
+      "options": {
+         "a": "\u221a3 times its width",
+         "b": "4 units longer than its width",
+         "c": "2/\u221a3 times its width",
+         "d": "None of these"
+      },
+      "correct_answer": "4 units longer than its width"
+   },
+   {
+      "q_no": "8",
+      "question": "A triangle has sides 5 cm, 12 cm, and 13 cm. What is the length of the angle opposite to the side of 13 cm?",
+      "options": {
+         "a": "10 cm",
+         "b": "6.5 cm",
+         "c": "8 cm",
+         "d": "9 cm"
+      },
+      "correct_answer": "6.5 cm"
+   },
+   {
+      "q_no": "9",
+      "question": "A plane is flying at a constant altitude above the Earth's surface. If the angle of depression from the plane to an object on the ground is 30 degrees, what is the height of the plane?",
+      "options": {
+         "a": "2 units longer than its width",
+         "b": "\u221a3 times its width",
+         "c": "1 unit shorter than its width",
+         "d": "None of these"
+      },
+      "correct_answer": "2 units longer than its width"
+   },
+   {
+      "q_no": "10",
+      "question": "If tan(\u03b8) = 5/4, what is the value of sin(\u03b8)?",
+      "options": {
+         "a": "3/\u221a4",
+         "b": "5/4",
+         "c": "1/2",
+         "d": "2/3"
+      },
+      "correct_answer": "3/\u221a4"
+   },
+   {
+      "q_no": "11",
+      "question": "A right triangle has angles 30\u00b0 and 60\u00b0. What is the ratio of the lengths of its sides?",
+      "options": {
+         "a": "1:\u221a3:2",
+         "b": "1:2:\u221a3",
+         "c": "1:\u221a2:\u221a3",
+         "d": "None of these"
+      },
+      "correct_answer": "1:\u221a2:\u221a3"
+   },
+   {
+      "q_no": "12",
+      "question": "If tan(\u03b8) = 0.5, what is the value of sin(\u03b8)?",
+      "options": {
+         "a": "1/2",
+         "b": "0.5",
+         "c": "1/4",
+         "d": "None of these"
+      },
+      "correct_answer": "1/4"
+   }
+]
+TIME for MCQ: 58.765 | ⚡⚡⚡ Token Speed: 7.811 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 507 | TOTAL Time: 66.74
+
+********************************************************************************
+Syllabus NUMBER 2 of 4
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Cambridge Grade 10 Physics - Waves - Electromagnetic Spectrum:
+- Introduction to waves and their properties
+- Understanding electromagnetic spectrum in order of increasing wavelength (radio, microwave, infrared, visible light, ultraviolet, X-rays, gamma rays)
+- Classifying electromagnetic waves by frequency (microwaves are used for radar, UV is used for sterilization)
+- Observing the EM spectrum through a prism experiment
+- Understanding absorption and emission spectra
+- Recognizing the role of photons in producing colors
+
+END.
+TIME for SYLLABUS: 7.512 | ⚡⚡⚡ Token Speed: 10.251 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 5 for Syllabus 2 of 4... qwen2.5:1.5b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What type of waves are used to identify an object without physical contact?", "options": {"a": "Electromagnetic waves", "b": "Sound waves", "c": "Water waves", "d": "Radar waves"}, "correct_answer": "Radar waves"},
+    {"q_no": "2", "question": "What property of light determines its wavelength and color?", "options": {"a": "Amplitude", "b": "Frequency", "c": "Speed", "d": "Wavelength"}, "correct_answer": "Frequency"},
+    {"q_no": "3", "question": "Which part of the electromagnetic spectrum has the longest wavelength?", "options": {"a": "Radio waves", "b": "Microwave", "c": "Infrared", "d": "Ultraviolet"}, "correct_answer": "Radio waves"},
+    {"q_no": "4", "question": "How do different types of electromagnetic radiation differ in terms of frequency?", "options": {"a": "Frequency is the same for all types of EMR.", "b": "Higher frequency corresponds to lower wavelength, and vice versa.", "c": "Lower frequency means longer wavelengths.", "d": "Frequency determines color, not wavelength."}, "correct_answer": "B"},
+    {"q_no": "5", "question": "What principle explains why the colors of light appear when a prism is used?", "options": {"a": "The principle of polarization.", "b": "The Doppler effect.", "c": "The law of reflection.", "d": "The dispersion principle."}, "correct_answer": "D"},
+    {"q_no": "6", "question": "What do we call the electromagnetic waves used for communication, such as radio and TV?", "options": {"a": "Microwaves", "b": "X-rays", "c": "Radio waves", "d": "Gamma rays"}, "correct_answer": "C"},
+    {"q_no": "7", "question": "What is the primary reason for the different wavelengths of electromagnetic radiation?", "options": {"a": "The type of material.", "b": "Temperature differences.", "c": "Frequency variations.", "d": "All types emit in a continuous spectrum."}, "correct_answer": "C"},
+    {"q_no": "8", "question": "How does the absorption spectrum differ from the emission spectrum?", "options": {"a": "Absorption is caused by material, whereas emission is caused by light itself.", "b": "Absorption involves reflection of light, while emission does not.", "c": "Emission spectra are always visible, but absorptions are not.", "d": "Absorption and emission spectrum have the same wavelengths."}, "correct_answer": "A"},
+    {"q_no": "9", "question": "What phenomenon explains why X-rays can be used for sterilization?", "options": {"a": "Diffraction of light waves", "b": "Reflection from a prism", "c": "Scattering of photons", "d": "Absorption and emission by the material"}, "correct_answer": "D"},
+    {"q_no": "10", "question": "What does the role of 'photons' in producing colors demonstrate?", "options": {"a": "The Doppler effect.", "b": "The principle of polarization.", "c": "Light's ability to produce a spectrum.", "d": "Photons are particles that interact with material."}, "correct_answer": "C"},
+    {"q_no": "11", "question": "What do we call the waves used for detecting small distances?", "options": {"a": "Microwaves", "b": "Radio waves", "c": "Infrared", "d": "Ultraviolet"}, "correct_answer": "A"},
+    {"q_no": "12", "question": "What property of electromagnetic radiation determines its color and wavelength?", "options": {"a": "Frequency", "b": "Wavelength", "c": "Speed", "d": "Direction"}, "correct_answer": "B"}
+]
+Time Taken: 54.42 seconds | Tokens Produced: 424 | ⚡⚡⚡ Token Speed 7.792 tokens/sec
+✅✅✅ Successfully generated 12 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 2 of 4
+[
+   {
+      "q_no": "1",
+      "question": "What type of waves are used to identify an object without physical contact?",
+      "options": {
+         "a": "Electromagnetic waves",
+         "b": "Sound waves",
+         "c": "Water waves",
+         "d": "Radar waves"
+      },
+      "correct_answer": "Radar waves"
+   },
+   {
+      "q_no": "2",
+      "question": "What property of light determines its wavelength and color?",
+      "options": {
+         "a": "Amplitude",
+         "b": "Frequency",
+         "c": "Speed",
+         "d": "Wavelength"
+      },
+      "correct_answer": "Frequency"
+   },
+   {
+      "q_no": "3",
+      "question": "Which part of the electromagnetic spectrum has the longest wavelength?",
+      "options": {
+         "a": "Radio waves",
+         "b": "Microwave",
+         "c": "Infrared",
+         "d": "Ultraviolet"
+      },
+      "correct_answer": "Radio waves"
+   },
+   {
+      "q_no": "4",
+      "question": "How do different types of electromagnetic radiation differ in terms of frequency?",
+      "options": {
+         "a": "Frequency is the same for all types of EMR.",
+         "b": "Higher frequency corresponds to lower wavelength, and vice versa.",
+         "c": "Lower frequency means longer wavelengths.",
+         "d": "Frequency determines color, not wavelength."
+      },
+      "correct_answer": "B"
+   },
+   {
+      "q_no": "5",
+      "question": "What principle explains why the colors of light appear when a prism is used?",
+      "options": {
+         "a": "The principle of polarization.",
+         "b": "The Doppler effect.",
+         "c": "The law of reflection.",
+         "d": "The dispersion principle."
+      },
+      "correct_answer": "D"
+   },
+   {
+      "q_no": "6",
+      "question": "What do we call the electromagnetic waves used for communication, such as radio and TV?",
+      "options": {
+         "a": "Microwaves",
+         "b": "X-rays",
+         "c": "Radio waves",
+         "d": "Gamma rays"
+      },
+      "correct_answer": "C"
+   },
+   {
+      "q_no": "7",
+      "question": "What is the primary reason for the different wavelengths of electromagnetic radiation?",
+      "options": {
+         "a": "The type of material.",
+         "b": "Temperature differences.",
+         "c": "Frequency variations.",
+         "d": "All types emit in a continuous spectrum."
+      },
+      "correct_answer": "C"
+   },
+   {
+      "q_no": "8",
+      "question": "How does the absorption spectrum differ from the emission spectrum?",
+      "options": {
+         "a": "Absorption is caused by material, whereas emission is caused by light itself.",
+         "b": "Absorption involves reflection of light, while emission does not.",
+         "c": "Emission spectra are always visible, but absorptions are not.",
+         "d": "Absorption and emission spectrum have the same wavelengths."
+      },
+      "correct_answer": "A"
+   },
+   {
+      "q_no": "9",
+      "question": "What phenomenon explains why X-rays can be used for sterilization?",
+      "options": {
+         "a": "Diffraction of light waves",
+         "b": "Reflection from a prism",
+         "c": "Scattering of photons",
+         "d": "Absorption and emission by the material"
+      },
+      "correct_answer": "D"
+   },
+   {
+      "q_no": "10",
+      "question": "What does the role of 'photons' in producing colors demonstrate?",
+      "options": {
+         "a": "The Doppler effect.",
+         "b": "The principle of polarization.",
+         "c": "Light's ability to produce a spectrum.",
+         "d": "Photons are particles that interact with material."
+      },
+      "correct_answer": "C"
+   },
+   {
+      "q_no": "11",
+      "question": "What do we call the waves used for detecting small distances?",
+      "options": {
+         "a": "Microwaves",
+         "b": "Radio waves",
+         "c": "Infrared",
+         "d": "Ultraviolet"
+      },
+      "correct_answer": "A"
+   },
+   {
+      "q_no": "12",
+      "question": "What property of electromagnetic radiation determines its color and wavelength?",
+      "options": {
+         "a": "Frequency",
+         "b": "Wavelength",
+         "c": "Speed",
+         "d": "Direction"
+      },
+      "correct_answer": "B"
+   }
+]
+TIME for MCQ: 54.415 | ⚡⚡⚡ Token Speed: 7.792 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 501 | TOTAL Time: 61.94
+
+********************************************************************************
+Syllabus NUMBER 3 of 4
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for International Baccalaureate (IB) Grade 10 Biology - Ecology - Population Dynamics:
+- Introduction to population dynamics and ecological succession
+- Understanding the basic concepts of populations, communities, and ecosystems
+- Measuring population size using samples and census methods
+- Differentiating between exponential and logistic growth models
+- Analyzing patterns in population changes over time
+- Identifying factors influencing population density and distribution
+- Comparing different types of habitats and their impact on population dynamics
+- Exploring the role of human activities in affecting ecosystem stability and biodiversity
+TIME for SYLLABUS: 7.878 | ⚡⚡⚡ Token Speed: 11.297 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 16
+Attempt 1 out of 5 for Syllabus 3 of 4... qwen2.5:1.5b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What term is used to describe a group of organisms of the same species living together?", "options": {"a": "Community", "b": "Ecosystem", "c": "Population", "d": "Biome"}, "correct_answer": "Community"},
+    {"q_no": "2", "question": "Exponential growth is characterized by which pattern in population size over time?", "options": {"a": "Decreasing rapidly", "b": "Stable and constant", "c": "Increasing steadily", "d": "Variable but decreasing"}, "correct_answer": "Increasing steadily"},
+    {"q_no": "3", "question": "What is the main difference between exponential growth and logistic growth models?", "options": {"a": "Exponential grows without limit, while logistic has a carrying capacity", "b": "Exponential starts with high population density, logistic not applicable", "c": "Exponential decreases over time, logistic increases steadily", "d": "None of the above"}, "correct_answer": "Exponential grows without limit, while logistic has a carrying capacity"},
+    {"q_no": "4", "question": "How can one distinguish between population and community in biological terms?", "options": {"a": "Population is made up of individuals from the same species, whereas community includes various species", "b": "Community refers to interactions within an ecosystem, while population focuses on individual organisms", "c": "Community size is always greater than that of populations", "d": "Both are groups of interacting living things"}, "correct_answer": "Population is made up of individuals from the same species, whereas community includes various species"},
+    {"q_no": "5", "question": "What does population density measure?", "options": {"a": "The average age of a group", "b": "The distance between two points in space", "c": "The number of individuals per unit area or volume", "d": "None of the above"}, "correct_answer": "The number of individuals per unit area or volume"},
+    {"q_no": "6", "question": "Which factor is NOT typically considered when studying population dynamics?", "options": {"a": "Temperature fluctuations", "b": "Habitat availability and quality", "c": "Resource competition for food and water", "d": "Predator-prey relationships"}, "correct_answer": "Temperature fluctuations"},
+    {"q_no": "7", "question": "Which of the following statements best describes ecological succession?", "options": {"a": "A decrease in biodiversity over time due to natural disasters", "b": "The process where communities and ecosystems change from a simpler to more complex state", "c": "An increase in population size without limit", "d": "All species becoming extinct at the same rate"}, "correct_answer": "The process where communities and ecosystems change from a simpler to more complex state"},
+    {"q_no": "8", "question": "What term is used to describe the process by which one type of organism becomes dominant over another in an ecosystem?", "options": {"a": "Predation", "b": "Competition", "c": "Habitat selection", "d": "Competitive exclusion"}, "correct_answer": "Competition"},
+    {"q_no": "9", "question": "Which factor is most likely to cause a sudden increase in the population of a certain species?", "options": {"a": "Decrease in food availability", "b": "Increase in predator pressure", "c": "Exposure to disease or natural disasters", "d": "Migration into an area previously uninhabited"}, "correct_answer": "Increase in predator pressure"},
+    {"q_no": "10", "question": "What is the term for species that are unable to compete effectively with a dominant species due to their ecological niche?", "options": {"a": "Competitive exclusion", "b": "Competition for resources", "c": "Resource limitation", "d": "Competitive advantage"}, "correct_answer": "Competition for resources"},
+    {"q_no": "11", "question": "Which of the following is NOT a typical habitat type in an ecosystem?", "options": {"a": "Desert biome", "b": "Freshwater lake", "c": "Mountain peak", "d": "Sedimentary rock formations"}, "correct_answer": "Sedimentary rock formations"},
+    {"q_no": "12", "question": "What is the term for an increase in population size over time due to birth rates exceeding death rates?", "options": {"a": "Exponential growth", "b": "Logistic growth", "c": "Catastrophic collapse", "d": "Stable equilibrium"}, "correct_answer": "Exponential growth"},
+    {"q_no": "13", "question": "What is the term for a decrease in population size over time due to factors such as death rates exceeding birth rates?", "options": {"a": "Decline", "b": "Dwindling", "c": "Sustainability", "d": "Exponential decline"}, "correct_answer": "Sustainability"},
+    {"q_no": "14", "question": "Which of the following statements best describes the role of human activities in population dynamics?", "options": {"a": "They decrease biodiversity and reduce ecosystem stability", "b": "They have no significant impact on population dynamics", "c": "They increase overall population size globally", "d": "They primarily affect local populations"}, "correct_answer": "They decrease biodiversity and reduce ecosystem stability"}
+]
+Time Taken: 64.53 seconds | Tokens Produced: 655 | ⚡⚡⚡ Token Speed 10.150 tokens/sec
+⚠️ Warning: Expected 16 MCQs but got 14...
+
+Attempt 2 out of 5 for Syllabus 3 of 4... qwen2.5:1.5b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What is the main reason for the growth of a population over time?", "options": {"a": "Natural selection", "b": "Exponential growth model", "c": "Logistic growth model", "d": "Human activities"}, "correct_answer": "Logistic growth model"},
+    {"q_no": "2", "question": "Which factor is NOT directly related to population density?", "options": {"a": "Water quality", "b": "Climate conditions", "c": "Food availability", "d": "Density-dependent factors"}, "correct_answer": "Water quality"},
+    {"q_no": "3", "question": "In a forest ecosystem, which type of habitat has the highest population density?", "options": {"a": "Grassland", "b": "Riverbank", "c": "Tundra", "d": "Mountainous region"}, "correct_answer": "Riverbank"},
+    {"q_no": "4", "question": "What does a census method estimate for an entire population?", "options": {"a": "The number of individuals within a certain area", "b": "The average lifespan of the species", "c": "The genetic diversity of the population", "d": "The overall health condition"}, "correct_answer": "The number of individuals within a certain area"},
+    {"q_no": "5", "question": "Explain the difference between exponential and logistic growth models.", "options": {"a": "Exponential growth is limited by environmental factors, while logistic growth increases indefinitely", "b": "Exponential growth occurs when resources are unlimited, while logistic growth reaches a carrying capacity limit", "c": "Exponential growth decreases population size over time, while logistic growth stabilizes it", "d": "Exponential growth involves human activities, while logistic growth is not influenced by humans"}, "correct_answer": "Exponential growth is limited by environmental factors, while logistic growth increases indefinitely"},
+    {"q_no": "6", "question": "Which type of habitat has the highest population density in a given area?", "options": {"a": "Forest", "b": "Grassland", "c": "Shrubbery", "d": "Desert"}, "correct_answer": "Forest"},
+    {"q_no": "7", "question": "What is the primary reason for human activities to affect ecosystem stability and biodiversity?", "options": {"a": "Deforestation and habitat destruction", "b": "Pollution of water bodies", "c": "Increase in population density", "d": "Overfishing and hunting"}, "correct_answer": "Deforestation and habitat destruction"},
+    {"q_no": "8", "question": "Which type of growth model predicts a population that will eventually stabilize at its carrying capacity?", "options": {"a": "Exponential growth model", "b": "Logistic growth model", "c": "J-shaped growth model", "d": "S-shaped growth model"}, "correct_answer": "Logistic growth model"},
+    {"q_no": "9", "question": "What is the significance of understanding population dynamics in ecology?", "options": {"a": "To predict future trends and plan conservation efforts", "b": "To identify endangered species quickly", "c": "To calculate the ideal size of a farming community", "d": "To improve the taste of crops"}, "correct_answer": "To predict future trends and plan conservation efforts"},
+    {"q_no": "10", "question": "Explain why humans are an important factor in ecosystem stability and biodiversity.", "options": {"a": "Humans can introduce new species to different habitats", "b": "Humans alter the genetic makeup of populations through selective breeding", "c": "Humans drive ecological succession and influence population densities in ecosystems", "d": "Humans have no impact on ecosystems"}, "correct_answer": "Humans drive ecological succession and influence population densities in ecosystems"},
+    {"q_no": "11", "question": "How do different types of habitats affect the population dynamics of a given species?", "options": {"a": "Grassland has higher light availability, leading to more photosynthesis rates", "b": "Shrubbery provides better shelter and food sources for many species", "c": "Tundra habitats are colder and more extreme in their conditions", "d": "Mountainous regions offer less suitable environments due to harsh weather"), "correct_answer": "Shrubbery provides better shelter and food sources for many species"}
+]
+Time Taken: 57.60 seconds | Tokens Produced: 528 | ⚡⚡⚡ Token Speed 9.167 tokens/sec
+⚠️ Warning: Expected 16 MCQs but got 14...
+⚠️ Error: Invalid JSON format...
+
+Attempt 3 out of 5 for Syllabus 3 of 4... qwen2.5:1.5b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "Which term best describes a living organism's interaction with its environment?", "options": {"a": "Community", "b": "Population", "c": "Ecosystem", "d": "Biogeography"}, "correct_answer": "Population"},
+    {"q_no": "2", "question": "In population dynamics, what term refers to a group of organisms of the same species living in the same area?", "options": {"a": "Community", "b": "Population", "c": "Ecosystem", "d": "Habitat"}, "correct_answer": "Population"},
+    {"q_no": "3", "question": "What is a key factor affecting population growth that can be controlled by human intervention?", "options": {"a": "Resource availability", "b": "Predator-prey relationships", "c": "Climate change", "d": "Disease incidence"}, "correct_answer": "Resource availability"},
+    {"q_no": "4", "question": "Which of the following best describes an ecosystem's ability to recover from disturbances?", "options": {"a": "Exponential growth rate", "b": "Logistic growth model", "c": "Recovery time frame", "d": "Initial population size"}, "correct_answer": "Recovery time frame"},
+    {"q_no": "5", "question": "How does the concept of 'carrying capacity' apply to a particular ecological system?", "options": {"a": "It refers to the maximum number of individuals that can be sustained in an environment indefinitely.", "b": "It indicates the rate at which populations increase over time.", "c": "It defines the smallest population size needed for a species.", "d": "It measures the proportion of the available food source consumed by organisms."}, "correct_answer": "It refers to the maximum number of individuals that can be sustained in an environment indefinitely."},
+    {"q_no": "6", "question": "Which factor plays a crucial role in determining where populations are found within their habitat?", "options": {"a": "Temperature", "b": "Water availability", "c": "Predator-prey interactions", "d": "Light intensity"}, "correct_answer": "Predator-prey interactions"},
+    {"q_no": "7", "question": "In the context of population dynamics, what term describes a species' ability to increase in number when there is sufficient space and resources?", "options": {"a": "Exponential growth rate", "b": "Logistic growth model", "c": "Predator-prey relationships", "d": "Initial population size"}, "correct_answer": "Exponential growth rate"},
+    {"q_no": "8", "question": "What is the process by which an ecosystem recovers from disturbances or changes in environmental conditions?", "options": {"a": "Ecological succession", "b": "Growth rate of individuals", "c": "Population density", "d": "Ecosystem stability"}, "correct_answer": "Ecological succession"},
+    {"q_no": "9", "question": "Which ecological concept refers to the interconnectedness and interdependence among various populations within an ecosystem?", "options": {"a": "Community structure", "b": "Food web", "c": "Ecosystem health", "d": "Population density"}, "correct_answer": "Food web"},
+    {"q_no": "10", "question": "What term best describes the study of how populations change over time?", "options": {"a": "Ecology", "b": "Demography", "c": "Biogeography", "d": "Population dynamics"}, "correct_answer": "Population dynamics"},
+    {"q_no": "11", "question": "In population dynamics, what does the term 'carrying capacity' refer to?", "options": {"a": "The maximum number of individuals that can be sustained in an environment indefinitely.", "b": "The rate at which populations increase over time.", "c": "The size of a population in its ecosystem.", "d": "The initial population size needed for survival."}, "correct_answer": "The maximum number of individuals that can be sustained in an environment indefinitely."},
+    {"q_no": "12", "question": "What is the term used to describe how organisms are distributed and affected by environmental factors?", "options": {"a": "Biotic factor", "b": "Community structure", "c": "Ecosystem health", "d": "Population density"}, "correct_answer": "Community structure"},
+    {"q_no": "13", "question": "In the context of population dynamics, what does 'exponential growth' indicate?", "options": {"a": "The rate at which individuals reproduce.", "b": "A linear increase in population size over time.", "c": "An unlimited number of offspring.", "d": "An initial population size needed for survival."}, "correct_answer": "A linear increase in population size over time."},
+    {"q_no": "14", "question": "Which factor affects the distribution and density of a species' population within its habitat?", "options": {"a": "Temperature", "b": "Water availability", "c": "Light intensity", "d": "Predator-prey interactions"}, "correct_answer": "Predator-prey interactions"}
+]
+Time Taken: 65.12 seconds | Tokens Produced: 586 | ⚡⚡⚡ Token Speed 8.998 tokens/sec
+⚠️ Warning: Expected 16 MCQs but got 14...
+⚠️ Error: Invalid JSON format...
+⚠️ Warning: Expected 16 MCQs but got 14...
+
+Attempt 4 out of 5 for Syllabus 3 of 4... qwen2.5:1.5b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What is the primary driver of population growth?", "options": {"a": "Birth rate only", "b": "Death rate only", "c": "Birth rate minus death rate", "d": "Both birth and death rates"}, "correct_answer": "C"},
+    {"q_no": "2", "question": "Which type of graph is commonly used to represent exponential growth in a population?", "options": {"a": "Bar chart", "b": "Line chart", "c": "Logarithmic scale plot", "d": "Scatter plot"}, "correct_answer": "C"},
+    {"q_no": "3", "question": "What is the formula for calculating the carrying capacity (K) of a population?", "options": {"a": "N = K - R", "b": "K = N + R", "c": "R = K/N", "d": "N = K/N"}, "correct_answer": "D"},
+    {"q_no": "4", "question": "How do humans primarily influence population density in urban areas?", "options": {"a": "Reducing birth rate only", "b": "Increasing death rate only", "c": "Both increasing and reducing birth rate", "d": "No impact on birth or death rates"}, "correct_answer": "C"},
+    {"q_no": "5", "question": "What term describes the process where populations move towards an equilibrium state over time?", "options": {"a": "Migration", "b": "Density dependence", "c": "Allochory", "d": "Ecological succession"}, "correct_answer": "D"},
+    {"q_no": "6", "question": "Which factor is NOT typically considered in analyzing population dynamics?", "options": {"a": "Food availability", "b": "Water quality", "c": "Population density", "d": "Genetic diversity"}, "correct_answer": "C"},
+    {"q_no": "7", "question": "What does the term 'carrying capacity' refer to in population dynamics?", "options": {"a": "The maximum number of organisms that can live on a given area at equilibrium", "b": "The lowest birth rate possible for a species", "c": "The total amount of resources needed by an ecosystem", "d": "The highest death rate observed"}, "correct_answer": "A"},
+    {"q_no": "8", "question": "Which factor is most likely to cause a decrease in population size over time?", "options": {"a": "Increased birth rate", "b": "Decreased food availability", "c": "Higher death rate", "d": "None of the above"}, "correct_answer": "B"},
+    {"q_no": "9", "question": "In a given habitat, what can change population density if there is an increase in the number of predators?", "options": {"a": "Density independent factors", "b": "Population density itself", "c": "Carrying capacity decreases", "d": "All of the above"}, "correct_answer": "D"},
+    {"q_no": "10", "question": "Which type of population growth can be modeled using a logistic equation?", "options": {"a": "Exponential growth only", "b": "Exponential and logarithmic growth equally", "c": "Logarithmic growth only", "d": "Logistic growth model"}, "correct_answer": "D"},
+    {"q_no": "11", "question": "What is the term for a sudden increase in population size due to changes such as disease or environmental factors?", "options": {"a": "Burstiness", "b": "Jaggedness", "c": "Biodiversity", "d": "Epizootic"}, "correct_answer": "D"},
+    {"q_no": "12", "question": "What is the primary factor determining the size of a population?", "options": {"a": "Population density itself", "b": "Food availability and water quality", "c": "Carrying capacity alone", "d": "All factors including birth, death rates"}, "correct_answer": "D"},
+    {"q_no": "13", "question": "What does the term 'epidemic' refer to in population dynamics?", "options": {"a": "A sudden increase in population size due to disease", "b": "An outbreak of a disease affecting more than 50% of a population", "c": "A decrease in population size through natural causes", "d": "No change in population size"}, "correct_answer": "A"},
+    {"q_no": "14", "question": "Which factor is NOT commonly considered when studying population dynamics?", "options": {"a": "Climate change", "b": "Genetic diversity", "c": "Population density itself", "d": "Ecosystem stability"}, "correct_answer": "C"}
+]
+Time Taken: 68.30 seconds | Tokens Produced: 536 | ⚡⚡⚡ Token Speed 7.848 tokens/sec
+⚠️ Warning: Expected 16 MCQs but got 14...
+⚠️ Error: Invalid JSON format...
+⚠️ Warning: Expected 16 MCQs but got 14...
+⚠️ Warning: Expected 16 MCQs but got 14...
+
+Attempt 5 out of 5 for Syllabus 3 of 4... qwen2.5:1.5b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What is the primary method used to estimate population size?", "options": {"a": "Direct observation", "b": "Census methods using samples", "c": "Estimation based on individual characteristics", "d": "None of the above"}, "correct_answer": "B"},
+    {"q_no": "2", "question": "How does exponential growth differ from logistic growth?", "options": {"a": "Exponential grows faster than logistic", "b": "Logistic has unlimited resources and space, while exponential does not", "c": "Exponential is always negative, whereas logistic can be positive or negative", "d": "None of the above"}, "correct_answer": "A"},
+    {"q_no": "3", "question": "Which factor primarily causes a population to grow in an exponential pattern?", "options": {"a": "High birth rate", "b": "Low death rate", "c": "Both high and low birth/death rates equally", "d": "None of the above"}, "correct_answer": "C"},
+    {"q_no": "4", "question": "What is a major limitation of using census methods for population studies?", "options": {"a": "It takes too long to complete", "b": "Cannot provide an accurate estimate due to sample bias", "c": "Can only be used in small populations", "d": "None of the above"}, "correct_answer": "B"},
+    {"q_no": "5", "question": "What is the result of a population reaching its carrying capacity?", "options": {"a": "Population size stabilizes and remains constant", "b": "Death rate surpasses birth rate", "c": "Birth rate surpasses death rate again", "d": "Both A and B"}, "correct_answer": "D"},
+    {"q_no": "6", "question": "In a community, how are populations usually affected by predators?", "options": {"a": "They become extinct due to predation pressure", "b": "Their density decreases as competition for resources increases", "c": "Their population size remains unchanged with little impact from predators", "d": "All of the above"}, "correct_answer": "B"},
+    {"q_no": "7", "question": "What term describes a population that is increasing in number over time?", "options": {"a": "Expanding Population", "b": "Stable Population", "c": "Dwindling Population", "d": "Population Crash"}, "correct_answer": "A"},
+    {"q_no": "8", "question": "Which of the following best describes human activities' impact on population dynamics?", "options": {"a": "Positive, as all human interventions lead to better outcomes for ecosystems", "b": "Neutral, since humans do not influence populations in any way", "c": "Negative, due to overexploitation and habitat destruction", "d": "Indifferent, as human activities affect only the population numbers"}, "correct_answer": "C"},
+    {"q_no": "9", "question": "In which type of ecosystem is community-level competition most likely to occur?", "options": {"a": "Freshwater Pond", "b": "Desert", "c": "High Mountains Range", "d": "Temperate Rainforest"}, "correct_answer": "A"},
+    {"q_no": "10", "question": "What is the main reason for the decrease in animal population due to climate change?", "options": {"a": "Increased food availability leading to overpopulation", "b": "Decreased habitat suitability causing displacement and death", "c": "Both A and B equally contribute", "d": "None of the above"}, "correct_answer": "B"},
+    {"q_no": "11", "question": "What is the significance of understanding population dynamics in relation to ecological succession?", "options": {"a": "It helps us predict future climate changes without any uncertainty", "b": "It aids in managing land use, preventing erosion and degradation of ecosystems", "c": "Both B and C are true", "d": "None of the above"}, "correct_answer": "C"},
+    {"q_no": "12", "question": "Which factor is NOT typically considered when analyzing population density?", "options": {"a": "Population growth rate", "b": "Age distribution within the population", "c": "Density-independent factors affecting population survival", "d": "Nutrition level of organisms"}, "correct_answer": "A"},
+    {"q_no": "13", "question": "What is a likely consequence of habitat fragmentation for species populations?", "options": {"a": "Decreased genetic diversity, leading to smaller effective population size", "b": "Increased competition due to lower overall available resources", "c": "Both A and B are true", "d": "None of the above"}, "correct_answer": "C"},
+    {"q_no": "14", "question": "Why might a species' population density increase temporarily after an environmental disturbance?", "options": {"a": "Asymptotic growth due to low mortality rates post-incident", "b": "Due to immediate food availability during recovery period", "c": "Both A and B equally contribute", "d": "None of the above"}, "correct_answer": "A"}
+]
+Time Taken: 80.18 seconds | Tokens Produced: 618 | ⚡⚡⚡ Token Speed 7.708 tokens/sec
+⚠️ Warning: Expected 16 MCQs but got 14...
+⚠️ Error: Invalid JSON format...
+⚠️ Warning: Expected 16 MCQs but got 14...
+⚠️ Warning: Expected 16 MCQs but got 14...
+⚠️ Warning: Expected 16 MCQs but got 14...
+
+⚠️ Warning: After 5 attempts returning longest valid response.
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 3 of 4
+[
+   {
+      "q_no": "1",
+      "question": "What term is used to describe a group of organisms of the same species living together?",
+      "options": {
+         "a": "Community",
+         "b": "Ecosystem",
+         "c": "Population",
+         "d": "Biome"
+      },
+      "correct_answer": "Community"
+   },
+   {
+      "q_no": "2",
+      "question": "Exponential growth is characterized by which pattern in population size over time?",
+      "options": {
+         "a": "Decreasing rapidly",
+         "b": "Stable and constant",
+         "c": "Increasing steadily",
+         "d": "Variable but decreasing"
+      },
+      "correct_answer": "Increasing steadily"
+   },
+   {
+      "q_no": "3",
+      "question": "What is the main difference between exponential growth and logistic growth models?",
+      "options": {
+         "a": "Exponential grows without limit, while logistic has a carrying capacity",
+         "b": "Exponential starts with high population density, logistic not applicable",
+         "c": "Exponential decreases over time, logistic increases steadily",
+         "d": "None of the above"
+      },
+      "correct_answer": "Exponential grows without limit, while logistic has a carrying capacity"
+   },
+   {
+      "q_no": "4",
+      "question": "How can one distinguish between population and community in biological terms?",
+      "options": {
+         "a": "Population is made up of individuals from the same species, whereas community includes various species",
+         "b": "Community refers to interactions within an ecosystem, while population focuses on individual organisms",
+         "c": "Community size is always greater than that of populations",
+         "d": "Both are groups of interacting living things"
+      },
+      "correct_answer": "Population is made up of individuals from the same species, whereas community includes various species"
+   },
+   {
+      "q_no": "5",
+      "question": "What does population density measure?",
+      "options": {
+         "a": "The average age of a group",
+         "b": "The distance between two points in space",
+         "c": "The number of individuals per unit area or volume",
+         "d": "None of the above"
+      },
+      "correct_answer": "The number of individuals per unit area or volume"
+   },
+   {
+      "q_no": "6",
+      "question": "Which factor is NOT typically considered when studying population dynamics?",
+      "options": {
+         "a": "Temperature fluctuations",
+         "b": "Habitat availability and quality",
+         "c": "Resource competition for food and water",
+         "d": "Predator-prey relationships"
+      },
+      "correct_answer": "Temperature fluctuations"
+   },
+   {
+      "q_no": "7",
+      "question": "Which of the following statements best describes ecological succession?",
+      "options": {
+         "a": "A decrease in biodiversity over time due to natural disasters",
+         "b": "The process where communities and ecosystems change from a simpler to more complex state",
+         "c": "An increase in population size without limit",
+         "d": "All species becoming extinct at the same rate"
+      },
+      "correct_answer": "The process where communities and ecosystems change from a simpler to more complex state"
+   },
+   {
+      "q_no": "8",
+      "question": "What term is used to describe the process by which one type of organism becomes dominant over another in an ecosystem?",
+      "options": {
+         "a": "Predation",
+         "b": "Competition",
+         "c": "Habitat selection",
+         "d": "Competitive exclusion"
+      },
+      "correct_answer": "Competition"
+   },
+   {
+      "q_no": "9",
+      "question": "Which factor is most likely to cause a sudden increase in the population of a certain species?",
+      "options": {
+         "a": "Decrease in food availability",
+         "b": "Increase in predator pressure",
+         "c": "Exposure to disease or natural disasters",
+         "d": "Migration into an area previously uninhabited"
+      },
+      "correct_answer": "Increase in predator pressure"
+   },
+   {
+      "q_no": "10",
+      "question": "What is the term for species that are unable to compete effectively with a dominant species due to their ecological niche?",
+      "options": {
+         "a": "Competitive exclusion",
+         "b": "Competition for resources",
+         "c": "Resource limitation",
+         "d": "Competitive advantage"
+      },
+      "correct_answer": "Competition for resources"
+   },
+   {
+      "q_no": "11",
+      "question": "Which of the following is NOT a typical habitat type in an ecosystem?",
+      "options": {
+         "a": "Desert biome",
+         "b": "Freshwater lake",
+         "c": "Mountain peak",
+         "d": "Sedimentary rock formations"
+      },
+      "correct_answer": "Sedimentary rock formations"
+   },
+   {
+      "q_no": "12",
+      "question": "What is the term for an increase in population size over time due to birth rates exceeding death rates?",
+      "options": {
+         "a": "Exponential growth",
+         "b": "Logistic growth",
+         "c": "Catastrophic collapse",
+         "d": "Stable equilibrium"
+      },
+      "correct_answer": "Exponential growth"
+   },
+   {
+      "q_no": "13",
+      "question": "What is the term for a decrease in population size over time due to factors such as death rates exceeding birth rates?",
+      "options": {
+         "a": "Decline",
+         "b": "Dwindling",
+         "c": "Sustainability",
+         "d": "Exponential decline"
+      },
+      "correct_answer": "Sustainability"
+   },
+   {
+      "q_no": "14",
+      "question": "Which of the following statements best describes the role of human activities in population dynamics?",
+      "options": {
+         "a": "They decrease biodiversity and reduce ecosystem stability",
+         "b": "They have no significant impact on population dynamics",
+         "c": "They increase overall population size globally",
+         "d": "They primarily affect local populations"
+      },
+      "correct_answer": "They decrease biodiversity and reduce ecosystem stability"
+   }
+]
+TIME for MCQ: 64.533 | ⚡⚡⚡ Token Speed: 10.15 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 744 | TOTAL Time: 343.63
+
+********************************************************************************
+Syllabus NUMBER 4 of 4
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Cambridge Grade 8 Mathematics - Algebra - Linear Equations:
+- Introduction to variables and expressions
+- Solving linear equations in one variable
+- Using the distributive property to simplify equation solving
+- Graphing linear equations on a coordinate plane
+- Writing equations from graphs or word problems
+
+END IT AFTER CREATING THE SYLLABUS
+TIME for SYLLABUS: 8.095 | ⚡⚡⚡ Token Speed: 6.795 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 10
+Attempt 1 out of 5 for Syllabus 4 of 4... qwen2.5:1.5b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What is a variable in mathematics?", "options": {"a": "A number that can change its value based on conditions", "b": "An equation used to solve for unknowns", "c": "A letter representing an unspecified quantity or value", "d": "A symbol indicating no numerical value"}, "correct_answer": "C"},
+    {"q_no": "2", "question": "What is the distributive property?", "options": {"a": "It distributes numbers over variables in expressions", "b": "It allows solving equations by adding or subtracting across terms with similar factors", "c": "It simplifies complex fractions into simpler forms", "d": "It increases the difficulty of solving linear equations"}, "correct_answer": "A"},
+    {"q_no": "3", "question": "How do you solve a one-variable equation like 2x + 5 = 17?", "options": {"a": "First, divide both sides by 2 to get x = 8", "b": "Add 5 to both sides first, then divide by 2", "c": "Subtract 5 from both sides, and then multiply the result by 2", "d": "None of the above"}, "correct_answer": "C"},
+    {"q_no": "4", "question": "What is the slope-intercept form of a linear equation?", "options": {"a": "y = mx + b where m represents slope and b represents y-intercept", "b": "x = my + n where x is the variable, m is the coefficient, and n is the constant", "c": "solving for y gives you an equation of a straight line with variables on one side and constants on the other", "d": "it involves using fractions to represent the relationship between two quantities"}, "correct_answer": "A"},
+    {"q_no": "5", "question": "How do you graph a linear equation like 2x + y = 6?", "options": {"a": "Plot points that satisfy the equation by choosing values of x and solving for y", "b": "Plot points based on the slope and y-intercept, then draw a line through these points", "c": "Solve for both variables simultaneously to find their values", "d": "None of the above"}, "correct_answer": "A"},
+    {"q_no": "6", "question": "If you have an equation like 3(x + 4) = 12, how do you solve it?", "options": {"a": "Divide both sides by 3 first to get x + 4 = 4 and then subtract 4 from both sides to find x"}, "b": "Use the distributive property to expand the brackets: 3x + 12 = 12, then solve for x", "c": "Isolate 'x' on one side by first dividing by 3 and then subtracting 4", "d": "None of these methods are correct"}, "correct_answer": "B"},
+    {"q_no": "7", "question": "How do you write the equation of a line if it passes through two points (2, 5) and (6, 11)?", "options": {"a": "Use the slope-intercept form where y = mx + b, substitute the points to find m and b", "b": "Solve for y from one point using substitution and then plot on a coordinate plane", "c": "Graph both lines separately and observe their intersection point as the solution", "d": "None of these methods are suitable"}, "correct_answer": "A"},
+    {"q_no": "8", "question": "How do you determine whether an equation is linear based on its graph?", "options": {"a": "If it's a straight line, it must be linear; any other shape indicates non-linearity", "b": "It should intersect the y-axis at 0 and not form angles with lines or curves", "c": "The slope of the line is constant for all points, indicating uniform steepness from one end to another", "d": "It can't be determined without graphing the equation on a coordinate plane"}, "correct_answer": "C"},
+    {"q_no": "9", "question": "What type of reaction would likely be performed to solve an equation like 3x - 7 = 10?", "options": {"a": "Add 7 to both sides first, then divide by 3 to isolate x", "b": "Subtract 7 from both sides, then add 3 to the result and find 'x'", "c": "Multiply both sides by 3 and add 7 to both sides of the equation", "d": "None of the above"}, "correct_answer": "A"},
+    {"q_no": "10", "question": "How do you write an equation from a word problem like 'If x represents the number of apples in a basket, find the value when it's tripled and increased by 4?'", "options": {"a": "3x + 4 = y where y is the total amount in the basket", "b": "Write the equation as x = y - 4 first, then multiply both sides by 3 to isolate 'x'", "c": "It requires knowing a linear relationship between 'x' and 'y', which can be determined through substitution or other algebraic methods", "d": "None of these methods are sufficient"}, "correct_answer": "C"}
+]
+Time Taken: 82.47 seconds | Tokens Produced: 730 | ⚡⚡⚡ Token Speed 8.852 tokens/sec
+⚠️ Error: Invalid JSON format...
+
+Attempt 2 out of 5 for Syllabus 4 of 4... qwen2.5:1.5b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What is the first step in solving a linear equation?", "options": {"a": "Identify the variable", "b": "Combine like terms", "c": "Simplify both sides", "d": "Isolate the variable"}, "correct_answer": "Isolate the variable"},
+    {"q_no": "2", "question": "What does the distributive property allow you to do with a linear equation?", "options": {"a": "Remove the coefficient", "b": "Eliminate fractions by multiplying by the reciprocal", "c": "Combine like terms without changing the equality", "d": "Simplify expressions inside parentheses"}, "correct_answer": "Simplify expressions inside parentheses"},
+    {"q_no": "3", "question": "How do you solve an equation like \(2x + 5 = 17\)?", "options": {"a": "Substitute the values of \(x\)", "b": "Divide by 2", "c": "Subtract 5 from both sides and then divide by 2", "d": "Add 5 to both sides"}, "correct_answer": "Subtract 5 from both sides and then divide by 2"},
+    {"q_no": "4", "question": "When graphing the equation \(y = -3x + 4\)", what does the y-intercept represent?", "options": {"a": "The slope of the line", "b": "The length of the x-axis", "c": "The point where the line crosses the y-axis", "d": "The area of the triangle formed by the intercepts"}, "correct_answer": "The point where the line crosses the y-axis"},
+    {"q_no": "5", "question": "A word problem states that 'if \(x\) apples are divided equally among 4 people, each person gets 3 apples'. Write an equation to represent this situation.", "options": {"a": "\(4x = 12\)", "b": "\(x + 3 = 4\)", "c": "\(4x - 12 = 0\)", "d": "\(x + 3 = 4\)"}, "correct_answer": "\(4x = 12\)"},
+    {"q_no": "6", "question": "Solve the equation \(5(2y + 3) = 20\) using the distributive property first.", "options": {"a": "First, add 5 to both sides of the equation", "b": "Combine like terms on one side of the equation", "c": "Distribute 5 across the parentheses and then simplify", "d": "Divide both sides by 5"}, "correct_answer": "Distribute 5 across the parentheses and then simplify"},
+    {"q_no": "7", "question": "Solve for \(y\) in the equation \(\frac{1}{2}y = 6\)", "options": {"a": "Multiply both sides by 2 to get \(y = 12\)", "b": "Add 1/2 to both sides of the equation", "c": "Divide both sides by \(\frac{1}{2}\) and then multiply by 2", "d": "Subtract 6 from both sides"}, "correct_answer": "Multiply both sides by 2 to get \(y = 12\)"},
+    {"q_no": "8", "question": "A graph of the equation \(y = -x + 4\) is shown below. What does the x-intercept represent?", "options": {"a": "The area under the line", "b": "The point where the line intersects the y-axis", "c": "The point where the line crosses the x-axis", "d": "The distance between two points on the graph"}, "correct_answer": "The point where the line crosses the x-axis"},
+    {"q_no": "9", "question": "A word problem states that 'if \(x\) is divided by 3 and then added to 2, the result is 7'. Write an equation to represent this situation.", "options": {"a": "\(3x + 2 = 7\)", "b": "\(x - 2 = 3\)", "c": "\(3x + 10 = 7\)", "d": "\(2x + 5 = 7\)"}, "correct_answer": "\(3x + 10 = 7\)"},
+    {"q_no": "10", "question": "A graph of the equation \(y = -2(x - 4)^2 + 6\) is shown below. What does the vertex represent?", "options": {"a": "The midpoint of two points on the graph", "b": "The point where the line intersects the y-axis", "c": "The lowest or highest point on the graph", "d": "The distance between two points on the graph"}, "correct_answer": "The lowest or highest point on the graph"},
+    {"q_no": "11", "question": "Solve for \(z\) in the equation \(\frac{1}{4}z + 3 = 7\)", "options": {"a": "Multiply both sides by 4 to get \(z = 28\)", "b": "Subtract 3 from both sides and then multiply by 4", "c": "Divide both sides by \(\frac{1}{4}\) and then add 3", "d": "Add 3 to both sides and then divide by 4"}, "correct_answer": "Subtract 3 from both sides and then divide by 4"}
+]
+Time Taken: 79.58 seconds | Tokens Produced: 636 | ⚡⚡⚡ Token Speed 7.992 tokens/sec
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+
+Attempt 3 out of 5 for Syllabus 4 of 4... qwen2.5:1.5b

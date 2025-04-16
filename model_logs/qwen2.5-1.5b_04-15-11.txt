@@ -1,0 +1,1070 @@
+********************************************************************************
+Syllabus NUMBER 1
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Edexcel Grade 12 Mathematics - Calculus - Differentiation:
+- Introduction to differentiation as a rate of change
+- Rules for differentiating basic functions (linear, quadratic, powers)
+- Finding derivatives using the power rule and other techniques
+- Differentiating trigonometric functions (sine, cosine, tangent) with identities
+- Using implicit differentiation to solve related rates problems
+- Analyzing the concavity and sketching graphs of functions with second derivative tests
+
+END IT AFTER CREATING THE SYLLABUS
+TIME for SYLLABUS: 9.026 | ⚡⚡⚡ Token Speed: 8.31 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 5... qwen2.5:1.5b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 5,
+        "question": "What does differentiation in calculus refer to?",
+        "options": {
+            "a": "The rate at which a quantity changes relative to another",
+            "b": "The process of calculating the area under a curve",
+            "c": "The length of a line segment on a graph",
+            "d": "The volume of a solid formed by rotation"
+        },
+        "correct_answer": "The rate at which a quantity changes relative to another"
+    },
+    {
+        "q_no": 6,
+        "question": "Which rule is used for differentiating powers in calculus?",
+        "options": {
+            "a": "Product Rule",
+            "b": "Quotient Rule",
+            "c": "Power Rule",
+            "d": "Chain Rule"
+        },
+        "correct_answer": "Power Rule"
+    },
+    {
+        "q_no": 7,
+        "question": "What is the derivative of a linear function (f(x) = mx + b)?",
+        "options": {
+            "a": "m",
+            "b": "x",
+            "c": "-1/x",
+            "d": "0"
+        },
+        "correct_answer": "m"
+    },
+    {
+        "q_no": 8,
+        "question": "What is the derivative of f(x) = x^2?",
+        "options": {
+            "a": "x^3 + 1",
+            "b": "2x",
+            "c": "4/x",
+            "d": "0"
+        },
+        "correct_answer": "2x"
+    },
+    {
+        "q_no": 9,
+        "question": "How do you differentiate tan(x)?",
+        "options": {
+            "a": "sec^2(x)",
+            "b": "sin(2x)",
+            "c": "cos(2x)",
+            "d": "tan(2x)"
+        },
+        "correct_answer": "sec^2(x)"
+    }
+]
+Time Taken: 26.10 seconds | Tokens Produced: 182 | ⚡⚡⚡ Token Speed 6.972 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 5...
+
+Attempt 2 out of 5... qwen2.5:1.5b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the definition of differentiation?",
+        "options": {
+            "a": "It is the process of finding the rate at which a function changes with respect to another variable.",
+            "b": "It is used to find the area under a curve.",
+            "c": "It helps in calculating the volume of a solid.",
+            "d": "It converts functions into numerical values."
+        },
+        "correct_answer": "It is the process of finding the rate at which a function changes with respect to another variable."
+    },
+    {
+        "q_no": 2,
+        "question": "Which rule do you use to differentiate powers?",
+        "options": {
+            "a": "Product Rule",
+            "b": "Quotient Rule",
+            "c": "Power Rule",
+            "d": "Chain Rule"
+        },
+        "correct_answer": "Power Rule"
+    },
+    {
+        "q_no": 3,
+        "question": "What is the derivative of y = x^2?",
+        "options": {
+            "a": "x + 1",
+            "b": "2x",
+            "c": "1/x",
+            "d": "0"
+        },
+        "correct_answer": "2x"
+    },
+    {
+        "q_no": 4,
+        "question": "How do you differentiate the function y = sin(x)?",
+        "options": {
+            "a": "y' = cos(x)",
+            "b": "y' = -cos(x)",
+            "c": "y' = tan(x)",
+            "d": "y' = cot(x)"
+        },
+        "correct_answer": "y' = cos(x)"
+    },
+    {
+        "q_no": 5,
+        "question": "What is the derivative of y = sin^2(x)?",
+        "options": {
+            "a": "cos(2x)",
+            "b": "2sin(x)cos(x)",
+            "c": "sin(2x)",
+            "d": "cos(4x)"
+        },
+        "correct_answer": "2sin(x)cos(x)"
+    }
+]
+Time Taken: 17.92 seconds | Tokens Produced: 204 | ⚡⚡⚡ Token Speed 11.385 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 5...
+⚠️ Warning: Expected 12 MCQs but got 5...
+
+Attempt 3 out of 5... qwen2.5:1.5b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the process of differentiation in calculus?",
+        "options": {
+            "a": "A method for finding the slope at any point on a curve",
+            "b": "The inverse function of integration",
+            "c": "Calculating the rate of change or instantaneous velocity",
+            "d": "Determining the area under a curve"
+        },
+        "correct_answer": "A method for finding the slope at any point on a curve"
+    },
+    {
+        "q_no": 2,
+        "question": "How do you differentiate a quadratic function?",
+        "options": {
+            "a": "Multiply the coefficients of x",
+            "b": "Subtract the power of x from 1 and multiply by the coefficient of x",
+            "c": "Add the derivative of each term in the original expression",
+            "d": "Use the sum rule for derivatives"
+        },
+        "correct_answer": "Subtract the power of x from 1 and multiply by the coefficient of x"
+    },
+    {
+        "q_no": 3,
+        "question": "What is implicit differentiation used for in calculus?",
+        "options": {
+            "a": "Finding the instantaneous rate of change of a single variable function",
+            "b": "Differentiating an equation with respect to another variable without solving it first",
+            "c": "Calculating the derivative of trigonometric functions directly",
+            "d": "Determining the concavity and increasing/decreasing intervals"
+        },
+        "correct_answer": "Finding the instantaneous rate of change of a single variable function"
+    },
+    {
+        "q_no": 4,
+        "question": "What is the derivative of y = sin(x) using the power rule?",
+        "options": {
+            "a": "cosine of x",
+            "b": "sine of x times the derivative of cosine of x",
+            "c": "cosine of x divided by sine of x",
+            "d": "sin(x) + cos(x)"
+        },
+        "correct_answer": "cosine of x"
+    }
+]
+Time Taken: 17.66 seconds | Tokens Produced: 255 | ⚡⚡⚡ Token Speed 14.438 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 5...
+⚠️ Warning: Expected 12 MCQs but got 5...
+⚠️ Warning: Expected 12 MCQs but got 4...
+
+Attempt 4 out of 5... qwen2.5:1.5b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the definition of a derivative in calculus?",
+        "options": {
+            "a": "The rate at which an output changes with respect to time",
+            "b": "The limit of the average rate of change as the interval approaches zero",
+            "c": "The slope of a tangent line on a graph",
+            "d": "The total area under a curve"
+        },
+        "correct_answer": "The limit of the average rate of change as the interval approaches zero"
+    },
+    {
+        "q_no": 2,
+        "question": "Which rule is used to differentiate linear functions?",
+        "options": {
+            "a": "Product Rule",
+            "b": "Quotient Rule",
+            "c": "Sum and Difference Rule",
+            "d": "Power Rule"
+        },
+        "correct_answer": "Power Rule"
+    },
+    {
+        "q_no": 3,
+        "question": "What is the derivative of \( f(x) = x^2 \)?",
+        "options": {
+            "a": "x",
+            "b": "2x",
+            "c": "x^2 + 1",
+            "d": "0"
+        },
+        "correct_answer": "2x"
+    },
+    {
+        "q_no": 4,
+        "question": "How is the derivative of a trigonometric function found using identities?",
+        "options": {
+            "a": "Using differentiation rules directly without identities",
+            "b": "By simplifying sin, cos, and tan functions to their equivalent expressions in terms of derivatives (sin' = cos) or values (cos' = -sin)",
+            "c": "Derivatives are undefined for trigonometric functions",
+            "d": "None of the above"
+        },
+        "correct_answer": "By simplifying sin, cos, and tan functions to their equivalent expressions in terms of derivatives (sin' = cos) or values (cos' = -sin)"
+    }
+]
+Time Taken: 17.82 seconds | Tokens Produced: 225 | ⚡⚡⚡ Token Speed 12.627 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 5...
+⚠️ Warning: Expected 12 MCQs but got 5...
+⚠️ Warning: Expected 12 MCQs but got 4...
+⚠️ Error: Invalid JSON format...
+
+Attempt 5 out of 5... qwen2.5:1.5b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What does differentiation in calculus represent?",
+        "options": {
+            "a": "The distance traveled by an object over time",
+            "b": "The rate at which a function changes with respect to its input variable",
+            "c": "The volume of a solid generated by revolution",
+            "d": "The area under a curve"
+        },
+        "correct_answer": "The rate at which a function changes with respect to its input variable"
+    },
+    {
+        "q_no": 2,
+        "question": "What is the derivative of the linear function f(x) = mx + b?",
+        "options": {
+            "a": "m",
+            "b": "x",
+            "c": "mx",
+            "d": "bx"
+        },
+        "correct_answer": "m"
+    },
+    {
+        "q_no": 3,
+        "question": "Which of the following is a power function and can be differentiated using the power rule?",
+        "options": {
+            "a": "f(x) = 2x^4",
+            "b": "g(x) = x^5 + x^6",
+            "c": "h(x) = 3x - 7",
+            "d": "k(x) = 0.1x^8"
+        },
+        "correct_answer": "f(x) = 2x^4"
+    },
+    {
+        "q_no": 4,
+        "question": "How do you differentiate the trigonometric function f(x) = sin x using the power rule?",
+        "options": {
+            "a": "f'(x) = cos x * x",
+            "b": "f'(x) = cos x / sin x",
+            "c": "f'(x) = 1/cos x * x",
+            "d": "f'(x) = cos x * (1/0)"
+        },
+        "correct_answer": "f'(x) = cos x"
+    }
+]
+Time Taken: 19.12 seconds | Tokens Produced: 204 | ⚡⚡⚡ Token Speed 10.670 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 5...
+⚠️ Warning: Expected 12 MCQs but got 5...
+⚠️ Warning: Expected 12 MCQs but got 4...
+⚠️ Error: Invalid JSON format...
+⚠️ Warning: Expected 12 MCQs but got 4...
+
+⚠️ Warning: After 5 attempts returning longest valid response.
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   {
+      "q_no": 5,
+      "question": "What does differentiation in calculus refer to?",
+      "options": {
+         "a": "The rate at which a quantity changes relative to another",
+         "b": "The process of calculating the area under a curve",
+         "c": "The length of a line segment on a graph",
+         "d": "The volume of a solid formed by rotation"
+      },
+      "correct_answer": "The rate at which a quantity changes relative to another"
+   },
+   {
+      "q_no": 6,
+      "question": "Which rule is used for differentiating powers in calculus?",
+      "options": {
+         "a": "Product Rule",
+         "b": "Quotient Rule",
+         "c": "Power Rule",
+         "d": "Chain Rule"
+      },
+      "correct_answer": "Power Rule"
+   },
+   {
+      "q_no": 7,
+      "question": "What is the derivative of a linear function (f(x) = mx + b)?",
+      "options": {
+         "a": "m",
+         "b": "x",
+         "c": "-1/x",
+         "d": "0"
+      },
+      "correct_answer": "m"
+   },
+   {
+      "q_no": 8,
+      "question": "What is the derivative of f(x) = x^2?",
+      "options": {
+         "a": "x^3 + 1",
+         "b": "2x",
+         "c": "4/x",
+         "d": "0"
+      },
+      "correct_answer": "2x"
+   },
+   {
+      "q_no": 9,
+      "question": "How do you differentiate tan(x)?",
+      "options": {
+         "a": "sec^2(x)",
+         "b": "sin(2x)",
+         "c": "cos(2x)",
+         "d": "tan(2x)"
+      },
+      "correct_answer": "sec^2(x)"
+   }
+]
+TIME for MCQ: 26.102 | ⚡⚡⚡ Token Speed: 6.973 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 257 | TOTAL Time: 107.68
+
+********************************************************************************
+Syllabus NUMBER 2
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Cambridge Grade 10 Physics - Waves - Electromagnetic Spectrum:
+- Introduction to the electromagnetic spectrum
+- Classification of waves (e.g., mechanical vs. electromagnetic)
+- Properties and characteristics of different types of light (e.g., visible, infrared, ultraviolet)
+- Explanation of each part of the spectrum: radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, gamma rays
+- Comparison between electromagnetic waves and sound waves in terms of frequency range and wavelength
+- Discussion on wave interference and diffraction
+- Explanation of the Doppler effect and how it relates to different parts of the electromagnetic spectrum
+- Applications of the electromagnetic spectrum in various fields (e.g., communication technology, astronomy)
+TIME for SYLLABUS: 8.753 | ⚡⚡⚡ Token Speed: 12.338 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 16
+Attempt 1 out of 5... qwen2.5:1.5b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the range of wavelengths for visible light?",
+        "options": {
+            "a": "400-650 nm",
+            "b": "380-740 nm",
+            "c": "200-300 nm",
+            "d": "650-740 nm"
+        },
+        "correct_answer": "380-740 nm"
+    },
+    {
+        "q_no": 2,
+        "question": "What is the highest frequency of radio waves?",
+        "options": {
+            "a": "3 x 10^9 Hz",
+            "b": "5 x 10^9 Hz",
+            "c": "7 x 10^9 Hz",
+            "d": "9 x 10^9 Hz"
+        },
+        "correct_answer": "7 x 10^9 Hz"
+    },
+    {
+        "q_no": 3,
+        "question": "What is the lowest frequency of X-rays?",
+        "options": {
+            "a": "2 x 10^-4 Hz",
+            "b": "4 x 10^-4 Hz",
+            "c": "6 x 10^-4 Hz",
+            "d": "8 x 10^-4 Hz"
+        },
+        "correct_answer": "2 x 10^-4 Hz"
+    },
+    {
+        "q_no": 4,
+        "question": "What is the wavelength of infrared light?",
+        "options": {
+            "a": "3 x 10^-7 m",
+            "b": "5 x 10^-7 m",
+            "c": "7 x 10^-7 m",
+            "d": "9 x 10^-7 m"
+        },
+        "correct_answer": "3 x 10^-7 m"
+    }
+]
+Time Taken: 26.84 seconds | Tokens Produced: 155 | ⚡⚡⚡ Token Speed 5.775 tokens/sec
+⚠️ Warning: Expected 16 MCQs but got 4...
+
+Attempt 2 out of 5... qwen2.5:1.5b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the first part of the electromagnetic spectrum classified as?",
+        "options": {
+            "a": "Mechanical waves",
+            "b": "Electromagnetic radiation",
+            "c": "Sound waves",
+            "d": "Invisible light"
+        },
+        "correct_answer": "Mechanical waves"
+    },
+    {
+        "q_no": 2,
+        "question": "Which type of electromagnetic wave has the longest wavelength?",
+        "options": {
+            "a": "X-rays",
+            "b": "Gamma rays",
+            "c": "Visible light",
+            "d": "Radio waves"
+        },
+        "correct_answer": "Radio waves"
+    },
+    {
+        "q_no": 3,
+        "question": "What type of electromagnetic wave has the shortest wavelength?",
+        "options": {
+            "a": "Infrared waves",
+            "b": "Ultraviolet light",
+            "c": "Gamma rays",
+            "d": "X-rays"
+        },
+        "correct_answer": "Gamma rays"
+    },
+    {
+        "q_no": 4,
+        "question": "Which part of the electromagnetic spectrum is responsible for thermal effects in heating materials?",
+        "options": {
+            "a": "Visible light",
+            "b": "Infrared waves",
+            "c": "Ultraviolet light",
+            "d": "X-rays"
+        },
+        "correct_answer": "Infrared waves"
+    }
+]
+Time Taken: 13.67 seconds | Tokens Produced: 134 | ⚡⚡⚡ Token Speed 9.800 tokens/sec
+⚠️ Warning: Expected 16 MCQs but got 4...
+⚠️ Warning: Expected 16 MCQs but got 4...
+
+Attempt 3 out of 5... qwen2.5:1.5b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the primary color in visible light?",
+        "options": {
+            "a": "Red",
+            "b": "Orange",
+            "c": "Yellow",
+            "d": "Green"
+        },
+        "correct_answer": "Green"
+    },
+    {
+        "q_no": 2,
+        "question": "Which type of electromagnetic wave has the longest wavelength and is used in radio communication?",
+        "options": {
+            "a": "Infrared waves",
+            "b": "Microwaves",
+            "c": "Visible light",
+            "d": "Ultraviolet rays"
+        },
+        "correct_answer": "Microwaves"
+    },
+    {
+        "q_no": 3,
+        "question": "What is the wavelength of visible light in meters?",
+        "options": {
+            "a": "0.5m",
+            "b": "1m",
+            "c": "2m",
+            "d": "4m"
+        },
+        "correct_answer": "0.5m"
+    },
+    {
+        "q_no": 4,
+        "question": "What is the frequency of visible light?",
+        "options": {
+            "a": "1 Hz",
+            "b": "2 Hz",
+            "c": "3 Hz",
+            "d": "4 Hz"
+        },
+        "correct_answer": "10^14 Hz"
+    },
+    {
+        "q_no": 5,
+        "question": "What does the Doppler effect measure in waves?",
+        "options": {
+            "a": "The speed at which a wave is transmitted",
+            "b": "The frequency of the wave as it travels through different media",
+            "c": "The wavelength of the wave as it travels through different media",
+            "d": "The change in wave pattern due to motion"
+        },
+        "correct_answer": "The change in wave pattern due to motion"
+    }
+]
+Time Taken: 16.65 seconds | Tokens Produced: 188 | ⚡⚡⚡ Token Speed 11.291 tokens/sec
+⚠️ Warning: Expected 16 MCQs but got 4...
+⚠️ Warning: Expected 16 MCQs but got 4...
+⚠️ Warning: Expected 16 MCQs but got 5...
+
+Attempt 4 out of 5... qwen2.5:1.5b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the primary source of energy for stars?",
+        "options": {
+            "a": "Nuclear fusion",
+            "b": "Combustion reactions",
+            "c": "Photosynthesis",
+            "d": "Electrical conductivity"
+        },
+        "correct_answer": "Nuclear fusion"
+    },
+    {
+        "q_no": 2,
+        "question": "What is the main difference between electromagnetic waves and mechanical waves?",
+        "options": {
+            "a": "Mechanical waves require a medium to travel, while electromagnetic waves do not",
+            "b": "Electromagnetic waves have higher frequency than mechanical waves",
+            "c": "Electromagnetic waves can only be produced by electric currents, whereas mechanical waves can be produced by any vibration",
+            "d": "Mechanical waves can travel faster than electromagnetic waves"
+        },
+        "correct_answer": "Mechanical waves require a medium to travel, while electromagnetic waves do not"
+    },
+    {
+        "q_no": 3,
+        "question": "What color of light has the longest wavelength in the visible spectrum?",
+        "options": {
+            "a": "Green",
+            "b": "Red",
+            "c": "Blue",
+            "d": "Violet"
+        },
+        "correct_answer": "Red"
+    },
+    {
+        "q_no": 4,
+        "question": "Which of the following is an example of a transverse wave?",
+        "options": {
+            "a": "Water ripple on a pond",
+            "b": "Light waves in a fiber optic cable",
+            "c": "Sound waves through air",
+            "d": "Electromagnetic waves from a light bulb"
+        },
+        "correct_answer": "Light waves in a fiber optic cable"
+    }
+]
+Time Taken: 15.32 seconds | Tokens Produced: 198 | ⚡⚡⚡ Token Speed 12.925 tokens/sec
+⚠️ Warning: Expected 16 MCQs but got 4...
+⚠️ Warning: Expected 16 MCQs but got 4...
+⚠️ Warning: Expected 16 MCQs but got 5...
+⚠️ Warning: Expected 16 MCQs but got 4...
+
+Attempt 5 out of 5... qwen2.5:1.5b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the first step in the process of electromagnetic waves?",
+        "options": {
+            "a": "Production by a device",
+            "b": "Reflection on surfaces",
+            "c": "Interaction with matter",
+            "d": "Creation from energy sources"
+        },
+        "correct_answer": "Creation from energy sources"
+    },
+    {
+        "q_no": 2,
+        "question": "What property of electromagnetic waves allows them to travel through a vacuum?",
+        "options": {
+            "a": "Their wavelength is longer than their frequency",
+            "b": "They have no mass or charge",
+            "c": "They require a medium to propagate",
+            "d": "They can be completely absorbed by atoms"
+        },
+        "correct_answer": "They have no mass or charge"
+    },
+    {
+        "q_no": 3,
+        "question": "Which type of electromagnetic wave has the shortest wavelength?",
+        "options": {
+            "a": "Radio waves",
+            "b": "Microwaves",
+            "c": "Infrared radiation",
+            "d": "X-rays"
+        },
+        "correct_answer": "X-rays"
+    },
+    {
+        "q_no": 4,
+        "question": "How many types of electromagnetic spectrum are typically recognized?",
+        "options": {
+            "a": "One type: visible light",
+            "b": "Two types: infrared and ultraviolet",
+            "c": "Three types: radio, microwaves, and X-rays",
+            "d": "Four types: radio, microwave, infrared, and visible light"
+        },
+        "correct_answer": "Four types: radio, microwave, infrared, and visible light"
+    }
+]
+Time Taken: 14.99 seconds | Tokens Produced: 183 | ⚡⚡⚡ Token Speed 12.208 tokens/sec
+⚠️ Warning: Expected 16 MCQs but got 4...
+⚠️ Warning: Expected 16 MCQs but got 4...
+⚠️ Warning: Expected 16 MCQs but got 5...
+⚠️ Warning: Expected 16 MCQs but got 4...
+⚠️ Warning: Expected 16 MCQs but got 4...
+
+⚠️ Warning: After 5 attempts returning longest valid response.
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   {
+      "q_no": 1,
+      "question": "What is the primary color in visible light?",
+      "options": {
+         "a": "Red",
+         "b": "Orange",
+         "c": "Yellow",
+         "d": "Green"
+      },
+      "correct_answer": "Green"
+   },
+   {
+      "q_no": 2,
+      "question": "Which type of electromagnetic wave has the longest wavelength and is used in radio communication?",
+      "options": {
+         "a": "Infrared waves",
+         "b": "Microwaves",
+         "c": "Visible light",
+         "d": "Ultraviolet rays"
+      },
+      "correct_answer": "Microwaves"
+   },
+   {
+      "q_no": 3,
+      "question": "What is the wavelength of visible light in meters?",
+      "options": {
+         "a": "0.5m",
+         "b": "1m",
+         "c": "2m",
+         "d": "4m"
+      },
+      "correct_answer": "0.5m"
+   },
+   {
+      "q_no": 4,
+      "question": "What is the frequency of visible light?",
+      "options": {
+         "a": "1 Hz",
+         "b": "2 Hz",
+         "c": "3 Hz",
+         "d": "4 Hz"
+      },
+      "correct_answer": "10^14 Hz"
+   },
+   {
+      "q_no": 5,
+      "question": "What does the Doppler effect measure in waves?",
+      "options": {
+         "a": "The speed at which a wave is transmitted",
+         "b": "The frequency of the wave as it travels through different media",
+         "c": "The wavelength of the wave as it travels through different media",
+         "d": "The change in wave pattern due to motion"
+      },
+      "correct_answer": "The change in wave pattern due to motion"
+   }
+]
+TIME for MCQ: 16.65 | ⚡⚡⚡ Token Speed: 11.292 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 296 | TOTAL Time: 96.25
+
+********************************************************************************
+Syllabus NUMBER 3
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for CBSE Grade 12 Chemistry - Organic Chemistry - Alcohols, Phenols, and Ethers:
+- Introduction to alcohols, phenols, and ethers as organic compounds
+- Structure of alcohols (primary, secondary, tertiary)
+- Nomenclature of alcohols
+- Properties and reactions of alcohols: combustion, esterification, dehydration, and saponification
+- Identification of primary, secondary, and tertiary alcohols through reagents like Lucas test, Tollen's reaction, and Fehling's test
+- Preparation methods for alcohols (acid-catalyzed hydrolysis, catalytic hydrogenation)
+- Structure and properties of phenols: aromatic ring structure, acidic character, and substitution reactions
+- Properties and behavior of ethers: differences between ethers and alcohols, preparation methods, and reactivity patterns
+TIME for SYLLABUS: 9.698 | ⚡⚡⚡ Token Speed: 10.621 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 16
+Attempt 1 out of 5... qwen2.5:1.5b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the primary difference between alcohols and phenols?",
+        "options": {
+            "a": "Alcohols have a hydroxyl group (-OH), while phenols do not.",
+            "b": "Phenols have a hydroxyl group (OH) attached to an aromatic ring, while alcohols do not.",
+            "c": "The boiling point of alcohols is higher than that of phenols.",
+            "d": "Phenols are soluble in water, whereas alcohols are insoluble."
+        },
+        "correct_answer": "Phenols have a hydroxyl group (OH) attached to an aromatic ring, while alcohols do not."
+    },
+    {
+        "q_no": 2,
+        "question": "What is the structure of a primary alcohol?",
+        "options": {
+            "a": "CnH2n+1-OH",
+            "b": "CnH2n-3-OH",
+            "c": "CnH2n-1-OH",
+            "d": "CnH2n+3-OH"
+        },
+        "correct_answer": "CnH2n-1-OH"
+    },
+    {
+        "q_no": 3,
+        "question": "What reagent is used to identify a primary alcohol?",
+        "options": {
+            "a": "Fehling's solution",
+            "b": "Tollen's test",
+            "c": "Lucas' reagent",
+            "d": "Iodoform reaction"
+        },
+        "correct_answer": "Lucas' reagent"
+    },
+    {
+        "q_no": 4,
+        "question": "Which preparation method is used to produce a primary alcohol?",
+        "options": {
+            "a": "Acid-catalyzed hydrolysis",
+            "b": "Hydrogenation over platinum black",
+            "c": "Saponification using an alkali solution",
+            "d": "Acidic hydrogenation of the corresponding aldehyde"
+        },
+        "correct_answer": "Acid-catalyzed hydrolysis"
+    },
+    {
+        "q_no": 5,
+        "question": "Which test can be used to differentiate between a primary and secondary alcohol?",
+        "options": {
+            "a": "Lucas' reagent",
+            "b": "Tollen's test",
+            "c": "Fehling's solution",
+            "d": "Iodoform reaction"
+        },
+        "correct_answer": "Tollen's test"
+    },
+    {
+        "q_no": 6,
+        "question": "What is the reagent used to distinguish between primary, secondary, and tertiary alcohols?",
+        "options": {
+            "a": "Lucas' reagent",
+            "b": "Fehling's solution",
+            "c": "Tollen's test",
+            "d": "Iodoform reaction"
+        },
+        "correct_answer": "Tollen's test"
+    },
+    {
+        "q_no": 7,
+        "question": "What reagent is used to prepare tertiary alcohols?",
+        "options": {
+            "a": "Hydrogenation over platinum black",
+            "b": "Acid-catalyzed hydrolysis of a secondary alcohol",
+            "c": "Saponification using an alkali solution",
+            "d": "Acidic hydrogenation of the corresponding aldehyde"
+        },
+        "correct_answer": "Hydrogenation over platinum black"
+    },
+    {
+        "q_no": 8,
+        "question": "What is the structure and behavior of phenol molecules?",
+        "options": {
+            "a": "Phenol molecules contain an aromatic ring, which gives them excellent solubility in water.",
+            "b": "Phenols are soluble in water and undergo both nucleophilic substitution reactions and electrophilic addition reactions.",
+            "c": "Phenol is a polar molecule with no polarity",
+            "d": "The benzene ring of phenols does not participate in chemical reactions."
+        },
+        "correct_answer": "Phenols are soluble in water and undergo both nucleophilic substitution reactions and electrophilic addition reactions."
+    }
+]
+Time Taken: 44.62 seconds | Tokens Produced: 386 | ⚡⚡⚡ Token Speed 8.652 tokens/sec
+⚠️ Warning: Expected 16 MCQs but got 8...
+
+Attempt 2 out of 5... qwen2.5:1.5b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 5,
+        "question": "What is the structure of a primary alcohol?",
+        "options": {
+            "a": "C-OH",
+            "b": "R-CHO",
+            "c": "CH3-CHO",
+            "d": "R-COH"
+        },
+        "correct_answer": "R-CHO"
+    },
+    {
+        "q_no": 6,
+        "question": "How do alcohols participate in esterification reactions?",
+        "options": {
+            "a": "By donating a proton",
+            "b": "By accepting a proton",
+            "c": "By forming a carbonyl group",
+            "d": "By undergoing dehydration"
+        },
+        "correct_answer": "By donating a proton"
+    },
+    {
+        "q_no": 7,
+        "question": "Which reagent is used to identify primary alcohols using the Lucas test?",
+        "options": {
+            "a": "Fehling's solution",
+            "b": "Lucas reagent",
+            "c": "Tollen's reaction",
+            "d": "Iodoform test"
+        },
+        "correct_answer": "Lucas reagent"
+    },
+    {
+        "q_no": 8,
+        "question": "What is the purpose of using catalytic hydrogenation to prepare alcohols?",
+        "options": {
+            "a": "To increase the molecular weight",
+            "b": "To reduce the boiling point of the alcohol",
+            "c": "To remove sulfur impurities",
+            "d": "To create a more reactive form"
+        },
+        "correct_answer": "To reduce the boiling point of the alcohol"
+    },
+    {
+        "q_no": 9,
+        "question": "What is the reagent used for identifying secondary alcohols in Tollen's reaction?",
+        "options": {
+            "a": "Lucas reagent",
+            "b": "Fehling's solution",
+            "c": "Tollen's reaction itself",
+            "d": "Iodoform test"
+        },
+        "correct_answer": "Tollen's reaction itself"
+    },
+    {
+        "q_no": 10,
+        "question": "Which reagent is commonly used to distinguish between primary, secondary, and tertiary alcohols?",
+        "options": {
+            "a": "Lucas test",
+            "b": "Fehling's solution",
+            "c": "Tollen's reaction",
+            "d": "Iodoform test"
+        },
+        "correct_answer": "Tollen's reaction"
+    }
+]
+Time Taken: 20.87 seconds | Tokens Produced: 231 | ⚡⚡⚡ Token Speed 11.066 tokens/sec
+⚠️ Warning: Expected 16 MCQs but got 8...
+⚠️ Warning: Expected 16 MCQs but got 6...
+
+Attempt 3 out of 5... qwen2.5:1.5b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 5,
+        "question": "What is the general structure of alcohols?",
+        "options": {
+            "a": "Alkene with a hydroxyl group",
+            "b": "Aldehyde with a hydroxyl group",
+            "c": "Alkanes with a hydroxyl group",
+            "d": "Primary, secondary, and tertiary structures"
+        },
+        "correct_answer": "Primary, secondary, and tertiary structures"
+    },
+    {
+        "q_no": 6,
+        "question": "Which reagent is used to differentiate between primary, secondary, and tertiary alcohols?",
+        "options": {
+            "a": "Tollen's reaction",
+            "b": "Fehling's test",
+            "c": "Lucas test",
+            "d": "Iodoform reaction"
+        },
+        "correct_answer": "Lucas test"
+    },
+    {
+        "q_no": 7,
+        "question": "What is the main purpose of Tollen's reagent in identifying alcohols?",
+        "options": {
+            "a": "To determine if it's an alcohol by forming a silver mirror",
+            "b": "To detect the presence of oxygen atoms in the molecule",
+            "c": "To convert alcohols to ethers for further analysis",
+            "d": "To identify the type of alcohol (primary, secondary, tertiary)"
+        },
+        "correct_answer": "To determine if it's an alcohol by forming a silver mirror"
+    },
+    {
+        "q_no": 8,
+        "question": "What is the name given to a compound where all hydrogens in primary alcohols are replaced with deuterium?",
+        "options": {
+            "a": "Deuterated primary alcohols",
+            "b": "Hydrogen-deuteron exchange (HDE)",
+            "c": "Divalent hydrogen atom compounds",
+            "d": "Ternary hydrocarbon compounds"
+        },
+        "correct_answer": "Deuterated primary alcohols"
+    },
+    {
+        "q_no": 9,
+        "question": "Which method is commonly used to prepare secondary alcohols from alkenes?",
+        "options": {
+            "a": "Hydrogenation with a catalyst",
+            "b": "Nucleophilic substitution by hydroxide ions",
+            "c": "Conversion into ketones and further oxidation",
+            "d": "Direct addition of water"
+        },
+        "correct_answer": "Hydrogenation with a catalyst"
+    },
+    {
+        "q_no": 10,
+        "question": "What is the purpose of using Lucas reagent in identifying primary alcohols?",
+        "options": {
+            "a": "To detect the presence of oxygen atoms through combustion",
+            "b": "To differentiate between primary, secondary, and tertiary structures by reacting with silver ions",
+            "c": "To identify the type of alcohol (primary, secondary, tertiary) using Lucas test reagents",
+            "d": "To convert alcohols into ethers for further analysis"
+        },
+        "correct_answer": "To differentiate between primary, secondary, and tertiary structures by reacting with silver ions"
+    },
+    {
+        "q_no": 11,
+        "question": "How is a tertiary alcohol named?",
+        "options": {
+            "a": "Methyl-substituted hydroxyl groups",
+            "b": "Chloro substituted hydroxyl group",
+            "c": "Hydroxyphenyl substituent",
+            "d": "Tertiary alkoxide"
+        },
+        "correct_answer": "Tertiary alkoxide"
+    },
+    {
+        "q_no": 12,
+        "question": "Which reagent is used in the Fehling's test to detect primary alcohols?",
+        "options": {
+            "a": "Concentrated sulfuric acid",
+            "b": "Potassium hydroxide solution",
+            "c": "Silver ammonia solution",
+            "d": "Ammonium chloride"
+        },
+        "correct_answer": "Silver ammonia solution"
+    }
+]
+Time Taken: 32.62 seconds | Tokens Produced: 401 | ⚡⚡⚡ Token Speed 12.293 tokens/sec
+⚠️ Warning: Expected 16 MCQs but got 8...
+⚠️ Warning: Expected 16 MCQs but got 6...
+⚠️ Warning: Expected 16 MCQs but got 8...
+
+Attempt 4 out of 5... qwen2.5:1.5b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 5,
+        "question": "What is the difference between an alcohol and a phenol?",
+        "options": {
+            "a": "Both are hydroxyl groups, similar in structure",
+            "b": "An alcohol contains -OH group while a phenol has a larger ring (aromatic) structure",
+            "c": "An alcohol can be classified as primary, secondary, or tertiary, whereas phenols have no such classification",
+            "d": "Both alcohols and phenols are insoluble in water"
+        },
+        "correct_answer": "An alcohol contains -OH group while a phenol has a larger ring (aromatic) structure"
+    },
+    {
+        "q_no": 6,
+        "question": "What is the Lucas test used for identifying primary alcohols?",
+        "options": {
+            "a": "It tests if a substance can be oxidized to form H2O",
+            "b": "It detects the presence of hydrogen atoms in a hydrocarbon chain",
+            "c": "It identifies water in organic compounds by burning them with oxygen and looking for white smoke formation",
+            "d": "It determines if an alcohol is primary, secondary, or tertiary"
+        },
+        "correct_answer": "It tests if a substance can be oxidized to form H2O"
+    },
+    {
+        "q_no": 7,
+        "question": "How many types of alcohols are classified in organic chemistry?",
+        "options": {
+            "a": "Only primary and secondary types",
+            "b": "Primary, secondary, and tertiary alcohols",
+            "c": "Three main types: alcohols, phenols, and ethers",
+            "d": "No classification exists for alcohols or phenols"
+        },
+        "correct_answer": "Primary, secondary, and tertiary alcohols"
+    },
+    {
+        "q_no": 8,
+        "question": "What is the mechanism of saponification reaction?",
+        "options": {
+            "a": "It involves oxidation to form a new substance",
+            "b": "It converts alcohol into carboxylic acid and water",
+            "c": "It combines esterification with dehydration of alcohols",
+            "d": "It removes HCl from anhydrous sodium chloride"
+        },
+        "correct_answer": "It converts alcohol into carboxylic acid and water"
+    }
+]
+Time Taken: 19.72 seconds | Tokens Produced: 277 | ⚡⚡⚡ Token Speed 14.044 tokens/sec
+⚠️ Warning: Expected 16 MCQs but got 8...
+⚠️ Warning: Expected 16 MCQs but got 6...
+⚠️ Warning: Expected 16 MCQs but got 8...
+⚠️ Warning: Expected 16 MCQs but got 4...
+
+Attempt 5 out of 5... qwen2.5:1.5b

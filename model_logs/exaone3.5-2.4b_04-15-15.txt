@@ -1,0 +1,721 @@
+********************************************************************************
+Syllabus NUMBER 1 of 4
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for IB Grade 9 Mathematics - Geometry - Trigonometry:
+- Introduction to trigonometric ratios (sin, cos, tan)
+- Pythagorean identities and applications
+- Angle measurement conventions
+- Solving trigonometric equations
+- Law of sines and cosines in triangles
+- Real-world applications of trigonometry in problem solving
+TIME for SYLLABUS: 10.224 | ⚡⚡⚡ Token Speed: 4.597 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 5 for Syllabus 1 of 4... exaone3.5:2.4b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "Which trigonometric ratio represents the ratio of the opposite side to the adjacent side in a right triangle?", "options": {"a": "sin", "b": "cos", "c": "tan", "d": "cot"}, "correct_answer": "sin"},
+    {"q_no": "2", "question": "What identity holds true for any angle \( \theta \) where \( sin^2(\theta) + cos^2(\theta) = \) ?", "options": {"a": "0", "b": "1", "c": "π", "d": "2π"}, "correct_answer": "1"},
+    {"q_no": "3", "question": "Which measurement convention includes units such as degrees (°), radians (\(\cdot\))", "options": {"a": "gradians", "b": "degrees", "c": "milestones", "d": "hexadecimal"}, "correct_answer": "degrees"},
+    {"q_no": "4", "question": "Solving an equation like \(tan(\theta) = 1\) would typically yield angles in the range of ", "options": {"a": "(0, \(\pi\)))", "b": "(-\(\pi\), \(\pi\)))", "c": "(-\(\infty\), \(\infty\)))", "d": "(-\(\pi\), \(\pi\))"}, "correct_answer": "(-\(\pi\), \(\pi\)))"},
+    {"q_no": "5", "question": "In the Law of Cosines, which of these formulas correctly represents it for triangle ABC?", "options": {"a": "a^2 = b^2 + c^2 - 2bc cos(A)", "b": "a^2 = b^2 + c^2 + 2bc cos(A)", "c": "a^2 = b^2 + c^2 + bc sin(A)", "d": "a^2 = b^2 + c^2 + bc cos(A)"}, "correct_answer": "a^2 = b^2 + c^2 - 2bc cos(A)"},
+    {"q_no": "6", "question": "A real-world application of trigonometry involves calculating distances using shadows. Which scenario would likely require trigonometric calculations?", "options": {"a": "Determining the height of a tall building from its shadow length", "b": "Calculating the volume of a cone", "c": "Measuring the circumference of a circle", "d": "Finding the center of mass of a symmetrical object"}, "correct_answer": "Determining the height of a tall building from its shadow length"},
+    {"q_no": "7", "question": "Which trigonometric identity holds true for angles \(A\) and \(B\) such that \(A + B = 90^\circ\)?", "options": {"a": "sin(A)cos(B) + cos(A)sin(B) = sin(90^\circ)", "b": "sin(A)cos(B) - cos(A)sin(B) = cos(90^\circ)", "c": "cos(A)sin(B) + sin(A)cos(B) = cos(90^\circ)", "d": "sin(A)cos(B) = cos(90^\circ)"}, "correct_answer": "sin(A)cos(B) + cos(A)sin(B) = sin(90^\circ)"},
+    {"q_no": "8", "question": "In solving trigonometric equations like \(sin(x) = cos(x)\)", "options": {"a": "(0, \(\pi\)))", "b": "(-\(\frac{\pi}{2}\), \(\frac{\pi}{2}\)))", "c": "(-\(\frac{\pi}{4}\), \(\frac{\pi}{4}\))", "d": "(-\(\frac{\pi}{6}\), \(\frac{\pi}{6}\))"}, "correct_answer": "(-\(\frac{\pi}{4}\), \(\frac{\pi}{4}\))"},
+    {"q_no": "9", "question": "Which trigonometric function would show significant variation across the unit circle based on angle position?", "options": {"a": "tan", "b": "sin", "c": "cos", "d": "cot"}, "correct_answer": "tan"},
+    {"q_no": "10", "question": "A scenario where trigonometric ratios would be utilized to determine the height of a building involves:", "options": {"a": "calculating average speed over distance", "b": "measuring horizontal distance relative to angles", "c": "determining average velocity", "d": "measuring vertical rise over horizontal distance"}, "correct_answer": "measuring vertical rise over horizontal distance"},
+    {"q_no": "11", "question": "In applications involving inclined planes like ramps, trigonometric functions can determine angles using:", "options": {"a": "hypotenuse squared equals base squared plus height squared", "b": "a^2 + b^2 = c^2", "c": "a^2 = b^2 + c^2", "d": "a^2 = b^2 - c^2"}, "correct_answer": "a^2 + b^2 = c^2"},
+    {"q_no": "12", "question": "When determining angles of elevation in surveying, trigonometry assists by calculating:", "options": {"a": "area enclosed within angles", "b": "vertical distance divided by horizontal distance", "c": "tangent of angle of inclination", "d": "resultant force exerted on slopes"}, "correct_answer": "tangent of angle of inclination"},
+    {"q_no": "13", "question#": "In analyzing periodic phenomena like waves or oscillations, trigonometric functions are crucial for:", "options": {"a": "determining average velocities", "b": "measuring distances from peaks to troughs", "c": "calculating area under curves", "d": "measuring average temperatures"}, "correct_answer": "measuring distances from peaks to troughs"}
+  }
+];
+Time Taken: 116.85 seconds | Tokens Produced: 556 | ⚡⚡⚡ Token Speed 4.758 tokens/sec
+⚠️ Error: Invalid JSON format...
+
+Attempt 2 out of 5 for Syllabus 1 of 4... exaone3.5:2.4b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "Which trigonometric ratio specifically relates to the ratio of the opposite side to the hypotenuse in a right triangle?", "options": {"a": "cos", "b": "tan", "c": "cot", "d": "sec"}, "correct_answer": "cos"},
+    {"q_no": "2", "question": "Which identity holds true as a fundamental relationship among sin^2(x) + cos^2(x)?", "options": {"a": "sin^2(x) = cos^2(x)", "b": "sin^2(x) + cos^2(x) = 1", "c": "tan^2(x) + 1 = sec^2(x)", "d": "cot^2(x) + 1 = csc^2(x)"}, "correct_answer": "sin^2(x) + cos^2(x) = 1"},
+    {"q_no": "3", "question": "In measuring angles, which convention typically assumes a positive angle measurement starting from the positive x-axis?", "options": {"a": "Negative", "b": "Zero", "c": "Clockwise", "d": "Counterclockwise"}, "correct_answer": "Counterclockwise"},
+    {"q_no": "4", "question": "Which equation solving technique might involve finding angles within triangles given side lengths?", "options": {"a": "Substitution", "b": "Graphical method", "c": "Law of Sines", "d": "Law of Cosines"}, "correct_answer": "Law of Sines"},
+    {"q_no": "5", "question": "In a right triangle, if angle A is 30 degrees and side adjacent to angle A is 5 units long, what is sin(A)?", "options": {"a": "0.5", "b": "0.866", "c": "0.707", "d": "1"}, "correct_answer": "0.5"},
+    {"q_no": "6", "question": "Which trigonometric identity simplifies expressions involving secant, cosecant, cotangent, and tangent?", "options": {"a": "sec^2(x) - cot^2(x) = 1", "b": "sec(x) = 1/cos(x)", "c": "tan^2(x) + 1 = sec^2(x)", "d": "cot^2(x) = csc^2(x) - 1"}, "correct_answer": "sec^2(x) - cot^2(x) = 1"},
+    {"q_no": "7", "question": "Identify which trigonometric function demonstrates periodicity most prominently due to its reciprocal relationship?", "options": {"a": "tan", "b": "sin", "c": "cos", "d": "cot"}, "correct_answer": "tan"},
+    {"q_no": "8", "question": "What is true when solving trigonometric equations such as sin(x) = 0.5?", "options": {"a": "x = π/6 radians", "b": "x = π/3 radians", "c": "x = π/12 radians", "d": "x = π/4 radians"}, "correct_answer": "x = π/6 radians"},
+    {"q_no": "9", "question": "In calculating the area of a triangle using Heron's formula, which quantity relates directly to the length of the side opposite angle B?", "options": {"a": "b", "b": "a^2", "c": "c^2", "d": "b^2"}, "correct_answer": "b"},
+    {"q_no": "10", "question": "Which real-world application utilizes trigonometry to measure steepness or slope in inclined structures?", "options": {"a": "Architecture", "b": "Navigation", "c": "Astronomy", "d": "Mechanics"}, "correct_answer": "Architecture"},
+    {"q_no": "11", "question": "Identifying the scenario where knowing one angle measurement in a right triangle enables determination of sine or cosine?", "options": {"a": "Identifying opposite side when adjacent side known", "b": "Determining hypotenuse when angle and opposite side known", "c": "Calculating angles when both sides and hypotenuse known", "d": "Finding unknown side given adjacent angle"}, "correct_answer": "Identifying opposite side when adjacent side known"},
+    {"q_no": "12", "question": "Which type of application often requires determining unknown distances or heights using angles measured with trigonometry?", "options": {"a": "Land Surveying", "b": "Computer Graphics", "c": "Quantum Mechanics", "d": "Fluid Dynamics"}, "correct_answer": "Land Surveying"},
+    {"q_no": "13", "question": "A triangle has angles measuring 90°, 30°, and 60°. Which trigonometric function would best describe the sine of the longest side?", "options": {"a": "sin", "b": "cos", "c": "tan", "d": "cot"}, "correct_answer": "sin"}
+]
+Time Taken: 116.22 seconds | Tokens Produced: 489 | ⚡⚡⚡ Token Speed 4.208 tokens/sec
+✅✅✅ Successfully generated 13 MCQs. Attempts Needed 2
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 1 of 4
+[
+   {
+      "q_no": "1",
+      "question": "Which trigonometric ratio specifically relates to the ratio of the opposite side to the hypotenuse in a right triangle?",
+      "options": {
+         "a": "cos",
+         "b": "tan",
+         "c": "cot",
+         "d": "sec"
+      },
+      "correct_answer": "cos"
+   },
+   {
+      "q_no": "2",
+      "question": "Which identity holds true as a fundamental relationship among sin^2(x) + cos^2(x)?",
+      "options": {
+         "a": "sin^2(x) = cos^2(x)",
+         "b": "sin^2(x) + cos^2(x) = 1",
+         "c": "tan^2(x) + 1 = sec^2(x)",
+         "d": "cot^2(x) + 1 = csc^2(x)"
+      },
+      "correct_answer": "sin^2(x) + cos^2(x) = 1"
+   },
+   {
+      "q_no": "3",
+      "question": "In measuring angles, which convention typically assumes a positive angle measurement starting from the positive x-axis?",
+      "options": {
+         "a": "Negative",
+         "b": "Zero",
+         "c": "Clockwise",
+         "d": "Counterclockwise"
+      },
+      "correct_answer": "Counterclockwise"
+   },
+   {
+      "q_no": "4",
+      "question": "Which equation solving technique might involve finding angles within triangles given side lengths?",
+      "options": {
+         "a": "Substitution",
+         "b": "Graphical method",
+         "c": "Law of Sines",
+         "d": "Law of Cosines"
+      },
+      "correct_answer": "Law of Sines"
+   },
+   {
+      "q_no": "5",
+      "question": "In a right triangle, if angle A is 30 degrees and side adjacent to angle A is 5 units long, what is sin(A)?",
+      "options": {
+         "a": "0.5",
+         "b": "0.866",
+         "c": "0.707",
+         "d": "1"
+      },
+      "correct_answer": "0.5"
+   },
+   {
+      "q_no": "6",
+      "question": "Which trigonometric identity simplifies expressions involving secant, cosecant, cotangent, and tangent?",
+      "options": {
+         "a": "sec^2(x) - cot^2(x) = 1",
+         "b": "sec(x) = 1/cos(x)",
+         "c": "tan^2(x) + 1 = sec^2(x)",
+         "d": "cot^2(x) = csc^2(x) - 1"
+      },
+      "correct_answer": "sec^2(x) - cot^2(x) = 1"
+   },
+   {
+      "q_no": "7",
+      "question": "Identify which trigonometric function demonstrates periodicity most prominently due to its reciprocal relationship?",
+      "options": {
+         "a": "tan",
+         "b": "sin",
+         "c": "cos",
+         "d": "cot"
+      },
+      "correct_answer": "tan"
+   },
+   {
+      "q_no": "8",
+      "question": "What is true when solving trigonometric equations such as sin(x) = 0.5?",
+      "options": {
+         "a": "x = \u03c0/6 radians",
+         "b": "x = \u03c0/3 radians",
+         "c": "x = \u03c0/12 radians",
+         "d": "x = \u03c0/4 radians"
+      },
+      "correct_answer": "x = \u03c0/6 radians"
+   },
+   {
+      "q_no": "9",
+      "question": "In calculating the area of a triangle using Heron's formula, which quantity relates directly to the length of the side opposite angle B?",
+      "options": {
+         "a": "b",
+         "b": "a^2",
+         "c": "c^2",
+         "d": "b^2"
+      },
+      "correct_answer": "b"
+   },
+   {
+      "q_no": "10",
+      "question": "Which real-world application utilizes trigonometry to measure steepness or slope in inclined structures?",
+      "options": {
+         "a": "Architecture",
+         "b": "Navigation",
+         "c": "Astronomy",
+         "d": "Mechanics"
+      },
+      "correct_answer": "Architecture"
+   },
+   {
+      "q_no": "11",
+      "question": "Identifying the scenario where knowing one angle measurement in a right triangle enables determination of sine or cosine?",
+      "options": {
+         "a": "Identifying opposite side when adjacent side known",
+         "b": "Determining hypotenuse when angle and opposite side known",
+         "c": "Calculating angles when both sides and hypotenuse known",
+         "d": "Finding unknown side given adjacent angle"
+      },
+      "correct_answer": "Identifying opposite side when adjacent side known"
+   },
+   {
+      "q_no": "12",
+      "question": "Which type of application often requires determining unknown distances or heights using angles measured with trigonometry?",
+      "options": {
+         "a": "Land Surveying",
+         "b": "Computer Graphics",
+         "c": "Quantum Mechanics",
+         "d": "Fluid Dynamics"
+      },
+      "correct_answer": "Land Surveying"
+   },
+   {
+      "q_no": "13",
+      "question": "A triangle has angles measuring 90\u00b0, 30\u00b0, and 60\u00b0. Which trigonometric function would best describe the sine of the longest side?",
+      "options": {
+         "a": "sin",
+         "b": "cos",
+         "c": "tan",
+         "d": "cot"
+      },
+      "correct_answer": "sin"
+   }
+]
+TIME for MCQ: 116.22 | ⚡⚡⚡ Token Speed: 4.208 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 536 | TOTAL Time: 243.31
+
+********************************************************************************
+Syllabus NUMBER 2 of 4
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Cambridge Grade 10 Physics - Waves - Electromagnetic Spectrum:
+- Definition and classification of electromagnetic waves
+- Speed and wavelength relationships within the spectrum
+- Key frequencies and their applications (radio, microwave, etc.)
+- Properties of visible light spectrum components (red to violet)
+- Interaction of waves with matter (absorption, refraction, reflection)
+- Technological impacts and uses of the electromagnetic spectrum
+TIME for SYLLABUS: 9.587 | ⚡⚡⚡ Token Speed: 6.571 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 5 for Syllabus 2 of 4... exaone3.5:2.4b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "Which type of electromagnetic wave has the shortest wavelength and highest frequency in the spectrum?", "options": {"a": "Microwave", "b": "Infrared", "c": "Ultraviolet", "d": "X-ray"}, "correct_answer": "X-ray"},
+    {"q_no": "2", "question": "Which part of the electromagnetic spectrum is primarily used for radio communication?", "options": {"a": "Visible Light", "b": "Microwaves", "c": "Ultraviolet", "d": "Infrared"}, "correct_answer": "Microwaves"},
+    {"q_no": "3", "question": "Which wavelength range is known for its application in cooking due to its ability to excite water molecules?", "options": {"a": "Visible Light", "b": "Radio Waves", "c": "Ultra Violet", "d": "Gamma Rays"}, "correct_answer": "Visible Light"},
+    {"q_no": "4", "question": "Which phenomenon demonstrates the absorption of electromagnetic waves by matter?", "options": {"a": "Scattering", "b": "Reflection", "c": "Absorption", "d": "Refraction"}, "correct_answer": "Absorption"},
+    {"q_no": "5", "question": "What property of visible light allows humans to perceive colors?", "options": {"a": "Frequency", "b": "Wavelength", "c": "Speed", "d": "Intensity"}, "correct_answer": "Frequency"},
+    {"q_no": "6", "question": "Which electromagnetic wave application is crucial for telecommunications and navigation systems?"},
+    {"q_no": "7", "question": "In terms of technological use, which wave range is essential for medical imaging?"},
+    {"q_no": "8", "question": "Which electromagnetic wave component is typically absorbed by Earth's atmosphere for protection against cosmic rays?"},
+    {"q_no": "9", "question": "Reflection off surfaces involving visible light demonstrates which principle?"},
+    {"q_no": "10", "question": "What term describes the phenomenon where electromagnetic waves interact with matter by altering their direction?"},
+    {"q_no": "11", "question": "Which electromagnetic spectrum segment is commonly utilized in medical imaging for its penetrating ability?"},
+    {"q_no": "12", "question": "How do visible light waves contribute to our everyday experience, particularly in terms of vision?"},
+    {"q_no": "13", "question": "Which part of the electromagnetic spectrum has applications in both communication and security due to its unique properties?"}
+]
+Time Taken: 79.60 seconds | Tokens Produced: 279 | ⚡⚡⚡ Token Speed 3.505 tokens/sec
+✅✅✅ Successfully generated 13 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 2 of 4
+[
+   {
+      "q_no": "1",
+      "question": "Which type of electromagnetic wave has the shortest wavelength and highest frequency in the spectrum?",
+      "options": {
+         "a": "Microwave",
+         "b": "Infrared",
+         "c": "Ultraviolet",
+         "d": "X-ray"
+      },
+      "correct_answer": "X-ray"
+   },
+   {
+      "q_no": "2",
+      "question": "Which part of the electromagnetic spectrum is primarily used for radio communication?",
+      "options": {
+         "a": "Visible Light",
+         "b": "Microwaves",
+         "c": "Ultraviolet",
+         "d": "Infrared"
+      },
+      "correct_answer": "Microwaves"
+   },
+   {
+      "q_no": "3",
+      "question": "Which wavelength range is known for its application in cooking due to its ability to excite water molecules?",
+      "options": {
+         "a": "Visible Light",
+         "b": "Radio Waves",
+         "c": "Ultra Violet",
+         "d": "Gamma Rays"
+      },
+      "correct_answer": "Visible Light"
+   },
+   {
+      "q_no": "4",
+      "question": "Which phenomenon demonstrates the absorption of electromagnetic waves by matter?",
+      "options": {
+         "a": "Scattering",
+         "b": "Reflection",
+         "c": "Absorption",
+         "d": "Refraction"
+      },
+      "correct_answer": "Absorption"
+   },
+   {
+      "q_no": "5",
+      "question": "What property of visible light allows humans to perceive colors?",
+      "options": {
+         "a": "Frequency",
+         "b": "Wavelength",
+         "c": "Speed",
+         "d": "Intensity"
+      },
+      "correct_answer": "Frequency"
+   },
+   {
+      "q_no": "6",
+      "question": "Which electromagnetic wave application is crucial for telecommunications and navigation systems?"
+   },
+   {
+      "q_no": "7",
+      "question": "In terms of technological use, which wave range is essential for medical imaging?"
+   },
+   {
+      "q_no": "8",
+      "question": "Which electromagnetic wave component is typically absorbed by Earth's atmosphere for protection against cosmic rays?"
+   },
+   {
+      "q_no": "9",
+      "question": "Reflection off surfaces involving visible light demonstrates which principle?"
+   },
+   {
+      "q_no": "10",
+      "question": "What term describes the phenomenon where electromagnetic waves interact with matter by altering their direction?"
+   },
+   {
+      "q_no": "11",
+      "question": "Which electromagnetic spectrum segment is commonly utilized in medical imaging for its penetrating ability?"
+   },
+   {
+      "q_no": "12",
+      "question": "How do visible light waves contribute to our everyday experience, particularly in terms of vision?"
+   },
+   {
+      "q_no": "13",
+      "question": "Which part of the electromagnetic spectrum has applications in both communication and security due to its unique properties?"
+   }
+]
+TIME for MCQ: 79.596 | ⚡⚡⚡ Token Speed: 3.505 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 342 | TOTAL Time: 89.20
+
+********************************************************************************
+Syllabus NUMBER 3 of 4
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for IB Grade 10 Biology - Ecology - Population Dynamics:
+- Concepts of population growth and stability
+- Carrying capacity and environmental limits
+- Demographic transitions model
+- Density dependence and its effects
+- Mathematical modeling of population change
+- Ecological niche and competitive exclusion principle
+TIME for SYLLABUS: 8.718 | ⚡⚡⚡ Token Speed: 5.391 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 5 for Syllabus 3 of 4... exaone3.5:2.4b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What term describes the maximum population size that an environment can sustain indefinitely given its resources?", "options": {"a": "Population Density", "b": "Carrying Capacity", "c": "Ecological Niche", "d": "Biotic Potential"}, "correct_answer": "Carrying Capacity"},
+    {"q_no": "2", "question": "Which model illustrates changes in birth and death rates leading to societal shifts from high birth and death rates to low rates?", "options": {"a": "Population Stability Model", "b": "Demographic Transition Model", "c": "Growth Curve Model", "d": "Density Dependence Model"}, "correct_answer": "Demographic Transition Model"},
+    {"q_no": "3", "question": "Density dependence refers to how changes in population size affect ecological factors like resources. What is true regarding these effects?", "options": {"a": "Increase resource availability", "b": "Reduces competition", "c": "Increases competition", "d": "No change in competition"}, "correct_answer": "Increases competition"},
+    {"q_no": "4", "question": "Which mathematical tool is typically used to predict future population sizes based on current growth rates?", "options": {"a": "Binary Tree", "b": "Logistic Model", "c": "Exponential Growth Formula", "d": "Population Pyramid"}, "correct_answer": "Logistic Model"},
+    {"q_no": "5", "question": "Competitive exclusion occurs when species outcompete others for limited resources due to differences in resource requirements. This principle is an example of what ecological concept?", "options": {"a": "Ecological Isolation", "b": "Resource Competition", "c": "Symbiosis", "d": "Mutualism"}, "correct_answer": "Resource Competition"},
+    {"q_no": "6", "question": "As population density increases, what typically happens to birth rates initially?", "options": {"a": "No change", "b": "Decrease", "c": "Increase", "d": "Fluctuate unpredictably"}, "correct_answer": "Increase"},
+    {"q_no": "7", "question": "Carrying capacity is influenced by which factors EXCEPT for environmental changes?", "options": {"a": "Genetic variation", "b": "Technological advancements", "c": "Human interventions", "d": "Geographical barriers"}, "correct_answer": "Genetic variation"},
+    {"q_no": "8", "question": "Which type of mathematical model typically predicts a sigmoidal (S-shaped) growth curve with stabilization over time?", "options": {"a": "Linear Regression", "b": "Exponential Growth", "c": "Logistic Growth", "d": "Random Walk"}, "correct_answer": "Logistic Growth"},
+    {"q_no": "9", "question": "What concept illustrates that species with more adaptability to environmental conditions have higher chances of survival and reproduction?", "options": {"a": "Ecological Niche", "b": "Carrying Capacity", "c": "Competitive Exclusion", "d": "Genetic Diversity"}, "correct_answer": "Ecological Niche"},
+    {"q_no": "10", "question": "Population dynamics often exhibit phases including exponential growth, maturity, decline, and eventual stabilization or extinction. What term describes the phase of significant increase before stabilization?", "options": {"a": "Stabilization", "b": "Maturity", "c": "Exponential Growth Phase", "d": "Decline"}, "correct_answer": "Exponential Growth Phase"},
+    {"q_no": "11", "question": "What does a high density dependence coefficient typically indicate about species competition?", "options": {"a": "Low competition", "b": "High competition", "c": "No interaction", "d": "No effect"}, "correct_answer": "High competition"},
+    {"q_no": "12", "question": "If two populations coexist within the same ecological niche, what is guaranteed by the Competitive Exclusion Principle?", "options": {"a": "Both populations thrive indefinitely", "b": "One population outlasts the other", "c": "Both populations perish", "d": "They merge into a single species"}, "correct_answer": "One population outlasts the other"}
+]
+Time Taken: 101.99 seconds | Tokens Produced: 457 | ⚡⚡⚡ Token Speed 4.481 tokens/sec
+✅✅✅ Successfully generated 12 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 3 of 4
+[
+   {
+      "q_no": "1",
+      "question": "What term describes the maximum population size that an environment can sustain indefinitely given its resources?",
+      "options": {
+         "a": "Population Density",
+         "b": "Carrying Capacity",
+         "c": "Ecological Niche",
+         "d": "Biotic Potential"
+      },
+      "correct_answer": "Carrying Capacity"
+   },
+   {
+      "q_no": "2",
+      "question": "Which model illustrates changes in birth and death rates leading to societal shifts from high birth and death rates to low rates?",
+      "options": {
+         "a": "Population Stability Model",
+         "b": "Demographic Transition Model",
+         "c": "Growth Curve Model",
+         "d": "Density Dependence Model"
+      },
+      "correct_answer": "Demographic Transition Model"
+   },
+   {
+      "q_no": "3",
+      "question": "Density dependence refers to how changes in population size affect ecological factors like resources. What is true regarding these effects?",
+      "options": {
+         "a": "Increase resource availability",
+         "b": "Reduces competition",
+         "c": "Increases competition",
+         "d": "No change in competition"
+      },
+      "correct_answer": "Increases competition"
+   },
+   {
+      "q_no": "4",
+      "question": "Which mathematical tool is typically used to predict future population sizes based on current growth rates?",
+      "options": {
+         "a": "Binary Tree",
+         "b": "Logistic Model",
+         "c": "Exponential Growth Formula",
+         "d": "Population Pyramid"
+      },
+      "correct_answer": "Logistic Model"
+   },
+   {
+      "q_no": "5",
+      "question": "Competitive exclusion occurs when species outcompete others for limited resources due to differences in resource requirements. This principle is an example of what ecological concept?",
+      "options": {
+         "a": "Ecological Isolation",
+         "b": "Resource Competition",
+         "c": "Symbiosis",
+         "d": "Mutualism"
+      },
+      "correct_answer": "Resource Competition"
+   },
+   {
+      "q_no": "6",
+      "question": "As population density increases, what typically happens to birth rates initially?",
+      "options": {
+         "a": "No change",
+         "b": "Decrease",
+         "c": "Increase",
+         "d": "Fluctuate unpredictably"
+      },
+      "correct_answer": "Increase"
+   },
+   {
+      "q_no": "7",
+      "question": "Carrying capacity is influenced by which factors EXCEPT for environmental changes?",
+      "options": {
+         "a": "Genetic variation",
+         "b": "Technological advancements",
+         "c": "Human interventions",
+         "d": "Geographical barriers"
+      },
+      "correct_answer": "Genetic variation"
+   },
+   {
+      "q_no": "8",
+      "question": "Which type of mathematical model typically predicts a sigmoidal (S-shaped) growth curve with stabilization over time?",
+      "options": {
+         "a": "Linear Regression",
+         "b": "Exponential Growth",
+         "c": "Logistic Growth",
+         "d": "Random Walk"
+      },
+      "correct_answer": "Logistic Growth"
+   },
+   {
+      "q_no": "9",
+      "question": "What concept illustrates that species with more adaptability to environmental conditions have higher chances of survival and reproduction?",
+      "options": {
+         "a": "Ecological Niche",
+         "b": "Carrying Capacity",
+         "c": "Competitive Exclusion",
+         "d": "Genetic Diversity"
+      },
+      "correct_answer": "Ecological Niche"
+   },
+   {
+      "q_no": "10",
+      "question": "Population dynamics often exhibit phases including exponential growth, maturity, decline, and eventual stabilization or extinction. What term describes the phase of significant increase before stabilization?",
+      "options": {
+         "a": "Stabilization",
+         "b": "Maturity",
+         "c": "Exponential Growth Phase",
+         "d": "Decline"
+      },
+      "correct_answer": "Exponential Growth Phase"
+   },
+   {
+      "q_no": "11",
+      "question": "What does a high density dependence coefficient typically indicate about species competition?",
+      "options": {
+         "a": "Low competition",
+         "b": "High competition",
+         "c": "No interaction",
+         "d": "No effect"
+      },
+      "correct_answer": "High competition"
+   },
+   {
+      "q_no": "12",
+      "question": "If two populations coexist within the same ecological niche, what is guaranteed by the Competitive Exclusion Principle?",
+      "options": {
+         "a": "Both populations thrive indefinitely",
+         "b": "One population outlasts the other",
+         "c": "Both populations perish",
+         "d": "They merge into a single species"
+      },
+      "correct_answer": "One population outlasts the other"
+   }
+]
+TIME for MCQ: 101.994 | ⚡⚡⚡ Token Speed: 4.481 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 504 | TOTAL Time: 110.73
+
+********************************************************************************
+Syllabus NUMBER 4 of 4
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Cambridge Grade 8 Mathematics - Algebra - Linear Equations:
+- Introduction to linear equations in one variable
+- Solving linear equations graphically
+- Methods for solving linear equations algebraically
+- Multiplying and dividing equations by constants
+- Introduction to inequalities involving linear expressions
+- Applying linear equations to real-world scenarios
+TIME for SYLLABUS: 8.803 | ⚡⚡⚡ Token Speed: 5.907 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 5 for Syllabus 4 of 4... exaone3.5:2.4b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "Which equation represents \(x + 3 = 7\)?", "options": {"a": "x + 3 = 7", "b": "x - 3 = 7", "c": "2x + 3 = 7", "d": "x/3 = 7"}, "correct_answer": "x + 3 = 7"},
+    {"q_no": "2", "question": "What method is NOT typically used to solve equations graphically?", "options": {"a": "Plotting points", "b": "Intercept method", "c": "Substitution method", "d": "Using matrices"}, "correct_answer": "Using matrices"},
+    {"q_no": "3", "question": "The solution to \(2x + 5 = 11\) is", "options": {"a": "x = 2", "b": "x = 3", "c": "x = 4", "d": "x = 5"}, "correct_answer": "x = 3"},
+    {"q_no": "4", "question": "Which statement correctly shows multiplying both sides of \(3x = 6\) by 2?", "options": {"a": "9x = 12", "b": "6x = 6", "c": "6x = 12", "d": "3x = 12"}, "correct_answer": "6x = 12"},
+    {"q_no": "5", "question": "What does the inequality \(2y < 8\) imply graphically?", "options": {"a": "y > 4", "b": "y ≤ 4", "c": "y ≥ 4", "d": "y ≥ 8"}, "correct_answer": "y ≤ 4"},
+    {"q_no": "6", "question": "Solving \(x - 4 = 2x - 1\) algebraically results in", "options": {"a": "x = -1", "b": "x = 3", "c": "x = 5", "d": "x = 6"}, "correct_answer": "x = 3"},
+    {"q_no": "7", "question": "Multiplication of equations by constants affects the solution set by", "options": {"a": "reversing the equality", "b": "multiplying both sides", "c": "dividing both sides", "d": "none of the above"}, "correct_answer": "multiplying both sides"},
+    {"q_no": "8", "question": "To apply linear equations to real-world scenarios, consider", "options": {"a": "solving for profit margins", "b": "calculating interest rates", "c": "determining shipping costs", "d": "all of the above"}, "correct_answer": "all of the above"},
+    {"q_no": "9", "question": "In inequalities \(2x + 5 > 11\)", "options": {"a": "x > -2", "b": "x < -2", "c": "x ≤ -2", "d": "x ≥ -2"}, "correct_answer": "x > -2"},
+    {"q_no": "10", "question": "Which method involves finding intercepts to solve \(y = 2x + 3\)?", "options": {"a": "Graphical method", "b": "Substitution method", "c": "Division method", "d": "Intersection method"}, "correct_answer": "Graphical method"},
+    {"q_no": "11", "question": "For \(x + 1 = 4x\)", "options": {"a": "x = 1", "b": "x = 3", "c": "x = 2", "d": "x = -1"}, "correct_answer": "x = 2"},
+    {"q_no": "12", "question": "Multiplying \(4y = 2\) by \(y + 1\) would lead to", "options": {"a": "8y^2 + 8y = 2", "b": "4y^2 + 4y = 2", "c": "2y + 4 = 2", "d": "y + 2y = 2"}, "correct_answer": "2y + 4 = 2"}
+]
+Time Taken: 105.45 seconds | Tokens Produced: 418 | ⚡⚡⚡ Token Speed 3.964 tokens/sec
+⚠️ Error: Invalid JSON format...
+
+Attempt 2 out of 5 for Syllabus 4 of 4... exaone3.5:2.4b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What type of equation represents a scenario where two expressions are equal to each other?", "options": {"a": "Quadratic equation", "b": "Linear equation", "c": "Exponential equation", "d": "Circular equation"}, "correct_answer": "Linear equation"},
+    {"q_no": "2", "question": "Which graphical method directly plots solutions on a coordinate plane to solve linear equations?", "options": {"a": "Substitution method", "b": "Graphical method", "c": "Factorization method", "d": "Matrix method"}, "correct_answer": "Graphical method"},
+    {"q_no": "3", "question": "What does multiplying both sides of an algebraic equation by a constant yield?", "options": {"a": "Division", "b": "Multiplication", "c": "Adding", "d": "Subtracting"}, "correct_answer": "Multiplication"},
+    {"q_no": "4", "question": "Which scenario best describes solving linear inequalities graphically?", "options": {"a": "Determining areas bounded by lines", "b": "Finding absolute maximum values", "c": "Evaluating polynomial roots", "d": "Simplifying fractions"}, "correct_answer": "Determining areas bounded by lines"},
+    {"q_no": "5", "question": "Applying linear equations to real-world situations often involves calculating what?", "options": {"a": "Area measurements", "b": "Maximum possible values", "c": "Solutions to practical problems", "d": "Volume calculations"}, "correct_answer": "Solutions to practical problems"},
+    {"q_no": "6", "question": "Which algebraic method involves expressing variables in terms of coefficients and constants?", "options": {"a": "Estimation", "b": "Substitution", "c": "Algebraic manipulation", "d": "Approximation"}, "correct_answer": "Algebraic manipulation"},
+    {"q_no": "7", "question": "What does dividing both sides of an equation by a non-zero constant maintain?", "options": {"a": "Equation validity", "b": "Solution uniqueness", "c": "Graph shape", "d": "Constant value"}, "correct_answer": "Solution uniqueness"},
+    {"q_no": "8", "question": "In solving linear equations algebraically, what technique might involve isolating the variable first?", "options": {"a": "Graphical interpretation", "b": "Multiplication/division", "c": "Substitution", "d": "Rearrangement"}, "correct_answer": "Rearrangement"},
+    {"q_no": "9", "question": "When applying inequalities involving linear expressions, what does solving ensure?", "options": {"a": "Lower bounds", "b": "Upper bounds", "c": "Intersections with axes", "d": "Equations only"}, "correct_answer": "Upper bounds"},
+    {"q_no": "10", "question": "Which method is typically used to determine the range of values a linear expression can take?", "options": {"a": "Substitution", "b": "Integration", "c": "Division", "d": "Graphical analysis"}, "correct_answer": "Graphical analysis"},
+    {"q_no": "11", "question": "An example of a real-world application involving linear equations could be calculating?", "options": {"a": "Area changes", "b": "Price changes", "c": "Temperature fluctuations", "d": "Color variations"}, "correct_answer": "Price changes"},
+    {"q_no": "12", "question": "What does solving linear equations graphically represent visually?", "options": {"a": "Angles", "b": "Lines intersecting", "c": "Curves", "d": "Circles"}, "correct_answer": "Lines intersecting"},
+    {"q_no": "13", "question": "When comparing equations like \(2x + 3 = x - 5\) to their graphical representations, what aspect helps identify solutions?", "options": {"a": "Slope", "b": "Intersection points", "c": "Y-intercepts", "d": "Endpoints"}, "correct_answer": "Intersection points"},
+    {"q_no": "14", "question": "Which algebraic technique can help predict future values based on current linear relationships?", "options": {"a": "Multiplication", "b": "Division", "c": "Substitution", "d": "Summation"}, "correct_answer": "Substitution"}
+]
+Time Taken: 107.23 seconds | Tokens Produced: 436 | ⚡⚡⚡ Token Speed 4.066 tokens/sec
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+
+Attempt 3 out of 5 for Syllabus 4 of 4... exaone3.5:2.4b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What defines a linear equation in one variable?", "options": {"a": "Non-linear relationship between variables", "b": "A polynomial expression of degree 2", "c": "An expression containing only products and sums of constants", "d": "An equation involving fractions with variables in denominator"}, "correct_answer": "An expression containing only products and sums of constants"},
+    {"q_no": "2", "question": "Which method involves plotting equations on a graph to find solutions?", "options": {"a": "Using logarithms", "b": "Graphical method", "c": "Setting coefficients equal", "d": "Integrating expressions"}, "correct_answer": "Graphical method"},
+    {"q_no": "3", "question": "Which algebraic method directly uses coefficients and constants to isolate variables?", "options": {"a": "Using matrices", "b": "Division method", "c": "Substitution method", "d": "Expansion method"}, "correct_answer": "Division method"},
+    {"q_no": "4", "question": "Multiplying both sides of a linear equation by a zero results in which type of equation?", "options": {"a": "Dependent", "b": "Independent", "c": "Homogeneous", "d": "None of the above"}, "correct_answer": "Dependent"},
+    {"q_no": "5", "question": "Which inequality involves linear expressions would demonstrate a scenario where x ≥ b?", "options": {"a": "x + 3 ≤ -x + 2", "b": "2x + 1 > x - 3", "c": "x^2 + 2x + 3 ≥ 0", "d": "-x + 5 < 1"}, "correct_answer": "x + 3 ≤ -x + 2"},
+    {"q_no": "6", "question": "What algebraic technique allows you to solve inequalities involving linear expressions by multiplying or dividing both sides by constants?", "options": {"a": "Logarithmic transformation", "b": "Distribution", "c": "Division method", "d": "Quadratic formula"}, "correct_answer": "Division method"},
+    {"q_no": "7", "question": "Which equation type is typically solved first when applying linear equations to real-world scenarios, often representing fixed values or conditions?", "options": {"a": "Quadratic equations", "b": "Exponential equations", "c": "Linear equations", "d": "Trigonometric equations"}, "correct_answer": "Linear equations"},
+    {"q_no": "8", "question": "What characteristic distinguishes linear inequalities graphically compared to equations?", "options": {"a": "Graphical solutions are lines instead of points", "b": "Graphical solutions include all real numbers", "c": "Graphical solutions involve shading regions", "d": "Graphical solutions start with negative infinity"}, "correct_answer": "Graphical solutions involve shading regions"},
+    {"q_no": "9", "question": "Multiplication of a linear equation by -1 preserves equality; what happens if it's divided by -1 instead?", "options": {"a": "The solution set reverses"}, "correct_answer": "The solution set reverses"},
+    {"q_no": "10", "question": "Which algebraic operation would correctly isolate x in the equation ax + b = cx + d?", "options": {"a": "Subtract bx from both sides", "b": "Divide both sides by (a-c)", "c": "Add bx to both sides", "d": "Multiply both sides by a"}, "correct_answer": "Divide both sides by (a-c)"},
+    {"q_no": "11", "question": "What term describes equations where both sides contain variables with the same power but opposite coefficients?", "options": {"a": "Quadratic equations", "b": "Linear equations", "c": "Cubic equations", "d": "Exponential equations"}, "correct_answer": "Linear equations"},
+    {"q_no": "12", "question": "When applying linear equations to solve problems, which method ensures that all variable solutions are considered by including inequalities?", "options": {"a": "Analyzing only positive values", "b": "Including inequalities like ≤ or ≥", "c": "Focusing solely on whole numbers", "d": "Multiplying equations by negative numbers"}, "correct_answer": "Including inequalities like ≤ or ≥"}
+]
+Time Taken: 105.67 seconds | Tokens Produced: 500 | ⚡⚡⚡ Token Speed 4.732 tokens/sec
+✅✅✅ Successfully generated 12 MCQs. Attempts Needed 3
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 4 of 4
+[
+   {
+      "q_no": "1",
+      "question": "What defines a linear equation in one variable?",
+      "options": {
+         "a": "Non-linear relationship between variables",
+         "b": "A polynomial expression of degree 2",
+         "c": "An expression containing only products and sums of constants",
+         "d": "An equation involving fractions with variables in denominator"
+      },
+      "correct_answer": "An expression containing only products and sums of constants"
+   },
+   {
+      "q_no": "2",
+      "question": "Which method involves plotting equations on a graph to find solutions?",
+      "options": {
+         "a": "Using logarithms",
+         "b": "Graphical method",
+         "c": "Setting coefficients equal",
+         "d": "Integrating expressions"
+      },
+      "correct_answer": "Graphical method"
+   },
+   {
+      "q_no": "3",
+      "question": "Which algebraic method directly uses coefficients and constants to isolate variables?",
+      "options": {
+         "a": "Using matrices",
+         "b": "Division method",
+         "c": "Substitution method",
+         "d": "Expansion method"
+      },
+      "correct_answer": "Division method"
+   },
+   {
+      "q_no": "4",
+      "question": "Multiplying both sides of a linear equation by a zero results in which type of equation?",
+      "options": {
+         "a": "Dependent",
+         "b": "Independent",
+         "c": "Homogeneous",
+         "d": "None of the above"
+      },
+      "correct_answer": "Dependent"
+   },
+   {
+      "q_no": "5",
+      "question": "Which inequality involves linear expressions would demonstrate a scenario where x \u2265 b?",
+      "options": {
+         "a": "x + 3 \u2264 -x + 2",
+         "b": "2x + 1 > x - 3",
+         "c": "x^2 + 2x + 3 \u2265 0",
+         "d": "-x + 5 < 1"
+      },
+      "correct_answer": "x + 3 \u2264 -x + 2"
+   },
+   {
+      "q_no": "6",
+      "question": "What algebraic technique allows you to solve inequalities involving linear expressions by multiplying or dividing both sides by constants?",
+      "options": {
+         "a": "Logarithmic transformation",
+         "b": "Distribution",
+         "c": "Division method",
+         "d": "Quadratic formula"
+      },
+      "correct_answer": "Division method"
+   },
+   {
+      "q_no": "7",
+      "question": "Which equation type is typically solved first when applying linear equations to real-world scenarios, often representing fixed values or conditions?",
+      "options": {
+         "a": "Quadratic equations",
+         "b": "Exponential equations",
+         "c": "Linear equations",
+         "d": "Trigonometric equations"
+      },
+      "correct_answer": "Linear equations"
+   },
+   {
+      "q_no": "8",
+      "question": "What characteristic distinguishes linear inequalities graphically compared to equations?",
+      "options": {
+         "a": "Graphical solutions are lines instead of points",
+         "b": "Graphical solutions include all real numbers",
+         "c": "Graphical solutions involve shading regions",
+         "d": "Graphical solutions start with negative infinity"
+      },
+      "correct_answer": "Graphical solutions involve shading regions"
+   },
+   {
+      "q_no": "9",
+      "question": "Multiplication of a linear equation by -1 preserves equality; what happens if it's divided by -1 instead?",
+      "options": {
+         "a": "The solution set reverses"
+      },
+      "correct_answer": "The solution set reverses"
+   },
+   {
+      "q_no": "10",
+      "question": "Which algebraic operation would correctly isolate x in the equation ax + b = cx + d?",
+      "options": {
+         "a": "Subtract bx from both sides",
+         "b": "Divide both sides by (a-c)",
+         "c": "Add bx to both sides",
+         "d": "Multiply both sides by a"
+      },
+      "correct_answer": "Divide both sides by (a-c)"
+   },
+   {
+      "q_no": "11",
+      "question": "What term describes equations where both sides contain variables with the same power but opposite coefficients?",
+      "options": {
+         "a": "Quadratic equations",
+         "b": "Linear equations",
+         "c": "Cubic equations",
+         "d": "Exponential equations"
+      },
+      "correct_answer": "Linear equations"
+   },
+   {
+      "q_no": "12",
+      "question": "When applying linear equations to solve problems, which method ensures that all variable solutions are considered by including inequalities?",
+      "options": {
+         "a": "Analyzing only positive values",
+         "b": "Including inequalities like \u2264 or \u2265",
+         "c": "Focusing solely on whole numbers",
+         "d": "Multiplying equations by negative numbers"
+      },
+      "correct_answer": "Including inequalities like \u2264 or \u2265"
+   }
+]
+TIME for MCQ: 105.671 | ⚡⚡⚡ Token Speed: 4.732 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 552 | TOTAL Time: 327.18
+
+********************************************************************************
+
+Model: exaone3.5:2.4b
+
+Total Time Taken: 770.41, Total Tokens Generated: 1934, Avg Total Token Gen Speed: 2.51 tokens/sec
+Total ERROR: 3 
+Total Syllabi: 4 | Total Success MCQ : 4 MCQ Attempt per Syllabus: 5

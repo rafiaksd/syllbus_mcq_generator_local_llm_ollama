@@ -1,0 +1,1142 @@
+********************************************************************************
+Syllabus NUMBER 1
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Prompt: Syllabus for Cambridge Grade 5 Mathematics, topic fractions, subtopic fraction addition
+Response: Syllabus for Cambridge Grade 5 Mathematics - Fractions - Fraction Addition:
+- Introduction to fractions as parts of a whole.
+- Understanding numerators and denominators.
+- Adding fractions with the same denominator.
+- Adding fractions with different denominators.
+- Simplifying fractions after addition.
+- Solving word problems involving fraction addition.
+TIME for SYLLABUS: 7.145 | ⚡⚡⚡ Token Speed: 8.818 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 1...
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What does a fraction represent?",
+        "options": {
+            "a": "A number representing a whole.",
+            "b": "A part of a whole.",
+            "c": "A group of objects.",
+            "d": "A measurement of time"
+        },
+        "correct_answer": "A part of a whole."
+    },
+    {
+        "q_no": 2,
+        "question": "Which of the following is a fraction?",
+        "options": {
+            "a": "1/2",
+            "b": "3/4",
+            "c": "2/5",
+            "d": "1/8"
+        },
+        "correct_answer": "3/4"
+    },
+    {
+        "q_no": 3,
+        "question": "What is the denominator in a fraction?",
+        "options": {
+            "a": "The number of objects in the whole.",
+            "b": "The total number of parts.",
+            "c": "The number of shaded parts.",
+            "d": "The number of whole parts"
+        },
+        "correct_answer": "The total number of parts"
+    },
+    {
+        "q_no": 4,
+        "question": "What happens when you add fractions with the same denominator?",
+        "options": {
+            "a": "The answer changes.",
+            "b": "The answer remains the same.",
+            "c": "The answer is multiplied.",
+            "d": "The answer is divided."
+        },
+        "correct_answer": "The answer remains the same."
+    }
+]
+Time Taken: 19.13 seconds | Tokens Produced: 161 | ⚡⚡⚡ Token Speed 8.416 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 4...
+
+⚠️ Warning: After 10 attempts returning longest valid response.
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   {
+      "q_no": 1,
+      "question": "What does a fraction represent?",
+      "options": {
+         "a": "A number representing a whole.",
+         "b": "A part of a whole.",
+         "c": "A group of objects.",
+         "d": "A measurement of time"
+      },
+      "correct_answer": "A part of a whole."
+   },
+   {
+      "q_no": 2,
+      "question": "Which of the following is a fraction?",
+      "options": {
+         "a": "1/2",
+         "b": "3/4",
+         "c": "2/5",
+         "d": "1/8"
+      },
+      "correct_answer": "3/4"
+   },
+   {
+      "q_no": 3,
+      "question": "What is the denominator in a fraction?",
+      "options": {
+         "a": "The number of objects in the whole.",
+         "b": "The total number of parts.",
+         "c": "The number of shaded parts.",
+         "d": "The number of whole parts"
+      },
+      "correct_answer": "The total number of parts"
+   },
+   {
+      "q_no": 4,
+      "question": "What happens when you add fractions with the same denominator?",
+      "options": {
+         "a": "The answer changes.",
+         "b": "The answer remains the same.",
+         "c": "The answer is multiplied.",
+         "d": "The answer is divided."
+      },
+      "correct_answer": "The answer remains the same."
+   }
+]
+TIME for MCQ: 19.13 | ⚡⚡⚡ Token Speed: 8.416 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 224 | TOTAL Time: 26.28
+
+********************************************************************************
+Syllabus NUMBER 2
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Prompt: Syllabus for Cambridge Grade 5 Mathematics, topic fractions, subtopic fraction addition
+Response:
+- Introduction to fractions as parts of a whole.
+- Understanding numerators and denominators.
+- Adding fractions with the same denominator.
+- Adding fractions with different denominators.
+- Simplifying fractions after addition.
+- Solving word problems involving fraction addition.
+TIME for SYLLABUS: 5.028 | ⚡⚡⚡ Token Speed: 10.341 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 1...
+🔍🔍🔍 Generated MCQ:
+
+ [
+    "Introduction to fractions as parts of a whole.",
+    "Understanding numerators and denominators.",
+    "Adding fractions with the same denominator.",
+    "Adding fractions with different denominators.",
+    "Simplifying fractions after addition.",
+    "Solving word problems involving fraction addition."
+]
+Time Taken: 10.27 seconds | Tokens Produced: 37 | ⚡⚡⚡ Token Speed 3.601 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 6...
+
+⚠️ Warning: After 10 attempts returning longest valid response.
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   "Introduction to fractions as parts of a whole.",
+   "Understanding numerators and denominators.",
+   "Adding fractions with the same denominator.",
+   "Adding fractions with different denominators.",
+   "Simplifying fractions after addition.",
+   "Solving word problems involving fraction addition."
+]
+TIME for MCQ: 10.274 | ⚡⚡⚡ Token Speed: 3.601 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 89 | TOTAL Time: 15.31
+
+********************************************************************************
+Syllabus NUMBER 3
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Prompt: Syllabus for Cambridge Grade 5 Mathematics, topic fractions, subtopic fraction addition
+Response:
+- Introduction to fractions as parts of a whole.
+- Understanding numerators and denominators.
+- Adding fractions with the same denominator.
+- Adding fractions with different denominators.
+- Simplifying fractions after addition.
+- Solving word problems involving fraction addition.
+TIME for SYLLABUS: 5.278 | ⚡⚡⚡ Token Speed: 9.852 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 1...
+🔍🔍🔍 Generated MCQ:
+
+ [
+    "Introduction to fractions as parts of a whole.",
+    "Understanding numerators and denominators.",
+    "Adding fractions with the same denominator.",
+    "Adding fractions with different denominators.",
+    "Simplifying fractions after addition.",
+    "Solving word problems involving fraction addition."
+]
+Time Taken: 10.46 seconds | Tokens Produced: 37 | ⚡⚡⚡ Token Speed 3.538 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 6...
+
+⚠️ Warning: After 10 attempts returning longest valid response.
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   "Introduction to fractions as parts of a whole.",
+   "Understanding numerators and denominators.",
+   "Adding fractions with the same denominator.",
+   "Adding fractions with different denominators.",
+   "Simplifying fractions after addition.",
+   "Solving word problems involving fraction addition."
+]
+TIME for MCQ: 10.459 | ⚡⚡⚡ Token Speed: 3.538 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 89 | TOTAL Time: 15.74
+
+********************************************************************************
+Syllabus NUMBER 4
+
+********************************************************************************
+Syllabus NUMBER 1
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Edexcel Grade 12 Mathematics - Differentiation:
+
+- Introduction to Differentiation: Concept and application.
+- Defining the derivative: Rate of change.
+- Differentiation rules: Basic rules for differentiation.
+- Applying differentiation to find maximum and minimum values.
+- Using derivatives to find slopes and rates of change.
+- Differentiation of simple functions.
+TIME for SYLLABUS: 4.247 | ⚡⚡⚡ Token Speed: 12.478 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 1...
+🔍🔍🔍 Generated MCQ:
+
+ [
+    "Why is differentiation important?",
+    "What is the rate of change?",
+    "What are the basic differentiation rules?",
+    "How to find maximum and minimum values?",
+    "How to use derivatives to find slopes and rates of change?"
+]
+Time Taken: 10.10 seconds | Tokens Produced: 38 | ⚡⚡⚡ Token Speed 3.763 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 5...
+
+⚠️ Warning: After 1 attempts returning longest valid response.
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   "Why is differentiation important?",
+   "What is the rate of change?",
+   "What are the basic differentiation rules?",
+   "How to find maximum and minimum values?",
+   "How to use derivatives to find slopes and rates of change?"
+]
+TIME for MCQ: 10.097 | ⚡⚡⚡ Token Speed: 3.764 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 91 | TOTAL Time: 14.35
+
+********************************************************************************
+Syllabus NUMBER 2
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Prompt: Syllabus for Cambridge Grade 10 Mathematics, topic equations
+Response:
+- Basic equation solving
+- Solving linear equations
+- Understanding variables and expressions
+- Graphing linear equations
+- Applying equations to real-world problems
+TIME for SYLLABUS: 4.36 | ⚡⚡⚡ Token Speed: 7.568 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 10
+Attempt 1 out of 1...
+🔍🔍🔍 Generated MCQ:
+
+ [
+  {
+    "q_no": 1,
+    "question": "What is the fundamental principle behind solving equations?",
+    "options": {
+      "a": "Identifying the variable and the equation.",
+      "b": "Substituting values into the equation.",
+      "c": "Simplifying the equation.",
+      "d": "Distributing the terms"
+    },
+    "correct_answer": "Identifying the variable and the equation."
+  },
+  {
+    "q_no": 2,
+    "question": "Which of the following is a key step in solving linear equations?",
+    "options": {
+      "a": "Finding the value of the variable.",
+      "b": "Substituting values into the equation.",
+      "c": "Simplifying the equation.",
+      "d": "Expanding the equation"
+    },
+    "correct_answer": "Substituting values into the equation."
+  },
+  {
+    "q_no": 3,
+    "question": "What does the variable represent in a linear equation?",
+    "options": {
+      "a": "The result of the equation.",
+      "b": "The solution to the equation.",
+      "c": "The number of unknowns.",
+      "d": "The equation's constant term"
+    },
+    "correct_answer": "The number of unknowns"
+  },
+  {
+    "q_no": 4,
+    "question": "What does graphing linear equations help us do?",
+    "options": {
+      "a": "Solve equations without using formulas.",
+      "b": "Find the value of a variable.",
+      "c": "Determine the slope of a line.",
+      "d": "Calculate the equation's intercept"
+    },
+    "correct_answer": "Determine the slope of a line."
+  },
+  {
+    "q_no": 5,
+    "question": "Consider a linear equation like y = 2x + 1. What does this equation represent?",
+    "options": {
+      "a": "The increase in a quantity over time.",
+      "b": "The distance traveled by a car.",
+      "c": "The slope of a line.",
+      "d": "The rate of change of temperature"
+    },
+    "correct_answer": "The slope of a line"
+  },
+  {
+    "q_no": 6,
+    "question": "In the context of linear equations, what does the 'intercept' represent?",
+    "options": {
+      "a": "The final value of the variable.",
+      "b": "The point where the line crosses the x-axis.",
+      "c": "The number of solutions.",
+      "d": "The equation's total value"
+    },
+    "correct_answer": "The point where the line crosses the x-axis."
+  },
+  {
+    "q_no": 7,
+    "question": "If the slope of a line is 3 and the y-intercept is -2, what is the equation of the line?",
+    "options": {
+      "a": "y = 3x - 2",
+      "b": "y = -2x + 3",
+      "c": "y = 3x + 2",
+      "d": "y = -2x - 3"
+    },
+    "correct_answer": "y = 3x - 2"
+  },
+  {
+    "q_no": 8,
+    "question": "What is a key use of linear equation graphs?",
+    "options": {
+      "a": "To determine the maximum and minimum values of a variable.",
+      "b": "To visualize the relationship between two variables.",
+      "c": "To find the exact solution to an equation.",
+      "d": "To graph a function."
+    },
+    "correct_answer": "To visualize the relationship between two variables."
+  }
+]
+Time Taken: 34.36 seconds | Tokens Produced: 414 | ⚡⚡⚡ Token Speed 12.048 tokens/sec
+⚠️ Warning: Expected 10 MCQs but got 8...
+
+⚠️ Warning: After 1 attempts returning longest valid response.
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   {
+      "q_no": 1,
+      "question": "What is the fundamental principle behind solving equations?",
+      "options": {
+         "a": "Identifying the variable and the equation.",
+         "b": "Substituting values into the equation.",
+         "c": "Simplifying the equation.",
+         "d": "Distributing the terms"
+      },
+      "correct_answer": "Identifying the variable and the equation."
+   },
+   {
+      "q_no": 2,
+      "question": "Which of the following is a key step in solving linear equations?",
+      "options": {
+         "a": "Finding the value of the variable.",
+         "b": "Substituting values into the equation.",
+         "c": "Simplifying the equation.",
+         "d": "Expanding the equation"
+      },
+      "correct_answer": "Substituting values into the equation."
+   },
+   {
+      "q_no": 3,
+      "question": "What does the variable represent in a linear equation?",
+      "options": {
+         "a": "The result of the equation.",
+         "b": "The solution to the equation.",
+         "c": "The number of unknowns.",
+         "d": "The equation's constant term"
+      },
+      "correct_answer": "The number of unknowns"
+   },
+   {
+      "q_no": 4,
+      "question": "What does graphing linear equations help us do?",
+      "options": {
+         "a": "Solve equations without using formulas.",
+         "b": "Find the value of a variable.",
+         "c": "Determine the slope of a line.",
+         "d": "Calculate the equation's intercept"
+      },
+      "correct_answer": "Determine the slope of a line."
+   },
+   {
+      "q_no": 5,
+      "question": "Consider a linear equation like y = 2x + 1. What does this equation represent?",
+      "options": {
+         "a": "The increase in a quantity over time.",
+         "b": "The distance traveled by a car.",
+         "c": "The slope of a line.",
+         "d": "The rate of change of temperature"
+      },
+      "correct_answer": "The slope of a line"
+   },
+   {
+      "q_no": 6,
+      "question": "In the context of linear equations, what does the 'intercept' represent?",
+      "options": {
+         "a": "The final value of the variable.",
+         "b": "The point where the line crosses the x-axis.",
+         "c": "The number of solutions.",
+         "d": "The equation's total value"
+      },
+      "correct_answer": "The point where the line crosses the x-axis."
+   },
+   {
+      "q_no": 7,
+      "question": "If the slope of a line is 3 and the y-intercept is -2, what is the equation of the line?",
+      "options": {
+         "a": "y = 3x - 2",
+         "b": "y = -2x + 3",
+         "c": "y = 3x + 2",
+         "d": "y = -2x - 3"
+      },
+      "correct_answer": "y = 3x - 2"
+   },
+   {
+      "q_no": 8,
+      "question": "What is a key use of linear equation graphs?",
+      "options": {
+         "a": "To determine the maximum and minimum values of a variable.",
+         "b": "To visualize the relationship between two variables.",
+         "c": "To find the exact solution to an equation.",
+         "d": "To graph a function."
+      },
+      "correct_answer": "To visualize the relationship between two variables."
+   }
+]
+TIME for MCQ: 34.361 | ⚡⚡⚡ Token Speed: 12.049 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 447 | TOTAL Time: 38.73
+
+********************************************************************************
+Syllabus NUMBER 3
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Prompt: Syllabus for Cambridge Grade 5 Mathematics, topic fractions, subtopic fraction addition
+Response:
+- Introduction to fractions as parts of a whole.
+- Understanding numerators and denominators.
+- Adding fractions with the same denominator.
+- Adding fractions with different denominators.
+- Simplifying fractions after addition.
+- Solving word problems involving fraction addition.
+TIME for SYLLABUS: 5.387 | ⚡⚡⚡ Token Speed: 9.653 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 1...
+🔍🔍🔍 Generated MCQ:
+
+ [
+    "Introduction to fractions as parts of a whole.",
+    "Understanding numerators and denominators.",
+    "Adding fractions with the same denominator.",
+    "Adding fractions with different denominators.",
+    "Simplifying fractions after addition.",
+    "Solving word problems involving fraction addition."
+]
+Time Taken: 10.12 seconds | Tokens Produced: 37 | ⚡⚡⚡ Token Speed 3.657 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 6...
+
+⚠️ Warning: After 1 attempts returning longest valid response.
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   "Introduction to fractions as parts of a whole.",
+   "Understanding numerators and denominators.",
+   "Adding fractions with the same denominator.",
+   "Adding fractions with different denominators.",
+   "Simplifying fractions after addition.",
+   "Solving word problems involving fraction addition."
+]
+TIME for MCQ: 10.119 | ⚡⚡⚡ Token Speed: 3.657 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 89 | TOTAL Time: 15.51
+
+********************************************************************************
+Syllabus NUMBER 4
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Prompt: Syllabus for Cambridge Grade 5 Mathematics, topic fractions, subtopic fraction addition
+Response:
+- Introduction to fractions as parts of a whole.
+- Understanding numerators and denominators.
+- Adding fractions with the same denominator.
+- Adding fractions with different denominators.
+- Simplifying fractions after addition.
+- Solving word problems involving fraction addition.
+TIME for SYLLABUS: 5.09 | ⚡⚡⚡ Token Speed: 10.217 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 1...
+🔍🔍🔍 Generated MCQ:
+
+ [
+    "What is a fraction?",
+    "How do you add fractions with the same denominator?",
+    "How do you add fractions with different denominators?",
+    "What does simplifying a fraction mean?",
+    "Solve: 1/4 + 2/4"
+]
+Time Taken: 10.76 seconds | Tokens Produced: 35 | ⚡⚡⚡ Token Speed 3.252 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 5...
+
+⚠️ Warning: After 1 attempts returning longest valid response.
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   "What is a fraction?",
+   "How do you add fractions with the same denominator?",
+   "How do you add fractions with different denominators?",
+   "What does simplifying a fraction mean?",
+   "Solve: 1/4 + 2/4"
+]
+TIME for MCQ: 10.761 | ⚡⚡⚡ Token Speed: 3.252 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 87 | TOTAL Time: 15.86
+
+********************************************************************************
+Syllabus NUMBER 5
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Prompt: Syllabus for State Board Grade 10 Physics, topic Electricity, subtopic Circuits
+- Introduction to electrical circuits – components and flow
+- Understanding basic circuit components (resistors, bulbs, etc.)
+- Analyzing circuit behavior – current, voltage, and resistance
+- Building simple circuits – connecting components
+- Investigating circuit effects – brightness and power
+- Troubleshooting simple circuit issues
+TIME for SYLLABUS: 5.136 | ⚡⚡⚡ Token Speed: 11.292 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 1...
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the fundamental purpose of a circuit in electrical engineering?",
+        "options": {
+            "a": "To store electrical energy",
+            "b": "To transfer electrical energy",
+            "c": "To amplify electrical signals",
+            "d": "To control electrical devices"
+        },
+        "correct_answer": "To transfer electrical energy"
+    },
+    {
+        "q_no": 2,
+        "question": "Which of the following best describes a resistor?",
+        "options": {
+            "a": "A device that generates electricity",
+            "b": "A component that limits current flow",
+            "c": "A type of bulb that produces light",
+            "d": "A component that enhances voltage"
+        },
+        "correct_answer": "A component that limits current flow"
+    },
+    {
+        "q_no": 3,
+        "question": "What does the Ohm's Law principle state?",
+        "options": {
+            "a": "Voltage is proportional to current",
+            "b": "Current is proportional to voltage",
+            "c": "Resistance is proportional to voltage",
+            "d": "Resistance is proportional to current"
+        },
+        "correct_answer": "Voltage is proportional to current"
+    },
+    {
+        "q_no": 4,
+        "question": "What is the difference between a voltage and a current?",
+        "options": {
+            "a": "Voltage is a type of current",
+            "b": "Current is a type of voltage",
+            "c": "Voltage is the rate of flow of current",
+            "d": "Current is the rate of flow of voltage"
+        },
+        "correct_answer": "Voltage is a potential difference, while current is the flow of charge"
+    },
+    {
+        "q_no": 5,
+        "question": "Why are resistors used in circuits?",
+        "options": {
+            "a": "To create high-power electrical signals",
+            "b": "To limit current flow and provide resistance",
+            "c": "To generate heat",
+            "d": "To amplify electrical signals"
+        },
+        "correct_answer": "To limit current flow and provide resistance"
+    },
+    {
+        "q_no": 6,
+        "question": "What is the purpose of a battery in a simple circuit?",
+        "options": {
+            "a": "To provide a constant voltage",
+            "b": "To collect and store electrical energy",
+            "c": "To generate heat",
+            "d": "To amplify electrical signals"
+        },
+        "correct_answer": "To provide a constant voltage"
+    },
+    {
+        "q_no": 7,
+        "question": "What is the concept of 'series circuit'?",
+        "options": {
+            "a": "A circuit where all components are connected one after another.",
+            "b": "A circuit where components are connected in parallel.",
+            "c": "A circuit where all components are connected in a single path.",
+            "d": "A circuit with a single voltage source"
+        },
+        "correct_answer": "A circuit where all components are connected in a single path"
+    },
+    {
+        "q_no": 8,
+        "question": "What happens if the resistance in a resistor increases?",
+        "options": {
+            "a": "The brightness of the bulb increases.",
+            "b": "The voltage of the bulb increases.",
+            "c": "The resistance of the bulb increases.",
+            "d": "The power of the bulb increases."
+        },
+        "correct_answer": "The resistance of the bulb increases"
+    }
+]
+Time Taken: 33.55 seconds | Tokens Produced: 417 | ⚡⚡⚡ Token Speed 12.430 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 8...
+
+⚠️ Warning: After 1 attempts returning longest valid response.
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   {
+      "q_no": 1,
+      "question": "What is the fundamental purpose of a circuit in electrical engineering?",
+      "options": {
+         "a": "To store electrical energy",
+         "b": "To transfer electrical energy",
+         "c": "To amplify electrical signals",
+         "d": "To control electrical devices"
+      },
+      "correct_answer": "To transfer electrical energy"
+   },
+   {
+      "q_no": 2,
+      "question": "Which of the following best describes a resistor?",
+      "options": {
+         "a": "A device that generates electricity",
+         "b": "A component that limits current flow",
+         "c": "A type of bulb that produces light",
+         "d": "A component that enhances voltage"
+      },
+      "correct_answer": "A component that limits current flow"
+   },
+   {
+      "q_no": 3,
+      "question": "What does the Ohm's Law principle state?",
+      "options": {
+         "a": "Voltage is proportional to current",
+         "b": "Current is proportional to voltage",
+         "c": "Resistance is proportional to voltage",
+         "d": "Resistance is proportional to current"
+      },
+      "correct_answer": "Voltage is proportional to current"
+   },
+   {
+      "q_no": 4,
+      "question": "What is the difference between a voltage and a current?",
+      "options": {
+         "a": "Voltage is a type of current",
+         "b": "Current is a type of voltage",
+         "c": "Voltage is the rate of flow of current",
+         "d": "Current is the rate of flow of voltage"
+      },
+      "correct_answer": "Voltage is a potential difference, while current is the flow of charge"
+   },
+   {
+      "q_no": 5,
+      "question": "Why are resistors used in circuits?",
+      "options": {
+         "a": "To create high-power electrical signals",
+         "b": "To limit current flow and provide resistance",
+         "c": "To generate heat",
+         "d": "To amplify electrical signals"
+      },
+      "correct_answer": "To limit current flow and provide resistance"
+   },
+   {
+      "q_no": 6,
+      "question": "What is the purpose of a battery in a simple circuit?",
+      "options": {
+         "a": "To provide a constant voltage",
+         "b": "To collect and store electrical energy",
+         "c": "To generate heat",
+         "d": "To amplify electrical signals"
+      },
+      "correct_answer": "To provide a constant voltage"
+   },
+   {
+      "q_no": 7,
+      "question": "What is the concept of 'series circuit'?",
+      "options": {
+         "a": "A circuit where all components are connected one after another.",
+         "b": "A circuit where components are connected in parallel.",
+         "c": "A circuit where all components are connected in a single path.",
+         "d": "A circuit with a single voltage source"
+      },
+      "correct_answer": "A circuit where all components are connected in a single path"
+   },
+   {
+      "q_no": 8,
+      "question": "What happens if the resistance in a resistor increases?",
+      "options": {
+         "a": "The brightness of the bulb increases.",
+         "b": "The voltage of the bulb increases.",
+         "c": "The resistance of the bulb increases.",
+         "d": "The power of the bulb increases."
+      },
+      "correct_answer": "The resistance of the bulb increases"
+   }
+]
+TIME for MCQ: 33.547 | ⚡⚡⚡ Token Speed: 12.43 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 475 | TOTAL Time: 38.70
+
+********************************************************************************
+Syllabus NUMBER 6
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for CBSE Grade 9 Chemistry - Chemical Reactions:
+- Introduction to Chemical Reactions
+- Understanding Reactants and Products
+- Identifying Redox Reactions
+- Observing and Recording Reactions
+- Understanding Oxidation States
+- Analyzing and Interpreting Reaction Data
+TIME for SYLLABUS: 4.421 | ⚡⚡⚡ Token Speed: 8.595 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 1...
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the fundamental difference between chemical reactions and physical changes?",
+        "options": {
+            "a": "Chemical reactions involve the transfer of energy and matter, while physical changes do not.",
+            "b": "Chemical reactions create new substances, while physical changes only alter the appearance of existing substances.",
+            "c": "Chemical reactions require a catalyst, while physical changes do not.",
+            "d": "Chemical reactions happen faster than physical changes"
+        },
+        "correct_answer": "Chemical reactions involve the transfer of energy and matter, while physical changes only alter the appearance of existing substances."
+    },
+    {
+        "q_no": 2,
+        "question": "Which of the following BEST describes a redox reaction?",
+        "options": {
+            "a": "A reaction where reactants are transformed into products without any energy input.",
+            "b": "A reaction that involves the transfer of electrons between two or more substances.",
+            "c": "A reaction that only involves the formation of a new compound.",
+            "d": "A reaction that consumes energy and produces heat."
+        },
+        "correct_answer": "A reaction that involves the transfer of electrons between two or more substances."
+    },
+    {
+        "q_no": 3,
+        "question": "What is the role of catalysts in a chemical reaction?",
+        "options": {
+            "a": "They speed up the reaction without being consumed.",
+            "b": "They are reactants that are transformed into products.",
+            "c": "They provide an alternative reaction pathway.",
+            "d": "They always lower the activation energy of a reaction."
+        },
+        "correct_answer": "They provide an alternative reaction pathway."
+    },
+    {
+        "q_no": 4,
+        "question": "What is oxidation state?",
+        "options": {
+            "a": "The total number of atoms in a compound.",
+            "b": "The number of electrons lost during a chemical reaction.",
+            "c": "The number of electrons gained during a chemical reaction.",
+            "d": "The total charge of an ion."
+        },
+        "correct_answer": "The number of electrons gained during a chemical reaction."
+    }
+]
+Time Taken: 23.50 seconds | Tokens Produced: 290 | ⚡⚡⚡ Token Speed 12.340 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 4...
+
+⚠️ Warning: After 1 attempts returning longest valid response.
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   {
+      "q_no": 1,
+      "question": "What is the fundamental difference between chemical reactions and physical changes?",
+      "options": {
+         "a": "Chemical reactions involve the transfer of energy and matter, while physical changes do not.",
+         "b": "Chemical reactions create new substances, while physical changes only alter the appearance of existing substances.",
+         "c": "Chemical reactions require a catalyst, while physical changes do not.",
+         "d": "Chemical reactions happen faster than physical changes"
+      },
+      "correct_answer": "Chemical reactions involve the transfer of energy and matter, while physical changes only alter the appearance of existing substances."
+   },
+   {
+      "q_no": 2,
+      "question": "Which of the following BEST describes a redox reaction?",
+      "options": {
+         "a": "A reaction where reactants are transformed into products without any energy input.",
+         "b": "A reaction that involves the transfer of electrons between two or more substances.",
+         "c": "A reaction that only involves the formation of a new compound.",
+         "d": "A reaction that consumes energy and produces heat."
+      },
+      "correct_answer": "A reaction that involves the transfer of electrons between two or more substances."
+   },
+   {
+      "q_no": 3,
+      "question": "What is the role of catalysts in a chemical reaction?",
+      "options": {
+         "a": "They speed up the reaction without being consumed.",
+         "b": "They are reactants that are transformed into products.",
+         "c": "They provide an alternative reaction pathway.",
+         "d": "They always lower the activation energy of a reaction."
+      },
+      "correct_answer": "They provide an alternative reaction pathway."
+   },
+   {
+      "q_no": 4,
+      "question": "What is oxidation state?",
+      "options": {
+         "a": "The total number of atoms in a compound.",
+         "b": "The number of electrons lost during a chemical reaction.",
+         "c": "The number of electrons gained during a chemical reaction.",
+         "d": "The total charge of an ion."
+      },
+      "correct_answer": "The number of electrons gained during a chemical reaction."
+   }
+]
+TIME for MCQ: 23.501 | ⚡⚡⚡ Token Speed: 12.34 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 328 | TOTAL Time: 27.93
+
+********************************************************************************
+Syllabus NUMBER 7
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Ecology:
+- Introduction to Ecosystems
+- Basic Ecological Concepts
+- Population Growth & Regulation
+- Food Webs & Interactions
+- Biodiversity & Conservation
+
+Ecology:
+- Organisms & Their Habitats
+- Food Chains & Food Webs
+- Population Size & Distribution
+- Environmental Factors & Their Impact
+- Ecosystem Stability & Resilience
+
+Ecology:
+- Species Variation & Adaptation
+- Natural Selection & Evolution
+- Environmental Impact Assessment
+- Conservation Strategies
+- Ecological Research Methods
+
+Ecology:
+- Population Cycles (Birth, Death, Migration)
+- Factors Affecting Population Size
+- Resource Management & Sustainability
+- Ecosystem Health & Disease
+- Environmental Change & its Consequences
+
+Ecology:
+- Population Growth Models
+- Community Ecology - Interactions
+- Succession & Ecological Changes
+- Ecosystem Function & Services
+- Biogeography – Distribution Patterns
+TIME for SYLLABUS: 8.091 | ⚡⚡⚡ Token Speed: 15.572 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 50
+Attempt 1 out of 1...
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "Which of the following is a fundamental element of an ecosystem?",
+        "options": {
+            "a": "A single, isolated organism",
+            "b": "A community of interacting organisms and their environment",
+            "c": "A geological formation",
+            "d": "A single predator"
+        },
+        "correct_answer": "A community of interacting organisms and their environment"
+    },
+    {
+        "q_no": 2,
+        "question": "What is the primary purpose of population growth?",
+        "options": {
+            "a": "To maintain a stable population size",
+            "b": "To increase biodiversity",
+            "c": "To maximize resource consumption",
+            "d": "To reduce competition"
+        },
+        "correct_answer": "To maximize resource consumption"
+    },
+    {
+        "q_no": 3,
+        "question": "Describe the concept of 'food web' and its importance.",
+        "options": {
+            "a": "A simple line connecting organisms",
+            "b": "A network of interconnected food chains",
+            "c": "A single food source for an organism",
+            "d": "A group of organisms living in the same location"
+        },
+        "correct_answer": "A network of interconnected food chains"
+    },
+    {
+        "q_no": 4,
+        "question": "What does 'environmental factor' refer to in the context of ecology?",
+        "options": {
+            "a": "A specific species of plant",
+            "b": "The physical environment surrounding an organism",
+            "c": "A type of animal",
+            "d": "A geological feature"
+        },
+        "correct_answer": "The physical environment surrounding an organism"
+    },
+    {
+        "q_no": 5,
+        "question": "Explain the concept of 'ecological succession'.",
+        "options": {
+            "a": "The initial stages of a forest",
+            "b": "The gradual change in species composition over time",
+            "c": "The disappearance of all species",
+            "d": "The formation of a single dominant species"
+        },
+        "correct_answer": "The gradual change in species composition over time"
+    },
+    {
+        "q_no": 6,
+        "question": "What is the significance of 'biodiversity' in ecological studies?",
+        "options": {
+            "a": "A measure of population size",
+            "b": "The variety of life on Earth",
+            "c": "The number of species in a habitat",
+            "d": "The richness of genetic diversity"
+        },
+        "correct_answer": "The variety of life on Earth"
+    },
+    {
+        "q_no": 7,
+        "question": "Describe 'natural selection' and its role in evolution.",
+        "options": {
+            "a": "The process of genetic mutation",
+            "b: The adaptation of organisms to their environment",
+            "c": "The movement of organisms between populations",
+            "d": "The gradual shortening of a species' lifespan"
+        },
+        "correct_answer": "The adaptation of organisms to their environment"
+    },
+    {
+        "q_no": 8,
+        "question": "What are the key components of a food web?",
+        "options": {
+            "a": "A single chain of organisms",
+            "b": "Multiple interconnected food chains",
+            "c": "A single predator",
+            "d": "A geological rock formation"
+        },
+        "correct_answer": "Multiple interconnected food chains"
+    },
+    {
+        "q_no": 9,
+        "question": "Explain the concept of 'ecosystem stability'.",
+        "options": {
+            "a": "The rapid increase in population size",
+            "b": "The ability of an ecosystem to resist changes",
+            "c": "The dominance of a single species",
+            "d": "The decline of all species"
+        },
+        "correct_answer": "The ability of an ecosystem to resist changes"
+    },
+    {
+        "q_no": 10,
+        "question": "What are the major impacts of deforestation on an ecosystem?",
+        "options": {
+            "a": "Increased biodiversity",
+            "b": "Reduced carbon sequestration",
+            "c": "Habitat loss",
+            "d": "Enhanced soil fertility"
+        },
+        "correct_answer": "Habitat loss"
+    }
+]
+Time Taken: 40.81 seconds | Tokens Produced: 484 | ⚡⚡⚡ Token Speed 11.861 tokens/sec
+⚠️ Error: Invalid JSON format...
+
+👏👏👏  FINAL MCQ  👏👏👏
+{
+   "error": "\u274c Error: Failed to generate valid MCQs after 10 attempts.",
+   "attempts": 1
+}
+TIME for MCQ: 0 | ⚡⚡⚡ Token Speed: 0 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 126 | TOTAL Time: 48.91
+
+********************************************************************************
+Syllabus NUMBER 8
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Prompt: Syllabus for Cambridge Grade 8 Mathematics, topic Algebra, subtopic Linear Equations:
+- Review of basic algebraic concepts: variables, expressions, and equations.
+- Understanding linear equations and their solutions.
+- Solving linear equations using various methods (substitution, elimination, graphing).
+- Graphing linear equations on a coordinate plane.
+- Interpreting linear equations and their applications.
+- Practice solving linear equations with real-world scenarios.
+TIME for SYLLABUS: 5.478 | ⚡⚡⚡ Token Speed: 11.319 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 1...
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is a variable in algebra?",
+        "options": {
+            "a": "A number that represents a quantity",
+            "b": "A symbol used to represent a letter",
+            "c": "A letter that represents a number",
+            "d": "A word that represents a concept"
+        },
+        "correct_answer": "A number that represents a quantity"
+    },
+    {
+        "q_no": 2,
+        "question": "Which of the following is a linear equation?",
+        "options": {
+            "a": "A quadratic equation",
+            "b": "An equation with a variable x",
+            "c": "An equation with an undefined variable",
+            "d": "An equation with a constant term"
+        },
+        "correct_answer": "A linear equation with a variable"
+    },
+    {
+        "q_no": 3,
+        "question": "What does the solution to a linear equation represent?",
+        "options": {
+            "a": "The slope of the line",
+            "b": "The y-intercept of the line",
+            "c": "The equation of the line",
+            "d": "The equation of the line"
+        },
+        "correct_answer": "The equation of the line"
+    },
+    {
+        "q_no": 4,
+        "question": "Graphing a linear equation on a coordinate plane shows what?",
+        "options": {
+            "a": "The vertical axis",
+            "b": "The horizontal axis",
+            "c": "The slope of the line",
+            "d": "The y-intercept of the line"
+        },
+        "correct_answer": "The equation of the line"
+    }
+]
+Time Taken: 21.58 seconds | Tokens Produced: 193 | ⚡⚡⚡ Token Speed 8.945 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 4...
+
+⚠️ Warning: After 1 attempts returning longest valid response.
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   {
+      "q_no": 1,
+      "question": "What is a variable in algebra?",
+      "options": {
+         "a": "A number that represents a quantity",
+         "b": "A symbol used to represent a letter",
+         "c": "A letter that represents a number",
+         "d": "A word that represents a concept"
+      },
+      "correct_answer": "A number that represents a quantity"
+   },
+   {
+      "q_no": 2,
+      "question": "Which of the following is a linear equation?",
+      "options": {
+         "a": "A quadratic equation",
+         "b": "An equation with a variable x",
+         "c": "An equation with an undefined variable",
+         "d": "An equation with a constant term"
+      },
+      "correct_answer": "A linear equation with a variable"
+   },
+   {
+      "q_no": 3,
+      "question": "What does the solution to a linear equation represent?",
+      "options": {
+         "a": "The slope of the line",
+         "b": "The y-intercept of the line",
+         "c": "The equation of the line",
+         "d": "The equation of the line"
+      },
+      "correct_answer": "The equation of the line"
+   },
+   {
+      "q_no": 4,
+      "question": "Graphing a linear equation on a coordinate plane shows what?",
+      "options": {
+         "a": "The vertical axis",
+         "b": "The horizontal axis",
+         "c": "The slope of the line",
+         "d": "The y-intercept of the line"
+      },
+      "correct_answer": "The equation of the line"
+   }
+]
+TIME for MCQ: 21.577 | ⚡⚡⚡ Token Speed: 8.945 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 255 | TOTAL Time: 27.06
+
+********************************************************************************
+
+Total Time Taken: 227.07, Total Tokens Generated: 1898, Avg Total Token Gen Speed: 8.36 tokens/sec
+Total ERROR: 8

@@ -1,0 +1,1039 @@
+********************************************************************************
+Syllabus NUMBER 1
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Edexcel Grade 12 Mathematics - Calculus - Differentiation:
+- Introduction to differentiation rules (power rule, product rule)
+- Rules of differentiation for trigonometric functions and exponential functions
+- Geometrical interpretation of derivatives
+- Higher-order derivatives and the chain rule
+- Differentiation of parametric equations
+TIME for SYLLABUS: 16.607 | ⚡⚡⚡ Token Speed: 2.77 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 10
+Attempt 1 out of 5... llama3.2:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the power rule in differentiation?",
+        "options": {
+            "a": "If f(x) = x^n, then f'(x) = nx^(n-1)",
+            "b": "If f(x) = x^n, then f'(x) = nx^n",
+            "c": "If f(x) = x^n, then f'(x) = n^2x^(n-1)",
+            "d": "If f(x) = x^n, then f'(x) = n*x^(n-1)"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 2,
+        "question": "What is the product rule in differentiation?",
+        "options": {
+            "a": "(f(x)*g(x))' = f'(x)*g(x) + f(x)*g'(x)",
+            "b": "(f(x)/g(x))' = (f'(x)/g(x))*g(x) - (f(x)/g'(x))*f'(x)",
+            "c": "(f(x)+g(x))' = f'(x) + g'(x)",
+            "d": "(f(x)-g(x))' = f'(x) - g'(x)"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 3,
+        "question": "What is the geometrical interpretation of a derivative?",
+        "options": {
+            "a": "The rate at which a function changes as its input changes",
+            "b": "The value of a function at a specific point",
+            "c": "The area under the curve of the function",
+            "d": "The volume above and below the curve"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 4,
+        "question": "What is the chain rule in differentiation?",
+        "options": {
+            "a": "(f(g(x)))' = f'(g(x))*g'(x)",
+            "b": "(f(g(x)))' = f'(g(x))*g'(x)+f''(g(x))*g'(x)",
+            "c": "(f(g(x)))'= f'(g(x))*g'(x)+f'(g(x))*(g'(x))",
+            "d": "(f(g(x))'=  f(g(x))*g'(x)"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 5,
+        "question": "What is the rule for differentiating trigonometric functions?",
+        "options": {
+            "a": "sin(x) = cos(x)",
+            "b": "cos(x) = sin(x)",
+            "c": "tan(x) = cot(x)",
+            "d": "(tangent of x equals, the reciprocal of (cosine of x))"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "q_no": 6,
+        "question": "What is the rule for differentiating exponential functions?",
+        "options": {
+            "a": "exp(x) = e^x",
+            "b": "e^x = exp(x)",
+            "c": "(tangent of x equals, the natural logarithm of x)",
+            "d": "ln(e^x) = ln(x)"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "q_no": 7,
+        "question": "What is higher-order derivative in calculus?",
+        "options": {
+            "a": "The rate at which a function changes twice as its input changes",
+            "b": "The value of a function at a specific point",
+            "c": "The area under the curve of the function",
+            "d": "The volume above and below the curve"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 8,
+        "question": "What is the chain rule in differentiation?",
+        "options": {
+            "a": "(f(g(x)))' = f'(g(x))*g'(x)",
+            "b": "(f(g(x)))' = f'(g(x))*g'(x)+f''(g(x))*g'(x)",
+            "c": "(f(g(x)))'= f'(g(x))*g'(x)+f'(g(x))*(g'(x))",
+            "d": "(f(g(x))'=  f(g(x))*g'(x)"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 9,
+        "question": "What is parametric equations?",
+        "options": {
+            "a": "A system of two or more equations in which each equation relates a variable to another variable",
+            "b": "An equation that describes the relationship between x and y coordinates in space",
+            "c": "An equation that describes the relationship between time and position in physics",
+            "d": "(All of the above)"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "q_no": 10,
+        "question": "What is differentiation in calculus?",
+        "options": {
+            "a": "The process of finding the derivative of a function",
+            "b": "The process of integrating a function",
+            "c": "The process of approximating the value of a definite integral",
+            "d": "(All of the above)"
+        },
+        "correct_answer": "a"
+    }
+]
+Time Taken: 107.85 seconds | Tokens Produced: 464 | ⚡⚡⚡ Token Speed 4.302 tokens/sec
+✅✅✅ Successfully generated 10 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   {
+      "q_no": 1,
+      "question": "What is the power rule in differentiation?",
+      "options": {
+         "a": "If f(x) = x^n, then f'(x) = nx^(n-1)",
+         "b": "If f(x) = x^n, then f'(x) = nx^n",
+         "c": "If f(x) = x^n, then f'(x) = n^2x^(n-1)",
+         "d": "If f(x) = x^n, then f'(x) = n*x^(n-1)"
+      },
+      "correct_answer": "a"
+   },
+   {
+      "q_no": 2,
+      "question": "What is the product rule in differentiation?",
+      "options": {
+         "a": "(f(x)*g(x))' = f'(x)*g(x) + f(x)*g'(x)",
+         "b": "(f(x)/g(x))' = (f'(x)/g(x))*g(x) - (f(x)/g'(x))*f'(x)",
+         "c": "(f(x)+g(x))' = f'(x) + g'(x)",
+         "d": "(f(x)-g(x))' = f'(x) - g'(x)"
+      },
+      "correct_answer": "a"
+   },
+   {
+      "q_no": 3,
+      "question": "What is the geometrical interpretation of a derivative?",
+      "options": {
+         "a": "The rate at which a function changes as its input changes",
+         "b": "The value of a function at a specific point",
+         "c": "The area under the curve of the function",
+         "d": "The volume above and below the curve"
+      },
+      "correct_answer": "a"
+   },
+   {
+      "q_no": 4,
+      "question": "What is the chain rule in differentiation?",
+      "options": {
+         "a": "(f(g(x)))' = f'(g(x))*g'(x)",
+         "b": "(f(g(x)))' = f'(g(x))*g'(x)+f''(g(x))*g'(x)",
+         "c": "(f(g(x)))'= f'(g(x))*g'(x)+f'(g(x))*(g'(x))",
+         "d": "(f(g(x))'=  f(g(x))*g'(x)"
+      },
+      "correct_answer": "a"
+   },
+   {
+      "q_no": 5,
+      "question": "What is the rule for differentiating trigonometric functions?",
+      "options": {
+         "a": "sin(x) = cos(x)",
+         "b": "cos(x) = sin(x)",
+         "c": "tan(x) = cot(x)",
+         "d": "(tangent of x equals, the reciprocal of (cosine of x))"
+      },
+      "correct_answer": "d"
+   },
+   {
+      "q_no": 6,
+      "question": "What is the rule for differentiating exponential functions?",
+      "options": {
+         "a": "exp(x) = e^x",
+         "b": "e^x = exp(x)",
+         "c": "(tangent of x equals, the natural logarithm of x)",
+         "d": "ln(e^x) = ln(x)"
+      },
+      "correct_answer": "c"
+   },
+   {
+      "q_no": 7,
+      "question": "What is higher-order derivative in calculus?",
+      "options": {
+         "a": "The rate at which a function changes twice as its input changes",
+         "b": "The value of a function at a specific point",
+         "c": "The area under the curve of the function",
+         "d": "The volume above and below the curve"
+      },
+      "correct_answer": "a"
+   },
+   {
+      "q_no": 8,
+      "question": "What is the chain rule in differentiation?",
+      "options": {
+         "a": "(f(g(x)))' = f'(g(x))*g'(x)",
+         "b": "(f(g(x)))' = f'(g(x))*g'(x)+f''(g(x))*g'(x)",
+         "c": "(f(g(x)))'= f'(g(x))*g'(x)+f'(g(x))*(g'(x))",
+         "d": "(f(g(x))'=  f(g(x))*g'(x)"
+      },
+      "correct_answer": "a"
+   },
+   {
+      "q_no": 9,
+      "question": "What is parametric equations?",
+      "options": {
+         "a": "A system of two or more equations in which each equation relates a variable to another variable",
+         "b": "An equation that describes the relationship between x and y coordinates in space",
+         "c": "An equation that describes the relationship between time and position in physics",
+         "d": "(All of the above)"
+      },
+      "correct_answer": "d"
+   },
+   {
+      "q_no": 10,
+      "question": "What is differentiation in calculus?",
+      "options": {
+         "a": "The process of finding the derivative of a function",
+         "b": "The process of integrating a function",
+         "c": "The process of approximating the value of a definite integral",
+         "d": "(All of the above)"
+      },
+      "correct_answer": "a"
+   }
+]
+TIME for MCQ: 107.852 | ⚡⚡⚡ Token Speed: 4.302 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 510 | TOTAL Time: 124.48
+
+********************************************************************************
+Syllabus NUMBER 2
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Cambridge Grade 10 Physics - Waves - Electromagnetic Spectrum:
+- Definition of waves and wave types
+- Characteristics of electromagnetic radiation (EMR)
+- Properties of different types of EMR (radio, microwaves, infrared, visible light, ultraviolet, X-rays, gamma rays)
+- Types of electromagnetic waves: longitudinal and transverse
+- Applications of the electromagnetic spectrum
+TIME for SYLLABUS: 12.317 | ⚡⚡⚡ Token Speed: 4.384 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 10
+Attempt 1 out of 5... llama3.2:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is a wave?",
+        "options": {
+            "a": "A disturbance that travels through space",
+            "b": "A particle that moves in a straight line",
+            "c": "A force that attracts objects to each other",
+            "d": "A shape with a defined edge"
+        },
+        "correct_answer": "A disturbance that travels through space"
+    },
+    {
+        "q_no": 2,
+        "question": "Which of the following is NOT a type of wave?",
+        "options": {
+            "a": "Mechanical",
+            "b": "Electromagnetic",
+            "c": "Thermal",
+            "d": "Chemical"
+        },
+        "correct_answer": "d"
+    }
+]
+Time Taken: 39.18 seconds | Tokens Produced: 81 | ⚡⚡⚡ Token Speed 2.068 tokens/sec
+⚠️ Warning: Expected 10 MCQs but got 2...
+
+Attempt 2 out of 5... llama3.2:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is a wave?",
+        "options": {
+            "a": "A disturbance that travels through space",
+            "b": "A particle with mass and energy",
+            "c": "A force that attracts objects to each other",
+            "d": "A shape in geometry"
+        },
+        "correct_answer": "A disturbance that travels through space"
+    },
+    {
+        "q_no": 2,
+        "question": "Which type of wave has a permanent direction of vibration?",
+        "options": {
+            "a": "Mechanical wave",
+            "b": "Electromagnetic wave",
+            "c": "Longitudinal wave",
+            "d": "Transverse wave"
+        },
+        "correct_answer": "Longitudinal wave"
+    },
+    {
+        "q_no": 3,
+        "question": "What is the range of electromagnetic radiation that can be seen by the human eye?",
+        "options": {
+            "a": "Ultraviolet to infrared",
+            "b": "Infrared to visible light",
+            "c": "Visible light to ultraviolet",
+            "d": "Radio waves to microwaves"
+        },
+        "correct_answer": "Visible light to ultraviolet"
+    },
+    {
+        "q_no": 4,
+        "question": "What is the main difference between electromagnetic radiation and mechanical wave?",
+        "options": {
+            "a": "Speed of transmission",
+            "b": "Medium required for transmission",
+            "c": "Type of vibration",
+            "d": "Polarization"
+        },
+        "correct_answer": "Medium required for transmission"
+    },
+    {
+        "q_no": 5,
+        "question": "Which type of electromagnetic wave is commonly used in microwave ovens?",
+        "options": {
+            "a": "Radio waves",
+            "b": "Microwaves",
+            "c": "Infrared radiation",
+            "d": "Visible light"
+        },
+        "correct_answer": "Microwaves"
+    },
+    {
+        "q_no": 6,
+        "question": "What is the name of the part of the electromagnetic spectrum that includes X-rays and gamma rays?",
+        "options": {
+            "a": "Ultraviolet",
+            "b": "Visible light",
+            "c": "Infrared radiation",
+            "d": "Ionizing radiation"
+        },
+        "correct_answer": "Ionizing radiation"
+    },
+    {
+        "q_no": 7,
+        "question": "Which of the following is an example of a transverse electromagnetic wave?",
+        "options": {
+            "a": "Radio waves",
+            "b": "Light",
+            "c": "Microwaves",
+            "d": "Ultrasonic waves"
+        },
+        "correct_answer": "Light"
+    },
+    {
+        "q_no": 8,
+        "question": "What is the application of the electromagnetic spectrum in medical imaging?",
+        "options": {
+            "a": "Diagnosis of tumors and infections",
+            "b": "Treatment of diseases with radiation",
+            "c": "Probing of internal organs and tissues",
+            "d": "All of the above"
+        },
+        "correct_answer": "All of the above"
+    }
+]
+Time Taken: 50.48 seconds | Tokens Produced: 319 | ⚡⚡⚡ Token Speed 6.319 tokens/sec
+⚠️ Warning: Expected 10 MCQs but got 2...
+⚠️ Warning: Expected 10 MCQs but got 8...
+
+Attempt 3 out of 5... llama3.2:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the definition of waves?",
+        "options": {
+            "a": "A disturbance that travels through a medium",
+            "b": "A particle that moves in a straight line",
+            "c": "A force that attracts two objects together",
+            "d": "An object that is pushed or pulled by another"
+        },
+        "correct_answer": "A disturbance that travels through a medium"
+    },
+    {
+        "q_no": 2,
+        "question": "What are the different types of waves?",
+        "options": {
+            "a": "Mechanical and electromagnetic",
+            "b": "Thermal and pressure",
+            "c": "Electromagnetic and gravitational",
+            "d": "Water and air"
+        },
+        "correct_answer": "Electromagnetic and gravitational"
+    },
+    {
+        "q_no": 3,
+        "question": "What are the characteristics of electromagnetic radiation (EMR)?",
+        "options": {
+            "a": "It requires a medium to travel",
+            "b": "It travels at different speeds in different materials",
+            "c": "It can be either transverse or longitudinal",
+            "d": "It is always visible to the human eye"
+        },
+        "correct_answer": "It can be either transverse or longitudinal"
+    },
+    {
+        "q_no": 4,
+        "question": "What are some examples of different types of electromagnetic radiation?",
+        "options": {
+            "a": "Radio waves, microwaves, infrared radiation",
+            "b": "Visible light, ultraviolet radiation, X-rays",
+            "c": "Gamma rays and neutron radiation",
+            "d": "All of the above"
+        },
+        "correct_answer": "All of the above"
+    },
+    {
+        "q_no": 5,
+        "question": "What is the difference between longitudinal and transverse electromagnetic waves?",
+        "options": {
+            "a": "Longitudinal waves have a magnetic component",
+            "b": "Transverse waves have an electric component",
+            "c": "Longitudinal waves are always slower than transverse waves",
+            "d": "There is no difference between longitudinal and transverse waves"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "q_no": 6,
+        "question": "What applications do electromagnetic waves have?",
+        "options": {
+            "a": "Only in medical equipment",
+            "b": "In telecommunications and satellite communications",
+            "c": "In heating and cooling systems",
+            "d": "All of the above"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "q_no": 7,
+        "question": "What is a key feature of electromagnetic radiation?",
+        "options": {
+            "a": "It always travels at the same speed",
+            "b": "It can be polarized in different directions",
+            "c": "It has both electric and magnetic field components",
+            "d": "It is always affected by gravity"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "q_no": 8,
+        "question": "Which type of electromagnetic wave is commonly used in microwave ovens?",
+        "options": {
+            "a": "Radio waves",
+            "b": "Microwaves",
+            "c": "Infrared radiation",
+            "d": "Ultraviolet radiation"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "q_no": 9,
+        "question": "What is the primary source of visible light?",
+        "options": {
+            "a": "The sun",
+            "b": "A star in a distant galaxy",
+            "c": "A computer screen",
+            "d": "A fluorescent lamp"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 10,
+        "question": "Which type of electromagnetic wave is most closely associated with X-rays?",
+        "options": {
+            "a": "Ultraviolet radiation",
+            "b": "X-rays",
+            "c": "Gamma rays",
+            "d": "Infrared radiation"
+        },
+        "correct_answer": "b"
+Time Taken: 66.16 seconds | Tokens Produced: 436 | ⚡⚡⚡ Token Speed 6.590 tokens/sec
+⚠️ Warning: Expected 10 MCQs but got 2...
+⚠️ Warning: Expected 10 MCQs but got 8...
+⚠️ Error: Invalid JSON format...
+
+Attempt 4 out of 5... llama3.2:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the definition of a wave?",
+        "options": {
+            "a": "A disturbance that travels through space",
+            "b": "A particle that moves in a straight line",
+            "c": "A force that attracts objects towards each other",
+            "d": "A shape or form that something takes"
+        },
+        "correct_answer": "A disturbance that travels through space"
+    },
+    {
+        "q_no": 2,
+        "question": "What are the two main types of waves?",
+        "options": {
+            "a": "Mechanical and electromagnetic",
+            "b": "Longitudinal and transverse",
+            "c": "Water and air",
+            "d": "Solid and liquid"
+        },
+        "correct_answer": "Longitudinal and transverse"
+    },
+    {
+        "q_no": 3,
+        "question": "Which type of electromagnetic radiation is used in microwave ovens?",
+        "options": {
+            "a": "Radio waves",
+            "b": "Microwaves",
+            "c": "Infrared radiation",
+            "d": "Visible light"
+        },
+        "correct_answer": "Microwaves"
+    },
+    {
+        "q_no": 4,
+        "question": "What is the purpose of electromagnetic radiation?",
+        "options": {
+            "a": "To transmit information through space",
+            "b": "To provide energy for living organisms",
+            "c": "To communicate through signals",
+            "d": "All of the above"
+        },
+        "correct_answer": "All of the above"
+    },
+    {
+        "q_no": 5,
+        "question": "Which type of electromagnetic wave has the longest wavelength?",
+        "options": {
+            "a": "Radio waves",
+            "b": "Microwaves",
+            "c": "Infrared radiation",
+            "d": "Gamma rays"
+        },
+        "correct_answer": "Radio waves"
+    },
+    {
+        "q_no": 6,
+        "question": "What is the range of wavelengths that corresponds to visible light?",
+        "options": {
+            "a": "400-700 nanometers",
+            "b": "1000-14000 nanometers",
+            "c": "200-800 nanometers",
+            "d": "300-600 nanometers"
+        },
+        "correct_answer": "1000-14000 nanometers"
+    },
+    {
+        "q_no": 7,
+        "question": "Which type of electromagnetic wave is used in X-ray machines?",
+        "options": {
+            "a": "Radio waves",
+            "b": "X-rays",
+            "c": "Gamma rays",
+            "d": "Infrared radiation"
+        },
+        "correct_answer": "X-rays"
+    },
+    {
+        "q_no": 8,
+        "question": "What is the main difference between electromagnetic and non-electromagnetic waves?",
+        "options": {
+            "a": "Speed of transmission",
+            "b": "Type of vibration",
+            "c": "Medium of propagation",
+            "d": "All of the above"
+        },
+        "correct_answer": "All of the above"
+    },
+    {
+        "q_no": 9,
+        "question": "What is the application of electromagnetic waves in telecommunications?",
+        "options": {
+            "a": "To transmit information through space",
+            "b": "To provide energy for living organisms",
+            "c": "To communicate through signals",
+            "d": "All of the above"
+        },
+        "correct_answer": "All of the above"
+    },
+    {
+        "q_no": 10,
+        "question": "Which type of electromagnetic wave has the shortest wavelength?",
+        "options": {
+            "a": "Gamma rays",
+            "b": "X-rays",
+            "c": "Ultraviolet radiation",
+            "d": "Radio waves"
+        },
+        "correct_answer": "Gamma rays"
+    }
+]
+Time Taken: 61.14 seconds | Tokens Produced: 379 | ⚡⚡⚡ Token Speed 6.199 tokens/sec
+✅✅✅ Successfully generated 10 MCQs. Attempts Needed 4
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   {
+      "q_no": 1,
+      "question": "What is the definition of a wave?",
+      "options": {
+         "a": "A disturbance that travels through space",
+         "b": "A particle that moves in a straight line",
+         "c": "A force that attracts objects towards each other",
+         "d": "A shape or form that something takes"
+      },
+      "correct_answer": "A disturbance that travels through space"
+   },
+   {
+      "q_no": 2,
+      "question": "What are the two main types of waves?",
+      "options": {
+         "a": "Mechanical and electromagnetic",
+         "b": "Longitudinal and transverse",
+         "c": "Water and air",
+         "d": "Solid and liquid"
+      },
+      "correct_answer": "Longitudinal and transverse"
+   },
+   {
+      "q_no": 3,
+      "question": "Which type of electromagnetic radiation is used in microwave ovens?",
+      "options": {
+         "a": "Radio waves",
+         "b": "Microwaves",
+         "c": "Infrared radiation",
+         "d": "Visible light"
+      },
+      "correct_answer": "Microwaves"
+   },
+   {
+      "q_no": 4,
+      "question": "What is the purpose of electromagnetic radiation?",
+      "options": {
+         "a": "To transmit information through space",
+         "b": "To provide energy for living organisms",
+         "c": "To communicate through signals",
+         "d": "All of the above"
+      },
+      "correct_answer": "All of the above"
+   },
+   {
+      "q_no": 5,
+      "question": "Which type of electromagnetic wave has the longest wavelength?",
+      "options": {
+         "a": "Radio waves",
+         "b": "Microwaves",
+         "c": "Infrared radiation",
+         "d": "Gamma rays"
+      },
+      "correct_answer": "Radio waves"
+   },
+   {
+      "q_no": 6,
+      "question": "What is the range of wavelengths that corresponds to visible light?",
+      "options": {
+         "a": "400-700 nanometers",
+         "b": "1000-14000 nanometers",
+         "c": "200-800 nanometers",
+         "d": "300-600 nanometers"
+      },
+      "correct_answer": "1000-14000 nanometers"
+   },
+   {
+      "q_no": 7,
+      "question": "Which type of electromagnetic wave is used in X-ray machines?",
+      "options": {
+         "a": "Radio waves",
+         "b": "X-rays",
+         "c": "Gamma rays",
+         "d": "Infrared radiation"
+      },
+      "correct_answer": "X-rays"
+   },
+   {
+      "q_no": 8,
+      "question": "What is the main difference between electromagnetic and non-electromagnetic waves?",
+      "options": {
+         "a": "Speed of transmission",
+         "b": "Type of vibration",
+         "c": "Medium of propagation",
+         "d": "All of the above"
+      },
+      "correct_answer": "All of the above"
+   },
+   {
+      "q_no": 9,
+      "question": "What is the application of electromagnetic waves in telecommunications?",
+      "options": {
+         "a": "To transmit information through space",
+         "b": "To provide energy for living organisms",
+         "c": "To communicate through signals",
+         "d": "All of the above"
+      },
+      "correct_answer": "All of the above"
+   },
+   {
+      "q_no": 10,
+      "question": "Which type of electromagnetic wave has the shortest wavelength?",
+      "options": {
+         "a": "Gamma rays",
+         "b": "X-rays",
+         "c": "Ultraviolet radiation",
+         "d": "Radio waves"
+      },
+      "correct_answer": "Gamma rays"
+   }
+]
+TIME for MCQ: 61.135 | ⚡⚡⚡ Token Speed: 6.199 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 433 | TOTAL Time: 229.29
+
+********************************************************************************
+Syllabus NUMBER 3
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for CBSE Grade 12 Chemistry - Organic Chemistry:
+- Structure of Aliphatic and Aromatic Compounds
+- Properties and Classification of Alcohols, Phenols, and Ethers
+- Reaction Mechanisms of Alcohols, Phenols, and Ethers
+- Stereochemistry of Alcohols, Phenols, and Ethers
+- Preparation of Alcohols, Phenols, and Ethers
+- Applications of Alcohols, Phenols, and Ethers in Industry
+TIME for SYLLABUS: 13.821 | ⚡⚡⚡ Token Speed: 4.052 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 5... llama3.2:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What type of compounds have a single bond between two carbon atoms?",
+        "options": {
+            "a": "Aliphatic",
+            "b": "Aromatic"
+            },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 2,
+        "question": "What is the classification method used for phenols and ethers based on their molecular structure?",
+        "options": {
+            "a": "Functional group",
+            "b": "Stereochemistry",
+            "c": "Hydrogen bonding",
+            "d": "Electronegativity"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 3,
+        "question": "What is the primary reaction mechanism for the dehydration of alcohols?",
+        "options": {
+            "a": "E1 mechanism",
+            "b": "E2 mechanism",
+            "c": "Free radical mechanism",
+            "d": "Nucleophilic substitution"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 4,
+        "question": "What is the term for the arrangement of atoms in space that determines a molecule's properties?",
+        "options": {
+            "a": "Stereochemistry",
+            "b": "Conformational analysis",
+            "c": "Molecular symmetry",
+            "d": "Structural formula"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 5,
+        "question": "What is the primary method of preparing alcohols from alkyl halides?",
+        "options": {
+            "a": "Synthesis",
+            "b": "Reduction",
+            "c": "Neutralization",
+            "d": "Halogenation"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 6,
+        "question": "What is the primary application of alcohols in industry?",
+        "options": {
+            "a": "Detergents",
+            "b": "Pharmaceuticals",
+            "c": "Food preservation",
+            "d": "Cleaning agents"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 7,
+        "question": "What is the term for the movement of atoms within a molecule to form new bonds?",
+        "options": {
+            "a": "Conformational change",
+            "b": "Stereochemical change",
+            "c": "Molecular motion",
+            "d": "Bond rotation"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 8,
+        "question": "What is the primary reaction mechanism for the substitution of phenols with alkyl groups?",
+        "options": {
+            "a": "Nucleophilic substitution",
+            "b": "Free radical substitution",
+            "c": "Electrocyclic substitution",
+            "d": "Addition-elimination reaction"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": 9,
+        "question": "What is the term for the addition of a hydroxyl group to an alkene?",
+        "options": {
+            "a": "Hydrogenation",
+            "b": "Hydroxylation",
+            "c": "Oxidation",
+            "d": "Halogenation"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "q_no": 10,
+        "question": "What is the primary application of phenols in industry?",
+        "options": {
+            "a": "Pesticides",
+            "b": "Detergents",
+            "c": "Pharmaceuticals",
+            "d": "Cleaning agents"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "q_no": 11,
+        "question": "What is the term for the removal of oxygen from an organic compound?",
+        "options": {
+            "a": "Dehydrogenation",
+            "b": "Hydrogenation",
+            "c": "Oxidation",
+            "d": "Reduction"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "q_no": 12,
+        "question": "What is the primary method of synthesizing ethers from alcohols?",
+        "options": {
+            "a": "Condensation reaction",
+            "b": "Substitution reaction",
+            "c": "Elimination reaction",
+            "d": "Addition-elimination reaction"
+        },
+        "correct_answer": "a"
+    }
+]
+Time Taken: 97.45 seconds | Tokens Produced: 390 | ⚡⚡⚡ Token Speed 4.002 tokens/sec
+✅✅✅ Successfully generated 12 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   {
+      "q_no": 1,
+      "question": "What type of compounds have a single bond between two carbon atoms?",
+      "options": {
+         "a": "Aliphatic",
+         "b": "Aromatic"
+      },
+      "correct_answer": "a"
+   },
+   {
+      "q_no": 2,
+      "question": "What is the classification method used for phenols and ethers based on their molecular structure?",
+      "options": {
+         "a": "Functional group",
+         "b": "Stereochemistry",
+         "c": "Hydrogen bonding",
+         "d": "Electronegativity"
+      },
+      "correct_answer": "a"
+   },
+   {
+      "q_no": 3,
+      "question": "What is the primary reaction mechanism for the dehydration of alcohols?",
+      "options": {
+         "a": "E1 mechanism",
+         "b": "E2 mechanism",
+         "c": "Free radical mechanism",
+         "d": "Nucleophilic substitution"
+      },
+      "correct_answer": "a"
+   },
+   {
+      "q_no": 4,
+      "question": "What is the term for the arrangement of atoms in space that determines a molecule's properties?",
+      "options": {
+         "a": "Stereochemistry",
+         "b": "Conformational analysis",
+         "c": "Molecular symmetry",
+         "d": "Structural formula"
+      },
+      "correct_answer": "a"
+   },
+   {
+      "q_no": 5,
+      "question": "What is the primary method of preparing alcohols from alkyl halides?",
+      "options": {
+         "a": "Synthesis",
+         "b": "Reduction",
+         "c": "Neutralization",
+         "d": "Halogenation"
+      },
+      "correct_answer": "a"
+   },
+   {
+      "q_no": 6,
+      "question": "What is the primary application of alcohols in industry?",
+      "options": {
+         "a": "Detergents",
+         "b": "Pharmaceuticals",
+         "c": "Food preservation",
+         "d": "Cleaning agents"
+      },
+      "correct_answer": "a"
+   },
+   {
+      "q_no": 7,
+      "question": "What is the term for the movement of atoms within a molecule to form new bonds?",
+      "options": {
+         "a": "Conformational change",
+         "b": "Stereochemical change",
+         "c": "Molecular motion",
+         "d": "Bond rotation"
+      },
+      "correct_answer": "a"
+   },
+   {
+      "q_no": 8,
+      "question": "What is the primary reaction mechanism for the substitution of phenols with alkyl groups?",
+      "options": {
+         "a": "Nucleophilic substitution",
+         "b": "Free radical substitution",
+         "c": "Electrocyclic substitution",
+         "d": "Addition-elimination reaction"
+      },
+      "correct_answer": "a"
+   },
+   {
+      "q_no": 9,
+      "question": "What is the term for the addition of a hydroxyl group to an alkene?",
+      "options": {
+         "a": "Hydrogenation",
+         "b": "Hydroxylation",
+         "c": "Oxidation",
+         "d": "Halogenation"
+      },
+      "correct_answer": "b"
+   },
+   {
+      "q_no": 10,
+      "question": "What is the primary application of phenols in industry?",
+      "options": {
+         "a": "Pesticides",
+         "b": "Detergents",
+         "c": "Pharmaceuticals",
+         "d": "Cleaning agents"
+      },
+      "correct_answer": "b"
+   },
+   {
+      "q_no": 11,
+      "question": "What is the term for the removal of oxygen from an organic compound?",
+      "options": {
+         "a": "Dehydrogenation",
+         "b": "Hydrogenation",
+         "c": "Oxidation",
+         "d": "Reduction"
+      },
+      "correct_answer": "c"
+   },
+   {
+      "q_no": 12,
+      "question": "What is the primary method of synthesizing ethers from alcohols?",
+      "options": {
+         "a": "Condensation reaction",
+         "b": "Substitution reaction",
+         "c": "Elimination reaction",
+         "d": "Addition-elimination reaction"
+      },
+      "correct_answer": "a"
+   }
+]
+TIME for MCQ: 97.454 | ⚡⚡⚡ Token Speed: 4.002 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 446 | TOTAL Time: 111.29
+
+********************************************************************************
+Syllabus NUMBER 4
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for IB Grade 11 Biology - Genetics - Mendelian Genetics:
+- Introduction to Mendel's laws of inheritance
+- Understanding Punnett squares and genetic probability
+- The role of DNA in gene expression
+- Dominant and recessive alleles
+- Phenotypic and genotypic ratios
+- Applying Mendelian genetics to predict trait inheritance
+TIME for SYLLABUS: 11.756 | ⚡⚡⚡ Token Speed: 4.338 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 5... llama3.2:3b

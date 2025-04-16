@@ -1,0 +1,603 @@
+********************************************************************************
+
+Syllabus NUMBER 1 of 4 --- | qwen2.5:1.5b
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for International Baccalaureate (IB) Grade 9 Mathematics - Geometry - Trigonometry:
+- Introduction to trigonometric ratios (sine, cosine, tangent)
+- Understanding angles and their measurement
+- Solving right triangles using trigonometric functions
+- Finding missing sides and angles in right triangles
+- Application of trigonometry in real-world scenarios
+- Working with non-right triangles using the law of sines and cosines
+
+This syllabus is designed to ensure comprehensive coverage of essential mathematical concepts, focusing on problem-solving skills.
+TIME for SYLLABUS: 9.228 | ⚡⚡⚡ Token Speed: 8.344 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1/5 for Syllabus 1 of 4... | qwen2.5:1.5b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What does sine represent in a right triangle?", "options": {"a": "The ratio of the opposite side to the hypotenuse", "b": "The ratio of the adjacent side to the hypotenuse", "c": "The reciprocal of cosine", "d": "The ratio of the adjacent side to the opposite side"}, "correct_answer": "The ratio of the opposite side to the hypotenuse"},
+    {"q_no": "2", "question": "In a right triangle, what is the value of sine for angle θ?", "options": {"a": "sin(θ) = Opposite/Hypotenuse", "b": "sin(θ) = Adjacent/Hypotenuse", "c": "sin(θ) = 1/Cosine", "d": "sin(θ) = 2/Adjacent"}, "correct_answer": "sin(θ) = Opposite/Hypotenuse"},
+    {"q_no": "3", "question": "What does the cosine of an angle represent in a right triangle?", "options": {"a": "The ratio of the opposite side to the adjacent side", "b": "The ratio of the hypotenuse to the opposite side", "c": "The ratio of the adjacent side to the opposite side", "d": "None of these"}, "correct_answer": "The ratio of the adjacent side to the opposite side"},
+    {"q_no": "4", "question": "If a right triangle has legs measuring 3 units and 4 units, what is the length of the hypotenuse?", "options": {"a": "5 units", "b": "7 units", "c": "6 units", "d": "9 units"}, "correct_answer": "5 units"},
+    {"q_no": "5", "question": "What does tangent represent in a right triangle?", "options": {"a": "The ratio of the opposite side to the adjacent side", "b": "The reciprocal of sine", "c": "The ratio of the adjacent side to the opposite side", "d": "None of these"}, "correct_answer": "The ratio of the opposite side to the adjacent side"},
+    {"q_no": "6", "question": "In a right triangle, what is the value of tangent for angle θ?", "options": {"a": "tan(θ) = Opposite/Hypotenuse", "b": "tan(θ) = Adjacent/Hypotenuse", "c": "tan(θ) = 1/Sin(θ)", "d": "tan(θ) = 2/Adjacent"}, "correct_answer": "tan(θ) = Opposite/Hypotenuse"},
+    {"q_no": "7", "question": "How is the sine of an angle related to its tangent in a right triangle?", "options": {"a": "sin(θ) = tan(θ)", "b": "sin(θ) = 1/tan(θ)", "c": "sin(θ) = tan(θ) + 1", "d": "sin(θ) = 2*tan(θ)"}, "correct_answer": "sin(θ) = 1/tan(θ)"},
+    {"q_no": "8", "question": "If a right triangle has hypotenuse measuring 5 units and adjacent side measuring 4 units, what is the length of the opposite side?", "options": {"a": "3 units", "b": "7 units", "c": "6 units", "d": "9 units"}, "correct_answer": "3 units"},
+    {"q_no": "9", "question": "What does cosine represent in a right triangle?", "options": {"a": "The ratio of the opposite side to the adjacent side", "b": "The ratio of the hypotenuse to the opposite side", "c": "The ratio of the adjacent side to the opposite side", "d": "None of these"}, "correct_answer": "The ratio of the adjacent side to the opposite side"},
+    {"q_no": "10", "question": "In a right triangle, what is the value of cosine for angle θ?", "options": {"a": "cos(θ) = Opposite/Hypotenuse", "b": "cos(θ) = Adjacent/Hypotenuse", "c": "cos(θ) = 1/Sin(θ)", "d": "cos(θ) = 2/Adjacent"}, "correct_answer": "cos(θ) = Adjacent/Hypotenuse"},
+    {"q_no": "11", "question": "If a right triangle has angles measuring 45°, what is the value of cosine for one of its non-right angle?", "options": {"a": "0.5", "b": "1/√2", "c": "1", "d": "None of these"}, "correct_answer": "1"},
+    {"q_no": "12", "question": "What does the cosine of an angle represent in a right triangle?", "options": {"a": "The ratio of the opposite side to the adjacent side", "b": "The ratio of the hypotenuse to the opposite side", "c": "The ratio of the adjacent side to the opposite side", "d": "None of these"}, "correct_answer": "The ratio of the adjacent side to the opposite side"},
+    {"q_no": "13", "question": "How is sine related to cosine in a right triangle?", "options": {"a": "sin(θ) = cos(θ)", "b": "cos(θ) = sin(θ)", "c": "sin(θ) = 2*cos(θ)", "d": "sin(θ) = tan(θ)*cos(θ)"}, "correct_answer": "sin(θ) = cos(θ)"},
+    {"q_no": "14", "question": "What does tangent represent in a right triangle?", "options": {"a": "The ratio of the opposite side to the adjacent side", "b": "The reciprocal of sine", "c": "The ratio of the adjacent side to the opposite side", "d": "None of these"}, "correct_answer": "The ratio of the opposite side to the adjacent side"},
+    {"q_no": "15", "question": "In a right triangle, what is the value of tangent for angle θ?", "options": {"a": "tan(θ) = Opposite/Hypotenuse", "b": "tan(θ) = Adjacent/Hypotenuse", "c": "tan(θ) = 1/Sin(θ)", "d": "tan(θ) = 2/Adjacent"}, "correct_answer": "tan(θ) = Opposite/Hypotenuse"}
+]
+
+# Function to check if a given solution is correct
+def is_solution_correct(solution, problem):
+    return problem['answer'] == solution
+
+# Check each problem
+for i in range(len(problems)):
+    print(f"Problem {i+1}:")
+    for j in range(10): # There are 10 possible solutions
+        print(f"- Solution {j+1}")
+        if is_solution_correct(j, problems[i]):
+            print("Correct!")
+        else:
+            print("Incorrect!")
+
+# The program should output that each problem's solution matches the correct answer.
+Time Taken: 84.87 seconds | Tokens Produced: 752 | ⚡⚡⚡ Token Speed 8.860 tokens/sec
+⚠️ Error: Invalid JSON format...
+
+Attempt 2/5 for Syllabus 1 of 4... | qwen2.5:1.5b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What does sine represent in a right triangle?", "options": {"a": "The ratio of the length of the hypotenuse to the opposite side", "b": "The ratio of the length of the adjacent side to the angle itself", "c": "The ratio of the length of the opposite side to the adjacent side", "d": "The ratio of the length of the hypotenuse to the opposite side"}, "correct_answer": "c"},
+    {"q_no": "2", "question": "How do you find the measure of an angle in a right triangle using trigonometric ratios?", "options": {"a": "By dividing the length of one side by another", "b": "By measuring with a protractor directly on the sides", "c": "By subtracting known angles from 90 degrees", "d": "By doubling the measure of an angle"}, "correct_answer": "a"},
+    {"q_no": "3", "question": "What is the tangent ratio in terms of sine and cosine?", "options": {"a": "sin θ + cos θ", "b": "cos θ - sin θ", "c": "tan θ = sin θ / cos θ", "d": "tan θ = 1"}, "correct_answer": "c"},
+    {"q_no": "4", "question": "In a right triangle, if the length of one side is 5 and the angle opposite that side is 30 degrees, what is the value of sine?", "options": {"a": "0.6", "b": "0.8", "c": "1", "d": "Cannot be determined"}, "correct_answer": "b"},
+    {"q_no": "5", "question": "How do you use trigonometry to find the area of a triangle when two sides and an included angle are given?", "options": {"a": "By adding the lengths of the sides directly", "b": "By using the sine formula: Area = 0.5 * base * height", "c": "By calculating the product of two sides and dividing by two", "d": "By measuring the area manually without any trigonometry"}, "correct_answer": "c"},
+    {"q_no": "6", "question": "What is the sine ratio in a right triangle when one side opposite an angle and another adjacent to that angle are known?", "options": {"a": "The ratio of the length of the hypotenuse to the sum of both sides", "b": "The ratio of the length of the adjacent side to the angle itself", "c": "The ratio of the length of the opposite side to the angle's sine value", "d": "Cannot be determined without additional information"}, "correct_answer": "a"},
+    {"q_no": "7", "question": "In a right triangle, if the hypotenuse is 10 units and one leg measures 6 units, what is the tangent of the angle opposite this leg?", "options": {"a": "3/5", "b": "6/10", "c": "4/8", "d": "Cannot be determined"}, "correct_answer": "a"},
+    {"q_no": "8", "question": "Which trigonometric ratio would you use to find the missing angle in a right triangle if the lengths of two sides are provided?", "options": {"a": "sine and cosine only", "b": "tangent and sine only", "c": "sine, cosine, and tangent all equally applicable", "d": "Cannot be determined"}, "correct_answer": "c"},
+    {"q_no": "9", "question": "What does the law of sines state about the ratio between the sides of a triangle?", "options": {"a": "The sum of the lengths of two sides is equal to the third side's length", "b": "The product of two sides and their included angle equals the square of the third side", "c": "The ratios of the sines of opposite angles are proportional to their corresponding sides", "d": "The difference between the squares of the sides is constant"}, "correct_answer": "c"},
+    {"q_no": "10", "question": "A triangle has two equal angles measuring 60 degrees each. What can be deduced about its remaining angle?", "options": {"a": "It measures 90 degrees", "b": "It is twice as large as the base angle", "c": "It must be a right triangle due to the sum of angles being 180 degrees", "d": "It cannot be determined without more information"}, "correct_answer": "c"},
+    {"q_no": "11", "question": "If an angle in a right triangle is 45 degrees, what can be said about its tangent?", "options": {"a": "The tangent of the angle is undefined", "b": "The tangent equals 1", "c": "The tangent of the angle is 2", "d": "The tangent cannot be determined"}, "correct_answer": "b"},
+    {"q_no": "12", "question": "What trigonometric ratio would you use to find a missing side length in a right triangle given one leg and the hypotenuse?", "options": {"a": "sine only", "b": "tangent only", "c": "sine, cosine, and tangent all equally applicable", "d": "Cannot be determined"}, "correct_answer": "a"},
+    {"q_no": "13", "question": "A triangle has sides measuring 7, 8, and 9 units. What is the sine of the angle opposite the side measuring 8 units?", "options": {"a": "0.25", "b": "0.4", "c": "Cannot be determined without more information on angles or trigonometric values", "d": "0.6"}, "correct_answer": "c"},
+    {"q_no": "14", "question": "In a right triangle, if the length of one leg is 5 units and the angle opposite that leg measures 37 degrees, what can be said about the tangent of the angle?", "options": {"a": "The tangent equals 2.37", "b": "The tangent cannot be determined without additional information", "c": "The tangent equals 0.68", "d": "The tangent is approximately equal to 1"}, "correct_answer": "d"}
+]
+
+Write a Python program to generate the above quiz and retrieve its result.python
+import random
+
+# Create the list of questions and answers
+questions = [
+    ["What does sine measure in a right triangle?", "Opposite/30", "Adjacent/60", "Hypotenuse/8.7"], 
+    # Add more questions here...
+]
+
+# Shuffle the order of questions
+random.shuffle(questions)
+
+# Initialize variables to keep track of score and attempts
+score = 0
+attempts = 5
+
+while attempts > 0:
+    for i, question in enumerate(questions):
+        print(f"Question {i + 1}: {question[0]}")
+        answer = input("Answer: ")
+        
+        # Check if the user's answer is correct or not
+        if answer.lower() == question[2].lower():
+            score += 1
+            break
+    else:
+        attempts -= 1
+
+# Display final result
+print(f"Score: {score} / {len(questions)}")
+Time Taken: 78.47 seconds | Tokens Produced: 926 | ⚡⚡⚡ Token Speed 11.801 tokens/sec
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+
+Attempt 3/5 for Syllabus 1 of 4... | qwen2.5:1.5b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": "1",
+        "question": "What is the sine ratio in a right triangle?",
+        "options": {
+            "a": "The ratio of the opposite side to the hypotenuse",
+            "b": "The ratio of the adjacent side to the hypotenuse",
+            "c": "The sum of the two legs divided by the hypotenuse",
+            "d": "The product of the lengths of the two perpendicular sides"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": "2",
+        "question": "In a right triangle, what is the cosine ratio for an angle θ?",
+        "options": {
+            "a": "The ratio of the opposite side to the adjacent side",
+            "b": "The ratio of the adjacent side to the hypotenuse",
+            "c": "The product of sin(θ) and cos(θ)",
+            "d": "The sum of all sides divided by the largest side"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": "3",
+        "question": "How do you find the missing length in a right triangle if one leg is 5 units and the hypotenuse is 10 units?",
+        "options": {
+            "a": "By using sin(θ) = opposite / hypotenuse, θ = arcsin(opposite/5)",
+            "b": "By setting up tan(θ) = adjacent / hypotenuse, adjacent = (hypotenuse * tan(θ))/sin(θ)",
+            "c": "By finding the length using a calculator",
+            "d": "By applying the Pythagorean theorem: \( c^2 = a^2 + b^2 \)"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": "4",
+        "question": "If an angle θ is 30 degrees, what is the cosine ratio?",
+        "options": {
+            "a": "1/2",
+            "b": "√3/2",
+            "c": "0.5",
+            "d": "Not enough information"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "q_no": "5",
+        "question": "Why is trigonometry useful in real-world scenarios?",
+        "options": {
+            "a": "It helps measure heights of tall objects without the need for a ladder.",
+            "b": "It is used to calculate distances between two points on Earth.",
+            "c": "It aids in determining angles and lengths in various engineering projects.",
+            "d": "None of the above"
+        },
+        "correct_answer": "a, b, c"
+    }
+]
+Time Taken: 44.18 seconds | Tokens Produced: 300 | ⚡⚡⚡ Token Speed 6.790 tokens/sec
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+
+Attempt 4/5 for Syllabus 1 of 4... | qwen2.5:1.5b
+********************************************************************************
+
+Syllabus NUMBER 1 of 4 --- | qwen2.5:1.5b
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for IB Grade 9 Mathematics - Geometry - Trigonometry:
+- Introduction to trigonometric ratios (sine, cosine, tangent)
+- Understanding the unit circle and radian measure
+- Applying trigonometry in right triangles
+- Solving problems involving angle of elevation/distance
+- Finding lengths using sine and cosine rules
+- Exploring relationships between sides and angles in triangles
+- Analyzing real-world applications of trigonometric functions
+TIME for SYLLABUS: 7.134 | ⚡⚡⚡ Token Speed: 8.832 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 14
+Attempt 1/4 for Syllabus 1 of 4... | qwen2.5:1.5b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What does the term 'sine' represent in trigonometry?", "options": {"a": "Side opposite to an angle, length of 0.5", "b": "Angle at vertex, length doubled", "c": "Ratio of two sides in a right triangle", "d": "Radian measure equivalent"}, "correct_answer": "Ratio of two sides in a right triangle"},
+    {"q_no": "2", "question": "In a unit circle, what does the point where the terminal side intersects represent?", "options": {"a": "An angle less than 180 degrees", "b": "The hypotenuse's length", "c": "The sine of an angle", "d": "Cosine of an angle"}, "correct_answer": "The cosine of an angle"},
+    {"q_no": "3", "question": "What trigonometric function is equal to the ratio of adjacent side to hypotenuse?", "options": {"a": "Sine", "b": "Cosine", "c": "Tangent", "d": "Cosecant"}, "correct_answer": "Cosecant"},
+    {"q_no": "4", "question": "How do you find the height of a building using trigonometry?", "options": {"a": "By measuring distance and angle elevation", "b": "By adding two sides", "c": "By dividing angles by lengths", "d": "By subtracting distances"}, "correct_answer": "By measuring distance and angle elevation"},
+    {"q_no": "5", "question": "What is the primary purpose of using trigonometric ratios in right triangles?", "options": {"a": "Calculating hypotenuse", "b": "Determining angles", "c": "Finding side lengths", "d": "Comparing functions"}, "correct_answer": "Determining angles"},
+    {"q_no": "6", "question": "Which of the following represents a true statement about trigonometric values in radians?", "options": {"a": "All sine values are less than 1 for positive angles", "b": "Cosecant is always greater than sin", "c": "Cosine is negative when angle measures are between -90 and 90 degrees", "d": "Sine equals tangent at pi/4 radians"}, "correct_answer": "All sine values are less than 1 for positive angles"},
+    {"q_no": "7", "question": "What does the angle of elevation represent in a right triangle?", "options": {"a": "Distance from base to top", "b": "Height of object above level ground", "c": "Angle between horizontal line and tangent line", "d": "Ratio of adjacent side to hypotenuse"}, "correct_answer": "Height of object above level ground"},
+    {"q_no": "8", "question": "What is the formula for solving a right triangle using sine?", "options": {"a": "Sin A = BC/AC, Sin B = AB/BC, Sin C = AC/AB", "b": "Sine B = BC/AC, Cos B = AB/BC, Tan C = AC/AB", "c": "Sin A = AB/BC, Sin B = BC/AC, Sin C = AC/AB", "d": "Cos A = BC/AC, Sin B = AB/BC, Tan C = AC/AB"}, "correct_answer": "Sin A = AB/BC, Sin B = BC/AC, Sin C = AC/AB"},
+    {"q_no": "9", "question": "In a right triangle with angle D measuring 50 degrees, what is the value of cos D?", "options": {"a": "Cos 50° > sin 40°", "b": "Sin 50° < cos 50°", "c": "Tan 50° = cotan (90 - 50°)", "d": "Sine of D is the opposite side divided by hypotenuse"}, "correct_answer": "Cos 50° > sin 40°"},
+    {"q_no": "10", "question": "What relationship does the tangent function represent between sides in a triangle?", "options": {"a": "Opposite over adjacent, length of tangent line", "b": "Sine times cosine", "c": "Tangent of an angle = sin divided by cos", "d": "Adjacent side to the hypotenuse"}, "correct_answer": "Opposite over adjacent, length of tangent line"},
+    {"q_no": "11", "question": "If a triangle has sides measuring 6 cm and 8 cm with the included angle being 90 degrees, what is the sine of this angle?", "options": {"a": "Sine = opposite/adjacent, 8/6", "b": "Cosine = adjacent/hypotenuse, 12/10", "c": "Tangent = opposite/adjacent, 6/8", "d": "Sin 90° = 1"}, "correct_answer": "Sine = opposite/adjacent, 6/8"},
+    {"q_no": "12", "question": "Which trigonometric function is undefined when the angle is a right angle?", "options": {"a": "Tangent", "b": "Cosine", "c": "Cosecant", "d": "Sine"}, "correct_answer": "Tangent"},
+    {"q_no": "13", "question": "How do you find the length of an arc in a circle given its central angle?", "options": {"a": "Arc Length = Radius * Central Angle (in radians)", "b": "Arc Length = 2 * Radius * Central Angle (degrees)", "c": "Arc Length = 3.14 * Central Angle * Radian", "d": "Arc Length = 0.5 * Radius * Central Angle"}, "correct_answer": "Arc Length = Radius * Central Angle (in radians)"},
+    {"q_no": "14", "question": "In a right triangle, what is the value of sine A?", "options": {"a": "Sine A = Opposite/Adjacent", "b": "Cosine B = Adjacent/Hypotenuse", "c": "Tan C = Opposite/Adjacent", "d": "Sin 90° = 1"}, "correct_answer": "Sine A = Opposite/Adjacent"}
+]
+Time Taken: 69.46 seconds | Tokens Produced: 697 | ⚡⚡⚡ Token Speed 10.034 tokens/sec
+✅✅✅ Successfully generated 14 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 1 of 4
+[
+   {
+      "q_no": "1",
+      "question": "What does the term 'sine' represent in trigonometry?",
+      "options": {
+         "a": "Side opposite to an angle, length of 0.5",
+         "b": "Angle at vertex, length doubled",
+         "c": "Ratio of two sides in a right triangle",
+         "d": "Radian measure equivalent"
+      },
+      "correct_answer": "Ratio of two sides in a right triangle"
+   },
+   {
+      "q_no": "2",
+      "question": "In a unit circle, what does the point where the terminal side intersects represent?",
+      "options": {
+         "a": "An angle less than 180 degrees",
+         "b": "The hypotenuse's length",
+         "c": "The sine of an angle",
+         "d": "Cosine of an angle"
+      },
+      "correct_answer": "The cosine of an angle"
+   },
+   {
+      "q_no": "3",
+      "question": "What trigonometric function is equal to the ratio of adjacent side to hypotenuse?",
+      "options": {
+         "a": "Sine",
+         "b": "Cosine",
+         "c": "Tangent",
+         "d": "Cosecant"
+      },
+      "correct_answer": "Cosecant"
+   },
+   {
+      "q_no": "4",
+      "question": "How do you find the height of a building using trigonometry?",
+      "options": {
+         "a": "By measuring distance and angle elevation",
+         "b": "By adding two sides",
+         "c": "By dividing angles by lengths",
+         "d": "By subtracting distances"
+      },
+      "correct_answer": "By measuring distance and angle elevation"
+   },
+   {
+      "q_no": "5",
+      "question": "What is the primary purpose of using trigonometric ratios in right triangles?",
+      "options": {
+         "a": "Calculating hypotenuse",
+         "b": "Determining angles",
+         "c": "Finding side lengths",
+         "d": "Comparing functions"
+      },
+      "correct_answer": "Determining angles"
+   },
+   {
+      "q_no": "6",
+      "question": "Which of the following represents a true statement about trigonometric values in radians?",
+      "options": {
+         "a": "All sine values are less than 1 for positive angles",
+         "b": "Cosecant is always greater than sin",
+         "c": "Cosine is negative when angle measures are between -90 and 90 degrees",
+         "d": "Sine equals tangent at pi/4 radians"
+      },
+      "correct_answer": "All sine values are less than 1 for positive angles"
+   },
+   {
+      "q_no": "7",
+      "question": "What does the angle of elevation represent in a right triangle?",
+      "options": {
+         "a": "Distance from base to top",
+         "b": "Height of object above level ground",
+         "c": "Angle between horizontal line and tangent line",
+         "d": "Ratio of adjacent side to hypotenuse"
+      },
+      "correct_answer": "Height of object above level ground"
+   },
+   {
+      "q_no": "8",
+      "question": "What is the formula for solving a right triangle using sine?",
+      "options": {
+         "a": "Sin A = BC/AC, Sin B = AB/BC, Sin C = AC/AB",
+         "b": "Sine B = BC/AC, Cos B = AB/BC, Tan C = AC/AB",
+         "c": "Sin A = AB/BC, Sin B = BC/AC, Sin C = AC/AB",
+         "d": "Cos A = BC/AC, Sin B = AB/BC, Tan C = AC/AB"
+      },
+      "correct_answer": "Sin A = AB/BC, Sin B = BC/AC, Sin C = AC/AB"
+   },
+   {
+      "q_no": "9",
+      "question": "In a right triangle with angle D measuring 50 degrees, what is the value of cos D?",
+      "options": {
+         "a": "Cos 50\u00b0 > sin 40\u00b0",
+         "b": "Sin 50\u00b0 < cos 50\u00b0",
+         "c": "Tan 50\u00b0 = cotan (90 - 50\u00b0)",
+         "d": "Sine of D is the opposite side divided by hypotenuse"
+      },
+      "correct_answer": "Cos 50\u00b0 > sin 40\u00b0"
+   },
+   {
+      "q_no": "10",
+      "question": "What relationship does the tangent function represent between sides in a triangle?",
+      "options": {
+         "a": "Opposite over adjacent, length of tangent line",
+         "b": "Sine times cosine",
+         "c": "Tangent of an angle = sin divided by cos",
+         "d": "Adjacent side to the hypotenuse"
+      },
+      "correct_answer": "Opposite over adjacent, length of tangent line"
+   },
+   {
+      "q_no": "11",
+      "question": "If a triangle has sides measuring 6 cm and 8 cm with the included angle being 90 degrees, what is the sine of this angle?",
+      "options": {
+         "a": "Sine = opposite/adjacent, 8/6",
+         "b": "Cosine = adjacent/hypotenuse, 12/10",
+         "c": "Tangent = opposite/adjacent, 6/8",
+         "d": "Sin 90\u00b0 = 1"
+      },
+      "correct_answer": "Sine = opposite/adjacent, 6/8"
+   },
+   {
+      "q_no": "12",
+      "question": "Which trigonometric function is undefined when the angle is a right angle?",
+      "options": {
+         "a": "Tangent",
+         "b": "Cosine",
+         "c": "Cosecant",
+         "d": "Sine"
+      },
+      "correct_answer": "Tangent"
+   },
+   {
+      "q_no": "13",
+      "question": "How do you find the length of an arc in a circle given its central angle?",
+      "options": {
+         "a": "Arc Length = Radius * Central Angle (in radians)",
+         "b": "Arc Length = 2 * Radius * Central Angle (degrees)",
+         "c": "Arc Length = 3.14 * Central Angle * Radian",
+         "d": "Arc Length = 0.5 * Radius * Central Angle"
+      },
+      "correct_answer": "Arc Length = Radius * Central Angle (in radians)"
+   },
+   {
+      "q_no": "14",
+      "question": "In a right triangle, what is the value of sine A?",
+      "options": {
+         "a": "Sine A = Opposite/Adjacent",
+         "b": "Cosine B = Adjacent/Hypotenuse",
+         "c": "Tan C = Opposite/Adjacent",
+         "d": "Sin 90\u00b0 = 1"
+      },
+      "correct_answer": "Sine A = Opposite/Adjacent"
+   }
+]
+TIME for MCQ: 69.462 | ⚡⚡⚡ Token Speed: 10.034 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 760 | TOTAL Time: 76.61
+
+********************************************************************************
+
+Syllabus NUMBER 2 of 4 --- | qwen2.5:1.5b
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Cambridge Grade 8 Mathematics - Algebra - Linear Equations:
+- Introduction to linear equations and their solutions
+- Solving one-step linear equations
+- Solving two-step linear equations
+- Translating word problems into linear equations
+- Graphing linear equations on the coordinate plane
+- Systems of linear equations: solving by substitution, elimination
+- Word problems involving linear equations
+
+END IT AFTER CREATING THE SYLLABUS
+TIME for SYLLABUS: 7.03 | ⚡⚡⚡ Token Speed: 9.247 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 14
+Attempt 1/4 for Syllabus 2 of 4... | qwen2.5:1.5b
+********************************************************************************
+
+Syllabus NUMBER 1 of 4 --- | qwen2.5:1.5b
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for International Baccalaureate (IB) Grade 9 Mathematics - Geometry - Trigonometry:
+- Introduction to trigonometric ratios (sine, cosine, tangent)
+- Solving right triangles
+- Understanding complementary angles and their applications in solving triangles
+- Applying trigonometric identities to simplify expressions and solve equations
+- Using the law of sines and cosines to find unknown lengths or measures in triangles
+- Solving real-world problems involving angle measurements and distances using trigonometry
+TIME for SYLLABUS: 7.391 | ⚡⚡⚡ Token Speed: 9.606 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1/4 for Syllabus 1 of 4... | qwen2.5:1.5b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What is the sine of 90 degrees?", "options": {"a": "1", "b": "0.5", "c": "0", "d": "-1"}, "correct_answer": "1"},
+    {"q_no": "2", "question": "Which trigonometric ratio is defined as the adjacent side over hypotenuse in a right triangle?", "options": {"a": "sine", "b": "cosine", "c": "tangent", "d": "none of these"}, "correct_answer": "cosine"},
+    {"q_no": "3", "question": "What is the sine of 0 degrees?", "options": {"a": "1", "b": "0.5", "c": "0", "d": "-1"}, "correct_answer": "0"},
+    {"q_no": "4", "question": "In a right triangle, if one angle measures 90 degrees and the adjacent side to this angle is 3 units long, what is the length of the opposite side?", "options": {"a": "2 units", "b": "1.5 units", "c": "6 units", "d": "none of these"}, "correct_answer": "1.5 units"},
+    {"q_no": "5", "question": "Which trigonometric identity can be used to simplify the expression sin²θ + cos²θ = 1?", "options": {"a": "sin(2θ)", "b": "cos(2θ)", "c": "tan(2θ)", "d": "none of these"}, "correct_answer": "sin(2θ)"},
+    {"q_no": "6", "question": "What is the value of cos(30 degrees)?", "options": {"a": "1/√3", "b": "√3/2", "c": "√2/4", "d": "none of these"}, "correct_answer": "√3/2"},
+    {"q_no": "7", "question": "If tan(θ) = 0.5, what is the value of sin²θ + cos²θ?", "options": {"a": "1", "b": "0.5", "c": "0", "d": "-1"}, "correct_answer": "1"},
+    {"q_no": "8", "question": "In a triangle, if one angle measures 60 degrees and the adjacent side to this angle is √3 units long, what is the length of the opposite side?", "options": {"a": "2 units", "b": "√2 units", "c": "1.5 units", "d": "none of these"}, "correct_answer": "1.5 units"},
+    {"q_no": "9", "question": "If sin(θ) = 0.4 and cos(θ) = -0.4, what is the value of tan²θ?", "options": {"a": "0.25", "b": "0.4", "c": "1", "d": "-1"}, "correct_answer": "0.25"},
+    {"q_no": "10", "question": "What is the value of cos(45 degrees)?", "options": {"a": "√2/2", "b": "√3/2", "c": "√2/√2", "d": "none of these"}, "correct_answer": "√2/2"},
+    {"q_no": "11", "question": "What is the value of sin(60 degrees) + cos(60 degrees)?", "options": {"a": "1", "b": "√3", "c": "2", "d": "none of these"}, "correct_answer": "√3"},
+    {"q_no": "12", "question": "If the length of one side of a right triangle is 5 units and the opposite angle measures 45 degrees, what is the value of sin(45 degrees)?", "options": {"a": "1/√2", "b": "√3/2", "c": "1/√2", "d": "none of these"}, "correct_answer": "1/√2"},
+    {"q_no": "13", "question": "What is the value of tan(45 degrees) + cos(45 degrees)?", "options": {"a": "1", "b": "√2", "c": "0", "d": "none of these"}, "correct_answer": "√2"},
+    {"q_no": "14", "question": "What is the value of sin(30 degrees) + cos(30 degrees)?", "options": {"a": "1", "b": "√3/2", "c": "1/√2", "d": "none of these"}, "correct_answer": "√3/2"}
+]
+Time Taken: 66.85 seconds | Tokens Produced: 424 | ⚡⚡⚡ Token Speed 6.343 tokens/sec
+✅✅✅ Successfully generated 14 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 1 of 4
+[
+   {
+      "q_no": "1",
+      "question": "What is the sine of 90 degrees?",
+      "options": {
+         "a": "1",
+         "b": "0.5",
+         "c": "0",
+         "d": "-1"
+      },
+      "correct_answer": "1"
+   },
+   {
+      "q_no": "2",
+      "question": "Which trigonometric ratio is defined as the adjacent side over hypotenuse in a right triangle?",
+      "options": {
+         "a": "sine",
+         "b": "cosine",
+         "c": "tangent",
+         "d": "none of these"
+      },
+      "correct_answer": "cosine"
+   },
+   {
+      "q_no": "3",
+      "question": "What is the sine of 0 degrees?",
+      "options": {
+         "a": "1",
+         "b": "0.5",
+         "c": "0",
+         "d": "-1"
+      },
+      "correct_answer": "0"
+   },
+   {
+      "q_no": "4",
+      "question": "In a right triangle, if one angle measures 90 degrees and the adjacent side to this angle is 3 units long, what is the length of the opposite side?",
+      "options": {
+         "a": "2 units",
+         "b": "1.5 units",
+         "c": "6 units",
+         "d": "none of these"
+      },
+      "correct_answer": "1.5 units"
+   },
+   {
+      "q_no": "5",
+      "question": "Which trigonometric identity can be used to simplify the expression sin\u00b2\u03b8 + cos\u00b2\u03b8 = 1?",
+      "options": {
+         "a": "sin(2\u03b8)",
+         "b": "cos(2\u03b8)",
+         "c": "tan(2\u03b8)",
+         "d": "none of these"
+      },
+      "correct_answer": "sin(2\u03b8)"
+   },
+   {
+      "q_no": "6",
+      "question": "What is the value of cos(30 degrees)?",
+      "options": {
+         "a": "1/\u221a3",
+         "b": "\u221a3/2",
+         "c": "\u221a2/4",
+         "d": "none of these"
+      },
+      "correct_answer": "\u221a3/2"
+   },
+   {
+      "q_no": "7",
+      "question": "If tan(\u03b8) = 0.5, what is the value of sin\u00b2\u03b8 + cos\u00b2\u03b8?",
+      "options": {
+         "a": "1",
+         "b": "0.5",
+         "c": "0",
+         "d": "-1"
+      },
+      "correct_answer": "1"
+   },
+   {
+      "q_no": "8",
+      "question": "In a triangle, if one angle measures 60 degrees and the adjacent side to this angle is \u221a3 units long, what is the length of the opposite side?",
+      "options": {
+         "a": "2 units",
+         "b": "\u221a2 units",
+         "c": "1.5 units",
+         "d": "none of these"
+      },
+      "correct_answer": "1.5 units"
+   },
+   {
+      "q_no": "9",
+      "question": "If sin(\u03b8) = 0.4 and cos(\u03b8) = -0.4, what is the value of tan\u00b2\u03b8?",
+      "options": {
+         "a": "0.25",
+         "b": "0.4",
+         "c": "1",
+         "d": "-1"
+      },
+      "correct_answer": "0.25"
+   },
+   {
+      "q_no": "10",
+      "question": "What is the value of cos(45 degrees)?",
+      "options": {
+         "a": "\u221a2/2",
+         "b": "\u221a3/2",
+         "c": "\u221a2/\u221a2",
+         "d": "none of these"
+      },
+      "correct_answer": "\u221a2/2"
+   },
+   {
+      "q_no": "11",
+      "question": "What is the value of sin(60 degrees) + cos(60 degrees)?",
+      "options": {
+         "a": "1",
+         "b": "\u221a3",
+         "c": "2",
+         "d": "none of these"
+      },
+      "correct_answer": "\u221a3"
+   },
+   {
+      "q_no": "12",
+      "question": "If the length of one side of a right triangle is 5 units and the opposite angle measures 45 degrees, what is the value of sin(45 degrees)?",
+      "options": {
+         "a": "1/\u221a2",
+         "b": "\u221a3/2",
+         "c": "1/\u221a2",
+         "d": "none of these"
+      },
+      "correct_answer": "1/\u221a2"
+   },
+   {
+      "q_no": "13",
+      "question": "What is the value of tan(45 degrees) + cos(45 degrees)?",
+      "options": {
+         "a": "1",
+         "b": "\u221a2",
+         "c": "0",
+         "d": "none of these"
+      },
+      "correct_answer": "\u221a2"
+   },
+   {
+      "q_no": "14",
+      "question": "What is the value of sin(30 degrees) + cos(30 degrees)?",
+      "options": {
+         "a": "1",
+         "b": "\u221a3/2",
+         "c": "1/\u221a2",
+         "d": "none of these"
+      },
+      "correct_answer": "\u221a3/2"
+   }
+]
+TIME for MCQ: 66.847 | ⚡⚡⚡ Token Speed: 6.343 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 495 | TOTAL Time: 74.25
+
+********************************************************************************
+
+Syllabus NUMBER 2 of 4 --- | qwen2.5:1.5b
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Cambridge Grade 8 Mathematics - Algebra - Linear Equations:
+- Introduction to linear equations in one variable
+- Solving linear equations using inverse operations
+- Representing real-world scenarios with linear equations
+- Graphing linear equations on the coordinate plane
+- Solving and applying systems of linear equations
+TIME for SYLLABUS: 6.925 | ⚡⚡⚡ Token Speed: 7.076 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 10
+Attempt 1/4 for Syllabus 2 of 4... | qwen2.5:1.5b

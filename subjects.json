@@ -1,0 +1,22 @@
+[
+  {"board":"Edexcel","grade":"12","subject":"Mathematics","topic":"Calculus","sub_topic":"Differentiation"},
+  {"board":"Cambridge","grade":"10","subject":"Physics","topic":"Waves","sub_topic":"Electromagnetic Spectrum"},
+  {"board":"CBSE","grade":"12","subject":"Chemistry","topic":"Organic Chemistry","sub_topic":"Alcohols, Phenols, and Ethers"},
+  {"board":"IB","grade":"11","subject":"Biology","topic":"Genetics","sub_topic":"Mendelian Genetics"},
+  {"board":"State Board","grade":"10","subject":"Physics","topic":"Electricity","sub_topic":"Circuits"},
+  {"board":"CBSE","grade":"9","subject":"Chemistry","topic":"Chemical Reactions","sub_topic":"Redox Reactions"},
+  {"board":"IB","grade":"10","subject":"Biology","topic":"Ecology","sub_topic":"Population Dynamics"},
+  {"board":"Cambridge","grade":"8","subject":"Mathematics","topic":"Algebra","sub_topic":"Linear Equations"},
+  {"board":"State Board","grade":"11","subject":"Physics","topic":"Mechanics","sub_topic":"Projectile Motion"},
+  {"board":"Edexcel","grade":"7","subject":"Chemistry","topic":"Atomic Structure","sub_topic":"Electron Configuration"},
+  {"board":"CBSE","grade":"12","subject":"Biology","topic":"Evolution","sub_topic":"Natural Selection"},
+  {"board":"IB","grade":"9","subject":"Mathematics","topic":"Geometry","sub_topic":"Trigonometry"},
+  {"board":"Cambridge","grade":"6","subject":"Physics","topic":"Motion","sub_topic":"Speed and Velocity"},
+  {"board":"State Board","grade":"10","subject":"Chemistry","topic":"Acids, Bases and Salts","sub_topic":"pH Scale"},
+  {"board":"Edexcel","grade":"11","subject":"Biology","topic":"Cell Biology","sub_topic":"Cellular Respiration"},
+  {"board":"CBSE","grade":"8","subject":"Mathematics","topic":"Number Systems","sub_topic":"Rational Numbers"},
+  {"board":"IB","grade":"12","subject":"Physics","topic":"Quantum Physics","sub_topic":"Photoelectric Effect"},
+  {"board":"Cambridge","grade":"9","subject":"Chemistry","topic":"Chemical Bonding","sub_topic":"Ionic and Covalent Bonds"},
+  {"board":"State Board","grade":"7","subject":"Biology","topic":"Human Physiology","sub_topic":"Digestive System"},
+  {"board":"Edexcel","grade":"10","subject":"Mathematics","topic":"Statistics","sub_topic":"Probability"}
+]

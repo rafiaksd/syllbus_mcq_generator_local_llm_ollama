@@ -1,0 +1,1396 @@
+********************************************************************************
+Syllabus NUMBER 1
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Edexcel Grade 12 Mathematics - Calculus - Differentiation:
+- Rules of Differentiation (Power Rule, Constant Multiple Rule, Sum/Difference Rule)
+- Differentiation of Trigonometric Functions
+- Differentiation of Exponential and Logarithmic Functions
+- Chain Rule for Differentiation
+- Implicit Differentiation
+- Applications of Differentiation (Finding tangents, rates of change)
+
+END
+TIME for SYLLABUS: 14.061 | ⚡⚡⚡ Token Speed: 3.627 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 5... gemma3
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "The power rule of differentiation states that d/dx (x^n) = ?",
+        "options": {
+            "a": "x^n + 1",
+            "b": "nx^n",
+            "c": "1/x^n",
+            "d": "x^(n-1)"
+        },
+        "correct_answer": "nx^n"
+    },
+    {
+        "q_no": 2,
+        "question": "If f(x) = 3x^2 + 2x - 1, what is f'(x)?",
+        "options": {
+            "a": "3x + 2",
+            "b": "6x + 2",
+            "c": "3x + 1",
+            "d": "6x + 2"
+        },
+        "correct_answer": "6x + 2"
+    },
+    {
+        "q_no": 3,
+        "question": "The derivative of sin(x) is ?",
+        "options": {
+            "a": "cos(x)",
+            "b": "-cos(x)",
+            "c": "sin(x)",
+            "d": "tan(x)"
+        },
+        "correct_answer": "cos(x)"
+    },
+    {
+        "q_no": 4,
+        "question": "The derivative of e^x is ?",
+        "options": {
+            "a": "e^x",
+            "b": "e^(-x)",
+            "c": "1/x",
+            "d": "x*e^x"
+        },
+        "correct_answer": "e^x"
+    },
+    {
+        "q_no": 5,
+        "question": "What does the chain rule primarily apply to?",
+        "options": {
+            "a": "Differentiating simple polynomials",
+            "b": "Differentiating composite functions",
+            "c": "Finding the area under a curve",
+            "d": "Calculating the volume of a sphere"
+        },
+        "correct_answer": "Differentiating composite functions"
+    },
+    {
+        "q_no": 6,
+        "question": "If f(x) = x^3 * e^x, what is f'(x)?",
+        "options": {
+            "a": "x^2 * e^x",
+            "b": "x^2 * e^x + x^2",
+            "c": "x^2 + e^x",
+            "d": "x^3 * e^x"
+        },
+        "correct_answer": "x^2 * e^x"
+    },
+    {
+        "q_no": 7,
+        "question": "The derivative of ln(x) is ?",
+        "options": {
+            "a": "1/x",
+            "b": "x",
+            "c": "e^x",
+            "d": "1"
+        },
+        "correct_answer": "1/x"
+    },
+    {
+        "q_no": 8,
+        "question": "Implicit differentiation is most useful when?",
+        "options": {
+            "a": "The function is explicitly defined as y = f(x)",
+            "b": "The function is defined implicitly, meaning y is not explicitly expressed in terms of x",
+            "c": "The derivative is easily calculated using the power rule",
+            "d": "The function is a constant"
+        },
+        "correct_answer": "The function is defined implicitly, meaning y is not explicitly expressed in terms of x"
+    },
+    {
+        "q_no": 9,
+        "question": "The rate of change of a function at a specific point is defined as the?",
+        "options": {
+            "a": "Y-intercept",
+            "b": "Slope of the tangent line",
+            "c": "Area under the curve",
+            "d": "X-intercept"
+        },
+        "correct_answer": "Slope of the tangent line"
+    },
+    {
+        "q_no": 10,
+        "question": "If f(x) = x^2 + 1, and x = 2, what is f'(2)?",
+        "options": {
+            "a": "1",
+            "b": "2",
+            "c": "3",
+            "d": "4"
+        },
+        "correct_answer": "3"
+    },
+    {
+        "q_no": 11,
+        "question": "Which of the following best describes the chain rule?",
+        "options": {
+            "a": "Applying the power rule directly",
+            "b": "Differentiating the product of two functions",
+            "c": "Differentiating a composite function",
+            "d": "Finding the area of a triangle"
+        },
+        "correct_answer": "Differentiating a composite function"
+    },
+    {
+        "q_no": 12,
+        "question": "The derivative of cos(x) is ?",
+        "options": {
+            "a": "-sin(x)",
+            "b": "sin(x)",
+            "c": "tan(x)",
+            "d": "cos(x)"
+        },
+        "correct_answer": "-sin(x)"
+    }
+]
+Time Taken: 123.55 seconds | Tokens Produced: 444 | ⚡⚡⚡ Token Speed 3.594 tokens/sec
+✅✅✅ Successfully generated 12 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   {
+      "q_no": 1,
+      "question": "The power rule of differentiation states that d/dx (x^n) = ?",
+      "options": {
+         "a": "x^n + 1",
+         "b": "nx^n",
+         "c": "1/x^n",
+         "d": "x^(n-1)"
+      },
+      "correct_answer": "nx^n"
+   },
+   {
+      "q_no": 2,
+      "question": "If f(x) = 3x^2 + 2x - 1, what is f'(x)?",
+      "options": {
+         "a": "3x + 2",
+         "b": "6x + 2",
+         "c": "3x + 1",
+         "d": "6x + 2"
+      },
+      "correct_answer": "6x + 2"
+   },
+   {
+      "q_no": 3,
+      "question": "The derivative of sin(x) is ?",
+      "options": {
+         "a": "cos(x)",
+         "b": "-cos(x)",
+         "c": "sin(x)",
+         "d": "tan(x)"
+      },
+      "correct_answer": "cos(x)"
+   },
+   {
+      "q_no": 4,
+      "question": "The derivative of e^x is ?",
+      "options": {
+         "a": "e^x",
+         "b": "e^(-x)",
+         "c": "1/x",
+         "d": "x*e^x"
+      },
+      "correct_answer": "e^x"
+   },
+   {
+      "q_no": 5,
+      "question": "What does the chain rule primarily apply to?",
+      "options": {
+         "a": "Differentiating simple polynomials",
+         "b": "Differentiating composite functions",
+         "c": "Finding the area under a curve",
+         "d": "Calculating the volume of a sphere"
+      },
+      "correct_answer": "Differentiating composite functions"
+   },
+   {
+      "q_no": 6,
+      "question": "If f(x) = x^3 * e^x, what is f'(x)?",
+      "options": {
+         "a": "x^2 * e^x",
+         "b": "x^2 * e^x + x^2",
+         "c": "x^2 + e^x",
+         "d": "x^3 * e^x"
+      },
+      "correct_answer": "x^2 * e^x"
+   },
+   {
+      "q_no": 7,
+      "question": "The derivative of ln(x) is ?",
+      "options": {
+         "a": "1/x",
+         "b": "x",
+         "c": "e^x",
+         "d": "1"
+      },
+      "correct_answer": "1/x"
+   },
+   {
+      "q_no": 8,
+      "question": "Implicit differentiation is most useful when?",
+      "options": {
+         "a": "The function is explicitly defined as y = f(x)",
+         "b": "The function is defined implicitly, meaning y is not explicitly expressed in terms of x",
+         "c": "The derivative is easily calculated using the power rule",
+         "d": "The function is a constant"
+      },
+      "correct_answer": "The function is defined implicitly, meaning y is not explicitly expressed in terms of x"
+   },
+   {
+      "q_no": 9,
+      "question": "The rate of change of a function at a specific point is defined as the?",
+      "options": {
+         "a": "Y-intercept",
+         "b": "Slope of the tangent line",
+         "c": "Area under the curve",
+         "d": "X-intercept"
+      },
+      "correct_answer": "Slope of the tangent line"
+   },
+   {
+      "q_no": 10,
+      "question": "If f(x) = x^2 + 1, and x = 2, what is f'(2)?",
+      "options": {
+         "a": "1",
+         "b": "2",
+         "c": "3",
+         "d": "4"
+      },
+      "correct_answer": "3"
+   },
+   {
+      "q_no": 11,
+      "question": "Which of the following best describes the chain rule?",
+      "options": {
+         "a": "Applying the power rule directly",
+         "b": "Differentiating the product of two functions",
+         "c": "Differentiating a composite function",
+         "d": "Finding the area of a triangle"
+      },
+      "correct_answer": "Differentiating a composite function"
+   },
+   {
+      "q_no": 12,
+      "question": "The derivative of cos(x) is ?",
+      "options": {
+         "a": "-sin(x)",
+         "b": "sin(x)",
+         "c": "tan(x)",
+         "d": "cos(x)"
+      },
+      "correct_answer": "-sin(x)"
+   }
+]
+TIME for MCQ: 123.551 | ⚡⚡⚡ Token Speed: 3.594 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 495 | TOTAL Time: 137.62
+
+********************************************************************************
+Syllabus NUMBER 2
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Cambridge Grade 10 Physics - Waves - Electromagnetic Spectrum:
+- Overview of the electromagnetic spectrum
+- Properties of electromagnetic waves
+- Wavelength and frequency relationships
+- Production and detection of electromagnetic waves
+- Interaction of EM waves with matter
+- Applications of the electromagnetic spectrum
+TIME for SYLLABUS: 10.651 | ⚡⚡⚡ Token Speed: 4.413 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 5... gemma3
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "Which of the following best describes the electromagnetic spectrum?",
+        "options": {
+            "a": "A range of energies emitted by all objects",
+            "b": "Only visible light emitted by stars",
+            "c": "A collection of radio waves only",
+            "d": "A continuous range of electromagnetic radiation"
+        },
+        "correct_answer": "A continuous range of electromagnetic radiation"
+    },
+    {
+        "q_no": 2,
+        "question": "What is a key property of all electromagnetic waves?",
+        "options": {
+            "a": "They have mass",
+            "b": "They travel at different speeds in different mediums",
+            "c": "They can travel through a vacuum",
+            "d": "They only exist in the visible spectrum"
+        },
+        "correct_answer": "They can travel through a vacuum"
+    },
+    {
+        "q_no": 3,
+        "question": "Which of the following represents the relationship between wavelength and frequency of EM waves?",
+        "options": {
+            "a": "Directly proportional",
+            "b": "Inversely proportional",
+            "c": "Equal",
+            "d": "Random"
+        },
+        "correct_answer": "Inversely proportional"
+    },
+    {
+        "q_no": 4,
+        "question": "What is the primary method for detecting electromagnetic waves?",
+        "options": {
+            "a": "Chemical reactions",
+            "b": "Absorption and reflection",
+            "c": "Melting",
+            "d": "Dissolving"
+        },
+        "correct_answer": "Absorption and reflection"
+    },
+    {
+        "q_no": 5,
+        "question": "Which region of the electromagnetic spectrum has the shortest wavelength?",
+        "options": {
+            "a": "Radio waves",
+            "b": "Infrared radiation",
+            "c": "Ultraviolet radiation",
+            "d": "Microwaves"
+        },
+        "correct_answer": "Ultraviolet radiation"
+    },
+    {
+        "q_no": 6,
+        "question": "What happens when a wave's frequency increases?",
+        "options": {
+            "a": "Its wavelength increases",
+            "b": "Its wavelength decreases",
+            "c": "Its speed increases",
+            "d": "Its amplitude decreases"
+        },
+        "correct_answer": "Its wavelength decreases"
+    },
+    {
+        "q_no": 7,
+        "question": "Which of the following is an example of electromagnetic wave interaction with matter?",
+        "options": {
+            "a": "Heating a metal object with a magnet",
+            "b": "Observing a shadow",
+            "c": "Rusting of iron",
+            "d": "Cooking food"
+        },
+        "correct_answer": "Cooking food"
+    },
+    {
+        "q_no": 8,
+        "question": "What is the main purpose of the electromagnetic spectrum?",
+        "options": {
+            "a": "To transmit information wirelessly",
+            "b": "To generate heat energy",
+            "c": "To provide a source of light for vision",
+            "d": "To create magnetic fields"
+        },
+        "correct_answer": "To provide a source of light for vision"
+    },
+    {
+        "q_no": 9,
+        "question": "Which part of the electromagnetic spectrum is used in medical imaging?",
+        "options": {
+            "a": "Radio waves",
+            "b": "Infrared radiation",
+            "c": "X-rays",
+            "d": "Microwaves"
+        },
+        "correct_answer": "X-rays"
+    },
+    {
+        "q_no": 10,
+        "question": "What causes the colors we see in a rainbow?",
+        "options": {
+            "a": "Reflection of sunlight",
+            "b": "Absorption of light by water droplets",
+            "c": "Emission of light by the sun",
+            "d": "Diffraction of light"
+        },
+        "correct_answer": "Diffraction of light"
+    }
+]
+Time Taken: 104.37 seconds | Tokens Produced: 411 | ⚡⚡⚡ Token Speed 3.938 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 10...
+
+Attempt 2 out of 5... gemma3
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "Which of the following best describes the electromagnetic spectrum?",
+        "options": {
+            "a": "A range of all types of waves, including sound and light",
+            "b": "A range of waves with different wavelengths and frequencies",
+            "c": "Only visible light waves",
+            "d": "Only radio waves"
+        },
+        "correct_answer": "A range of waves with different wavelengths and frequencies"
+    },
+    {
+        "q_no": 2,
+        "question": "What is the primary characteristic that differentiates different types of electromagnetic waves?",
+        "options": {
+            "a": "Their speed",
+            "b": "Their wavelength and frequency",
+            "c": "Their color",
+            "d": "Their amplitude"
+        },
+        "correct_answer": "Their wavelength and frequency"
+    },
+    {
+        "q_no": 3,
+        "question": "The relationship between wavelength and frequency of an electromagnetic wave is:",
+        "options": {
+            "a": "Directly proportional - as one increases, the other decreases",
+            "b": "Inversely proportional - as one increases, the other decreases",
+            "c": "Equal and constant",
+            "d": "Independent of each other"
+        },
+        "correct_answer": "Inversely proportional - as one increases, the other decreases"
+    },
+    {
+        "q_no": 4,
+        "question": "What is the unit used to measure the distance between successive crests or troughs of a wave?",
+        "options": {
+            "a": "Hertz",
+            "b": "Watt",
+            "c": "Meter",
+            "d": "Pascal"
+        },
+        "correct_answer": "Meter"
+    },
+    {
+        "q_no": 5,
+        "question": "Which of the following electromagnetic waves has the longest wavelength?",
+        "options": {
+            "a": "Gamma rays",
+            "b": "Radio waves",
+            "c": "Visible light",
+            "d": "X-rays"
+        },
+        "correct_answer": "Radio waves"
+    },
+    {
+        "q_no": 6,
+        "question": "How are electromagnetic waves produced?",
+        "options": {
+            "a": "By vibration of atoms and molecules",
+            "b": "By the movement of charged particles",
+            "c": "By the collision of neutrons",
+            "d": "By chemical reactions"
+        },
+        "correct_answer": "By the movement of charged particles"
+    },
+    {
+        "q_no": 7,
+        "question": "What happens when an electromagnetic wave interacts with matter?",
+        "options": {
+            "a": "It passes through without any effect",
+            "b": "It is absorbed or reflected",
+            "c": "It splits into smaller waves",
+            "d": "It creates a magnetic field"
+        },
+        "correct_answer": "It is absorbed or reflected"
+    },
+    {
+        "q_no": 8,
+        "question": "Which application utilizes the ability of X-rays to penetrate soft tissues?",
+        "options": {
+            "a": "Radio communication",
+            "b": "Medical imaging",
+            "c": "Solar energy collection",
+            "d": "Microwave ovens"
+        },
+        "correct_answer": "Medical imaging"
+    },
+    {
+        "q_no": 9,
+        "question": "What is the frequency of a wave directly proportional to?",
+        "options": {
+            "a": "Its amplitude",
+            "b": "Its speed",
+            "c": "Its wavelength",
+            "d": "Its energy"
+        },
+        "correct_answer": "Its wavelength"
+    },
+    {
+        "q_no": 10,
+        "question": "Which type of electromagnetic wave is commonly used for communication?",
+        "options": {
+            "a": "Ultraviolet radiation",
+            "b": "Infrared radiation",
+            "c": "Radio waves",
+            "d": "Microwaves"
+        },
+        "correct_answer": "Radio waves"
+    }
+]
+Time Taken: 104.55 seconds | Tokens Produced: 418 | ⚡⚡⚡ Token Speed 3.998 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 10...
+⚠️ Warning: Expected 12 MCQs but got 10...
+
+Attempt 3 out of 5... gemma3
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "Which of the following best describes the electromagnetic spectrum?",
+        "options": {
+            "a": "A range of all types of radiation, from radio waves to gamma rays.",
+            "b": "Only visible light waves.",
+            "c": "Only sound waves.",
+            "d": "Only X-rays and ultraviolet radiation."
+        },
+        "correct_answer": "A range of all types of radiation, from radio waves to gamma rays."
+    },
+    {
+        "q_no": 2,
+        "question": "What is a key property shared by all electromagnetic waves?",
+        "options": {
+            "a": "They have mass.",
+            "b": "They require a medium to travel through.",
+            "c": "They travel at the speed of sound.",
+            "d": "They exhibit wave-particle duality."
+        },
+        "correct_answer": "They travel at the speed of sound."
+    },
+    {
+        "q_no": 3,
+        "question": "Which of the following describes the relationship between wavelength and frequency of an electromagnetic wave?",
+        "options": {
+            "a": "They are inversely proportional.",
+            "b": "They are equal.",
+            "c": "They are directly proportional.",
+            "d": "They are unrelated."
+        },
+        "correct_answer": "They are directly proportional."
+    },
+    {
+        "q_no": 4,
+        "question": "What is the primary method used to produce electromagnetic waves?",
+        "options": {
+            "a": "Chemical reactions",
+            "b": "Oscillating electric charges",
+            "c": "Friction",
+            "d": "Nuclear fission"
+        },
+        "correct_answer": "Oscillating electric charges"
+    },
+    {
+        "q_no": 5,
+        "question": "How do electromagnetic waves interact with matter?",
+        "options": {
+            "a": "They are absorbed completely by all materials.",
+            "b": "They are reflected only.",
+            "c": "They can be absorbed, reflected, or transmitted.",
+            "d": "They pass through matter without any interaction."
+        },
+        "correct_answer": "They can be absorbed, reflected, or transmitted."
+    },
+    {
+        "q_no": 6,
+        "question": "Which part of the electromagnetic spectrum has the shortest wavelength?",
+        "options": {
+            "a": "Radio waves",
+            "b": "Microwaves",
+            "c": "Gamma rays",
+            "d": "Infrared radiation"
+        },
+        "correct_answer": "Gamma rays"
+    },
+    {
+        "q_no": 7,
+        "question": "What is the main application of microwaves?",
+        "options": {
+            "a": "Wireless communication",
+            "b": "Cooking food",
+            "c": "Medical imaging",
+            "d": "Generating electricity"
+        },
+        "correct_answer": "Cooking food"
+    },
+    {
+        "q_no": 8,
+        "question": "Which electromagnetic wave is commonly used for medical imaging (X-rays)?",
+        "options": {
+            "a": "Radio waves",
+            "b": "Infrared radiation",
+            "c": "X-rays",
+            "d": "Ultraviolet radiation"
+        },
+        "correct_answer": "X-rays"
+    },
+    {
+        "q_no": 9,
+        "question": "What property distinguishes ultraviolet radiation from other parts of the electromagnetic spectrum?",
+        "options": {
+            "a": "It has a longer wavelength.",
+            "b": "It can cause sunburns.",
+            "c": "It is invisible to the human eye.",
+            "d": "It is always reflected by materials."
+        },
+        "correct_answer": "It can cause sunburns."
+    },
+    {
+        "q_no": 10,
+        "question": "Which part of the electromagnetic spectrum is used for radio communication?",
+        "options": {
+            "a": "Gamma rays",
+            "b": "Microwaves",
+            "c": "Radio waves",
+            "d": "Infrared radiation"
+        },
+        "correct_answer": "Radio waves"
+    }
+]
+Time Taken: 106.95 seconds | Tokens Produced: 424 | ⚡⚡⚡ Token Speed 3.964 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 10...
+⚠️ Warning: Expected 12 MCQs but got 10...
+⚠️ Warning: Expected 12 MCQs but got 10...
+
+Attempt 4 out of 5... gemma3
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "Which of the following best describes the electromagnetic spectrum?",
+        "options": {
+            "a": "A range of frequencies of waves",
+            "b": "A collection of different types of matter",
+            "c": "A specific color of light",
+            "d": "A set of chemical reactions"
+        },
+        "correct_answer": "A range of frequencies of waves"
+    },
+    {
+        "q_no": 2,
+        "question": "What is a key characteristic of all electromagnetic waves?",
+        "options": {
+            "a": "They are composed of atoms",
+            "b": "They require a medium to travel",
+            "c": "They travel at the speed of light",
+            "d": "They are always visible to the human eye"
+        },
+        "correct_answer": "They travel at the speed of light"
+    },
+    {
+        "q_no": 3,
+        "question": "Which of the following represents the relationship between wavelength and frequency of electromagnetic waves?",
+        "options": {
+            "a": "They are inversely proportional",
+            "b": "They are directly proportional",
+            "c": "They have no relationship",
+            "d": "They are equal"
+        },
+        "correct_answer": "They are directly proportional"
+    },
+    {
+        "q_no": 4,
+        "question": "What is the primary method used to produce electromagnetic waves?",
+        "options": {
+            "a": "Chemical reactions",
+            "b": "Mechanical vibrations",
+            "c": "Oscillation of electric charges",
+            "d": "Friction"
+        },
+        "correct_answer": "Oscillation of electric charges"
+    },
+    {
+        "q_no": 5,
+        "question": "Which part of the electromagnetic spectrum has the shortest wavelength?",
+        "options": {
+            "a": "Radio waves",
+            "b": "Infrared waves",
+            "c": "Gamma rays",
+            "d": "Visible light"
+        },
+        "correct_answer": "Gamma rays"
+    },
+    {
+        "q_no": 6,
+        "question": "What is the main function of the electromagnetic spectrum in interaction with matter?",
+        "options": {
+            "a": "To create new matter",
+            "b": "To transfer energy",
+            "c": "To maintain a constant temperature",
+            "d": "To change the color of objects"
+        },
+        "correct_answer": "To transfer energy"
+    },
+    {
+        "q_no": 7,
+        "question": "Which of the following is an example of a technology that utilizes the electromagnetic spectrum?",
+        "options": {
+            "a": "A bicycle",
+            "b": "A microwave oven",
+            "c": "A car engine",
+            "d": "A wooden chair"
+        },
+        "correct_answer": "A microwave oven"
+    },
+    {
+        "q_no": 8,
+        "question": "What does the term 'wavelength' refer to in the context of electromagnetic waves?",
+        "options": {
+            "a": "The speed of the wave",
+            "b": "The distance between two successive crests or troughs",
+            "c": "The frequency of the wave",
+            "d": "The amplitude of the wave"
+        },
+        "correct_answer": "The distance between two successive crests or troughs"
+    },
+    {
+        "q_no": 9,
+        "question": "Which of the following electromagnetic wave types is primarily used for communication?",
+        "options": {
+            "a": "Gamma rays",
+            "b": "Radio waves",
+            "c": "Infrared waves",
+            "d": "Ultraviolet waves"
+        },
+        "correct_answer": "Radio waves"
+    },
+    {
+        "q_no": 10,
+        "question": "What is the main characteristic that distinguishes ultraviolet waves from other parts of the electromagnetic spectrum?",
+        "options": {
+            "a": "They have a longer wavelength",
+            "b": "They carry more energy",
+            "c": "They are invisible to the human eye",
+            "d": "They are always used for communication"
+        },
+        "correct_answer": "They carry more energy"
+    }
+]
+Time Taken: 111.93 seconds | Tokens Produced: 461 | ⚡⚡⚡ Token Speed 4.118 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 10...
+⚠️ Warning: Expected 12 MCQs but got 10...
+⚠️ Warning: Expected 12 MCQs but got 10...
+⚠️ Warning: Expected 12 MCQs but got 10...
+
+Attempt 5 out of 5... gemma3
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "Which of the following best describes the electromagnetic spectrum?",
+        "options": {
+            "a": "A range of energy types, from low frequency radio waves to high frequency gamma rays.",
+            "b": "Only visible light wavelengths.",
+            "c": "Only X-rays and gamma rays.",
+            "d": "Static energy fields."
+        },
+        "correct_answer": "A range of energy types, from low frequency radio waves to high frequency gamma rays."
+    },
+    {
+        "q_no": 2,
+        "question": "What is a key characteristic that distinguishes electromagnetic waves from mechanical waves?",
+        "options": {
+            "a": "They require a medium to travel.",
+            "b": "They do not require a medium and can travel through a vacuum.",
+            "c": "They always travel at a constant speed.",
+            "d": "They only travel in straight lines."
+        },
+        "correct_answer": "They do not require a medium and can travel through a vacuum."
+    },
+    {
+        "q_no": 3,
+        "question": "Which of the following describes the relationship between wavelength and frequency of an electromagnetic wave?",
+        "options": {
+            "a": "They are inversely proportional.",
+            "b": "They are directly proportional.",
+            "c": "They are completely unrelated.",
+            "d": "They vary randomly"
+        },
+        "correct_answer": "They are inversely proportional."
+    },
+    {
+        "q_no": 4,
+        "question": "What is the primary method used to produce electromagnetic waves?",
+        "options": {
+            "a": "Mechanical vibration",
+            "b": "Oscillation of electric charges",
+            "c": "Chemical reactions",
+            "d": "Friction"
+        },
+        "correct_answer": "Oscillation of electric charges"
+    },
+    {
+        "q_no": 5,
+        "question": "Which part of the electromagnetic spectrum has the shortest wavelength?",
+        "options": {
+            "a": "Radio waves",
+            "b": "Microwaves",
+            "c": "Gamma rays",
+            "d": "Infrared waves"
+        },
+        "correct_answer": "Gamma rays"
+    },
+    {
+        "q_no": 6,
+        "question": "What happens when an EM wave interacts with matter?",
+        "options": {
+            "a": "It continues traveling unaffected.",
+            "b": "It is absorbed or reflected.",
+            "c": "It splits into smaller waves.",
+            "d": "It instantly changes its speed."
+        },
+        "correct_answer": "It is absorbed or reflected."
+    },
+    {
+        "q_no": 7,
+        "question": "Which type of EM wave is commonly used for medical imaging?",
+        "options": {
+            "a": "Radio waves",
+            "b": "Ultraviolet waves",
+            "c": "X-rays",
+            "d": "Infrared waves"
+        },
+        "correct_answer": "X-rays"
+    },
+    {
+        "q_no": 8,
+        "question": "What is the main purpose of using mirrors to detect EM waves?",
+        "options": {
+            "a": "To absorb all the EM waves.",
+            "b": "To reflect EM waves and focus them.",
+            "c": "To convert EM waves into sound.",
+            "d": "To destroy EM waves."
+        },
+        "correct_answer": "To reflect EM waves and focus them."
+    },
+    {
+        "q_no": 9,
+        "question": "Which EM wave is responsible for sunburns?",
+        "options": {
+            "a": "Radio waves",
+            "b": "Microwaves",
+            "c": "Ultraviolet waves",
+            "d": "Infrared waves"
+        },
+        "correct_answer": "Ultraviolet waves"
+    },
+    {
+        "q_no": 10,
+        "question": "What is the unit used to measure the frequency of electromagnetic waves?",
+        "options": {
+            "a": "Watt",
+            "b": "Hertz",
+            "c": "Pascal",
+            "d": "Meter"
+        },
+        "correct_answer": "Hertz"
+    }
+]
+Time Taken: 111.07 seconds | Tokens Produced: 443 | ⚡⚡⚡ Token Speed 3.988 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 10...
+⚠️ Warning: Expected 12 MCQs but got 10...
+⚠️ Warning: Expected 12 MCQs but got 10...
+⚠️ Warning: Expected 12 MCQs but got 10...
+⚠️ Warning: Expected 12 MCQs but got 10...
+
+⚠️ Warning: After 5 attempts returning longest valid response.
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   {
+      "q_no": 1,
+      "question": "Which of the following best describes the electromagnetic spectrum?",
+      "options": {
+         "a": "A range of energies emitted by all objects",
+         "b": "Only visible light emitted by stars",
+         "c": "A collection of radio waves only",
+         "d": "A continuous range of electromagnetic radiation"
+      },
+      "correct_answer": "A continuous range of electromagnetic radiation"
+   },
+   {
+      "q_no": 2,
+      "question": "What is a key property of all electromagnetic waves?",
+      "options": {
+         "a": "They have mass",
+         "b": "They travel at different speeds in different mediums",
+         "c": "They can travel through a vacuum",
+         "d": "They only exist in the visible spectrum"
+      },
+      "correct_answer": "They can travel through a vacuum"
+   },
+   {
+      "q_no": 3,
+      "question": "Which of the following represents the relationship between wavelength and frequency of EM waves?",
+      "options": {
+         "a": "Directly proportional",
+         "b": "Inversely proportional",
+         "c": "Equal",
+         "d": "Random"
+      },
+      "correct_answer": "Inversely proportional"
+   },
+   {
+      "q_no": 4,
+      "question": "What is the primary method for detecting electromagnetic waves?",
+      "options": {
+         "a": "Chemical reactions",
+         "b": "Absorption and reflection",
+         "c": "Melting",
+         "d": "Dissolving"
+      },
+      "correct_answer": "Absorption and reflection"
+   },
+   {
+      "q_no": 5,
+      "question": "Which region of the electromagnetic spectrum has the shortest wavelength?",
+      "options": {
+         "a": "Radio waves",
+         "b": "Infrared radiation",
+         "c": "Ultraviolet radiation",
+         "d": "Microwaves"
+      },
+      "correct_answer": "Ultraviolet radiation"
+   },
+   {
+      "q_no": 6,
+      "question": "What happens when a wave's frequency increases?",
+      "options": {
+         "a": "Its wavelength increases",
+         "b": "Its wavelength decreases",
+         "c": "Its speed increases",
+         "d": "Its amplitude decreases"
+      },
+      "correct_answer": "Its wavelength decreases"
+   },
+   {
+      "q_no": 7,
+      "question": "Which of the following is an example of electromagnetic wave interaction with matter?",
+      "options": {
+         "a": "Heating a metal object with a magnet",
+         "b": "Observing a shadow",
+         "c": "Rusting of iron",
+         "d": "Cooking food"
+      },
+      "correct_answer": "Cooking food"
+   },
+   {
+      "q_no": 8,
+      "question": "What is the main purpose of the electromagnetic spectrum?",
+      "options": {
+         "a": "To transmit information wirelessly",
+         "b": "To generate heat energy",
+         "c": "To provide a source of light for vision",
+         "d": "To create magnetic fields"
+      },
+      "correct_answer": "To provide a source of light for vision"
+   },
+   {
+      "q_no": 9,
+      "question": "Which part of the electromagnetic spectrum is used in medical imaging?",
+      "options": {
+         "a": "Radio waves",
+         "b": "Infrared radiation",
+         "c": "X-rays",
+         "d": "Microwaves"
+      },
+      "correct_answer": "X-rays"
+   },
+   {
+      "q_no": 10,
+      "question": "What causes the colors we see in a rainbow?",
+      "options": {
+         "a": "Reflection of sunlight",
+         "b": "Absorption of light by water droplets",
+         "c": "Emission of light by the sun",
+         "d": "Diffraction of light"
+      },
+      "correct_answer": "Diffraction of light"
+   }
+]
+TIME for MCQ: 104.366 | ⚡⚡⚡ Token Speed: 3.938 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 458 | TOTAL Time: 549.54
+
+********************************************************************************
+Syllabus NUMBER 3
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for CBSE Grade 12 Mathematics - Algebra - Linear Equations
+- Solving linear equations in one variable
+- Solving systems of linear equations
+- Applications of linear equations
+- Graphing linear equations
+- Inequalities
+- Word problems involving linear equations
+TIME for SYLLABUS: 10.56 | ⚡⚡⚡ Token Speed: 3.883 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 5... gemma3
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the primary goal when solving linear equations in one variable?",
+        "options": {
+            "a": "To find the value of the slope of the line",
+            "b": "To isolate the variable and determine its value",
+            "c": "To graph the equation on a coordinate plane",
+            "d": "To calculate the area of a triangle"
+        },
+        "correct_answer": "To isolate the variable and determine its value"
+    },
+    {
+        "q_no": 2,
+        "question": "If 2x + 5 = 11, what is the solution for x?",
+        "options": {
+            "a": "x = 3",
+            "b": "x = 8",
+            "c": "x = 6",
+            "d": "x = 4"
+        },
+        "correct_answer": "x = 3"
+    },
+    {
+        "q_no": 3,
+        "question": "What is a system of linear equations?",
+        "options": {
+            "a": "A single linear equation with one variable",
+            "b": "Two or more linear equations that are solved simultaneously",
+            "c": "A non-linear equation with multiple variables",
+            "d": "A formula for calculating the area of a circle"
+        },
+        "correct_answer": "Two or more linear equations that are solved simultaneously"
+    },
+    {
+        "q_no": 4,
+        "question": "Which method is commonly used to solve a system of linear equations?",
+        "options": {
+            "a": "Expanding the expressions and setting them equal to zero",
+            "b": "Adding the two equations together",
+            "c": "Calculating the derivative of the equations",
+            "d": "Using a calculator to find the root"
+        },
+        "correct_answer": "Expanding the expressions and setting them equal to zero"
+    },
+    {
+        "q_no": 5,
+        "question": "In the equation 3x + 2y = 7 and x - y = 1, how do you find the value of x?",
+        "options": {
+            "a": "By adding the two equations together",
+            "b": "By subtracting the first equation from the second",
+            "c": "By graphing both equations",
+            "d": "By dividing the first equation by the second"
+        },
+        "correct_answer": "By adding the two equations together"
+    },
+    {
+        "q_no": 6,
+        "question": "What is the purpose of graphing linear equations?",
+        "options": {
+            "a": "To calculate the area of the region bounded by the line",
+            "b": "To find the roots of the equation",
+            "c": "To visually represent the relationship between the variables",
+            "d": "To determine the slope of the line"
+        },
+        "correct_answer": "To visually represent the relationship between the variables"
+    },
+    {
+        "q_no": 7,
+        "question": "What is the solution to the system of equations: 2x + y = 5 and 3x - y = 1?",
+        "options": {
+            "a": "x = 1, y = 3",
+            "b": "x = 2, y = 1",
+            "c": "x = 3, y = 1",
+            "d": "x = 1, y = 2"
+        },
+        "correct_answer": "x = 1, y = 2"
+    },
+    {
+        "q_no": 8,
+        "question": "Which inequality represents the solution set of 3x + 2 > 7?",
+        "options": {
+            "a": "x > 3",
+            "b": "x < 3",
+            "c": "x > 5",
+            "d": "x < 5"
+        },
+        "correct_answer": "x > 3"
+    },
+    {
+        "q_no": 9,
+        "question": "What does the symbol '>' in an inequality mean?",
+        "options": {
+            "a": "Greater than or equal to",
+            "b": "Less than or equal to",
+            "c": "Greater than",
+            "d": "Less than"
+        },
+        "correct_answer": "Greater than"
+    },
+    {
+        "q_no": 10,
+        "question": "Solve for x: 4x - 2 < 10",
+        "options": {
+            "a": "x < 3",
+            "b": "x < 6",
+            "c": "x > 3",
+            "d": "x < 5"
+        },
+        "correct_answer": "x < 5"
+    }
+]
+Time Taken: 122.39 seconds | Tokens Produced: 536 | ⚡⚡⚡ Token Speed 4.379 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 10...
+
+Attempt 2 out of 5... gemma3
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the primary goal when solving linear equations in one variable?",
+        "options": {
+            "a": "To find the value of the variable that satisfies the equation",
+            "b": "To simplify the equation without solving for the variable",
+            "c": "To create a system of two equations",
+            "d": "To graph the equation"
+        },
+        "correct_answer": "To find the value of the variable that satisfies the equation"
+    },
+    {
+        "q_no": 2,
+        "question": "If 2x + 5 = 11, what is the solution for x?",
+        "options": {
+            "a": "3",
+            "b": "7",
+            "c": "4",
+            "d": "6"
+        },
+        "correct_answer": "3"
+    },
+    {
+        "q_no": 3,
+        "question": "What is a system of linear equations?",
+        "options": {
+            "a": "An equation with only one variable",
+            "b": "Two or more linear equations that share common solutions",
+            "c": "An equation that can only be solved graphically",
+            "d": "An equation with no solution"
+        },
+        "correct_answer": "Two or more linear equations that share common solutions"
+    },
+    {
+        "q_no": 4,
+        "question": "Which method is most commonly used to solve a system of linear equations?",
+        "options": {
+            "a": "Substitution",
+            "b": "Elimination",
+            "c": "Graphing",
+            "d": "Simplification"
+        },
+        "correct_answer": "Elimination"
+    },
+    {
+        "q_no": 5,
+        "question": "A linear equation represents a straight line when graphed. What does the slope of this line represent?",
+        "options": {
+            "a": "The y-intercept of the line",
+            "b": "The distance between two points on the line",
+            "c": "The rate of change of the line",
+            "d": "The length of the line"
+        },
+        "correct_answer": "The rate of change of the line"
+    },
+    {
+        "q_no": 6,
+        "question": "If y = 2x + 1, what is the y-intercept?",
+        "options": {
+            "a": "2x",
+            "b": "1",
+            "c": "2",
+            "d": "x"
+        },
+        "correct_answer": "1"
+    },
+    {
+        "q_no": 7,
+        "question": "How can linear equations be applied in real-world scenarios?",
+        "options": {
+            "a": "Predicting the weather",
+            "b": "Modeling relationships between variables",
+            "c": "Calculating the speed of a car",
+            "d": "Determining the number of stars in the sky"
+        },
+        "correct_answer": "Modeling relationships between variables"
+    },
+    {
+        "q_no": 8,
+        "question": "What does the term 'inequality' refer to in the context of linear equations?",
+        "options": {
+            "a": "An equation with a single solution",
+            "b": "An equation with two or more variables",
+            "c": "An equation that represents a range of possible values",
+            "d": "An equation with no solution"
+        },
+        "correct_answer": "An equation that represents a range of possible values"
+    },
+    {
+        "q_no": 9,
+        "question": "In a word problem, if 'x' represents the number of apples and 'y' represents the number of oranges, how would a linear equation relate these variables?",
+        "options": {
+            "a": "z = x + y",
+            "b": "x + y = total number of fruits",
+            "c": "x - y = price of apples",
+            "d": "x / y = juice ratio"
+        },
+        "correct_answer": "x + y = total number of fruits"
+    },
+    {
+        "q_no": 10,
+        "question": "What is the solution to the inequality 3x > 9?",
+        "options": {
+            "a": "x > 3",
+            "b": "x < 3",
+            "c": "x = 3",
+            "d": "x > 6"
+        },
+        "correct_answer": "x > 3"
+    }
+]
+Time Taken: 123.06 seconds | Tokens Produced: 499 | ⚡⚡⚡ Token Speed 4.055 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 10...
+⚠️ Warning: Expected 12 MCQs but got 10...
+
+Attempt 3 out of 5... gemma3
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the primary goal when solving linear equations in one variable?",
+        "options": {
+            "a": "To find the slope of the line",
+            "b": "To isolate the variable and find its value",
+            "c": "To determine the y-intercept of the line",
+            "d": "To find the area of a triangle"
+        },
+        "correct_answer": "To isolate the variable and find its value"
+    },
+    {
+        "q_no": 2,
+        "question": "If 2x + 5 = 11, what is the value of x?",
+        "options": {
+            "a": "3",
+            "b": "4",
+            "c": "6",
+            "d": "8"
+        },
+        "correct_answer": "3"
+    },
+    {
+        "q_no": 3,
+        "question": "What is a system of linear equations?",
+        "options": {
+            "a": "Two lines with the same slope",
+            "b": "Two or more linear equations with the same variables",
+            "c": "A line with a positive slope",
+            "d": "A triangle with equal sides"
+        },
+        "correct_answer": "Two or more linear equations with the same variables"
+    },
+    {
+        "q_no": 4,
+        "question": "Which method is used to solve a system of linear equations graphically?",
+        "options": {
+            "a": "Substitution",
+            "b": "Elimination",
+            "c": "Graphing",
+            "d": "Factoring"
+        },
+        "correct_answer": "Graphing"
+    },
+    {
+        "q_no": 5,
+        "question": "A company sells apples for $2 each and bananas for $1 each. If a customer buys 5 fruits for $9, how many apples did the customer buy?",
+        "options": {
+            "a": "2",
+            "b": "3",
+            "c": "4",
+            "d": "5"
+        },
+        "correct_answer": "3"
+    },
+    {
+        "q_no": 6,
+        "question": "Which equation represents the line y = 2x + 1?",
+        "options": {
+            "a": "A line with a slope of -2",
+            "b": "A line with a slope of 2 and a y-intercept of 1",
+            "c": "A line with a slope of 1 and a y-intercept of 2",
+            "d": "A horizontal line"
+        },
+        "correct_answer": "A line with a slope of 2 and a y-intercept of 1"
+    },
+    {
+        "q_no": 7,
+        "question": "What is the solution to the inequality 3x + 2 < 7?",
+        "options": {
+            "a": "x > 2",
+            "b": "x < 2",
+            "c": "x > 3",
+            "d": "x < 3"
+        },
+        "correct_answer": "x < 3"
+    },
+    {
+        "q_no": 8,
+        "question": "Which of the following represents a word problem involving linear equations?",
+        "options": {
+            "a": "Calculate the area of a circle",
+            "b": "Determine the distance traveled by a car at a constant speed",
+            "c": "Find the volume of a cube",
+            "d": "Calculate the perimeter of a square"
+        },
+        "correct_answer": "Determine the distance traveled by a car at a constant speed"
+    },
+    {
+        "q_no": 9,
+        "question": "If x + 5 = 11, what is the value of x?",
+        "options": {
+            "a": "6",
+            "b": "7",
+            "c": "8",
+            "d": "16"
+        },
+        "correct_answer": "6"
+    },
+    {
+        "q_no": 10,
+        "question": "What is the solution to the system of equations: y = x + 2 and 2x + y = 10?",
+        "options": {
+            "a": "x = 2, y = 3",
+            "b": "x = 3, y = 2",
+            "c": "x = 2, y = 4",
+            "d": "x = 4, y = 2"
+        },
+        "correct_answer": "x = 2, y = 4"
+    }
+]
+Time Taken: 117.94 seconds | Tokens Produced: 491 | ⚡⚡⚡ Token Speed 4.163 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 10...
+⚠️ Warning: Expected 12 MCQs but got 10...
+⚠️ Warning: Expected 12 MCQs but got 10...
+
+Attempt 4 out of 5... gemma3

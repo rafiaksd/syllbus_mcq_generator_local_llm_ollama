@@ -1,0 +1,113 @@
+********************************************************************************
+Syllabus NUMBER 1
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Edexcel Grade 12 Mathematics - Calculus - Differentiation:
+- Definition and interpretation of derivatives
+- Differentiating standard functions (polynomials, trigonometric, exponential)
+- Applying the chain rule and product/quotient rules
+- Finding gradients of curves at specific points
+- Solving optimization problems using differentiation
+- Introduction to related rates problems
+
+END IT
+TIME for SYLLABUS: 20.134 | ⚡⚡⚡ Token Speed: 2.632 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 5... falcon3
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What does the derivative of a function represent?",
+        "options": {
+            "a": "The rate of change of the function",
+            "b": "The area under the curve",
+            "c": "The maximum value of the function",
+            "d": "The second point of intersection with the x-axis"
+        },
+        "correct_answer": "The rate of change of the function"
+    },
+    {
+        "q_no": 2,
+        "question": "What is the derivative of f(x) = x^3?",
+        "options": {
+            "a": "3x^2",
+            "b": "x^2",
+            "c": "2x^3",
+            "d": "x^3"
+        },
+        "correct_answer": "3x^2"
+    },
+    {
+        "q_no": 3,
+        "question": "Which rule is used to differentiate composite functions?",
+        "options": {
+            "a": "The product rule",
+            "b": "The quotient rule",
+            "c": "The chain rule",
+            "d": "The exponential rule"
+        },
+        "correct_answer": "The chain rule"
+    },
+    {
+        "q_no": 4,
+        "question": "If y = sin(x) * cos(x), what is the derivative of y with respect to x?",
+        "options": {
+            "a": "cos^2(x) - sin^2(x)",
+            "b": "sin(2x)",
+            "c": "2cos(x)sin(x)",
+            "d": "cos(x)"
+        },
+        "correct_answer": "cos(x)"
+    },
+    {
+        "q_no": 5,
+        "question": "What is the derivative of f(x) = e^x?",
+        "options": {
+            "a": "e^x",
+            "b": "x*e^x",
+            "c": "ln(x)",
+            "d": "1/e^x"
+        },
+        "correct_answer": "e^x"
+    },
+    {
+        "q_no": 6,
+        "question": "How do you find the gradient of a curve y = x^2 at x = 3?",
+        "options": {
+            "a": "Substitute x = 3 into dy/dx = 2x",
+            "b": "Use the derivative formula for y = x^n",
+            "c": "Integrate y = x^2 to find x = 3",
+            "d": "Find the slope at x = 3 using a tangent line"
+        },
+        "correct_answer": "Substitute x = 3 into dy/dx = 2x"
+    },
+    {
+        "q_no": 7,
+        "question": "What is the primary goal of solving optimization problems using differentiation?",
+        "options": {
+            "a": "To find the maximum or minimum value of a function",
+            "b": "To determine the rate of change at a specific point",
+            "c": "To calculate the area under a curve",
+            "d": "To evaluate the function at its endpoints"
+        },
+        "correct_answer": "To find the maximum or minimum value of a function"
+    },
+    {
+        "q_no": 8,
+        "question": "In related rates problems, what is typically being related?",
+        "options": {
+            "a": "The derivative of a function",
+            "b": "The rates of change of different variables",
+            "c": "The integral of a function",
+            "d": "The area under the curve"
+        },
+        "correct_answer": "The rates of change of different variables"
+    }
+]
+Time Taken: 187.21 seconds | Tokens Produced: 372 | ⚡⚡⚡ Token Speed 1.987 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 8...
+
+Attempt 2 out of 5... falcon3

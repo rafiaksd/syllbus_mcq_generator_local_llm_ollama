@@ -1,0 +1,264 @@
+********************************************************************************
+
+Syllabus NUMBER 1 of 5 --- | gemma3:1b
+
+********************************************************************************
+
+Syllabus NUMBER 2 of 5 --- | gemma3:1b
+
+********************************************************************************
+
+Syllabus NUMBER 3 of 5 --- | gemma3:1b
+
+******************************************************************************
+
+Syllabus NUMBER 4 of 5 --- | gemma3:1b
+
+********************************************************************************
+
+Syllabus NUMBER 5 of 5 --- | gemma3:1b
+
+📝📝📝 GOTTEN SYLLABUS 5 of 5 📝📝📝
+📝📝📝 GOTTEN SYLLABUS 4 of 5 📝📝📝
+Prompt: Syllabus for Cambridge Grade 5 Mathematics, topic fractions, subtopic fraction addition
+Response:
+- Introduction to fractions as parts of a whole.
+- Understanding numerators and denominators.
+- Adding fractions with the same denominator.
+- Adding fractions with different denominators.
+- Simplifying fractions after addition.
+- Solving word problems involving fraction addition.
+Prompt: Syllabus for Cambridge Grade 5 Mathematics, topic fractions, subtopic fraction addition
+Response:
+- Introduction to fractions as parts of a whole.
+- Understanding numerators and denominators.
+- Adding fractions with the same denominator.
+- Adding fractions with different denominators.
+- Simplifying fractions after addition.
+- Solving word problems involving fraction addition.
+TIME for SYLLABUS: 13.684 | ⚡⚡⚡ Token Speed: 3.8 tokens/sec
+
+📝📝📝 GOTTEN SYLLABUS 1 of 5 📝📝📝
+TIME for SYLLABUS: 13.696 | ⚡⚡⚡ Token Speed: 3.797 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+🚀🚀🚀 EXPECTED MCQs: 12
+Prompt: Syllabus for Cambridge Grade 5 Mathematics, topic Fractions, subtopic fraction addition
+Response:
+- Introduction to fractions as parts of a whole.
+- Understanding numerators and denominators.
+- Adding fractions with the same denominator.
+- Adding fractions with different denominators.
+- Simplifying fractions after addition.
+- Solving word problems involving fraction addition.
+Attempt 1/4 for Syllabus 5 of 5... | gemma3:1b
+
+Attempt 1/4 for Syllabus 4 of 5... | gemma3:1b
+
+TIME for SYLLABUS: 13.721 | ⚡⚡⚡ Token Speed: 3.79 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Prompt: Syllabus for Cambridge Grade 5 Mathematics, topic Fractions, subtopic Fraction Addition
+Response:
+- Introduction to fractions as parts of a whole.
+- Understanding numerators and denominators.
+- Adding fractions with the same denominator.
+- Adding fractions with different denominators.
+- Simplifying fractions after addition.
+- Solving word problems involving fraction addition.
+Attempt 1/4 for Syllabus 1 of 5... | gemma3:1b
+
+TIME for SYLLABUS: 13.708 | ⚡⚡⚡ Token Speed: 3.793 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1/4 for Syllabus 2 of 5... | gemma3:1b
+
+📝📝📝 GOTTEN SYLLABUS 3 of 5 📝📝📝
+🔍🔍🔍 Generated MCQ:
+
+ {"error": "\u274c API response missing 'response' key. Got: {'error': 'POST predict: Post \"http://127.0.0.1:56195/completion\": read tcp 127.0.0.1:56203->127.0.0.1:56195: wsarecv: An existing connection was forcibly closed by the remote host.'}", "status_code": 500}
+🔍🔍🔍 Generated MCQ:
+
+ {"error": "\u274c API response missing 'response' key. Got: {'error': 'POST predict: Post \"http://127.0.0.1:56195/completion\": read tcp 127.0.0.1:56213->127.0.0.1:56195: wsarecv: An existing connection was forcibly closed by the remote host.'}", "status_code": 500}
+🔍🔍🔍 Generated MCQ:
+
+ {"error": "\u274c API response missing 'response' key. Got: {'error': 'POST predict: Post \"http://127.0.0.1:56195/completion\": read tcp 127.0.0.1:56212->127.0.0.1:56195: wsarecv: An existing connection was forcibly closed by the remote host.'}", "status_code": 500}
+🔍🔍🔍 Generated MCQ:
+
+ {"error": "\u274c API response missing 'response' key. Got: {'error': 'health resp: Get \"http://127.0.0.1:56195/health\": dial tcp 127.0.0.1:56195: connectex: No connection could be made because the target machine actively refused it.'}", "status_code": 500}
+{"error": "\u274c API response missing 'response' key. Got: {'error': 'an error was encountered while running the model: read tcp 127.0.0.1:56197->127.0.0.1:56195: wsarecv: An existing connection was forcibly closed by the remote host.'}", "status_code": 500}
+Time Taken: 18.52 seconds | Tokens Produced: 0 | ⚡⚡⚡ Token Speed 0.000 tokens/sec
+Time Taken: 18.52 seconds | Tokens Produced: 0 | ⚡⚡⚡ Token Speed 0.000 tokens/sec
+Time Taken: 18.51 seconds | Tokens Produced: 0 | ⚡⚡⚡ Token Speed 0.000 tokens/sec
+Time Taken: 18.51 seconds | Tokens Produced: 0 | ⚡⚡⚡ Token Speed 0.000 tokens/sec
+TIME for SYLLABUS: 32.217 | ⚡⚡⚡ Token Speed: 0 tokens/sec
+
+⚠️ Warning: Expected 12 MCQs but got 2...
+
+⚠️ Warning: Expected 12 MCQs but got 2...
+
+⚠️ Warning: Expected 12 MCQs but got 2...
+
+🚀🚀🚀 EXPECTED MCQs: 0
+Attempt 2/4 for Syllabus 4 of 5... | gemma3:1b
+
+Attempt 2/4 for Syllabus 5 of 5... | gemma3:1b
+
+Attempt 2/4 for Syllabus 1 of 5... | gemma3:1b
+
+Attempt 1/4 for Syllabus 3 of 5... | gemma3:1b
+
+🔍🔍🔍 Generated MCQ:
+
+ {"error": "\u274c API response missing 'response' key. Got: {'error': 'POST predict: Post \"http://127.0.0.1:56227/completion\": read tcp 127.0.0.1:56232->127.0.0.1:56227: wsarecv: An existing connection was forcibly closed by the remote host.'}", "status_code": 500}
+🔍🔍🔍 Generated MCQ:
+
+ {"error": "\u274c API response missing 'response' key. Got: {'error': 'POST predict: Post \"http://127.0.0.1:56227/completion\": read tcp 127.0.0.1:56235->127.0.0.1:56227: wsarecv: An existing connection was forcibly closed by the remote host.'}", "status_code": 500}
+🔍🔍🔍 Generated MCQ:
+
+ {"error": "\u274c API response missing 'response' key. Got: {'error': 'POST predict: Post \"http://127.0.0.1:56227/completion\": read tcp 127.0.0.1:56231->127.0.0.1:56227: wsarecv: An existing connection was forcibly closed by the remote host.'}", "status_code": 500}
+🔍🔍🔍 Generated MCQ:
+
+ {"error": "\u274c API response missing 'response' key. Got: {'error': 'health resp: Get \"http://127.0.0.1:56227/health\": dial tcp 127.0.0.1:56227: connectex: No connection could be made because the target machine actively refused it.'}", "status_code": 500}
+Time Taken: 14.58 seconds | Tokens Produced: 0 | ⚡⚡⚡ Token Speed 0.000 tokens/sec
+Time Taken: 14.58 seconds | Tokens Produced: 0 | ⚡⚡⚡ Token Speed 0.000 tokens/sec
+Time Taken: 14.58 seconds | Tokens Produced: 0 | ⚡⚡⚡ Token Speed 0.000 tokens/sec
+Time Taken: 14.57 seconds | Tokens Produced: 0 | ⚡⚡⚡ Token Speed 0.000 tokens/sec
+Time Taken: 14.58 seconds | Tokens Produced: 0 | ⚡⚡⚡ Token Speed 0.000 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 2...
+⚠️ Warning: Expected 12 MCQs but got 2...
+
+✅✅✅ Successfully generated 2 MCQs. Attempts Needed 1
+g: Expected 12 MCQs but got 2...
+
+⚠️ Warning: Expected 12 MCQs but got 2...
+⚠️ Warning: Expected 12 MCQs but got 2...
+
+⚠️ Warning: Expected 12 MCQs but got 2...
+⚠️ Warning: Expected 12 MCQs but got 2...
+
+Attempt 3/4 for Syllabus 5 of 5... | gemma3:1b
+
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 3 of 5
+Attempt 3/4 for Syllabus 2 of 5... | gemma3:1b
+
+Attempt 3/4 for Syllabus 1 of 5... | gemma3:1b
+
+Attempt 3/4 for Syllabus 4 of 5... | gemma3:1b
+
+{
+   "error": "\u274c API response missing 'response' key. Got: {'error': 'an error was encountered while running the model: read tcp 127.0.0.1:56233->127.0.0.1:56227: wsarecv: An existing connection was forcibly closed by the remote host.'}",
+   "status_code": 500
+}
+TIME for MCQ: 14.574 | ⚡⚡⚡ Token Speed: 0 tokens/sec
+TOTAL Tokens for Syllabus 3 & its MCQ: 0 | TOTAL Time: 46.80
+
+🔍🔍🔍 Generated MCQ:
+
+ {"error": "\u274c API response missing 'response' key. Got: {'error': 'POST predict: Post \"http://127.0.0.1:56245/completion\": read tcp 127.0.0.1:56249->127.0.0.1:56245: wsarecv: An existing connection was forcibly closed by the remote host.'}", "status_code": 500}
+🔍🔍🔍 Generated MCQ:
+
+ {"error": "\u274c API response missing 'response' key. Got: {'error': 'POST predict: Post \"http://127.0.0.1:56245/completion\": read tcp 127.0.0.1:56251->127.0.0.1:56245: wsarecv: An existing connection was forcibly closed by the remote host.'}", "status_code": 500}
+🔍🔍🔍 Generated MCQ:
+
+ {"error": "\u274c API response missing 'response' key. Got: {'error': 'POST predict: Post \"http://127.0.0.1:56245/completion\": read tcp 127.0.0.1:56253->127.0.0.1:56245: wsarecv: An existing connection was forcibly closed by the remote host.'}", "status_code": 500}
+Time Taken: 23.39 seconds | Tokens Produced: 0 | ⚡⚡⚡ Token Speed 0.000 tokens/sec
+Time Taken: 23.39 seconds | Tokens Produced: 0 | ⚡⚡⚡ Token Speed 0.000 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 2...
+⚠️ Warning: Expected 12 MCQs but got 2...
+⚠️ Warning: Expected 12 MCQs but got 2...
+
+⚠️ Warning: Expected 12 MCQs but got 2...
+⚠️ Warning: Expected 12 MCQs but got 2...
+⚠️ Warning: Expected 12 MCQs but got 2...
+
+⚠️ Warning: Expected 12 MCQs but got 2...
+⚠️ Warning: Expected 12 MCQs but got 2...
+⚠️ Warning: Expected 12 MCQs but got 2...
+
+⚠️ Warning: Expected 12 MCQs but got 2...
+⚠️ Warning: Expected 12 MCQs but got 2...
+⚠️ Warning: Expected 12 MCQs but got 2...
+
+Attempt 4/4 for Syllabus 2 of 5... | gemma3:1b
+
+Attempt 4/4 for Syllabus 4 of 5... | gemma3:1b
+
+Attempt 4/4 for Syllabus 1 of 5... | gemma3:1b
+
+Attempt 4/4 for Syllabus 5 of 5... | gemma3:1b
+
+🔍🔍🔍 Generated MCQ:
+
+ {"error": "\u274c API response missing 'response' key. Got: {'error': 'an error was encountered while running the model: read tcp 127.0.0.1:56267->127.0.0.1:56262: wsarecv: An existing connection was forcibly closed by the remote host.'}", "status_code": 500}
+🔍🔍🔍 Generated MCQ:
+
+ {"error": "\u274c API response missing 'response' key. Got: {'error': 'POST predict: Post \"http://127.0.0.1:56262/completion\": read tcp 127.0.0.1:56266->127.0.0.1:56262: wsarecv: An existing connection was forcibly closed by the remote host.'}", "status_code": 500}
+🔍🔍🔍 Generated MCQ:
+
+ {"error": "\u274c API response missing 'response' key. Got: {'error': 'POST predict: Post \"http://127.0.0.1:56262/completion\": read tcp 127.0.0.1:56270->127.0.0.1:56262: wsarecv: An existing connection was forcibly closed by the remote host.'}", "status_code": 500}
+Time Taken: 14.94 seconds | Tokens Produced: 0 | ⚡⚡⚡ Token Speed 0.000 tokens/sec
+Time Taken: 14.94 seconds | Tokens Produced: 0 | ⚡⚡⚡ Token Speed 0.000 tokens/sec
+Time Taken: 14.94 seconds | Tokens Produced: 0 | ⚡⚡⚡ Token Speed 0.000 tokens/sec
+Time Taken: 14.94 seconds | Tokens Produced: 0 | ⚡⚡⚡ Token Speed 0.000 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 2...
+⚠️ Warning: Expected 12 MCQs but got 2...
+⚠️ Warning: Expected 12 MCQs but got 2...
+⚠️ Warning: Expected 12 MCQs but got 2...
+
+⚠️ Warning: Expected 12 MCQs but got 2...
+⚠️ Warning: Expected 12 MCQs but got 2...
+⚠️ Warning: Expected 12 MCQs but got 2...
+⚠️ Warning: Expected 12 MCQs but got 2...
+
+⚠️ Warning: Expected 12 MCQs but got 2...
+⚠️ Warning: Expected 12 MCQs but got 2...
+⚠️ Warning: Expected 12 MCQs but got 2...
+⚠️ Warning: Expected 12 MCQs but got 2...
+
+⚠️ Warning: Expected 12 MCQs but got 2...
+⚠️ Warning: Expected 12 MCQs but got 2...
+⚠️ Warning: Expected 12 MCQs but got 2...
+⚠️ Warning: Expected 12 MCQs but got 2...
+
+⚠️ Warning: After 4 attempts returning longest valid response.
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 1 of 5
+⚠️ Warning: After 4 attempts returning longest valid response.
+⚠️ Warning: After 4 attempts returning longest valid response.
+{
+   "error": "\u274c API response missing 'response' key. Got: {'error': 'health resp: Get \"http://127.0.0.1:56195/health\": dial tcp 127.0.0.1:56195: connectex: No connection could be made because the target machine actively refused it.'}",
+   "status_code": 500
+}
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 2 of 5
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 5 of 5
+{
+   "error": "\u274c API response missing 'response' key. Got: {'error': 'POST predict: Post \"http://127.0.0.1:56195/completion\": read tcp 127.0.0.1:56203->127.0.0.1:56195: wsarecv: An existing connection was forcibly closed by the remote host.'}",
+   "status_code": 500
+}
+TIME for MCQ: 18.514 | ⚡⚡⚡ Token Speed: 0 tokens/sec
+{
+   "error": "\u274c API response missing 'response' key. Got: {'error': 'POST predict: Post \"http://127.0.0.1:56195/completion\": read tcp 127.0.0.1:56212->127.0.0.1:56195: wsarecv: An existing connection was forcibly closed by the remote host.'}",
+   "status_code": 500
+}
+TIME for MCQ: 18.515 | ⚡⚡⚡ Token Speed: 0 tokens/sec
+{
+   "error": "\u274c API response missing 'response' key. Got: {'error': 'POST predict: Post \"http://127.0.0.1:56195/completion\": read tcp 127.0.0.1:56213->127.0.0.1:56195: wsarecv: An existing connection was forcibly closed by the remote host.'}",
+   "status_code": 500
+}
+TOTAL Tokens for Syllabus 1 & its MCQ: 52 | TOTAL Time: 85.16
+
+TIME for MCQ: 18.512 | ⚡⚡⚡ Token Speed: 0 tokens/sec
+TIME for MCQ: 18.516 | ⚡⚡⚡ Token Speed: 0 tokens/sec
+TOTAL Tokens for Syllabus 4 & its MCQ: 52 | TOTAL Time: 85.14
+
+TOTAL Tokens for Syllabus 2 & its MCQ: 52 | TOTAL Time: 85.15
+
+TOTAL Tokens for Syllabus 5 & its MCQ: 52 | TOTAL Time: 85.13
+
+********************************************************************************
+
+Model: gemma3:1b
+
+Total Time Taken: 85.80 | Total Tokens Generated: 208 | Avg Total Token Gen Speed: 2.42 tokens/sec
+Total Syllabi: 5 | Total Success MCQ : 0 | MCQ Attempt per Syllabus: 4
+Total ERROR: 0

@@ -1,0 +1,160 @@
+********************************************************************************
+********************************************************************************
+Syllabus NUMBER 1
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+- Introduction to the concept of differentiation in calculus
+- Understanding the derivative as a measure of rate of change
+- Finding the derivative using the power rule and constant multiple rule
+- Applying derivatives to solve optimization problems
+- Differentiating functions with more than one variable
+- Solving systems of equations involving differentiation
+TIME for SYLLABUS: 5.571 | Token Speed: 9.692 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 6...
+🔍🔍🔍 Generated MCQ:
+
+ {"q_no": 1, "question": "What is the main purpose of glycolysis in the cell?", "options": {"a": "To produce ATP", "b": "To synthesize proteins", "c": "To break down glucose into glucose-6-phosphate", "d": "To store energy in the form of glycogen"}, "correct_answer": "To produce ATP"}
+{"q_no": 2, "question": "Which step in glycolysis is catalyzed by the enzyme hexokinase?", "options": {"a": "Phosphorylation", "b": "Decarboxylation", "c": "Glycolysis", "d": "Regeneration of ATP"}, "correct_answer": "b"}
+Time Taken: 15.30 seconds | Tokens Produced: 68 | Token Speed 4.446 tokens/sec
+⚠️ Error: Invalid JSON format...
+
+Attempt 2 out of 6...
+🔍🔍🔍 Generated MCQ:
+
+ {
+
+    "q_no": 1,
+    "question": "Why is cellular respiration important for living organisms?",
+    "options": {"a": "It produces glucose for energy storage", "b": "It converts food into usable energy", "c": "It allows movement in cells", "d": "It helps absorb sunlight"},
+    "correct_answer": "It converts food into usable energy"
+
+}
+
+{
+
+    "q_no": 2,
+    "question": "What is the definition of cellular respiration?",
+    "options": {"a": "The breakdown of glucose to release energy", "b": "The absorption of oxygen in the lungs", "c": "The creation of new cells from old ones", "d": "The conversion of proteins into glucose"},
+    "correct_answer": "The breakdown of glucose to release energy"
+
+}
+
+{
+
+    "q_no": 3,
+    "question": "What is the end product of glycolysis from one glucose molecule?",
+    "options": {"a": "Two ethanol molecules", "b": "Two pyruvate molecules", "c": "Four ATP molecules", "d": "One glucose molecule"},
+    "correct_answer": "Two pyruvate molecules"
+
+}
+
+{
+
+    "q_no": 4,
+    "question": "Where does glycolysis occur in the cell?",
+    "options": {"a": "In the mitochondria", "b": "In the nucleus", "c": "In the cytoplasm", "d": "In the endoplasmic reticulum"},
+    "correct_answer": "In the cytoplasm"
+
+}
+
+{
+
+    "q_no": 5,
+    "question": "What is a derivative in calculus?",
+    "options": {"a": "A rate of change from one point to another", "b": "A measure of volume", "c": "A quantity of substance", "d": "A unit of temperature"},
+    "correct_answer": "A rate of change from one point to another"
+
+}
+
+{
+
+    "q_no": 6,
+    "question": "How does the derivative represent the slope of a tangent line?",
+    "options": {"a": "The rate at which the function changes as x increases", "b": "The value of the function at x=0", "c": "The distance between two points on the graph", "d": "The y-intercept of the graph"},
+    "correct_answer": "The rate at which the function changes as x increases"
+
+}
+
+{
+
+    "q_no": 7,
+    "question": "What is differentiation?",
+    "options": {"a": "Finding the maximum and minimum values of a function", "b": "Solving systems of equations involving addition and subtraction", "c": "Using logarithms to solve equations", "d": "Differentiating functions with two variables"},
+    "correct_answer": "Differentiation"
+
+}
+
+{
+
+    "q_no": 8,
+    "question": "What is the derivative of x^2?",
+    "options": {"a": "x^3", "b": "x^2", "c": "-1*x^3", "d": "0"},
+    "correct_answer": "x^2"
+
+}
+
+{
+
+    "q_no": 9,
+    "question": "What is the derivative of x/x?",
+    "options": {"a": "x + c", "b": "-1/(x)", "c": "1/x", "d": "0"},
+    "correct_answer": "1/x"
+
+}
+
+{
+
+    "q_no": 10,
+    "question": "What is the derivative of sin(x)?",
+    "options": {"a": "cos(x)", "b": "sin(x)", "c": "-cos(x)", "d": "tan(x)"},
+    "correct_answer": "cos(x)"
+
+}
+
+{
+
+    "q_no": 11,
+    "question": "What is the derivative of a function with multiple variables?",
+    "options": {"a": "1/x", "b": "0", "c": "-1/y^2", "d": "1"},
+    "correct_answer": "1/x"
+
+}
+
+{
+
+    "q_no": 12,
+    "question": "What is the purpose of finding the derivative in calculus?",
+    "options": {"a": "To find the maximum and minimum values of a function", "b": "To solve systems of equations involving addition and subtraction", "c": "To calculate the area under a curve", "d": "To analyze the behavior of a function at a given point"},
+    "correct_answer": "To analyze the behavior of a function at a given point"
+
+}
+Time Taken: 44.75 seconds | Tokens Produced: 484 | Token Speed 10.816 tokens/sec
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+
+Attempt 3 out of 6...
+🔍🔍🔍 Generated MCQ:
+
+ {"q_no": 1, "question": "Why is cellular respiration important for living organisms?", 
+"options": {"a": "It produces glucose for energy storage", "b": "It converts food into usable energy", "c": "It allows movement in cells", "d": "It helps absorb sunlight"},
+"correct_answer": "It converts food into usable energy"}
+
+{"q_no": 2, "question": "What is the definition of cellular respiration?", 
+"options": {"a": "The breakdown of glucose to release energy", "b": "The absorption of oxygen in the lungs", "c": "The creation of new cells from old ones", "d": "The conversion of proteins into glucose"},
+"correct_answer": "The breakdown of glucose to release energy"}
+
+{"q_no": 3, "question": "What is the end product of glycolysis from one glucose molecule?", 
+"options": {"a": "Two ethanol molecules", "b": "Four ATP molecules", "c": "Two pyruvate molecules", "d": "One glucose molecule"},
+"correct_answer": "Two pyruvate molecules"}
+
+{"q_no": 4, "question": "Where does glycolysis occur in the cell?", 
+"options": {"a": "In the mitochondria", "b": "In the nucleus", "c": "In the cytoplasm", "d": "In the endoplasmic reticulum"},
+"correct_answer": "In the cytoplasm"}
+Time Taken: 15.65 seconds | Tokens Produced: 162 | Token Speed 10.348 tokens/sec
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+
+Attempt 4 out of 6...

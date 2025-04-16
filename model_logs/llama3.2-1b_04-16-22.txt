@@ -1,0 +1,910 @@
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "Which of the following wavelengths corresponds to the visible part of the electromagnetic spectrum?", "options": {"a": "100 nm, 400 nm, 700 nm"}, "correct_answer": "400 nm"},
+    {"q_no": "2", "question": "Why is it difficult for a material to be a good conductor of electricity when it has high melting points and low thermal conductivity?", "options": {"a": "Because it has high density", "b": "Because it has high atomic mass", "c": "Because it has high temperature range", "d": "Because it has high crystal structure"}, "correct_answer": "Because it has high melting points and low thermal conductivity"},
+    {"q_no": "3", "question": "What is the primary reason for the existence of negative ions in gases?", "options": {"a": "Due to the presence of electrons with excess energy", "b": "Due to the presence of protons with excess energy", "c": "Because of the electrostatic repulsion between electrons and nuclei", "d": "Because of the presence of a magnetic field"}, "correct_answer": "Due to the presence of electrons with excess energy"},
+    {"q_no": "4", "question": "Which type of radiation has the longest wavelength?", "options": {"a": "Gamma rays, X-rays, alpha particles", "b": "Neutrinos, cosmic rays, gamma rays"}, "correct_answer": "X-rays"},
+    {"q_no": "5", "question": "What is the primary difference between a wave and a particle?", "options": {"a": "Wave has higher energy than particle", "b": "Particle has lower mass than wave", "c": "Both waves and particles have zero volume", "d": "Both waves and particles are identical"}, "correct_answer": "c"},
+    {"q_no": "6", "question": "Why is it necessary to separate light into its component colors?", "options": {"a": "To understand the properties of each color separately", "b": "To demonstrate the principles of additive color mixing", "c": "To reduce noise and interference in light sources", "d": "To make colors appear more vivid"}, "correct_answer": "a"},
+    {"q_no": "7", "question": "What is the primary application of quantum mechanics in everyday life?", "options": {"a": "In computing, cryptography, and other areas of technology", "b": "In chemistry, physics, and engineering", "c": "In biology and medicine", "d": "In finance and economics"}, "correct_answer": "a"},
+    {"q_no": "8", "question": "Why is it difficult to detect ultraviolet (UV) light?", "options": {"a": "Because it has a shorter wavelength than visible light", "b": "Because it has an invisible spectrum", "c": "Because it interacts with matter in unexpected ways", "d": "Because it is too energetic for most materials"}, "correct answer": "c"},
+    {"q_no": "9", "question": "What is the primary difference between a wave function and a probability amplitude?", "options": {"a": "Wave function describes the spatial distribution of particles, while probability amplitude describes their energy levels", "b": "Wave function describes individual particles, while probability amplitude describes collective behavior", "c": "Both describe physical systems equally well", "d": "Neither has meaning without context"}, "correct answer": "a"},
+    {"q_no": "10", "question": "Why is the wave-particle duality of matter a fundamental concept in physics?", "options": {"a": "Because it challenges our understanding of matter as being composed of tiny particles", "b": "Because it describes the interaction between energy and matter at the quantum level", "c": "Because it has been experimentally confirmed time and again", "d": "Because it is a general principle that applies to all physical systems"}, "correct answer": "a"},
+    {"q_no": "11", "question": "What is the primary consequence of wave-particle duality in quantum mechanics?", "options": {"a": "The decrease in precision of measurement techniques", "b": "The increase in sensitivity to noise and interference", "c": "The fundamental redefinition of reality", "d": "The transformation of energy into matter"}, "correct answer": "c"},
+    {"q_no": "12", "question": "Why is the uncertainty principle a fundamental concept in quantum mechanics?", "options": {"a": "Because it provides a quantitative description of the indistinguishability of particles at the atomic scale", "b": "Because it shows that certain observables cannot be precisely known simultaneously", "c": "Because it relates to the energy-momentum relation of particles", "d": "Because it has been experimentally verified time and again"}, "correct answer": "a"},
+    {"q_no": "13", "question": "What is the primary difference between quantum mechanics and classical physics?", "options": {"a": "Quantum mechanics deals with wave-particle behavior, while classical physics deals with particle motion", "b": "Classical physics describes macroscopic systems, while quantum mechanics describes microscopic systems", "c": "Both deal with energy levels and quantization", "d": "Neither deals with wave-particle behavior"}, "correct answer": "a"},
+    {"q_no": "14", "question": "Why is the Heisenberg uncertainty principle a fundamental concept in physics?", "options": {"a": "Because it provides a quantitative description of the limitations of measurement techniques", "b": "Because it shows that certain observables cannot be precisely known simultaneously", "c": "Because it relates to the energy-momentum relation of particles", "d": "Because it has been experimentally verified time and again"}, "correct answer": "a"}
+Time Taken: 90.76 seconds | Tokens Produced: 743 | ⚡⚡⚡ Token Speed 8.187 tokens/sec
+⚠️ Error: Invalid JSON format...
+⚠️ Warning: Expected 38 MCQs but got 14...
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+
+⚠️ Warning: After 4 attempts returning longest valid response.
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 3 of 3
+[
+   {
+      "q_no": "1",
+      "question": "Which property is typically associated with alcohols in terms of their -OH group?",
+      "options": {
+         "a": "High boiling points",
+         "b": "Formation of esters via dehydration",
+         "c": "Miscibility with water",
+         "d": "Low reactivity towards halogens"
+      },
+      "correct_answer": "Miscibility with water"
+   },
+   {
+      "q_no": "2",
+      "question": "What type of reaction involves the removal of a water molecule from an alcohol?",
+      "options": {
+         "a": "Hydrogenation",
+         "b": "Dehydration",
+         "c": "Hydrolysis",
+         "d": "Substitution"
+      },
+      "correct_answer": "Dehydration"
+   },
+   {
+      "q_no": "3",
+      "question": "Which characteristic distinguishes alcohols from ethers in terms of their functional groups?",
+      "options": {
+         "a": "Presence of -OH group",
+         "b": "-OR",
+         "c": "-NH2",
+         "d": "-CN"
+      },
+      "correct_answer": "Presence of -OH group"
+   },
+   {
+      "q_no": "4",
+      "question": "Which reaction type would be expected to form a phenoxide ion from an alcohol?",
+      "options": {
+         "a": "Hydration",
+         "b": "Dehydration",
+         "c": "Hydrolysis",
+         "d": "Substitution"
+      },
+      "correct_answer": "Dehydration"
+   },
+   {
+      "q_no": "5",
+      "question": "What is the typical reactivity pattern of alcohols compared to ethers?",
+      "options": {
+         "a": "Increased stability due to resonance",
+         "b": "Lower reactivity due to no lone pairs",
+         "c": "Higher reactivity due to resonance",
+         "d": "Lower reactivity due to no double bonds"
+      },
+      "correct_answer": "Higher reactivity due to resonance"
+   },
+   {
+      "q_no": "6",
+      "question": "Which characteristic allows ethers to be less reactive than alcohols?",
+      "options": {
+         "a": "Increased stability due to resonance",
+         "b": "Lower reactivity due to no lone pairs",
+         "c": "Higher reactivity due to resonance",
+         "d": "Lower reactivity due to no double bonds"
+      },
+      "correct_answer": "Lower reactivity due to no double bonds"
+   },
+   {
+      "q_no": "7",
+      "question": "Which type of reaction involves the removal of an oxygen atom from an alcohol?",
+      "options": {
+         "a": "Hydrogenation",
+         "b": "Dehydration",
+         "c": "Hydrolysis",
+         "d": "Substitution"
+      },
+      "correct_answer": "Dehydration"
+   },
+   {
+      "q_no": "8",
+      "question": "Which characteristic distinguishes ethers from alcohols in terms of their functional groups?",
+      "options": {
+         "a": "-OR",
+         "b": "-NH2",
+         "c": "-CN",
+         "d": "-OH"
+      },
+      "correct_answer": "-OR"
+   },
+   {
+      "q_no": "9",
+      "question": "What is the typical boiling point comparison between alcohols and ethers?",
+      "options": {
+         "a": "Higher boiling points",
+         "b": "Lower boiling points",
+         "c": "No difference in boiling points",
+         "d": "Intermolecular hydrogen bonding"
+      },
+      "correct_answer": "Higher boiling points"
+   },
+   {
+      "q_no": "10",
+      "question": "Which reaction type would be expected to form an ether from an alcohol?",
+      "options": {
+         "a": "Hydration",
+         "b": "Dehydration",
+         "c": "Hydrolysis",
+         "d": "Substitution"
+      },
+      "correct_answer": "Dehydration"
+   },
+   {
+      "q_no": "11",
+      "question": "Which characteristic allows ethers to be more reactive than alcohols?",
+      "options": {
+         "a": "Increased stability due to resonance",
+         "b": "Lower reactivity due to no lone pairs",
+         "c": "Higher reactivity due to resonance",
+         "d": "Lower reactivity due to no double bonds"
+      },
+      "correct_answer": "Higher reactivity due to resonance"
+   },
+   {
+      "q_no": "12",
+      "question": "Which characteristic distinguishes alcohols from ethers in terms of their functional groups?",
+      "options": {
+         "a": "-OR",
+         "b": "-NH2",
+         "c": "-CN",
+         "d": "-OH"
+      },
+      "correct_answer": "-OR"
+   },
+   {
+      "q_no": "13",
+      "question": "What is the typical reactivity pattern of alcohols compared to ethers?",
+      "options": {
+         "a": "Higher stability due to resonance",
+         "b": "Lower stability due to resonance",
+         "c": "Increased reactivity due to resonance",
+         "d": "Decreased reactivity due to resonance"
+      },
+      "correct_answer": "Higher stability due to resonance"
+   },
+   {
+      "q_no": "14",
+      "question": "Which characteristic allows ethers to be more reactive than alcohols?",
+      "options": {
+         "a": "-OR",
+         "b": "-NH2",
+         "c": "-CN",
+         "d": "-OH"
+      },
+      "correct_answer": "-OR"
+   }
+]
+TIME for MCQ: 118.191 | ⚡⚡⚡ Token Speed: 4.146 tokens/sec
+TOTAL Tokens for Syllabus 3 & its MCQ: 610 | TOTAL Time: 530.20
+
+********************************************************************************
+
+Model: llama3.2:1b
+
+Total Time Taken: 642.71 | Total Tokens Generated: 1599 | Avg Total Token Gen Speed: 2.49 tokens/sec
+Total Syllabi: 3 | Total Success MCQ : 0 | MCQ Attempt per Syllabus: 4
+Total ERROR: 0
+💥 Model Used: llama3.2:1b
+🧠 Total Syllabi: 3
+Using 2 parallel processes.
+********************************************************************************
+
+Syllabus NUMBER 1 of 3 --- | llama3.2:1b
+********************************************************************************
+
+
+Syllabus NUMBER 2 of 3 --- | llama3.2:1b
+
+📝📝📝 GOTTEN SYLLABUS 1 of 3 📝📝📝
+- Introduction to exponents and their properties
+- Rules of exponentiation
+- Solving equations with exponents
+- Simplifying expressions involving exponents
+- Graphing linear equations in slope-intercept form
+- Solving systems of linear equations using substitution method
+TIME for SYLLABUS: 7.954 | ⚡⚡⚡ Token Speed: 4.652 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1/4 for Syllabus 1 of 3... | llama3.2:1b
+
+📝📝📝 GOTTEN SYLLABUS 2 of 3 📝📝📝
+- Introduction to functions and their definitions
+- Understanding function notation (f(x), f(y))
+- Differentiation rules: Power Rule, Product Rule, Quotient Rule, Chain Rule
+- Solving equations using differentiation
+- Graphing functions on a coordinate plane
+- Identifying domain restrictions for functions
+TIME for SYLLABUS: 8.385 | ⚡⚡⚡ Token Speed: 5.009 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1/4 for Syllabus 2 of 3... | llama3.2:1b
+
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What is the base of the exponential function?", "options": {"a": "Natural numbers", "b": "Rational numbers", "c": "Irrational numbers", "d": "Complex numbers"}, "correct_answer": "Natural numbers"},
+    {"q_no": "2", "question": "Which property holds for any base when it is raised to the power of a sum?", "options": {"a": "Product rule", "b": "Quotient rule", "c": "Power rule", "d": "Sum rule"}, "correct_answer": "Power rule"},
+    {"q_no": "3", "question": "What is the result of multiplying two exponential expressions with the same base?", "options": {"a": "Adding the exponents", "b": "Subtracting the exponents", "c": "Multiplying the bases and adding the exponents", "d": "Dividing the bases and subtracting the exponents"}, "correct_answer": "Multiplying the bases and adding the exponents"},
+    {"q_no": "4", "question": "Which rule applies to any exponential expression with a base greater than 1?", "options": {"a": "Product rule", "b": "Quotient rule", "c": "Power rule", "d": "Sum rule"}, "correct_answer": "Product rule"},
+    {"q_no": "5", "question": "What is the result of dividing two exponential expressions with the same base?", "options": {"a": "Adding the exponents", "b": "Subtracting the exponents", "c": "Multiplying the bases and subtracting the exponents", "d": "Dividing the bases and adding the exponents"}, "correct_answer": "Adding or subtracting the exponents"},
+    {"q_no": "6", "question": "Which rule applies to any exponential expression with a base less than 1?", "options": {"a": "Product rule", "b": "Quotient rule", "c": "Power rule", "d": "Sum rule"}, "correct_answer": "Quotient rule"},
+    {"q_no": "7", "question": "What is the result of raising a number to the power of 0?", "options": {"a": "1", "b": "any number", "c": "-1", "d": "undefined"}, "correct_answer": "1"},
+    {"q_no": "8", "question": "Which rule applies to any exponential expression with a variable base and whole numbers as exponents?", "options": {"a": "Product rule", "b": "Quotient rule", "c": "Power rule", "d": "Sum rule"}, "correct_answer": "Power rule"},
+    {"q_no": "9", "question": "What is the result of subtracting two exponential expressions with the same base?", "options": {"a": "Adding the exponents", "b": "Subtracting the exponents", "c": "Multiplying the bases and subtracting the exponents", "d": "Dividing the bases and adding the exponents"}, "correct_answer": "Multiplying the bases and subtracting the exponents"},
+    {"q_no": "10", "question": "Which rule applies to any exponential expression with a base greater than 1?", "options": {"a": "Product rule", "b": "Quotient rule", "c": "Power rule", "d": "Sum rule"}, "correct_answer": "Power rule"},
+    {"q_no": "11", "question": "What is the result of dividing two exponential expressions with a base greater than 1?", "options": {"a": "Adding the exponents", "b": "Subtracting the exponents", "c": "Multiplying the bases and subtracting the exponents", "d": "Dividing the bases and adding the exponents"}, "correct_answer": "Multiplying the bases and dividing the exponents"},
+    {"q_no": "12", "question": "Which rule applies to any exponential expression with a base less than 1?", "options": {"a": "Product rule", "b": "Quotient rule", "c": "Power rule", "d": "Sum rule"}, "correct_answer": "Quotient rule"},
+    {"q_no": "13", "question": "What is the result of raising a number to an odd power?", "options": {"a": "1", "b": "any number", "c": "(-1)^n", "d": "undefined"}, "correct_answer": "-1^n"},
+    {"q_no": "14", "question": "Which rule applies to any exponential expression with a variable base and whole numbers as exponents?", "options": {"a": "Product rule", "b": "Quotient rule", "c": "Power rule", "d": "Sum rule"}, "correct_answer": "Power rule"} }
+Time Taken: 92.84 seconds | Tokens Produced: 513 | ⚡⚡⚡ Token Speed 5.526 tokens/sec
+********************************************************************************
+
+Syllabus NUMBER 3 of 3 --- | llama3.2:1b
+💥 Model Used: llama3.2:1b
+🧠 Total Syllabi: 3
+Using 2 parallel processes.
+💥 Model Used: llama3.2:1b
+🧠 Total Syllabi: 3
+Using 2 parallel processes.
+********************************************************************************
+
+Syllabus NUMBER 1 of 3 --- | llama3.2:1b
+
+Syllabus NUMBER 2 of 3 --- | llama3.2:1b
+
+
+📝📝📝 GOTTEN SYLLABUS 1 of 3 📝📝📝
+- Introduction to exponents and powers of bases
+- Properties of exponents (product rule, quotient rule)
+- Rules for simplifying expressions with exponents
+- Solving linear equations using exponents
+- Graphing exponential functions on the coordinate plane
+- Solving problems involving exponentials in context
+TIME for SYLLABUS: 9.04 | ⚡⚡⚡ Token Speed: 4.867 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1/4 for Syllabus 1 of 3... | llama3.2:1b
+
+********************************************************************************
+
+Syllabus NUMBER 3 of 3 --- | llama3.2:1b
+
+📝📝📝 GOTTEN SYLLABUS 2 of 3 📝📝📝
+- Introduction to functions and their role in mathematics
+- Understanding function notation (f(x) = y)
+- Function representation on the coordinate plane
+- Types of functions (linear, quadratic, polynomial)
+- Domain and range of a function
+- Solving equations involving functions
+- Evaluating composite functions
+- Notation for inverse functions
+TIME for SYLLABUS: 9.248 | ⚡⚡⚡ Token Speed: 5.514 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 16
+Attempt 1/4 for Syllabus 2 of 3... | llama3.2:1b
+
+📝📝📝 GOTTEN SYLLABUS 3 of 3 📝📝📝
+Syllabus for Cambridge Grade 5 Mathematics - Fractions - Fraction Addition:
+- Introduction to fractions as parts of a whole
+- Understanding numerators and denominators
+- Adding fractions with the same denominator
+- Adding fractions with different denominators
+- Simplifying fractions after addition
+- Solving word problems involving fraction addition
+TIME for SYLLABUS: 4.747 | ⚡⚡⚡ Token Speed: 10.533 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1/4 for Syllabus 3 of 3... | llama3.2:1b
+
+💥 Model Used: llama3.2:1b
+🧠 Total Syllabi: 3
+Using 2 parallel processes.
+********************************************************************************
+
+Syllabus NUMBER 1 of 3 --- | llama3.2:1b
+
+********************************************************************************
+
+Syllabus NUMBER 2 of 3 --- | llama3.2:1b
+
+📝📝📝 GOTTEN SYLLABUS 1 of 3 📝📝📝
+- Introduction to exponents and powers of variables
+- Understanding exponent notation
+- Rules of product and power in algebra
+- Equations involving exponents
+- Solving equations with exponents
+- Graphing exponential functions
+TIME for SYLLABUS: 4.19 | ⚡⚡⚡ Token Speed: 7.876 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1/4 for Syllabus 1 of 3... | llama3.2:1b
+
+📝📝📝 GOTTEN SYLLABUS 2 of 3 📝📝📝
+- Introduction to functions as relations between inputs and outputs
+- Understanding function notation and symbols
+- Representing functions using graphs and equations
+- Identifying and explaining domain and range of a function
+- Solving equation systems involving functions
+- Differentiation techniques for understanding slope and rate of change of functions
+TIME for SYLLABUS: 4.89 | ⚡⚡⚡ Token Speed: 10.43 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1/4 for Syllabus 2 of 3... | llama3.2:1b
+
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What is the relationship between input and output in a relation?", "options": {"a": "Function notation", "b": "Graph", "c": "Equation", "d": "Relation"}, "correct_answer": "Function notation"},
+    {"q_no": "2", "question": "Which of the following represents a function?", "options": {"a": "A relation where input is output", "b": "An equation representing an equality", "c": "A graph showing two points", "d": "A table listing values for a variable", "e": "Function notation"}, "correct_answer": "Function notation"},
+    {"q_no": "3", "question": "What symbol represents a function?", "options": {"a": "A+, b": "B-", c": "-", d": ","}, "correct_answer": "B-"},
+    {"q_no": "4", "question": "In what type of relation is the input always equal to zero?", "options": {"a": "One-to-one relation", "b": "Two-to-one relation", "c": "Many-to-many relation", "d": "None"}, "correct_answer": "One-to-one relation"},
+    {"q_no": "5", "question": "What is a variable in function notation?", "options": {"a": "Input", "b": "Output", "c": "Constant", "d": "Symbol"}, "correct_answer": "Input"},
+    {"q_no": "6", "question": "Which type of relation involves both inputs and outputs?", "options": {"a": "Function notation", "b": "Graph", "c": "Equation", "d": "Relation"}, "correct_answer": "Function notation"},
+    {"q_no": "7", "question": "What is the process of expressing a function in terms of its inputs and outputs?", "options": {"a": "Deletion", "b": "Insertion", "c": "Transposition", "d": "Division", "e": "Multiplication"}, "correct_answer": "Deletion"},
+    {"q_no": "8", "question": "What is the relationship between input and output in a relation?", "options": {"a": "Function notation", "b": "Graph", "c": "Equation", "d": "Relation"}, "correct_answer": "Function notation"},
+    {"q_no": "9", "question": "Which of the following represents an equation?", "options": {"a": "A relation where input is output", "b": "An expression for a function", "c": "A graph showing two points", "d": "A table listing values for a variable", "e": "Function notation"}, "correct_answer": "An expression for a function"},
+    {"q_no": "10", "question": "What symbol represents an equality in equation?", "options": {"a": "=" b": + c": - d": / e": ^"}, "correct_answer": "="},
+    {"q_no": "11", "question": "In what type of relation is the output always greater than or equal to zero?", "options": {"a": "One-to-one relation", "b": "Two-to-one relation", "c": "Many-to-many relation", "d": "None"}, "correct_answer": "One-to-one relation"},
+    {"q_no": "12", "question": "What is the relationship between input and output in a relation?", "options": {"a": "Function notation", "b": "Graph", "c": "Equation", "d": "Relation"}, "correct_answer": "Function notation"}
+]
+Time Taken: 70.92 seconds | Tokens Produced: 356 | ⚡⚡⚡ Token Speed 5.020 tokens/sec
+⚠️ Error: Invalid JSON format...
+
+Attempt 2/4 for Syllabus 2 of 3... | llama3.2:1b
+
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What is the base of an exponent?", "options": {"a": 2, "b": 3, "c": 4, "d": 5}, "correct_answer": "3"},
+    {"q_no": "2", "question": "Which operation involves raising a number to the power of another number?", "options": {"a": "+", "b": "-", "c": "*", "d": "^"}, "correct_answer": "*"},
+    {"q_no": "3", "question": "What is the value of x in the equation 2^x = 16?", "options": {"a": 1, "b": 2, "c": 4, "d": 8}, "correct_answer": "4"},
+    {"q_no": "4", "question": "Which operation involves raising a number to a power and then multiplying the result by another number?", "options": {"a": "*", "b": "+", "c": "-", "d": "^2"}, "correct_answer": "*^2"},
+    {"q_no": "5", "question": "What is the definition of an exponential function?", "options": {"a": "A mathematical expression that represents a value as a result of multiplying x by itself n times", "b": "An equation with variables on both sides", "c": "A statement that is always true", "d": "A formula used to solve equations"}, "correct_answer": "a"},
+    {"q_no": "6", "question": "What is the purpose of using exponents in math problems?", "options": {"a": "To simplify expressions", "b": "To make calculations easier", "c": "To show the relationship between two quantities", "d": "To solve equations"}, "correct_answer": "a"},
+    {"q_no": "7", "question": "What is the value of y in the equation 2^y = 64?", "options": {"a": 1, "b": 2, "c": 3, "d": 4}, "correct_answer": "3"},
+    {"q_no": "8", "question": "Which operation involves raising a number to the power of another number and then taking the nth root?", "options": {"a": "Cube root", "b": "Square root", "c": "^1/2", "d": "^n/2"}, "correct_answer": "^1/2"},
+    {"q_no": "9", "question": "What is the purpose of using exponents in logarithmic equations?", "options": {"a": "To solve for x", "b": "To simplify expressions", "c": "To show the relationship between two quantities", "d": "To find the value of y"}, "correct_answer": "b"},
+    {"q_no": "10", "question": "What is the definition of an exponential function with a fractional base?", "options": {"a": "A mathematical expression that represents a value as a result of multiplying x by itself n times", "b": "An equation with variables on both sides", "c": "A statement that is always true", "d": "An inequality"}, "correct_answer": "a"},
+    {"q_no": "11", "question": "What is the purpose of using exponents in scientific notation?", "options": {"a": "To simplify expressions", "b": "To make calculations easier", "c": "To show the relationship between two quantities", "d": "To solve equations"}, "correct_answer": "b"},
+    {"q_no": "12", "question": "What is the value of x in the equation 5^x = 125?", "options": {"a": 1, "b": 2, "c": 3, "d": 4}, "correct_answer": "3"}
+Time Taken: 73.67 seconds | Tokens Produced: 413 | ⚡⚡⚡ Token Speed 5.606 tokens/sec
+⚠️ Error: Invalid JSON format...
+
+Attempt 2/4 for Syllabus 1 of 3... | llama3.2:1b
+
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What is the fundamental concept of functions in mathematics?", "options": {"a": "Definition of functions as relations between inputs and outputs", "b": "Function notation and symbols", "c": "Representing functions using graphs and equations", "d": "Identifying and explaining domain and range of a function"}, "correct_answer": "a"},
+    {"q_no": "2", "question": "What is the primary purpose of function notation in mathematics?", "options": {"a": "To represent functions as equalities between variables", "b": "To define functions as relations between inputs and outputs", "c": "To solve equation systems involving functions", "d": "To differentiate functions for understanding slope and rate of change"}, "correct_answer": "a"},
+    {"q_no": "3", "question": "What is the term used to describe the graph of a function?", "options": {"a": "Coordinate plane", "b": "X-axis", "c": "Y-axis", "d": "Function equation"}, "correct_answer": "b"},
+    {"q_no": "4", "question": "Which part of a function represents the relationship between inputs and outputs?", "options": {"a": "Domain", "b": "Range", "c": "Range and domain", "d": "Graph", "e": "Function equation"}, "correct_answer": "a"},
+    {"q_no": "5", "question": "What is the term used to describe the values that a function assigns to its inputs?", "options": {"a": "Y-values", "b": "X-values", "c": "Domain and range", "d": "Function notation"}, "correct_answer": "b"},
+    {"q_no": "6", "question": "What is the term used to describe the set of possible values that a function can take?", "options": {"a": "Range", "b": "Domain", "c": "Function equation", "d": "Y-values"}, "correct_answer": "b"},
+    {"q_no": "7", "question": "Which part of a function is used to define the input values?", "options": {"a": "X-axis", "b": "y-axis", "c": "Range and domain", "d": "Function equation"}, "correct_answer": "b"},
+    {"q_no": "8", "question": "What is the term used to describe the output of a function?", "options": {"a": "Y-values", "b": "X-values", "c": "Domain and range", "d": "Range", "e": "Function notation"}, "correct_answer": "d"},
+    {"q_no": "9", "question": "What is the term used to describe the relationship between an input value and its corresponding output value?", "options": {"a": "Domain", "b": "Range", "c": "Function equation", "d": "Y-values"}, "correct_answer": "e"},
+    {"q_no": "10", "question": "What is the term used to describe the values that a function assigns to its inputs in terms of their relationship?", "options": {"a": "Domain", "b": "Range", "c": "Function equation", "d": "Y-values"}, "correct_answer": "e"},
+    {"q_no": "11", "question": "What is the term used to describe the set of possible values that a function can take?", "options": {"a": "Range", "b": "Domain", "c": "Function equation", "d": "Y-values"}, "correct_answer": "e"},
+    {"q_no": "12", "question": "What is the term used to describe the output of a function in terms of its input?", "options": {"a": "Range", "b": "Domain", "c": "Function equation", "d": "Y-values"}, "correct_answer": "e"}
+Time Taken: 95.21 seconds | Tokens Produced: 417 | ⚡⚡⚡ Token Speed 4.380 tokens/sec
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+
+Attempt 3/4 for Syllabus 2 of 3... | llama3.2:1b
+
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": "1", "question": "What is the base of the logarithmic function?", "options": {"a": "10", "b": "e", "c": "Natural number", "d": "Real number"}, "correct_answer": "Natural number"},
+        "q_no": "2", "question": "Which property is NOT a consequence of exponent rules in algebra?", "options": {"a": "Product rule", "b": "Quotient rule", "c": "Power rule", "d": "Product and power rule"}, "correct_answer": "Power rule"},
+        "q_no": "3", "question": "What is the effect of multiplying a coefficient with a variable in an exponential function?", "options": {"a": "Increases the value of the exponent", "b": "Decreases the value of the exponent", "c": "Does not change the value of the exponent", "d": "Removes the variable from the base and exponent", "e": "Removes the coefficient from the base and exponent"}, "correct_answer": "Increases the value of the exponent"},
+        "q_no": "4", "question": "What is the purpose of using an exponential function to model population growth?", "options": {"a": "To represent a constant rate of change", "b": "To represent an increasing or decreasing trend", "c": "To model radioactive decay", "d": "To represent chemical reactions"}, "correct_answer": "To represent an increasing or decreasing trend"},
+        "q_no": "5", "question": "Which property does not define a positive exponential function?", "options": {"a": "Domain of the function", "b": "-ve exponent", "c": "Graph", "d": "Range of values"}, "correct_answer": "-ve exponent"},
+        "q_no": "6", "question": "What is the effect of raising both sides of an equation to a power in algebra?", "options": {"a": "Simplifies the equation", "b": "Negates the inequality sign", "c": "Removes the variable from the base and exponent", "d": "Changes the sign of both sides"}, "correct_answer": "Simplifies the equation"},
+        "q_no": "7", "question": "What is the purpose of using an exponential function to model population growth?", "options": {"a": "To represent a constant rate of change", "b": "To represent an increasing or decreasing trend", "c": "To model radioactive decay", "d": "To represent chemical reactions"}, "correct_answer": "To represent an increasing or decreasing trend"},
+        "q_no": "8", "question": "What is the effect of raising a coefficient with a variable in an exponential function?", "options": {"a": "Increases the value of the exponent", "b": "Decreases the value of the exponent", "c": "Does not change the value of the exponent", "d": "Removes the variable from the base and exponent"}, "correct_answer": "Increases the value of the exponent"},
+        "q_no": "9", "question": "What is the purpose of using an exponential function to model population growth?", "options": {"a": "To represent a constant rate of change", "b": "To represent an increasing or decreasing trend", "c": "To model radioactive decay", "d": "To represent chemical reactions"}, "correct_answer": "To represent an increasing or decreasing trend"},
+        "q_no": "10", "question": "What is the effect of raising both sides of an equation to a power in algebra?", "options": {"a": "Simplifies the equation", "b": "Negates the inequality sign", "c": "Removes the variable from the base and exponent", "d": "Changes the sign of both sides"}, "correct_answer": "Simplifies the equation"},
+        "q_no": "11", "question": "What is the purpose of using an exponential function to model population growth?", "options": {"a": "To represent a constant rate of change", "b": "To represent an increasing or decreasing trend", "c": "To model radioactive decay", "d": "To represent chemical reactions"}, "correct_answer": "To represent an increasing or decreasing trend"},
+        "q_no": "12", "question": "What is the purpose of using an exponential function to model population growth?", "options": {"a": "To represent a constant rate of change", "b": "To represent an increasing or decreasing trend", "c": "To model radioactive decay", "d": "To represent chemical reactions"}, "correct_answer": "To represent an increasing or decreasing trend"}
+]
+Time Taken: 122.14 seconds | Tokens Produced: 568 | ⚡⚡⚡ Token Speed 4.651 tokens/sec
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+
+Attempt 3/4 for Syllabus 1 of 3... | llama3.2:1b
+
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "Which of the following is the correct order of operations for evaluating an expression with multiple subexpressions?", "options": {"a": "PEMDAS/BODMAS", "b": "Associative property of multiplication", "c": "Commutative property of addition", "d": "Reversibility of multiplication and division"}, "correct_answer": "PEMDAS/BODMAS"},
+    {"q_no": "2", "question": "What is the difference between a domain and range in relation to functions?", "options": {"a": "Both are sets of values that can be assigned to variables", "b": "A domain is the set of all possible input values, while a range is the set of all possible output values", "c": "A domain is the set of all valid input values for a function, while a range is the set of all valid output values for a function"}, "correct_answer": "a"},
+    {"q_no": "3", "question": "Which of the following is an example of a composite function?", "options": {"a": "A simple function that takes two or more input variables and returns one output variable", "b": "A polynomial function with a single variable", "c": "A linear function", "d": "An exponential function"}, "correct_answer": "a"},
+    {"q_no": "4", "question": "What is the purpose of identifying an interval for the domain in a function?", "options": {"a": "To find the minimum or maximum value of the function", "b": "To determine the range of values that can be achieved by the function", "c": "To graph the function on a coordinate plane", "d": "To evaluate the definite integral of the function"}, "correct_answer": "b"},
+    {"q_no": "5", "question": "Which type of relationship is characterized by the function being one-to-one?", "options": {"a": "One-to-many", "b": "Many-to-many", "c": "One-to-one", "d": "Correspondence"}, "correct_answer": "c"},
+    {"q_no": "6", "question": "What is the term for a function that has an inverse?", "options": {"a": "A one-to-one correspondence", "b": "A two-way function", "c": "An identity function", "d": "A composite function"}, "correct_answer": "b"},
+    {"q_no": "7", "question": "Which of the following is an example of a transitive function?", "options": {"a": "A polynomial function with a single variable", "b": "A logarithmic function", "c": "An exponential function", "d": "A composite function"}, "correct_answer": "a"},
+    {"q_no": "8", "question": "What is the purpose of evaluating an equation at a specific value to find the corresponding output?", "options": {"a": "To check if the solution is correct", "b": "To solve for x or y", "c": "To graph the function on a coordinate plane", "d": "To evaluate the definite integral of the function"}, "correct_answer": "b"},
+    {"q_no": "9", "question": "Which type of relationship is characterized by all elements in the domain being equal to each other?", "options": {"a": "One-to-one", "b": "Many-to-many", "c": "One-to-many", "d": "Correspondence"}, "correct_answer": "a"},
+    {"q_no": "10", "question": "What is the term for a function that is both injective and surjective?", "options": {"a": "An injective function", "b": "A surjective function", "c": "An inverse function", "d": "A composite function"}, "correct_answer": "a"},
+    {"q_no": "11", "question": "Which of the following is an example of a decreasing function?", "options": {"a": "An increasing function", "b": "A constant function", "c": "A linear function", "d": "An exponential function"}, "correct_answer": "b"},
+    {"q_no": "12", "question": "What is the purpose of finding the range of a function?", "options": {"a": "To find the minimum or maximum value of the function", "b": "To determine the domain and range of the function", "c": "To graph the function on a coordinate plane", "d": "To evaluate the definite integral of the function"}, "correct_answer": "b"}
+Time Taken: 108.65 seconds | Tokens Produced: 541 | ⚡⚡⚡ Token Speed 4.979 tokens/sec
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+
+Attempt 4/4 for Syllabus 2 of 3... | llama3.2:1b
+
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What is the role of input in relation to output when defining a function?", "options": {"a": "Just one value", "b": "Two or more values", "c": "The product of inputs and outputs", "d": "A specific numerical value"}, "correct_answer": "Two or more values"},
+    {"q_no": "2", "question": "What is the main purpose of function notation in mathematics?", "options": {"a": "To simplify complex expressions", "b": "To solve equations", "c": "To represent relationships between inputs and outputs", "d": "To calculate functions"}, "correct_answer": "To represent relationships between inputs and outputs"},
+    {"q_no": "3", "question": "In which area of mathematics is function notation commonly used?", "options": {"a": "Geometry", "b": "Algebra", "c": "Trigonometry", "d": "Calculus"}, "correct_answer": "Algebra"},
+    {"q_no": "4", "question": "What is the difference between a domain and range in relation to functions?", "options": {"a": "Domain refers to input values, Range refers to output values", "b": "Range refers to input values, Domain refers to output values", "c": "Neither of the above", "d": "Both of the above"}, "correct_answer": "Range refers to output values"},
+    {"q_no": "5", "question": "Which concept is essential for understanding and explaining functions?", "options": {"a": "Equation systems involving functions", "b": "Graphs and equations of functions", "c": "Differentiation techniques for understanding slope and rate of change of functions", "d": "Representation using graphs and equations"}, "correct_answer": "Equations systems involving functions"},
+    {"q_no": "6", "question": "What is the process of identifying the output (range) when given an input in a function?", "options": {"a": "Substituting values into the equation", "b": "Graphing the function", "c": "Representing the function using graphs and equations", "d": "Solving equation systems involving functions"}, "correct_answer": "Graphing the function"},
+    {"q_no": "7", "question": "What is the term for the output or range of a function?", "options": {"a": "The input value", "b": "The output value", "c": "Neither of the above", "d": "Domain"}, "correct_answer": "Range"},
+    {"q_no": "8", "question": "Which concept is used to represent relationships between inputs and outputs in a function?", "options": {"a": "Equations systems involving functions", "b": "Graphs and equations of functions", "c": "Differentiation techniques for understanding slope and rate of change of functions", "d": "Representation using graphs and equations"}, "correct_answer": "Graphs and equations of functions"},
+    {"q_no": "9", "question": "What is the process of explaining a function to someone who does not understand it?", "options": {"a": "Substituting values into the equation", "b": "Representing the function using graphs and equations", "c": "Graphing the function", "d": "Differentiation techniques for understanding slope and rate of change of functions"}, "correct_answer": "Representing the function using graphs and equations"},
+    {"q_no": "10", "question": "Which concept is used to describe the output or range of a function?", "options": {"a": "Equations systems involving functions", "b": "Graphs and equations of functions", "c": "Differentiation techniques for understanding slope and rate of change of functions", "d": "Representation using graphs and equations"}, "correct_answer": "Range"},
+    {"q_no": "11", "question": "What is the term for the output or range of a function?", "options": {"a": "The input value", "b": "The output value", "c": "Neither of the above", "d": "Domain"}, "correct_answer": "Range"},
+    {"q_no": "12", "question": "Which concept is used to identify and explain the characteristics of a function?", "options": {"a": "Equations systems involving functions", "b": "Graphs and equations of functions", "c": "Differentiation techniques for understanding slope and rate of change of functions", "d": "Representation using graphs and equations"}, "correct_answer": "Identifying and explaining the characteristics of a function"}
+]
+Time Taken: 87.21 seconds | Tokens Produced: 542 | ⚡⚡⚡ Token Speed 6.215 tokens/sec
+✅✅✅ Successfully generated 12 MCQs. Attempts Needed 4
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 2 of 3
+[
+   {
+      "q_no": "1",
+      "question": "What is the role of input in relation to output when defining a function?",
+      "options": {
+         "a": "Just one value",
+         "b": "Two or more values",
+         "c": "The product of inputs and outputs",
+         "d": "A specific numerical value"
+      },
+      "correct_answer": "Two or more values"
+   },
+   {
+      "q_no": "2",
+      "question": "What is the main purpose of function notation in mathematics?",
+      "options": {
+         "a": "To simplify complex expressions",
+         "b": "To solve equations",
+         "c": "To represent relationships between inputs and outputs",
+         "d": "To calculate functions"
+      },
+      "correct_answer": "To represent relationships between inputs and outputs"
+   },
+   {
+      "q_no": "3",
+      "question": "In which area of mathematics is function notation commonly used?",
+      "options": {
+         "a": "Geometry",
+         "b": "Algebra",
+         "c": "Trigonometry",
+         "d": "Calculus"
+      },
+      "correct_answer": "Algebra"
+   },
+   {
+      "q_no": "4",
+      "question": "What is the difference between a domain and range in relation to functions?",
+      "options": {
+         "a": "Domain refers to input values, Range refers to output values",
+         "b": "Range refers to input values, Domain refers to output values",
+         "c": "Neither of the above",
+         "d": "Both of the above"
+      },
+      "correct_answer": "Range refers to output values"
+   },
+   {
+      "q_no": "5",
+      "question": "Which concept is essential for understanding and explaining functions?",
+      "options": {
+         "a": "Equation systems involving functions",
+         "b": "Graphs and equations of functions",
+         "c": "Differentiation techniques for understanding slope and rate of change of functions",
+         "d": "Representation using graphs and equations"
+      },
+      "correct_answer": "Equations systems involving functions"
+   },
+   {
+      "q_no": "6",
+      "question": "What is the process of identifying the output (range) when given an input in a function?",
+      "options": {
+         "a": "Substituting values into the equation",
+         "b": "Graphing the function",
+         "c": "Representing the function using graphs and equations",
+         "d": "Solving equation systems involving functions"
+      },
+      "correct_answer": "Graphing the function"
+   },
+   {
+      "q_no": "7",
+      "question": "What is the term for the output or range of a function?",
+      "options": {
+         "a": "The input value",
+         "b": "The output value",
+         "c": "Neither of the above",
+         "d": "Domain"
+      },
+      "correct_answer": "Range"
+   },
+   {
+      "q_no": "8",
+      "question": "Which concept is used to represent relationships between inputs and outputs in a function?",
+      "options": {
+         "a": "Equations systems involving functions",
+         "b": "Graphs and equations of functions",
+         "c": "Differentiation techniques for understanding slope and rate of change of functions",
+         "d": "Representation using graphs and equations"
+      },
+      "correct_answer": "Graphs and equations of functions"
+   },
+   {
+      "q_no": "9",
+      "question": "What is the process of explaining a function to someone who does not understand it?",
+      "options": {
+         "a": "Substituting values into the equation",
+         "b": "Representing the function using graphs and equations",
+         "c": "Graphing the function",
+         "d": "Differentiation techniques for understanding slope and rate of change of functions"
+      },
+      "correct_answer": "Representing the function using graphs and equations"
+   },
+   {
+      "q_no": "10",
+      "question": "Which concept is used to describe the output or range of a function?",
+      "options": {
+         "a": "Equations systems involving functions",
+         "b": "Graphs and equations of functions",
+         "c": "Differentiation techniques for understanding slope and rate of change of functions",
+         "d": "Representation using graphs and equations"
+      },
+      "correct_answer": "Range"
+   },
+   {
+      "q_no": "11",
+      "question": "What is the term for the output or range of a function?",
+      "options": {
+         "a": "The input value",
+         "b": "The output value",
+         "c": "Neither of the above",
+         "d": "Domain"
+      },
+      "correct_answer": "Range"
+   },
+   {
+      "q_no": "12",
+      "question": "Which concept is used to identify and explain the characteristics of a function?",
+      "options": {
+         "a": "Equations systems involving functions",
+         "b": "Graphs and equations of functions",
+         "c": "Differentiation techniques for understanding slope and rate of change of functions",
+         "d": "Representation using graphs and equations"
+      },
+      "correct_answer": "Identifying and explaining the characteristics of a function"
+   }
+]
+TIME for MCQ: 87.205 | ⚡⚡⚡ Token Speed: 6.215 tokens/sec
+TOTAL Tokens for Syllabus 2 & its MCQ: 593 | TOTAL Time: 366.91
+
+********************************************************************************
+
+Syllabus NUMBER 3 of 3 --- | llama3.2:1b
+
+📝📝📝 GOTTEN SYLLABUS 3 of 3 📝📝📝
+- Introduction to the concept of wave-particle duality and the nature of light
+- Understanding the photoelectric effect as a phenomenon involving energy transfer
+- Identifying key parameters such as wavelength, frequency, and energy of incident photons
+- Describing the process of Compton scattering and its significance in understanding particle interactions
+- Applying wave-particle duality to various quantum phenomena
+- Analyzing the Heisenberg Uncertainty Principle and its implications for measurement uncertainty
+
+- Experimental techniques used to observe the photoelectric effect
+- Understanding the limitations and potential sources of error in experimental setups
+- Interpreting data from experiments involving the photoelectric effect
+- Discussing the significance of the photoelectric effect in understanding particle interactions and quantum mechanics
+
+- Theoretical frameworks, including wave functions and energy quantization
+- Relating wave-particle duality to classical concepts such as kinetic energy and momentum
+- Exploring the connection between light quanta and Planck's constant
+- Applying wave function techniques to solve problems involving particle systems
+
+- Practical applications of quantum mechanics in various fields, including materials science and electronics
+- Understanding the importance of measurement uncertainty in experimental setups
+- Interpreting data from experiments involving atomic and molecular systems
+TIME for SYLLABUS: 23.218 | ⚡⚡⚡ Token Speed: 8.313 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 34
+Attempt 1/4 for Syllabus 3 of 3... | llama3.2:1b
+
+🔍🔍🔍 Generated MCQ:
+
+ ["q_no","question","options","correct_answer"],["1","Which functional group defines alcohols?", {"a":"Carbonyl (-CO-)", "b":"Hydroxyl (-OH)", "c":"Nitrile (-CN)", "d":"Carboxyl (-COOH)"}, "Hydroxyl (-OH)"],
+
+["2","Which property is NOT typically associated with alcohols due to their -OH group?", {"a":"Miscibility with water", "b":"High boiling points", "c":"Formation of esters via dehydration", "d":"High reactivity towards halogens"}, "Formation of esters via dehydration"],[
+
+["q_no","question","options","correct_answer"],["3","What is the product formed when phenol undergoes dehydration?", {"a":"Phenoxide ion", "b":"Ethanol", "c":"Ethylbenzene", "d":"Phenyl acetic acid"}, "Phenoxide ion"],
+
+["4","Ethers are classified based on the nature of their alkyl groups bonded to oxygen. Which term refers to ethers with two alkyl groups?", {"a":"Monoethers", "b":"Diethers", "c":"Triethers", "d":"Polyethers"}, "Diethers"],["5","Which of the following is NOT a reaction type generally involved in alcohol chemistry?", {"a":"Oxidation", "b":"Hydration", "c":"Reduction", "d":"Halogenation"}, "Oxidation"],[
+
+["q_no","question","options","correct_answer"],["6","Phenols exhibit increased stability due to resonance...", {"a":"resonance", "b": "lower reactivity due to no lone pairs", "c":"higher reactivity due to resonance", "d": "lower reactivity due to no double bonds"}, "increased stability due to resonance"],
+
+["7","Which characteristic distinguishes phenols from alcohols in terms of reactivity towards electrophiles?", {"a":"Increased stability due to resonance", "b":"Lower reactivity due to no lone pairs", "c":"Higher reactivity due to resonance", "d":"Lower reactivity due to no double bonds"}, "Increased stability due to resonance"],[
+
+["8","Which alcohol derivative typically shows a significant difference in boiling points compared to non-polar alcohols due to intermolecular hydrogen bonding?", {"a":"Ethanol", "b":"Methanol", "c":"Diethyl ether", "d":"Propanol"}, "Ethanol"],
+
+["9","In comparing alcohols, phenols, and ethers, which exhibits high reactivity towards nucleophiles due to the presence of oxygen?", {"a":"Ethers", "b":"Phenols", "c":"Alcohols", "d":"Carboxylic acids"}, "Phenols"]],
+Time Taken: 64.11 seconds | Tokens Produced: 237 | ⚡⚡⚡ Token Speed 3.697 tokens/sec
+⚠️ Error: Invalid JSON format...
+
+Attempt 2/4 for Syllabus 3 of 3... | llama3.2:1b
+
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What is the main difference between wave-particle duality and wave-like behavior?", "options": {"a": "Wave-like behavior is more common in certain physical phenomena", "b": "Wave-particle duality can only be observed in certain situations", "c": "Both are equally important in understanding quantum mechanics", "d": "Wave-like behavior dominates over wave-particle duality"}, "correct_answer": "b"},
+    {"q_no": "2", "question": "Which of the following statements is a correct description of the Heisenberg Uncertainty Principle?", "options": {"a": "It states that position and momentum are always equal and opposite", "b": "It states that energy and time are inversely proportional", "c": "It states that uncertainty in one variable is directly proportional to the uncertainty in the other variable", "d": "It states that both energy and momentum are zero"}, "correct_answer": "c"},
+    {"q_no": "3", "question": "What type of radiation is characterized by its ability to transfer energy through direct collisions with matter?", "options": {"a": "Gamma rays", "b": "X-rays", "c": "Ultraviolet (UV) radiation", "d": "Infrared (IR) radiation"}, "correct_answer": "b"},
+    {"q_no": "4", "question": "Which of the following statements is true about the relationship between wave-particle duality and measurement uncertainty?", "options": {"a": "Wave-particle duality can be used to resolve measurement uncertainty in quantum mechanics", "b": "Measurement uncertainty cannot be resolved by wave-particle duality", "c": "The two are mutually exclusive concepts in understanding quantum mechanics", "d": "Measurement uncertainty is a direct consequence of wave-particle duality"}, "correct_answer": "a"},
+    {"q_no": "5", "question": "What is the primary purpose of photoelectric effect experiments?", "options": {"a": "To demonstrate wave-particle duality in atoms and molecules", "b": "To explore the limits of measurement uncertainty in quantum mechanics", "c": "To measure the energy levels of electrons in metals", "d": "To investigate the role of light on matter at the atomic level"}, "correct_answer": "a"},
+    {"q_no": "6", "question": "Which of the following theories is responsible for explaining the photoelectric effect?", "options": {"a": "Quantum field theory (QFT)", "b": "Wave mechanics", "c": "Classical physics", "d": "Relativity"}, "correct_answer": "b"},
+    {"q_no": "7", "question": "What is the primary difference between wave-like and particle-like behavior in quantum systems?", "options": {"a": "Wave-like behavior involves interference and diffraction, while particle-like behavior involves discrete energy levels", "b": "Both involve uncertainty principle", "c": "Wave-particle duality can be observed at both the macroscopic and microscopic scales", "d": "The two are mutually exclusive concepts in understanding quantum mechanics"}, "correct_answer": "a"},
+    {"q_no": "8", "question": "Which of the following statements is true about the process of Compton scattering?", "options": {"a": "It involves the transfer of momentum from a photon to an electron", "b": "It involves the absorption of energy by an electron", "c": "It involves the scattering of light by a particle", "d": "It involves the emission of gamma radiation"}, "correct_answer": "a"},
+    {"q_no": "9", "question": "What is the primary application of wave-particle duality in quantum mechanics?", "options": {"a": "In understanding the behavior of subatomic particles at the atomic level", "b": "In exploring the limits of measurement uncertainty in quantum mechanics", "c": "In developing new technologies such as lasers and electron microscopes", "d": "In explaining certain phenomena in classical physics"}, "correct_answer": "a"},
+    {"q_no": "10", "question": "Which of the following theories is responsible for explaining the photoelectric effect?", "options": {"a": "Quantum field theory (QFT)", "b": "Wave mechanics", "c": "Classical physics", "d": "Relativity"}, "correct_answer": "b"},
+    {"q_no": "11", "question": "What is the primary difference between wave-like and particle-like behavior in atomic systems?", "options": {"a": "Wave-like behavior involves interference and diffraction, while particle-like behavior involves discrete energy levels", "b": "Both involve uncertainty principle", "c": "Wave-particle duality can be observed at both the macroscopic and microscopic scales", "d": "The two are mutually exclusive concepts in understanding quantum mechanics"}, "correct_answer": "a"},
+    {"q_no": "12", "question": "Which of the following statements is true about the Heisenberg Uncertainty Principle?", "options": {"a": "It states that position and momentum are always equal and opposite", "b": "It states that energy and time are inversely proportional", "c": "It states that uncertainty in one variable is directly proportional to the uncertainty in the other variable", "d": "It states that both energy and momentum are zero"}, "correct-answer": "a"},
+    {"q_no": "13", "question": "What type of radiation is characterized by its ability to transfer energy through direct collisions with matter?", "options": {"a": "Gamma rays", "b": "X-rays", "c": "Ultraviolet (UV) radiation", "d": "Infrared (IR) radiation"}, "correct_answer": "b"},
+    {"q_no": "14", "question": "Which of the following statements is true about the significance of the photoelectric effect?", "options": {"a": "It demonstrates the wave-like behavior of light", "b": "It shows the particle-like behavior of electrons", "c": "It highlights the importance of measuring uncertainty in measurement setups", "d": "It illustrates the role of Planck's constant in quantum mechanics"}, "correct-answer": "c"}
+Time Taken: 127.49 seconds | Tokens Produced: 750 | ⚡⚡⚡ Token Speed 5.883 tokens/sec
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+
+Attempt 3/4 for Syllabus 3 of 3... | llama3.2:1b
+
+🔍🔍🔍 Generated MCQ:
+
+ ["{"q_no": "1", "question": "What is the value of x when 2x + 5 = 11?", "options": {"a": "0", "b": "5", "c": "9", "d": "13"}, "correct_answer": "5"}, {"q_no": "2", "question": "How many positive integer factors does the number 48 have?", "options": {"a": "1", "b": "2", "c": "3", "d": "4", "e": "6", "f": "8", "g": "12"}, "correct_answer": "6"},"{"q_no": "3", "question": "What is the value of x in the equation 3x + 2 = 10?", "options": {"a": "1", "b": "2", "c": "4", "d": "8"}, "correct_answer": "3"}, {"q_no": "4", "question": "How many positive integer divisors does the number 24 have?", "options": {"a": "1", "b": "2", "c": "3", "d": "4", "e": "6", "f": "8", "g": "12"}, "correct_answer": "6"},"{"q_no": "5", "question": "What is the value of y when 4y - 2 = 24?", "options": {"a": "1", "b": "2", "c": "3", "d": "4", "e": "8", "f": "16"}, "correct_answer": "9"}, {"q_no": "6", "question": "How many factors does the number 20 have?", "options": {"a": "1", "b": "2", "c": "3", "d": "4", "e": "5", "f": "10", "g": "15"}, "correct_answer": "6"},"{"q_no": "7", "question": "What is the value of z when 2z - 1 = 21?", "options": {"a": "0", "b": "1", "c": "3", "d": "4", "e": "9"}, "correct_answer": "8"}, {"q_no": "8", "question": "How many divisors does the number 36 have:", "options": {"a": "1", "b": "2", "c": "3", "d": "4", "e": "6", "f": "12", "g": "18"}, "correct_answer": "9"},"{"q_no": "9", "question": "What is the value of w when 5w + 1 = 33?", "options": {"a": "2", "b": "3", "c": "4", "d": "6", "e": "12"}, "correct_answer": "13"}, {"q_no": "10", "question": "How many factors does the number 48 have:", "options": {"a": "1", "b": "2", "c": "3", "d": "4", "e": "6", "f": "8", "g": "12"}, "correct_answer": "7"},"{"q_no": "11", "question": "What is the value of x when 2x + 5 = 13?", "options": {"a": "0", "b": "5", "c": "9", "d": "15"}, "correct_answer": "8"}, {"q_no": "12", "question": "How many positive integer divisors does the number 72 have:", "options": {"a": "1", "b": "2", "c": "3", "d": "4", "e": "6", "f": "8", "g": "12"}, "correct_answer": "9"},"{"q_no": "13", "question": "What is the value of y when 5y - 1 = 33?", "options": {"a": "0", "b": "1", "c": "3", "d": "4", "e": "11"}, "correct_answer": "8"}, {"q_no": "14", "question": "How many factors does the number 40 have:", "options": {"a": "1", "b": "2", "c": "3", "d": "4", "e": "5", "f": "8", "g": "10"}, "correct_answer": "6"},"{"q_no": "15", "question": "What is the value of z when 7z + 1 = 43?", "options": {"a": "2", "b": "3", "c": "4", "d": "5", "e": "11"}, "correct_answer": "14"},"{"q_no": "16", "question": "How many positive integer divisors does the number 96 have:", "options": {"a": "1", "b": "2", "c": "3", "d": "4", "e": "6", "f": "8", "g": "12"}, "correct_answer": "7"},"{"q_no": "17", "question": "What is the value of x when 5x - 2 = 25?", "options": {"a": "1", "b": "3", "c": "4", "d": "8", "e": "13"}, "correct_answer": "7"}, {"q_no": "18", "question": "How many factors does the number 72 have:", "options": {"a": "1", "b": "2", "c": "3", "d": "4", "e": "6", "f": "8", "g": "12"}, "correct_answer": "9"},"{"q_no": "19", "question": "What is the value of y when 7y - 5 = 47?", "options": {"a": "1", "b": "2", "c": "3", "d": "8", "e": "13"}, "correct_answer": "9"}, {"q_no": "20", "question": "How many positive integer divisors does the number 96 have:", "options": {"a": "1", "b": "2", "c": "3", "d": "4", "e": "6", "f": "8", "g": "12"}, "correct_answer": "7"},"{"q_no": "21", "question": "What is the value of z when 6z - 1 = 47?", "options": {"a": "0", "b": "1", "c": "3", "d": "4", "e": "9"}, "correct_answer": "8"},"{"q_no": "22", "question": "How many factors does the number 80 have:", "options": {"a": "1", "b": "2", "c": "3", "d": "4", "e": "5", "f": "10"}, "correct_answer": "7"},"{"q_no": "23", "question": "What is the value of y when 6y - 8 = 40?", "options": {"a": "2", "b": "3", "c": "4", "d": "5", "e": "9"}, "correct_answer": "7"}, {"q_no": "24", "question": "How many positive integer divisors does the number 72 have:", "options": {"a": "1", "b": "2", "c": "3", "d": "4", "e": "6", "f": "8", "g": "12"}, "correct_answer": "9"},"{"q_no": "25", "question": "What is the value of x when 5x + 1 = 33?", "options": {"a": "0", "b": "2", "c": "4", "d": "8", "e": "13"}, "correct_answer": "6"}, {"q_no": "26", "question": "How many factors does the number 80 have:", "options": {"a": "1", "b": "2", "c": "3", "d": "4", "e": "5", "f": "10"}, "correct_answer": "8"},"{"q_no": "27", "question": "What is the value of z when 7z + 6 = 63?", "options": {"a": "1", "b": "2", "c": "3", "d": "4", "e": "9"}, "correct_answer": "8"},"{"q_no": "28", "question": "How many positive integer divisors does the number 80 have:", "options": {"a": "1", "b": "2", "c": "3", "d": "4", "e": "5", "f": "10"}, "correct_answer": "8"},"{"q_no": "29", "question": "What is the value of x when 6x - 11 = 37?", "options": {"a": "1", "b": "2", "c": "4", "d": "7", "e": "13"}, "correct_answer": "5"}, {"q_no": "30", "question": "How many factors does the number 80 have:", "options": {"a": "1", "b": "2", "c": "3", "d": "4", "e": "5", "f": "10"}, "correct_answer": "9"},"{"q_no": "31", "question": "What is the value of z when 7z - 14 = 49?", "options": {"a": "2", "b": "3", "c": "4", "d": "5", "e": "10"}, "correct_answer": "6"},"{"q_no": "32", "question": "How many factors does the number 80 have:", "options": {"a": "1", "b": "2", "c": "3", "d": "4", "e": "5", "f": "10"}, "correct_answer": "8"},"{"q_no": "33", "question": "What is the value of x when 6x + 7 = 47?", "options": {"a": "1", "b": "2", "c": "3", "d": "4", "e": "9"}, "correct_answer": "5"}, {"q_no": "34", "question": "How many factors does the number 80 have:", "options": {"a": "1", "b": "2", "c": "3", "d": "4", "e": "5", "f": "10"}, "correct_answer": "9"},"{"q_no": "35", "question": "What is the value of z when 7z + 1 = 49?", "options": {"a": "2", "b": "3", "c": "4", "d": "5", "e": "10"}, "correct_answer": "6"},"{"q_no": "36", "question": "How many positive integer divisors does the number 80 have:", "options": {"a": "1", "b": "2", "c": "3", "d": "4", "e": "5", "f": "10"}, "correct_answer": "9"},"{"q_no": "37", "question": "What is the value of y when 6y + 7 = 47?", "options": {"a": "1", "b": "2", "c": "3", "d": "4", "e": "9"}, "correct_answer": "5"}, {"q_no": "38", "question": "How many factors does the number 80 have:", "options": {"a": "1", "b": "2", "c": "3", "d": "4", "e": "5", "f": "10"}, "correct_answer": "9"},"{"q_no": "39", "question": "What is the value of z when 7z + 14 = 49?", "options": {"a": "2", "b": "3", "c": "4", "d": "5", "e": "10"}, "correct_answer": "6"},"{"q_no": "40", "question": "How many positive integer divisors does the number 80 have:", "options": {"a": "1", "b": "2", "c": "3", "d": "4", "e": "5", "f": "10"}, "correct_answer": "9"},"{"q_no": "41", "question": "What is the value of x when 6x - 23 = 37?", "options": {"a": "1", "b": "2", "c": "3", "d": "4", "e": "9"}, "correct_answer": "5"}, {"q_no": "42", "question": "How many factors does the number 80 have:", "options": {"a": "1", "b": "2", "c": "3", "d": "4", "e": "5", "f": "10"}, "correct_answer": "9"},"{"q_no": "43", "question": "What is the value of z when 7z + 8 = 63?", "options": {"a": "2", "b": "3", "c": "4", "d": "5", "e": "10"}, "correct_answer": "6"},"{"q_no": "44", "question": "How many positive integer divisors does the number 80 have:", "options": {"a": "1", "b": "2", "c": "3", "d": "4", "e": "5", "f": "10"}, "correct_answer": "9"},"{"q_no": "45", "question": "What is the value of x when 6x + 7 = 47?", "options": {"a": "1", "b": "2", "c": "3", "d": "4", "e": "9"}, "correct_answer": "5"}, {"q_no": "46", "question": "How many factors does the number 80 have:", "options": {"a": "1", "b": "2", "c": "3", "d": "4", "e": "5", "f": "10"}, "correct_answer": "9"},"{"q_no": "47", "question": "What is the value of z when 7z + 14 = 49?", "options": {"a": "2", "b": "3", "c": "4", "d": "5", "e": "10"}, "correct_answer": "6"},"{"q_no": "48", "question": "How many positive integer divisors does the number 80 have:", "options": {"a": "1", "b": "2", "c": "3", "d": "4", "e": "5", "f": "10"}, "correct_answer": "9"},"{"q_no": "49", "question": "What is the value of x when 6x + 23 = 37?", "options": {"a": "1", "b": "2", "c": "3", "d": "4", "e": "8"}, "correct_answer": "5"},"{"q_no": "50", "question": "How many factors does the number 80 have:", "options": {"a": "1", "b": "2", "c": "3", "d": "4", "e": "5", "f": "10"}, "correct_answer": "9"},"{"q_no": "51", "question": "What is the value of z when 7z + 6 = 63?", "options": {"a": "2", "b": "3", "c": "4", "d": "5", "e": "10"}, "correct_answer": "6"},"{"q_no": "52", "question": "How many positive integer divisors does the number 80 have:", "options": {"a": "1", "b": "2", "c": "3", "d": "4", "e": "5", "f": "10"}, "correct_answer": "9"},"{"q_no": "53", "question": "What is the value of x when 6x - 17 = 37?", "options": {"a": "1", "b": "2", "c": "3", "d": "4", "e": "8"}, "correct_answer": "5"},"{"q_no": "54", "question": "How many factors does the number 80 have:", "options": {"a": "1", "b": "2", "c": "3", "d": "4", "e": "5", "f": "10"}, "correct_answer": "9"},"{"q_no": "55", "question": "What is the value of z when 7z + 8 = 63?", "options": {"a": "2", "b": "3", "c": "4", "d": "5", "e": "10"}, "correct_answer": "6"},"{"q_no": "56", "question": "How many positive integer divisors does the number 80 have:", "options": {"a": "1", "b": "2", "c": "3", "d": "4", "e": "5", "f": "10"}, "correct_answer": "9"},"{"q_no": "57", "question": "What is the value of x when 6x - 23 = 37?", "options": {"a": "1", "b": "2", "c": "3", "d": "4", "e": "8"}, "correct_answer": "5"},"{"q_no": "58", "question": "How many factors does the number 80 have:", "options": {"a": "1", "b": "2", "c": "3", "d": "4", "e": "5", "f": "10"}, "correct_answer": "9"},"{"q_no": "59", "question": "What is the value of z when 7z + 8 = 63?", "options": {"a": "2", "b": "3", "c": "4", "d": "5", "e": "10"}, "correct_answer": "6"},"{"q_no": "60", "question": "How many positive integer divisors does the number 80 have:", "options": {"a": "1", "b": "2", "c": "3", "d": "4", "e": "5", "f": "10"}, "correct_answer": "9"},"{"q_no": "61", "question": "What is the value of x when 6x - 17 = 37?", "options": {"a": "1", "b": "2", "c": "3", "d": "4", "e": "8"}, "correct_answer": "5"},"{"q_no": "62", "question": "How many factors does the number 80 have:", "options": {"a": "1", "b": "2", "c": "3", "d": "4", "e": "5", "f": "10"}, "correct_answer": "9"},"{"q_no": "63", "question": "What is the value of z when 7z + 8 = 63?", "options": {"a": "2", "b": "3", "c": "4", "d": "5", "e": "10"}, "correct_answer": "6"},"{"q_no": "64", "question": "How many positive integer divisors does the number 80 have:", "options": {"a": "1", "b": "2", "c": "3", "d": "4", "e": "5", "f": "10"}, "correct_answer": "9"},"{"q_no": "65", "question": "What is the value of x when 6x - 23 = 37?", "options": {"a": "1", "b": "2", "c": "3", "d": "4", "e": "8"}, "correct_answer": "5"},"{"q_no": "66", "question": "How many factors does the number 80 have:", "options": {"a": "1", "b": "2", "c": "3", "d": "4", "e": "5", "f": "10"}, "correct_answer": "9"},"{"q_no": "67", "question": "What is the value of z when 7z + 8 = 63?", "options": {"a": "2", "b": "3", "c": "4", "d": "5", "e": "10"}, "correct_answer": "6"},"{"q_no": "68", "question": "How many positive integer divisors does the number 80 have:", "options": {"a": "1", "b": "2", "c": "3", "d": "4", "e": "5", "f": "10"}, "correct_answer": "9"},"{"q_no": "69", "question": "What is the value of x when 6x - 17 = 37?", "options": {"a": "1", "b": "2", "c": "3", "d": "4", "e": "8"}, "correct_answer": "5"},"{"q_no": "70", "question": "How many factors does the number 80 have:", "options": {"a": "1", "b": "2", "c": "3", "d": "4", "e": "5", "f": "10"}, "correct_answer": "9"},"{"q_no": "71", "question": "What is the value of z when 7z + 8 = 63?", "options": {"a": "2", "b": "3", "c": "4", "d": "5", "e": "10"}, "correct_answer": "6"},"{"q_no": "72", "question": "How many positive integer divisors does the number 80 have:", "options": {"a": "1", "b": "2", "c": "3", "d": "4", "e": "5", "f": "10"}, "correct_answer": "9"},"{"q_no": "73", "question": "What is the value of x when 6x - 17 = 37?", "options": {"a": "1", "b": "2", "c": "3", "d": "4", "e": "8"}, "correct_answer": "5"},"{"q_no": "74", "question": "How many factors does the number 80 have:", "options": {"a": "1", "b": "2", "c": "3", "d": "4", "e": "5", "f": "10"}, "correct_answer": "9"},"{"q_no": "75", "question": "What is the value of z when 7z + 8 = 63?", "options": {"a": "2", "b": "3", "c": "4", "d": "5", "e": "10"}, "correct_answer": "6"},"{"q_no": "76", "question": "How many positive integer divisors does the number 80 have:", "options": {"a": "1", "b": "2", "c": "3", "d": "4", "e": "5", "f": "10"}, "correct_answer": "9"},"{"q_no": "77", "question": "What is the value of x when 6x - 23 = 37?", "options": {"a": "1", "b": "2", "c": "3", "d": "4", "e": "8"}, "correct_answer": "5"},"{"q_no": "78", "question": "How many factors does the number 80 have:", "options": {"a": "1", "b": "2", "c": "3", "d": "4", "e": "5", "f": "10"}, "correct_answer": "9"},"{"q_no": "79", "question": "What is the value of z when 7z + 8 = 63?", "options": {"a": "2", "b": "3", "c": "4", "d": "5", "e": "10"}, "correct_answer": "6"},"{"q_no": "80", "question": "How many positive integer divisors does the number 80 have:", "options": {"a": "1", "b": "2", "c": "3", "d": "4", "e": "5", "f": "10"}, "correct_answer": "9"}}
+Time Taken: 515.35 seconds | Tokens Produced: 2155 | ⚡⚡⚡ Token Speed 4.182 tokens/sec
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+
+Attempt 4/4 for Syllabus 1 of 3... | llama3.2:1b
+
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What is the primary difference between wave-particle duality and observer effect?", "options": {"a": "Wave form changes with observation", "b": "Observer affects reality", "c": "Both are related to the nature of light", "d": "Neither is a real phenomenon"}, "correct_answer": "Observer effect"},
+    {"q_no": "2", "question": "What is the name of the principle that states the energy of a photon is equal to its frequency?", "options": {"a": "Heisenberg Uncertainty Principle", "b": "Electromagnetic spectrum", "c": "Compton scattering", "d": "Photoelectric effect"}, "correct_answer": "Heisenberg Uncertainty Principle"},
+    {"q_no": "3", "question": "Which of the following statements is correct regarding Compton scattering?", "options": {"a": "The scattering process is elastic", "b": "The energy transferred to the incident photon is greater than the incident photon's rest mass", "c": "Both particles conserve momentum", "d": "Scattering occurs only at high energies"}, "correct_answer": "b"},
+    {"q_no": "4", "question": "What is the name of the equation that relates the energy and wavelength of light?", "options": {"a": "Planck's constant", "b": "Einstein's mass-energy equivalence", "c": "Stark's law", "d": "Boltzmann's distribution"}, "correct_answer": "c"},
+    {"q_no": "5", "question": "Which of the following statements is correct regarding wave function and energy quantization?", "options": {"a": "Wave functions describe continuous energy levels", "b": "Energy quantization implies particle existence", "c": "Both are related to the nature of quantum systems", "d": "Wave function collapse into definite positions"}, "correct_answer": "c"},
+    {"q_no": "6", "question": "What is the name of the theoretical framework that combines wave-particle duality and classical concepts?", "options": {"a": "Quantum electrodynamics", "b": "Many-worlds interpretation", "c": "Heisenberg uncertainty principle", "d": "Wheeler-DeWitt formalism"}, "correct_answer": "a"},
+    {"q_no": "7", "question": "Which of the following statements is correct regarding measurement uncertainty?", "options": {"a": "Measurement uncertainty always results in an increase in system energy", "b": "Measurement uncertainty depends on the precision of measurement tools", "c": "Measurement uncertainty can be reduced by increasing the precision of measurement tools", "d": "Measurement uncertainty does not depend on the size of the system"}, "correct_answer": "c"},
+    {"q_no": "8", "question": "What is the name of the practical application of quantum mechanics in materials science?", "options": {"a": "Semiconductor devices", "b": "Nanotechnology", "c": "Optical fibers", "d": "Transistors"}, "correct_answer": "a"},
+    {"q_no": "9", "question": "Which of the following statements is correct regarding wave function techniques?", "options": {"a": "Wave functions describe continuous probability distributions", "b": "Wave functions can be used to solve problems involving particle systems", "c": "Wave functions are only applicable to non-relativistic systems", "d": "Wave function collapse into definite positions"}, "correct answer": "b"},
+    {"q_no": "10", "question": "What is the name of the principle that states the Heisenberg Uncertainty Principle?", "options": {"a": "Einstein's mass-energy equivalence", "b": "Stark's law", "c": "Planck's constant", "d": "Heisenberg uncertainty principle"}, "correct answer": "d"},
+    {"q_no": "11", "question": "Which of the following statements is correct regarding experimental techniques?", "options": {"a": "Experimental techniques can be applied to any quantum system", "b": "Experimental techniques are limited by precision and sensitivity", "c": "Experimental techniques depend on the properties of the system being studied", "d": "Experimental techniques can be used to observe the photoelectric effect"}, "correct answer": "b"},
+    {"q_no": "12", "question": "What is the name of the equation that relates the energy and wavelength of light?", "options": {"a": "Stark's law", "b": "Boltzmann's distribution", "c": "Planck's constant", "d": "Einstein's mass-energy equivalence"}, "correct answer": "d"},
+    {"q_no": "13", "question": "Which of the following statements is correct regarding Compton scattering?", "options": {"a": "The scattering process is elastic", "b": "The energy transferred to the incident photon is greater than the incident photon's rest mass", "c": "Both particles conserve momentum", "d": "Scattering occurs only at high energies"}, "correct answer": "b"},
+    {"q_no": "14", "question": "What is the name of the phenomenon involving the transfer of energy from a particle to the vacuum?", "options": {"a": "Photoelectric effect", "b": "Compton scattering", "c": "Pair production", "d": "Magnetic Bremsstrahlung"}, "correct answer": "a"},
+    {"q_no": "15", "question": "Which of the following statements is correct regarding quantum systems?", "options": {"a": "Wave functions describe continuous probability distributions", "b": "Wave functions can be used to solve problems involving particle systems", "c": "Wave functions are only applicable to non-relativistic systems", "d": "Wave function collapse into definite positions"}, "correct answer": "b"},
+    {"q_no": "16", "question": "What is the name of the equation that relates the energy and wavelength of light?", "options": {"a": "Planck's constant", "b": "Einstein's mass-energy equivalence", "c": "Stark's law", "d": "Boltzmann's distribution"}, "correct answer": "c"},
+    {"q_no": "17", "question": "Which of the following statements is correct regarding quantum systems?", "options": {"a": "Wave functions describe continuous probability distributions", "b": "Wave functions can be used to solve problems involving particle systems", "c": "Wave functions are only applicable to non-relativistic systems", "d": "Wave function collapse into definite positions"}, "correct answer": "b"},
+    {"q_no": "18", "question": "What is the name of the principle that states the Heisenberg Uncertainty Principle?", "options": {"a": "Einstein's mass-energy equivalence", "b": "Stark's law", "c": "Planck's constant", "d": "Heisenberg uncertainty principle"}, "correct answer": "d"},
+    {"q_no": "19", "question": "Which of the following statements is correct regarding experimental techniques?", "options": {"a": "Experimental techniques can be applied to any quantum system", "b": "Experimental techniques are limited by precision and sensitivity", "c": "Experimental techniques depend on the properties of the system being studied", "d": "Experimental techniques can be used to observe the photoelectric effect"}, "correct answer": "b"},
+    {"q_no": "20", "question": "What is the name of the phenomenon involving the transfer of energy from a particle to the vacuum?", "options": {"a": "Photoelectric effect", "b": "Compton scattering", "c": "Pair production", "d": "Magnetic Bremsstrahlung"}, "correct answer": "a"}
+Time Taken: 175.96 seconds | Tokens Produced: 881 | ⚡⚡⚡ Token Speed 5.007 tokens/sec
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+
+Attempt 4/4 for Syllabus 3 of 3... | llama3.2:1b
+
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What is the value of x when 2^x = 8?", "options": {"a": "3", "b": "4", "c": "5", "d": "6"}, "correct_answer": "4"},
+    {"q_no": "2", "question": "How many variables are in a typical equation of the form ax^y = bxz?", "options": {"a": 1, "b": 2, "c": 3, "d": 4}, "correct_answer": "3"},
+    {"q_no": "3", "question": "What is the value of y when x = 3 and 2^x = 8?", "options": {"a": "1", "b": "2", "c": "3", "d": "4"}, "correct_answer": "1"},
+    {"q_no": "4", "question": "How many terms are in the equation 2^x + x^y - 7 = 0?", "options": {"a": 1, "b": 2, "c": 3, "d": 4}, "correct_answer": "4"},
+    {"q_no": "5", "question": "What is the value of z when 3^x + x^y = 9?", "options": {"a": "1", "b": "2", "c": "3", "d": "4"}, "correct_answer": "1"},
+    {"q_no": "6", "question": "How many variables are in a typical equation of the form y = x^z + 2x^y?", "options": {"a": 1, "b": 2, "c": 3, "d": 4}, "correct_answer": "3"},
+    {"q_no": "7", "question": "What is the value of b when y = 2 and x = 5 in the equation x^y + y^z = z?", "options": {"a": "1", "b": "2", "c": "3", "d": "4"}, "correct_answer": "1"},
+    {"q_no": "8", "question": "How many terms are in the equation 4x^y + x^(2z) - 7 = 0?", "options": {"a": 1, "b": 2, "c": 3, "d": 4}, "correct_answer": "4"},
+    {"q_no": "9", "question": "What is the value of z when x^y + y^z = 8?", "options": {"a": "1", "b": "2", "c": "3", "d": "4"}, "correct_answer": "1"},
+    {"q_no": "10", "question": "How many variables are in a typical equation of the form z = x^y + 2x^(2z)?", "options": {"a": 1, "b": 2, "c": 3, "d": 4}, "correct_answer": "3"},
+    {"q_no": "11", "question": "What is the value of x when y = 1 and z = 2 in the equation x^y + y^z = z?", "options": {"a": "1", "b": "2", "c": "3", "d": "4"}, "correct_answer": "1"},
+    {"q_no": "12", "question": "How many terms are in the equation 5x^y + x^(2z) - 7 = 0?", "options": {"a": 1, "b": 2, "c": 3, "d": 4}, "correct_answer": "4"}
+]
+Time Taken: 113.84 seconds | Tokens Produced: 350 | ⚡⚡⚡ Token Speed 3.074 tokens/sec
+✅✅✅ Successfully generated 12 MCQs. Attempts Needed 4
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 1 of 3
+[
+   {
+      "q_no": "1",
+      "question": "What is the value of x when 2^x = 8?",
+      "options": {
+         "a": "3",
+         "b": "4",
+         "c": "5",
+         "d": "6"
+      },
+      "correct_answer": "4"
+   },
+   {
+      "q_no": "2",
+      "question": "How many variables are in a typical equation of the form ax^y = bxz?",
+      "options": {
+         "a": 1,
+         "b": 2,
+         "c": 3,
+         "d": 4
+      },
+      "correct_answer": "3"
+   },
+   {
+      "q_no": "3",
+      "question": "What is the value of y when x = 3 and 2^x = 8?",
+      "options": {
+         "a": "1",
+         "b": "2",
+         "c": "3",
+         "d": "4"
+      },
+      "correct_answer": "1"
+   },
+   {
+      "q_no": "4",
+      "question": "How many terms are in the equation 2^x + x^y - 7 = 0?",
+      "options": {
+         "a": 1,
+         "b": 2,
+         "c": 3,
+         "d": 4
+      },
+      "correct_answer": "4"
+   },
+   {
+      "q_no": "5",
+      "question": "What is the value of z when 3^x + x^y = 9?",
+      "options": {
+         "a": "1",
+         "b": "2",
+         "c": "3",
+         "d": "4"
+      },
+      "correct_answer": "1"
+   },
+   {
+      "q_no": "6",
+      "question": "How many variables are in a typical equation of the form y = x^z + 2x^y?",
+      "options": {
+         "a": 1,
+         "b": 2,
+         "c": 3,
+         "d": 4
+      },
+      "correct_answer": "3"
+   },
+   {
+      "q_no": "7",
+      "question": "What is the value of b when y = 2 and x = 5 in the equation x^y + y^z = z?",
+      "options": {
+         "a": "1",
+         "b": "2",
+         "c": "3",
+         "d": "4"
+      },
+      "correct_answer": "1"
+   },
+   {
+      "q_no": "8",
+      "question": "How many terms are in the equation 4x^y + x^(2z) - 7 = 0?",
+      "options": {
+         "a": 1,
+         "b": 2,
+         "c": 3,
+         "d": 4
+      },
+      "correct_answer": "4"
+   },
+   {
+      "q_no": "9",
+      "question": "What is the value of z when x^y + y^z = 8?",
+      "options": {
+         "a": "1",
+         "b": "2",
+         "c": "3",
+         "d": "4"
+      },
+      "correct_answer": "1"
+   },
+   {
+      "q_no": "10",
+      "question": "How many variables are in a typical equation of the form z = x^y + 2x^(2z)?",
+      "options": {
+         "a": 1,
+         "b": 2,
+         "c": 3,
+         "d": 4
+      },
+      "correct_answer": "3"
+   },
+   {
+      "q_no": "11",
+      "question": "What is the value of x when y = 1 and z = 2 in the equation x^y + y^z = z?",
+      "options": {
+         "a": "1",
+         "b": "2",
+         "c": "3",
+         "d": "4"
+      },
+      "correct_answer": "1"
+   },
+   {
+      "q_no": "12",
+      "question": "How many terms are in the equation 5x^y + x^(2z) - 7 = 0?",
+      "options": {
+         "a": 1,
+         "b": 2,
+         "c": 3,
+         "d": 4
+      },
+      "correct_answer": "4"
+   }
+]
+TIME for MCQ: 113.84 | ⚡⚡⚡ Token Speed: 3.074 tokens/sec
+TOTAL Tokens for Syllabus 1 & its MCQ: 383 | TOTAL Time: 829.22
+
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "Which phenomenon involves energy transfer during the photoelectric effect?", "options": {"a": "Compton scattering", "b": "Compton interaction", "c": "Photoelectric effect", "d": "Pair production"}, "correct_answer": "Photoelectric effect"},
+    {"q_no": "2", "question": "What is a key parameter used in the Compton scattering process?", "options": {"a": "Wavelength of light", "b": "Frequency of light", "c": "Energy of photons", "d": "Momentum of photons"}, "correct_answer": "Wavelength of light"},
+    {"q_no": "3", "question": "Which theoretical framework is used to describe wave function behavior in quantum systems?", "options": {"a": "Wave-particle duality", "b": "Classical mechanics", "c": "Quantum field theory", "d": "Relativity"}, "correct_answer": "Wave function"},
+    {"q_no": "4", "question": "What is the significance of Planck's constant in quantum mechanics?", "options": {"a": "Energy of photons", "b": "Wavelength of light", "c": "Frequency of light", "d": "Time", "w": "Planck's constant"}, "correct_answer": "Planck's constant"},
+    {"q_no": "5", "question": "Which experimental technique is used to measure the momentum of particles?", "options": {"a": "Compton scattering", "b": "Photoelectric effect", "c": "Double-slit experiment", "d": "Mass spectrometry"}, "correct_answer": "Double-slit experiment"},
+    {"q_no": "6", "question": "What is the relationship between measurement uncertainty and experimental error?", "options": {"a": "Maximum possible value of wavelength", "b": "Minimum possible value of energy", "c": "Increased probability of detection", "d": "Reduced accuracy"}, "correct_answer": "Measurement uncertainty"},
+    {"q_no": "7", "question": "Which concept is essential to understanding wave-particle duality?", "options": {"a": "Quantization of energy", "b": "Classical concepts", "c": "Kinetic energy and momentum", "d": "Electromagnetic waves"}, "correct_answer": "Wave function"},
+    {"q_no": "8", "question": "What is the process by which particles interact with their environment?", "options": {"a": "Compton scattering", "b": "Photoelectric effect", "c": "Pair production", "d": "Scattering of photons"}, "correct_answer": "Compton interaction"},
+    {"q_no": "9", "question": "Which experimental setup is prone to errors and limitations?", "options": {"a": "Double-slit experiment", "b": "Photoelectric effect", "c": "Compton scattering", "d": "Experimental measurement"}, "correct_answer": "Experimental techniques used to observe the photoelectric effect"},
+    {"q_no": "10", "question": "What is the significance of atomic and molecular systems in quantum mechanics?", "options": {"a": "Increased energy levels", "b": "Reduced probability of detection", "c": "Increased measurement uncertainty", "d": "Significance of wave-particle duality"}, "correct_answer": "Interactions with their environment"},
+    {"q_no": "11", "question": "Which theoretical framework is used to describe the behavior of particles in quantum systems?", "options": {"a": "Wave function", "b": "Quantum field theory", "c": "Classical mechanics", "d": "Relativity"}, "correct_answer": "Wave function"},
+    {"q_no": "12", "question": "What is a key parameter used to describe the behavior of particles in quantum systems?", "options": {"a": "Wavelength of light", "b": "Frequency of light", "c": "Energy of photons", "d": "Momentum of photons"}, "correct_answer": "Wavelength of light"},
+    {"q_no": "13", "question": "Which concept is essential to understanding the photoelectric effect?", "options": {"a": "Wave function", "b": "Classical concepts", "c": "Kinetic energy and momentum", "d": "Electromagnetic waves"}, "correct_answer": "Photoelectric effect"},
+    {"q_no": "14", "question": "What is the significance of Planck's constant in understanding particle interactions?", "options": {"a": "Energy of photons", "b": "Wavelength of light", "c": "Frequency of light", "d": "Time"}, "correct_answer": "Planck's constant"}
+Time Taken: 96.31 seconds | Tokens Produced: 465 | ⚡⚡⚡ Token Speed 4.828 tokens/sec
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 3 of 3
+{
+   "error": "\u274c Error: Failed to generate valid MCQs after 4 attempts.",
+   "attempts": 4
+}
+TIME for MCQ: 0 | ⚡⚡⚡ Token Speed: 0 tokens/sec
+TOTAL Tokens for Syllabus 3 & its MCQ: 193 | TOTAL Time: 487.13
+
+********************************************************************************
+
+Model: llama3.2:1b
+
+Total Time Taken: 854.53 | Total Tokens Generated: 1169 | Avg Total Token Gen Speed: 1.37 tokens/sec
+Total Syllabi: 3 | Total Success MCQ : 0 | MCQ Attempt per Syllabus: 4
+Total ERROR: 10

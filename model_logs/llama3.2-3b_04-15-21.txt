@@ -1,0 +1,701 @@
+********************************************************************************
+
+Syllabus NUMBER 1 of 4 --- | llama3.2:3b
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for IB Grade 9 Mathematics - Geometry - Trigonometry:
+- Introduction to trigonometric functions (sine, cosine, tangent)
+- Understanding the unit circle and reference angles
+- Solving triangles using trigonometric ratios and identities
+- Graphing trigonometric functions
+- Analyzing and solving right-angled triangles
+- Calculating trigonometric values in real-world contexts
+TIME for SYLLABUS: 12.778 | ⚡⚡⚡ Token Speed: 3.991 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1/4 for Syllabus 1 of 4... | llama3.2:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "Which of the following is a fundamental trigonometric function?", "options": {"a": "Sine (sin)", "b": "Cosine (cos)", "c": "Tangent (tan)", "d": "Cotangent (cot)"}, "correct_answer": "a"},
+    {"q_no": "2", "question": "What is the term for a right-angled triangle with one angle equal to 90 degrees?", "options": {"a": "Oblique triangle", "b": "Right triangle", "c": "Acute triangle", "d": "Oblate triangle"}, "correct_answer": "b"},
+    {"q_no": "3", "question": "What is the reference angle of a positive acute angle in standard position?", "options": {"a": "90 degrees minus the original angle", "b": "The original angle plus 90 degrees", "c": "The absolute value of the original angle", "d": "The negative of the original angle"}, "correct_answer": "a"},
+    {"q_no": "4", "question": "What is the formula to calculate the sine of an angle in a right-angled triangle?", "options": {"a": "sin(A) = opposite side / hypotenuse", "b": "sin(A) = adjacent side / hypotenuse", "c": "sin(A) = 1 / hypotenuse", "d": "sin(A) = opposite side / adjacent side"}, "correct_answer": "a"},
+    {"q_no": "5", "question": "What is the term for a triangle with all sides of equal length?", "options": {"a": "Equilateral triangle", "b": "Isosceles triangle", "c": "Scalene triangle", "d": "Rigid triangle"}, "correct_answer": "a"},
+    {"q_no": "6", "question": "What is the formula to calculate the cosine of an angle in a right-angled triangle?", "options": {"a": "cos(A) = adjacent side / hypotenuse", "b": "cos(A) = opposite side / hypotenuse", "c": "cos(A) = 1 / hypotenuse", "d": "cos(A) = adjacent side / opposite side"}, "correct_answer": "a"},
+    {"q_no": "7", "question": "What is the term for a triangle with one angle equal to 90 degrees and two angles equal to 45 degrees?", "options": {"a": "Oblique triangle", "b": "Right triangle", "c": "Acute triangle", "d": "Oblate triangle"}, "correct_answer": "b"},
+    {"q_no": "8", "question": "What is the formula to calculate the tangent of an angle in a right-angled triangle?", "options": {"a": "tan(A) = opposite side / adjacent side", "b": "tan(A) = adjacent side / hypotenuse", "c": "tan(A) = 1 / hypotenuse", "d": "tan(A) = opposite side / hypotenuse"}, "correct_answer": "a"},
+    {"q_no": "9", "question": "What is the term for a triangle with all angles equal to 60 degrees?", "options": {"a": "Equilateral triangle", "b": "Isosceles triangle", "c": "Scalene triangle", "d": "Rigid triangle"}, "correct_answer": "a"},
+    {"q_no": "10", "question": "What is the formula to calculate the sine of a real-world angle?", "options": {"a": "sin(A) = opposite side / hypotenuse", "b": "sin(A) = adjacent side / hypotenuse", "c": "sin(A) = 1 / hypotenuse", "d": "sin(A) = opposite side / adjacent side"}, "correct_answer": "a"},
+    {"q_no": "11", "question": "What is the term for a triangle with all angles equal to 45 degrees?", "options": {"a": "Equilateral triangle", "b": "Isosceles triangle", "c": "Scalene triangle", "d": "Rigid triangle"}, "correct_answer": "a"},
+    {"q_no": "12", "question": "What is the formula to calculate the cosine of a real-world angle?", "options": {"a": "cos(A) = adjacent side / hypotenuse", "b": "cos(A) = opposite side / hypotenuse", "c": "cos(A) = 1 / hypotenuse", "d": "cos(A) = adjacent side / opposite side"}, "correct_answer": "a"}
+]
+Time Taken: 111.37 seconds | Tokens Produced: 483 | ⚡⚡⚡ Token Speed 4.337 tokens/sec
+✅✅✅ Successfully generated 12 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 1 of 4
+[
+   {
+      "q_no": "1",
+      "question": "Which of the following is a fundamental trigonometric function?",
+      "options": {
+         "a": "Sine (sin)",
+         "b": "Cosine (cos)",
+         "c": "Tangent (tan)",
+         "d": "Cotangent (cot)"
+      },
+      "correct_answer": "a"
+   },
+   {
+      "q_no": "2",
+      "question": "What is the term for a right-angled triangle with one angle equal to 90 degrees?",
+      "options": {
+         "a": "Oblique triangle",
+         "b": "Right triangle",
+         "c": "Acute triangle",
+         "d": "Oblate triangle"
+      },
+      "correct_answer": "b"
+   },
+   {
+      "q_no": "3",
+      "question": "What is the reference angle of a positive acute angle in standard position?",
+      "options": {
+         "a": "90 degrees minus the original angle",
+         "b": "The original angle plus 90 degrees",
+         "c": "The absolute value of the original angle",
+         "d": "The negative of the original angle"
+      },
+      "correct_answer": "a"
+   },
+   {
+      "q_no": "4",
+      "question": "What is the formula to calculate the sine of an angle in a right-angled triangle?",
+      "options": {
+         "a": "sin(A) = opposite side / hypotenuse",
+         "b": "sin(A) = adjacent side / hypotenuse",
+         "c": "sin(A) = 1 / hypotenuse",
+         "d": "sin(A) = opposite side / adjacent side"
+      },
+      "correct_answer": "a"
+   },
+   {
+      "q_no": "5",
+      "question": "What is the term for a triangle with all sides of equal length?",
+      "options": {
+         "a": "Equilateral triangle",
+         "b": "Isosceles triangle",
+         "c": "Scalene triangle",
+         "d": "Rigid triangle"
+      },
+      "correct_answer": "a"
+   },
+   {
+      "q_no": "6",
+      "question": "What is the formula to calculate the cosine of an angle in a right-angled triangle?",
+      "options": {
+         "a": "cos(A) = adjacent side / hypotenuse",
+         "b": "cos(A) = opposite side / hypotenuse",
+         "c": "cos(A) = 1 / hypotenuse",
+         "d": "cos(A) = adjacent side / opposite side"
+      },
+      "correct_answer": "a"
+   },
+   {
+      "q_no": "7",
+      "question": "What is the term for a triangle with one angle equal to 90 degrees and two angles equal to 45 degrees?",
+      "options": {
+         "a": "Oblique triangle",
+         "b": "Right triangle",
+         "c": "Acute triangle",
+         "d": "Oblate triangle"
+      },
+      "correct_answer": "b"
+   },
+   {
+      "q_no": "8",
+      "question": "What is the formula to calculate the tangent of an angle in a right-angled triangle?",
+      "options": {
+         "a": "tan(A) = opposite side / adjacent side",
+         "b": "tan(A) = adjacent side / hypotenuse",
+         "c": "tan(A) = 1 / hypotenuse",
+         "d": "tan(A) = opposite side / hypotenuse"
+      },
+      "correct_answer": "a"
+   },
+   {
+      "q_no": "9",
+      "question": "What is the term for a triangle with all angles equal to 60 degrees?",
+      "options": {
+         "a": "Equilateral triangle",
+         "b": "Isosceles triangle",
+         "c": "Scalene triangle",
+         "d": "Rigid triangle"
+      },
+      "correct_answer": "a"
+   },
+   {
+      "q_no": "10",
+      "question": "What is the formula to calculate the sine of a real-world angle?",
+      "options": {
+         "a": "sin(A) = opposite side / hypotenuse",
+         "b": "sin(A) = adjacent side / hypotenuse",
+         "c": "sin(A) = 1 / hypotenuse",
+         "d": "sin(A) = opposite side / adjacent side"
+      },
+      "correct_answer": "a"
+   },
+   {
+      "q_no": "11",
+      "question": "What is the term for a triangle with all angles equal to 45 degrees?",
+      "options": {
+         "a": "Equilateral triangle",
+         "b": "Isosceles triangle",
+         "c": "Scalene triangle",
+         "d": "Rigid triangle"
+      },
+      "correct_answer": "a"
+   },
+   {
+      "q_no": "12",
+      "question": "What is the formula to calculate the cosine of a real-world angle?",
+      "options": {
+         "a": "cos(A) = adjacent side / hypotenuse",
+         "b": "cos(A) = opposite side / hypotenuse",
+         "c": "cos(A) = 1 / hypotenuse",
+         "d": "cos(A) = adjacent side / opposite side"
+      },
+      "correct_answer": "a"
+   }
+]
+TIME for MCQ: 111.368 | ⚡⚡⚡ Token Speed: 4.337 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 534 | TOTAL Time: 124.16
+
+********************************************************************************
+
+Syllabus NUMBER 2 of 4 --- | llama3.2:3b
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Cambridge Grade 8 Mathematics - Algebra - Linear Equations:
+- Solving linear equations by addition and subtraction
+- Solving linear equations by multiplication and division
+- Simplifying expressions with linear terms
+- Graphing linear equations on the coordinate plane
+- Using algebraic methods to solve problems involving real-world applications
+TIME for SYLLABUS: 10.52 | ⚡⚡⚡ Token Speed: 4.848 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 10
+Attempt 1/4 for Syllabus 2 of 4... | llama3.2:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "Which operation is used to add two fractions?", "options": {"a": "Subtraction", "b": "Division", "c": "Multiplication", "d": "Addition"}, "correct_answer": "Addition"},
+    {"q_no": "2", "question": "A linear equation can be solved by multiplying both sides of the equation by", "options": {"a": "1/x", "b": "x^2", "c": "x", "d": "x + 1"}, "correct_answer": "x"},
+    {"q_no": "3", "question": "The graph of a linear equation on the coordinate plane is represented by", "options": {"a": "A single point", "b": "A line with two points", "c": "Two lines intersecting at one point", "d": "A circle with a center and radius"}, "correct_answer": "A line with two points"},
+    {"q_no": "4", "question": "When solving linear equations by multiplication, which operation is used to isolate the variable?", "options": {"a": "Addition", "b": "Subtraction", "c": "Division", "d": "Multiplication"}, "correct_answer": "Division"},
+    {"q_no": "5", "question": "Simplifying expressions with linear terms involves combining like terms using", "options": {"a": "Parentheses", "b": "Exponents", "c": "+", "d": "-"}, "correct_answer": "+"},
+    {"q_no": "6", "question": "Which algebraic method is used to solve problems involving real-world applications?", "options": {"a": "Substitution", "b": "Elimination", "c": "Graphing", "d": "Simplification"}, "correct_answer": "Graphing"},
+    {"q_no": "7", "question": "When graphing linear equations on the coordinate plane, what is the x-intercept represented by?", "options": {"a": "The point where the line crosses the y-axis", "b": "The point where the line intersects the x-axis", "c": "The point where the line touches the x-axis", "d": "The point where the line meets the x-axis"}, "correct_answer": "The point where the line intersects the x-axis"},
+    {"q_no": "8", "question": "Solving linear equations by addition and subtraction involves combining like terms using", "options": {"a": "+", "b": "-", "c": "x^2", "d": "1/x"}, "correct_answer": "-"},
+    {"q_no": "9", "question": "Which type of equation is represented by the graph of a linear equation on the coordinate plane?", "options": {"a": "Quadratic", "b": "Linear", "c": "Polynomial", "d": "Rational"}, "correct_answer": "Linear"},
+    {"q_no": "10", "question": "When solving linear equations, which operation is used to check the solution?", "options": {"a": "+", "b": "-", "c": "x", "d": "=x"}, "correct_answer": "=x"}
+]
+Time Taken: 89.91 seconds | Tokens Produced: 325 | ⚡⚡⚡ Token Speed 3.615 tokens/sec
+✅✅✅ Successfully generated 10 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 2 of 4
+[
+   {
+      "q_no": "1",
+      "question": "Which operation is used to add two fractions?",
+      "options": {
+         "a": "Subtraction",
+         "b": "Division",
+         "c": "Multiplication",
+         "d": "Addition"
+      },
+      "correct_answer": "Addition"
+   },
+   {
+      "q_no": "2",
+      "question": "A linear equation can be solved by multiplying both sides of the equation by",
+      "options": {
+         "a": "1/x",
+         "b": "x^2",
+         "c": "x",
+         "d": "x + 1"
+      },
+      "correct_answer": "x"
+   },
+   {
+      "q_no": "3",
+      "question": "The graph of a linear equation on the coordinate plane is represented by",
+      "options": {
+         "a": "A single point",
+         "b": "A line with two points",
+         "c": "Two lines intersecting at one point",
+         "d": "A circle with a center and radius"
+      },
+      "correct_answer": "A line with two points"
+   },
+   {
+      "q_no": "4",
+      "question": "When solving linear equations by multiplication, which operation is used to isolate the variable?",
+      "options": {
+         "a": "Addition",
+         "b": "Subtraction",
+         "c": "Division",
+         "d": "Multiplication"
+      },
+      "correct_answer": "Division"
+   },
+   {
+      "q_no": "5",
+      "question": "Simplifying expressions with linear terms involves combining like terms using",
+      "options": {
+         "a": "Parentheses",
+         "b": "Exponents",
+         "c": "+",
+         "d": "-"
+      },
+      "correct_answer": "+"
+   },
+   {
+      "q_no": "6",
+      "question": "Which algebraic method is used to solve problems involving real-world applications?",
+      "options": {
+         "a": "Substitution",
+         "b": "Elimination",
+         "c": "Graphing",
+         "d": "Simplification"
+      },
+      "correct_answer": "Graphing"
+   },
+   {
+      "q_no": "7",
+      "question": "When graphing linear equations on the coordinate plane, what is the x-intercept represented by?",
+      "options": {
+         "a": "The point where the line crosses the y-axis",
+         "b": "The point where the line intersects the x-axis",
+         "c": "The point where the line touches the x-axis",
+         "d": "The point where the line meets the x-axis"
+      },
+      "correct_answer": "The point where the line intersects the x-axis"
+   },
+   {
+      "q_no": "8",
+      "question": "Solving linear equations by addition and subtraction involves combining like terms using",
+      "options": {
+         "a": "+",
+         "b": "-",
+         "c": "x^2",
+         "d": "1/x"
+      },
+      "correct_answer": "-"
+   },
+   {
+      "q_no": "9",
+      "question": "Which type of equation is represented by the graph of a linear equation on the coordinate plane?",
+      "options": {
+         "a": "Quadratic",
+         "b": "Linear",
+         "c": "Polynomial",
+         "d": "Rational"
+      },
+      "correct_answer": "Linear"
+   },
+   {
+      "q_no": "10",
+      "question": "When solving linear equations, which operation is used to check the solution?",
+      "options": {
+         "a": "+",
+         "b": "-",
+         "c": "x",
+         "d": "=x"
+      },
+      "correct_answer": "=x"
+   }
+]
+TIME for MCQ: 89.912 | ⚡⚡⚡ Token Speed: 3.615 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 376 | TOTAL Time: 100.44
+
+********************************************************************************
+
+Syllabus NUMBER 3 of 4 --- | llama3.2:3b
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Cambridge Grade 10 Physics - Waves - Electromagnetic Spectrum:
+- Types of waves (mechanical and electromagnetic)
+- Characteristics of electromagnetic waves
+- Structure of the electromagnetic spectrum
+- Properties of different types of radiation (radio, microwaves, infrared, visible light, ultraviolet, X-rays, gamma rays)
+- Applications of electromagnetic waves in everyday life
+TIME for SYLLABUS: 11.327 | ⚡⚡⚡ Token Speed: 4.679 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 10
+Attempt 1/4 for Syllabus 3 of 4... | llama3.2:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "Which type of wave is characterized by the transfer of energy through a medium?", "options": {"a": "Electromagnetic", "b": "Mechanical", "c": "Both", "d": "Neither"}, "correct_answer": "Mechanical"},
+    {"q_no": "2", "question": "What is the primary difference between electromagnetic waves and mechanical waves?", "options": {"a": "Speed of wave", "b": "Type of wave", "c": "Medium required", "d": "Polarization"}, "correct_answer": "Medium required"},
+    {"q_no": "3", "question": "Which part of the electromagnetic spectrum is characterized by extremely low energy levels?", "options": {"a": "Radio waves", "b": "Microwaves", "c": "Infrared radiation", "d": "Ultraviolet radiation"}, "correct_answer": "Radio waves"},
+    {"q_no": "4", "question": "Which type of electromagnetic wave is associated with visible light?", "options": {"a": "Ultraviolet radiation", "b": "X-rays", "c": "Infrared radiation", "d": "Visible light"}, "correct_answer": "Visible light"},
+    {"q_no": "5", "question": "What is the main application of electromagnetic waves in everyday life?", "options": {"a": "Heating and cooling", "b": "Communication and information", "c": "Medical imaging and diagnosis", "d": "Transportation and industry"}, "correct_answer": "Both"},
+    {"q_no": "6", "question": "Which type of electromagnetic wave has the shortest wavelength?", "options": {"a": "X-rays", "b": "Gamma rays", "c": "Ultraviolet radiation", "d": "Infrared radiation"}, "correct_answer": "Gamma rays"},
+    {"q_no": "7", "question": "What is the property that characterizes electromagnetic waves as a form of energy?", "options": {"a": "Frequency", "b": "Amplitude", "c": "Wavelength", "d": "Speed"}, "correct_answer": "Frequency"},
+    {"q_no": "8", "question": "Which part of the electromagnetic spectrum includes radio waves and microwaves?", "options": {"a": "Radio waves", "b": "Microwaves", "c": "Infrared radiation", "d": "Ultraviolet radiation"}, "correct_answer": "Radio waves"},
+    {"q_no": "9", "question": "Which type of electromagnetic wave is associated with heating and cooling applications?", "options": {"a": "Infrared radiation", "b": "Visible light", "c": "Ultraviolet radiation", "d": "X-rays"}, "correct_answer": "Infrared radiation"},
+    {"q_no": "10", "question": "What is the primary purpose of electromagnetic waves in medical imaging and diagnosis?", "options": {"a": "Treatment of diseases", "b": "Communication and information", "c": "Medical imaging and diagnosis", "d": "Transportation and industry"}, "correct_answer": "Medical imaging and diagnosis"}
+]
+Time Taken: 90.20 seconds | Tokens Produced: 306 | ⚡⚡⚡ Token Speed 3.393 tokens/sec
+✅✅✅ Successfully generated 10 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 3 of 4
+[
+   {
+      "q_no": "1",
+      "question": "Which type of wave is characterized by the transfer of energy through a medium?",
+      "options": {
+         "a": "Electromagnetic",
+         "b": "Mechanical",
+         "c": "Both",
+         "d": "Neither"
+      },
+      "correct_answer": "Mechanical"
+   },
+   {
+      "q_no": "2",
+      "question": "What is the primary difference between electromagnetic waves and mechanical waves?",
+      "options": {
+         "a": "Speed of wave",
+         "b": "Type of wave",
+         "c": "Medium required",
+         "d": "Polarization"
+      },
+      "correct_answer": "Medium required"
+   },
+   {
+      "q_no": "3",
+      "question": "Which part of the electromagnetic spectrum is characterized by extremely low energy levels?",
+      "options": {
+         "a": "Radio waves",
+         "b": "Microwaves",
+         "c": "Infrared radiation",
+         "d": "Ultraviolet radiation"
+      },
+      "correct_answer": "Radio waves"
+   },
+   {
+      "q_no": "4",
+      "question": "Which type of electromagnetic wave is associated with visible light?",
+      "options": {
+         "a": "Ultraviolet radiation",
+         "b": "X-rays",
+         "c": "Infrared radiation",
+         "d": "Visible light"
+      },
+      "correct_answer": "Visible light"
+   },
+   {
+      "q_no": "5",
+      "question": "What is the main application of electromagnetic waves in everyday life?",
+      "options": {
+         "a": "Heating and cooling",
+         "b": "Communication and information",
+         "c": "Medical imaging and diagnosis",
+         "d": "Transportation and industry"
+      },
+      "correct_answer": "Both"
+   },
+   {
+      "q_no": "6",
+      "question": "Which type of electromagnetic wave has the shortest wavelength?",
+      "options": {
+         "a": "X-rays",
+         "b": "Gamma rays",
+         "c": "Ultraviolet radiation",
+         "d": "Infrared radiation"
+      },
+      "correct_answer": "Gamma rays"
+   },
+   {
+      "q_no": "7",
+      "question": "What is the property that characterizes electromagnetic waves as a form of energy?",
+      "options": {
+         "a": "Frequency",
+         "b": "Amplitude",
+         "c": "Wavelength",
+         "d": "Speed"
+      },
+      "correct_answer": "Frequency"
+   },
+   {
+      "q_no": "8",
+      "question": "Which part of the electromagnetic spectrum includes radio waves and microwaves?",
+      "options": {
+         "a": "Radio waves",
+         "b": "Microwaves",
+         "c": "Infrared radiation",
+         "d": "Ultraviolet radiation"
+      },
+      "correct_answer": "Radio waves"
+   },
+   {
+      "q_no": "9",
+      "question": "Which type of electromagnetic wave is associated with heating and cooling applications?",
+      "options": {
+         "a": "Infrared radiation",
+         "b": "Visible light",
+         "c": "Ultraviolet radiation",
+         "d": "X-rays"
+      },
+      "correct_answer": "Infrared radiation"
+   },
+   {
+      "q_no": "10",
+      "question": "What is the primary purpose of electromagnetic waves in medical imaging and diagnosis?",
+      "options": {
+         "a": "Treatment of diseases",
+         "b": "Communication and information",
+         "c": "Medical imaging and diagnosis",
+         "d": "Transportation and industry"
+      },
+      "correct_answer": "Medical imaging and diagnosis"
+   }
+]
+TIME for MCQ: 90.196 | ⚡⚡⚡ Token Speed: 3.393 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 359 | TOTAL Time: 101.53
+
+********************************************************************************
+
+Syllabus NUMBER 4 of 4 --- | llama3.2:3b
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for IB Grade 10 Biology - Ecology - Population Dynamics:
+- Defining population density and distribution
+- Understanding the factors affecting population growth and decline
+- Interpreting population data using graphs and charts
+- Studying the role of predators and prey in ecosystems
+- Analyzing the impact of human activities on populations
+- Applying ecological concepts to real-world scenarios
+TIME for SYLLABUS: 11.403 | ⚡⚡⚡ Token Speed: 5.262 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1/4 for Syllabus 4 of 4... | llama3.2:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What is the term for the estimated number of individuals in a population at a given time?", "options": {"a": "Carrying capacity", "b": "Population density", "c": "Growth rate", "d": "Succession"}, "correct_answer": "Carrying capacity"},
+    {"q_no": "2", "question": "Which factor can lead to an increase in population growth?", "options": "a", "b", "c", "d"}, 
+    {"q_no": "3", "question": "What type of graph is used to show the size of a population over time?", "options": {"a": "Bar chart", "b": "Line graph", "c": "Pie chart", "d": "Scatter plot"}, "correct_answer": "Line graph"},
+    {"q_no": "4", "question": "What role do predators play in an ecosystem?", "options": {"a": "They consume prey to regulate population size", "b": "They compete with other organisms for resources", "c": "They reproduce rapidly and disperse widely", "d": "They are the primary producers of energy"}, "correct_answer": "They consume prey to regulate population size"},
+    {"q_no": "5", "question": "What is the term for the process by which human activities affect populations?", "options": {"a": "Habitat disruption", "b": "Population decline", "c": "Environmental degradation", "d": "Human impact"}, "correct_answer": "Human impact"},
+    {"q_no": "6", "question": "Which ecological concept is used to analyze the relationship between organisms and their environment?", "options": {"a": "Ecological niche", "b": "Community ecology", "c": "Population dynamics", "d": "Ecosystem services"}, "correct_answer": "Ecological niche"},
+    {"q_no": "7", "question": "What is the term for the process by which an ecosystem changes over time?", "options": {"a": "Succession", "b": "Species migration", "c": "Climate change", "d": "Environmental restoration"}, "correct_answer": "Succession"},
+    {"q_no": "8", "question": "What type of data is used to study population trends and patterns?", "options": {"a": "Qualitative data", "b": "Quantitative data", "c": "Mixed data", "d": "None of the above"}, "correct_answer": "Quantitative data"},
+    {"q_no": "9", "question": "What is the term for the process by which an ecosystem responds to environmental changes?", "options": {"a": "Adaptation", "b": "Evolution", "c": "Migration", "d": "Extinction"}, "correct_answer": "Adaptation"},
+    {"q_no": "10", "question": "What is the term for the process by which an ecosystem becomes more diverse and complex over time?", "options": {"a": "Succession", "b": "Species invasion", "c": "Community formation", "d": "Ecosystem degradation"}, "correct_answer": "Succession"},
+    {"q_no": "11", "question": "What type of graph is used to show the relationship between two variables?", "options": {"a": "Bar chart", "b": "Line graph", "c": "Scatter plot", "d": "Pie chart"}, "correct_answer": "Scatter plot"},
+    {"q_no": "12", "question": "What is the term for the process by which an ecosystem becomes more resilient and able to withstand environmental changes?", "options": {"a": "Adaptation", "b": "Evolution", "c": "Migration", "d": "Extinction"}, "correct_answer": "Adaptation"}
+]
+Time Taken: 102.75 seconds | Tokens Produced: 399 | ⚡⚡⚡ Token Speed 3.883 tokens/sec
+⚠️ Error: Invalid JSON format...
+
+Attempt 2/4 for Syllabus 4 of 4... | llama3.2:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "Which term best describes a group of individuals of the same species living in a particular area?", "options": {"a": "Population", "b": "Community", "c": "Ecosystem", "d": "Habitat"}, "correct_answer": "Population"},
+    {"q_no": "2", "question": "What is the main factor that determines population growth rate?", "options": "Total", "a": "Birth rate minus death rate", "b": "Death rate minus birth rate", "c": "No specific factor", "d": "Food availability"}, 
+    {"q_no": "3", "question": "What type of graph is commonly used to display population data?", "options": {"a": "Line graph", "b": "Bar graph", "c": "Scatter plot", "d": "Histogram"}, "correct_answer": "Bar graph"},
+    {"q_no": "4", "question": "Which ecosystem component provides food for predators in a web of relationships?", "options": {"a": "Producer", "b": "Consumer", "c": "Decomposer", "d": "Environmental factor"}, "correct_answer": "Consumer"},
+    {"q_no": "5", "question": "What is the main effect of human activities on populations in terms of population size?", "options": {"a": "Increase", "b": "Decrease", "c": "Stable", "d": "No effect"}, "correct_answer": "Decrease"},
+    {"q_no": "6", "question": "Which concept is used to study the impact of human activities on populations?", "options": {"a": "Population ecology", "b": "Ecological engineering", "c": "Conservation biology", "d": "Sustainability science"}, "correct_answer": "Population ecology"},
+    {"q_no": "7", "question": "What is the role of predators in ecosystems?", "options": {"a": "Producers", "b": "Consumers", "c": "Decomposers", "d": "Environmental factors"}, "correct_answer": "Consumers"},
+    {"q_no": "8", "question": "Which type of relationship between organisms and their environment involves the exchange of energy?", "options": {"a": "Mutualism", "b": "Commensalism", "c": "Predation", "d": "Consumption"}, "correct_answer": "Predation"},
+    {"q_no": "9", "question": "What is the main purpose of population studies in ecology?", "options": {"a": "Understanding ecosystems", "b": "Predicting climate change", "c": "Managing natural resources", "d": "Analyzing population data"}, "correct_answer": "Understanding ecosystems"},
+    {"q_no": "10", "question": "Which concept is used to study the interactions between organisms and their environment?", "options": {"a": "Population ecology", "b": "Ecological engineering", "c": "Conservation biology", "d": "Sustainability science"}, "correct_answer": "Ecological engineering"},
+    {"q_no": "11", "question": "What is the main effect of human activities on populations in terms of population size over time?", "options": {"a": "Increase", "b": "Decrease", "c": "Stable", "d": "No effect"}, "correct_answer": "Decrease"},
+    {"q_no": "12", "question": "Which type of data is used to study population dynamics?", "options": {"a": "Quantitative data", "b": "Qualitative data", "c": "Both", "d": "None"}, "correct_answer": "Both"}
+Time Taken: 101.03 seconds | Tokens Produced: 357 | ⚡⚡⚡ Token Speed 3.534 tokens/sec
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+
+Attempt 3/4 for Syllabus 4 of 4... | llama3.2:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What is a characteristic that defines population density?", "options": {"a": "Maximum size of a population", "b": "Average distance between individuals", "c": "Total area occupied by a population", "d": "Species' average lifespan"}, "correct_answer": "Average distance between individuals"},
+    {"q_no": "2", "question": "Which factor can affect population growth and decline?", "options": {"a": "Environmental changes", "b": "Disease outbreaks", "c": "Human activities", "d": "Predator-prey relationships"}, "correct_answer": "All of the above"},
+    {"q_no": "3", "question": "What type of data is typically used to analyze population growth and decline?", "options": {"a": "Bar charts", "b": "Scatter plots", "c": "Histograms", "d": "Line graphs"}, "correct_answer": "Line graphs"},
+    {"q_no": "4", "question": "What role do predators play in ecosystems?", "options": {"a": "Predators control prey populations", "b": "Prey species regulate predator populations", "c": "Both A and B", "d": "Neither A nor B"}, "correct_answer": "Both A and B"},
+    {"q_no": "5", "question": "How do human activities impact populations?", "options": {"a": "Positive effects", "b": "Negative effects", "c": "Both A and B", "d": "No impact on population size"}, "correct_answer": "Both A and B"},
+    {"q_no": "6", "question": "What is a key concept in ecology that helps us understand real-world scenarios?", "options": {"a": "Energy flow", "b": "Population dynamics", "c": "Ecological succession", "d": "Community structure"}, "correct_answer": "All of the above"}
+]
+Time Taken: 73.23 seconds | Tokens Produced: 204 | ⚡⚡⚡ Token Speed 2.786 tokens/sec
+⚠️ Error: Invalid JSON format...
+⚠️ Error: Invalid JSON format...
+⚠️ Warning: Expected 12 MCQs but got 6...
+
+Attempt 4/4 for Syllabus 4 of 4... | llama3.2:3b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "Which term describes the relationship between an organism and its environment?", "options": {"a": "Speciesism", "b": "Ecological niche", "c": "Biosphere", "d": "Habitat"}, "correct_answer": "Ecological niche"},
+    {"q_no": "2", "question": "What is the primary factor that affects population growth or decline?", "options": {"a": "Predator-prey relationship", "b": "Resource availability", "c": "Climate change", "d": "Geographic isolation"}, "correct_answer": "Resource availability"},
+    {"q_no": "3", "question": "What type of graph is commonly used to display population data?", "options": {"a": "Bar chart", "b": "Line graph", "c": "Scatter plot", "d": "Histogram"}, "correct_answer": "Line graph"},
+    {"q_no": "4", "question": "Which concept explains the role of predators and prey in maintaining ecosystem balance?", "options": {"a": "Food chain", "b": "Food web", "c": "Trophic cascade", "d": "Ecological succession"}, "correct_answer": "Food web"},
+    {"q_no": "5", "question": "What is the primary impact of human activities on populations?", "options": {"a": "Habitat destruction", "b": "Climate change", "c": "Overexploitation", "d": "Invasive species"}, "correct_answer": "Habitat destruction"},
+    {"q_no": "6", "question": "Which ecological concept involves the application of scientific principles to real-world problems?", "options": {"a": "Conservation biology", "b": "Ecological restoration", "c": "Sustainable development", "d": "Ecological monitoring"}, "correct_answer": "Ecological monitoring"},
+    {"q_no": "7", "question": "What is the term for the study of the distribution and abundance of organisms in relation to their environment?", "options": {"a": "Population ecology", "b": "Community ecology", "c": "Ecosystem ecology", "d": "Biogeography"}, "correct_answer": "Population ecology"},
+    {"q_no": "8", "question": "Which factor can lead to population decline or extinction?", "options": {"a": "Habitat fragmentation", "b": "Climate change", "c": "Overexploitation", "d": "All of the above"}, "correct_answer": "All of the above"},
+    {"q_no": "9", "question": "What is the primary goal of conservation efforts in ecology?", "options": {"a": "Preservation of biodiversity", "b": "Protection of ecosystems", "c": "Sustainable development", "d": "Ecological restoration"}, "correct_answer": "Preservation of biodiversity"},
+    {"q_no": "10", "question": "Which type of data is commonly used to analyze population trends?", "options": {"a": "Quantitative data", "b": "Qualitative data", "c": "Spatial data", "d": "Temporal data"}, "correct_answer": "Temporal data"},
+    {"q_no": "11", "question": "What is the term for the process of changing environmental conditions that can affect population growth or decline?", "options": {"a": "Climate change", "b": "Habitat destruction", "c": "Overexploitation", "d": "Invasive species"}, "correct_answer": "Climate change"},
+    {"q_no": "12", "question": "Which concept explains the importance of understanding population dynamics in managing ecosystems?", "options": {"a": "Population ecology", "b": "Ecological restoration", "c": "Sustainable development", "d": "Ecological monitoring"}, "correct_answer": "Population ecology"}
+]
+Time Taken: 102.18 seconds | Tokens Produced: 376 | ⚡⚡⚡ Token Speed 3.680 tokens/sec
+✅✅✅ Successfully generated 12 MCQs. Attempts Needed 4
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 4 of 4
+[
+   {
+      "q_no": "1",
+      "question": "Which term describes the relationship between an organism and its environment?",
+      "options": {
+         "a": "Speciesism",
+         "b": "Ecological niche",
+         "c": "Biosphere",
+         "d": "Habitat"
+      },
+      "correct_answer": "Ecological niche"
+   },
+   {
+      "q_no": "2",
+      "question": "What is the primary factor that affects population growth or decline?",
+      "options": {
+         "a": "Predator-prey relationship",
+         "b": "Resource availability",
+         "c": "Climate change",
+         "d": "Geographic isolation"
+      },
+      "correct_answer": "Resource availability"
+   },
+   {
+      "q_no": "3",
+      "question": "What type of graph is commonly used to display population data?",
+      "options": {
+         "a": "Bar chart",
+         "b": "Line graph",
+         "c": "Scatter plot",
+         "d": "Histogram"
+      },
+      "correct_answer": "Line graph"
+   },
+   {
+      "q_no": "4",
+      "question": "Which concept explains the role of predators and prey in maintaining ecosystem balance?",
+      "options": {
+         "a": "Food chain",
+         "b": "Food web",
+         "c": "Trophic cascade",
+         "d": "Ecological succession"
+      },
+      "correct_answer": "Food web"
+   },
+   {
+      "q_no": "5",
+      "question": "What is the primary impact of human activities on populations?",
+      "options": {
+         "a": "Habitat destruction",
+         "b": "Climate change",
+         "c": "Overexploitation",
+         "d": "Invasive species"
+      },
+      "correct_answer": "Habitat destruction"
+   },
+   {
+      "q_no": "6",
+      "question": "Which ecological concept involves the application of scientific principles to real-world problems?",
+      "options": {
+         "a": "Conservation biology",
+         "b": "Ecological restoration",
+         "c": "Sustainable development",
+         "d": "Ecological monitoring"
+      },
+      "correct_answer": "Ecological monitoring"
+   },
+   {
+      "q_no": "7",
+      "question": "What is the term for the study of the distribution and abundance of organisms in relation to their environment?",
+      "options": {
+         "a": "Population ecology",
+         "b": "Community ecology",
+         "c": "Ecosystem ecology",
+         "d": "Biogeography"
+      },
+      "correct_answer": "Population ecology"
+   },
+   {
+      "q_no": "8",
+      "question": "Which factor can lead to population decline or extinction?",
+      "options": {
+         "a": "Habitat fragmentation",
+         "b": "Climate change",
+         "c": "Overexploitation",
+         "d": "All of the above"
+      },
+      "correct_answer": "All of the above"
+   },
+   {
+      "q_no": "9",
+      "question": "What is the primary goal of conservation efforts in ecology?",
+      "options": {
+         "a": "Preservation of biodiversity",
+         "b": "Protection of ecosystems",
+         "c": "Sustainable development",
+         "d": "Ecological restoration"
+      },
+      "correct_answer": "Preservation of biodiversity"
+   },
+   {
+      "q_no": "10",
+      "question": "Which type of data is commonly used to analyze population trends?",
+      "options": {
+         "a": "Quantitative data",
+         "b": "Qualitative data",
+         "c": "Spatial data",
+         "d": "Temporal data"
+      },
+      "correct_answer": "Temporal data"
+   },
+   {
+      "q_no": "11",
+      "question": "What is the term for the process of changing environmental conditions that can affect population growth or decline?",
+      "options": {
+         "a": "Climate change",
+         "b": "Habitat destruction",
+         "c": "Overexploitation",
+         "d": "Invasive species"
+      },
+      "correct_answer": "Climate change"
+   },
+   {
+      "q_no": "12",
+      "question": "Which concept explains the importance of understanding population dynamics in managing ecosystems?",
+      "options": {
+         "a": "Population ecology",
+         "b": "Ecological restoration",
+         "c": "Sustainable development",
+         "d": "Ecological monitoring"
+      },
+      "correct_answer": "Population ecology"
+   }
+]
+TIME for MCQ: 102.18 | ⚡⚡⚡ Token Speed: 3.68 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 436 | TOTAL Time: 390.62
+
+********************************************************************************
+
+Model: llama3.2:3b
+
+Total Time Taken: 716.76 | Total Tokens Generated: 1705 | Avg Total Token Gen Speed: 2.38 tokens/sec
+Total Syllabi: 4 | Total Success MCQ : 4 | MCQ Attempt per Syllabus: 4
+Total ERROR: 3

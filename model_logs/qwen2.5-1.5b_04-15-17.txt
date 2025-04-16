@@ -1,0 +1,591 @@
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What is a linear equation in one variable?", "options": {"a": "An equation that has only one solution", "b": "An equation with two variables x and y", "c": "An equation where the unknown quantity appears on both sides of the equals sign", "d": "An equation without any fractions or decimals"}, "correct_answer": "An equation that has only one solution"},
+    {"q_no": "2", "question": "What is the first step in solving an equation using inverse operations?", "options": {"a": "Isolate the variable on one side of the equation", "b": "Simplify both sides of the equation by combining like terms", "c": "Substitute a known value for the unknown quantity", "d": "Divide both sides by the coefficient of the variable"}, "correct_answer": "Isolate the variable on one side of the equation"},
+    {"q_no": "3", "question": "How do you represent real-world scenarios with linear equations?", "options": {"a": "By plotting points on a graph", "b": "By solving for the independent variable", "c": "Using variables to describe relationships between quantities", "d": "By converting all units into meters"}, "correct_answer": "Using variables to describe relationships between quantities"},
+    {"q_no": "4", "question": "Which of the following points represents the solution to a system of linear equations?", "options": {"a": "(2, 3)", "b": "(1, -1)", "c": "(0, 5)", "d": "(4, 7)"}, "correct_answer": "(2, 3)"},
+    {"q_no": "5", "question": "What is the first step in graphing a linear equation on the coordinate plane?", "options": {"a": "Find the slope of the line", "b": "Plotting points that are solutions to the equation", "c": "Substitute x-values for y-values", "d": "Simplify both sides by combining like terms"}, "correct_answer": "Plotting points that are solutions to the equation"},
+    {"q_no": "6", "question": "How do you solve a system of linear equations using substitution method?", "options": {"a": "Substitute one variable into the other's expression and solve for the remaining unknown quantity", "b": "Add or subtract both sides of an equation to make terms involving variables cancel out", "c": "Multiply one side by a factor until it equals zero", "d": "Use inverse operations on both sides of equations"}, "correct_answer": "Substitute one variable into the other's expression and solve for the remaining unknown quantity"},
+    {"q_no": "7", "question": "What does linear independence between two variables imply?", "options": {"a": "One variable is a multiple of the other", "b": "The values of both variables are never zero", "c": "Both variables have no relationship to each other", "d": "Linear combinations produce only one possible solution"}, "correct_answer": "Both variables have no relationship to each other"},
+    {"q_no": "8", "question": "If the equation 2x + 3 = 7 is solved for x, what is the value of x?", "options": {"a": "4", "b": "5", "c": "6", "d": "7"}, "correct_answer": "4"},
+    {"q_no": "9", "question": "Which graph correctly represents a linear equation with an intercept at (-3, 0)?", "options": {"a": ["Graph A"], "b": ["Graph B"], "c": ["Graph C"], "d": ["Graph D"]}, "correct_answer": "Graph C"},
+    {"q_no": "10", "question": "What is the solution to the system of linear equations 3x + 2y = 7 and x - y = 5?", "options": {"a": "(4, 1)", "b": "(1, 2)", "c": "(2, 3)", "d": "(3, 4)"}, "correct_answer": "(4, 1)"},
+    {"q_no": "11", "question": "How do you solve a linear equation in one variable by adding or subtracting the same quantity from both sides?", "options": {"a": "Add or subtract any number to each side of an equation", "b": "Subtract or add fractions on both sides of the equation", "c": "Divide both sides by 2 to get a simpler equation", "d": "Add or subtract the same variable from each term"}, "correct_answer": "Add or subtract the same number to both sides"},
+    {"q_no": "12", "question": "What does linear independence imply for two variables?", "options": {"a": "One variable is a multiple of the other", "b": "The values of both variables are zero at all times", "c": "Both variables have no relationship to each other", "d": "Linear combinations produce only one possible solution"}, "correct_answer": "One variable is a multiple of the other"},
+    {"q_no": "13", "question": "Which statement best describes the graph of an equation with a slope and y-intercept at (0, 2) and (4, -2)?", "options": {"a": "The line has no solution because it does not intersect the coordinate plane.", "b": "The line has infinitely many solutions and intersects the x-axis at (-2, 0).", "c": "The line is perpendicular to the y-axis.", "d": "The line crosses the y-axis at (0, -2) and decreases as it moves to the right."}, "correct_answer": "The line has infinitely many solutions and intersects the x-axis at (-2, 0)"},
+    {"q_no": "14", "question": "In a system of linear equations where one variable is eliminated by adding or subtracting the same quantity from both sides, what happens to the other variable?", "options": {"a": "It remains unchanged.", "b": "It changes its sign.", "c": "It becomes zero.", "d": "It disappears completely."}, "correct_answer": "It remains unchanged."}
+]
+Time Taken: 72.60 seconds | Tokens Produced: 788 | ⚡⚡⚡ Token Speed 10.854 tokens/sec
+✅✅✅ Successfully generated 14 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 2 of 4
+[
+   {
+      "q_no": "1",
+      "question": "What is a linear equation in one variable?",
+      "options": {
+         "a": "An equation that has only one solution",
+         "b": "An equation with two variables x and y",
+         "c": "An equation where the unknown quantity appears on both sides of the equals sign",
+         "d": "An equation without any fractions or decimals"
+      },
+      "correct_answer": "An equation that has only one solution"
+   },
+   {
+      "q_no": "2",
+      "question": "What is the first step in solving an equation using inverse operations?",
+      "options": {
+         "a": "Isolate the variable on one side of the equation",
+         "b": "Simplify both sides of the equation by combining like terms",
+         "c": "Substitute a known value for the unknown quantity",
+         "d": "Divide both sides by the coefficient of the variable"
+      },
+      "correct_answer": "Isolate the variable on one side of the equation"
+   },
+   {
+      "q_no": "3",
+      "question": "How do you represent real-world scenarios with linear equations?",
+      "options": {
+         "a": "By plotting points on a graph",
+         "b": "By solving for the independent variable",
+         "c": "Using variables to describe relationships between quantities",
+         "d": "By converting all units into meters"
+      },
+      "correct_answer": "Using variables to describe relationships between quantities"
+   },
+   {
+      "q_no": "4",
+      "question": "Which of the following points represents the solution to a system of linear equations?",
+      "options": {
+         "a": "(2, 3)",
+         "b": "(1, -1)",
+         "c": "(0, 5)",
+         "d": "(4, 7)"
+      },
+      "correct_answer": "(2, 3)"
+   },
+   {
+      "q_no": "5",
+      "question": "What is the first step in graphing a linear equation on the coordinate plane?",
+      "options": {
+         "a": "Find the slope of the line",
+         "b": "Plotting points that are solutions to the equation",
+         "c": "Substitute x-values for y-values",
+         "d": "Simplify both sides by combining like terms"
+      },
+      "correct_answer": "Plotting points that are solutions to the equation"
+   },
+   {
+      "q_no": "6",
+      "question": "How do you solve a system of linear equations using substitution method?",
+      "options": {
+         "a": "Substitute one variable into the other's expression and solve for the remaining unknown quantity",
+         "b": "Add or subtract both sides of an equation to make terms involving variables cancel out",
+         "c": "Multiply one side by a factor until it equals zero",
+         "d": "Use inverse operations on both sides of equations"
+      },
+      "correct_answer": "Substitute one variable into the other's expression and solve for the remaining unknown quantity"
+   },
+   {
+      "q_no": "7",
+      "question": "What does linear independence between two variables imply?",
+      "options": {
+         "a": "One variable is a multiple of the other",
+         "b": "The values of both variables are never zero",
+         "c": "Both variables have no relationship to each other",
+         "d": "Linear combinations produce only one possible solution"
+      },
+      "correct_answer": "Both variables have no relationship to each other"
+   },
+   {
+      "q_no": "8",
+      "question": "If the equation 2x + 3 = 7 is solved for x, what is the value of x?",
+      "options": {
+         "a": "4",
+         "b": "5",
+         "c": "6",
+         "d": "7"
+      },
+      "correct_answer": "4"
+   },
+   {
+      "q_no": "9",
+      "question": "Which graph correctly represents a linear equation with an intercept at (-3, 0)?",
+      "options": {
+         "a": [
+            "Graph A"
+         ],
+         "b": [
+            "Graph B"
+         ],
+         "c": [
+            "Graph C"
+         ],
+         "d": [
+            "Graph D"
+         ]
+      },
+      "correct_answer": "Graph C"
+   },
+   {
+      "q_no": "10",
+      "question": "What is the solution to the system of linear equations 3x + 2y = 7 and x - y = 5?",
+      "options": {
+         "a": "(4, 1)",
+         "b": "(1, 2)",
+         "c": "(2, 3)",
+         "d": "(3, 4)"
+      },
+      "correct_answer": "(4, 1)"
+   },
+   {
+      "q_no": "11",
+      "question": "How do you solve a linear equation in one variable by adding or subtracting the same quantity from both sides?",
+      "options": {
+         "a": "Add or subtract any number to each side of an equation",
+         "b": "Subtract or add fractions on both sides of the equation",
+         "c": "Divide both sides by 2 to get a simpler equation",
+         "d": "Add or subtract the same variable from each term"
+      },
+      "correct_answer": "Add or subtract the same number to both sides"
+   },
+   {
+      "q_no": "12",
+      "question": "What does linear independence imply for two variables?",
+      "options": {
+         "a": "One variable is a multiple of the other",
+         "b": "The values of both variables are zero at all times",
+         "c": "Both variables have no relationship to each other",
+         "d": "Linear combinations produce only one possible solution"
+      },
+      "correct_answer": "One variable is a multiple of the other"
+   },
+   {
+      "q_no": "13",
+      "question": "Which statement best describes the graph of an equation with a slope and y-intercept at (0, 2) and (4, -2)?",
+      "options": {
+         "a": "The line has no solution because it does not intersect the coordinate plane.",
+         "b": "The line has infinitely many solutions and intersects the x-axis at (-2, 0).",
+         "c": "The line is perpendicular to the y-axis.",
+         "d": "The line crosses the y-axis at (0, -2) and decreases as it moves to the right."
+      },
+      "correct_answer": "The line has infinitely many solutions and intersects the x-axis at (-2, 0)"
+   },
+   {
+      "q_no": "14",
+      "question": "In a system of linear equations where one variable is eliminated by adding or subtracting the same quantity from both sides, what happens to the other variable?",
+      "options": {
+         "a": "It remains unchanged.",
+         "b": "It changes its sign.",
+         "c": "It becomes zero.",
+         "d": "It disappears completely."
+      },
+      "correct_answer": "It remains unchanged."
+   }
+]
+TIME for MCQ: 72.598 | ⚡⚡⚡ Token Speed: 10.854 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 837 | TOTAL Time: 79.54
+
+********************************************************************************
+
+Syllabus NUMBER 3 of 4 --- | qwen2.5:1.5b
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for Cambridge Grade 10 Physics - Waves - Electromagnetic Spectrum:
+- Introduction to waves and their properties
+- Understanding the electromagnetic spectrum in order from longest wavelength to shortest wavelength
+- Identifying types of light (visible light, infrared, ultraviolet, X-rays)
+- Analyzing how different parts of the spectrum are used in technology, medicine, and communication
+- Comparing energy levels within each part of the spectrum
+
+Do not deviate from this structure. Do not add any titles, headings, or explanations. END IT AFTER CREATING THE SYLLABUS
+TIME for SYLLABUS: 9.001 | ⚡⚡⚡ Token Speed: 9.554 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 10
+Attempt 1/4 for Syllabus 3 of 4... | qwen2.5:1.5b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What is the SI unit for measuring wavelength in electromagnetic radiation?", "options": {"a": "Meter (m)", "b": "Nano-meter (nm)", "c": "Centimeter (cm)", "d": "Milli-meter (mm)"}, "correct_answer": "Nano-meter (nm)"},
+    {"q_no": "2", "question": "Which type of light is used in medical imaging to enhance the visibility of tissues and organs?", "options": {"a": "Infrared light", "b": "Ultraviolet light", "c": "Visible light", "d": "X-rays"}, "correct_answer": "Visible light"},
+    {"q_no": "3", "question": "What is the wavelength range for ultraviolet radiation?", "options": {"a": "1-400nm", "b": "400-750nm", "c": "200-400nm", "d": "All of the above"}, "correct_answer": "All of the above"},
+    {"q_no": "4", "question": "Which part of the electromagnetic spectrum is used in communication technologies like satellite TV and mobile phones?", "options": {"a": "Visible light", "b": "Ultraviolet light", "c": "X-rays", "d": "Gamma rays"}, "correct_answer": "Visible light"},
+    {"q_no": "5", "question": "How does the energy of electromagnetic radiation change from longest wavelength to shortest wavelength?", "options": {"a": "Decreases gradually", "b": "Increases gradually", "c": "Remains constant", "d": "Changes unpredictably"}, "correct_answer": "Increases gradually"},
+    {"q_no": "6", "question": "Which part of the electromagnetic spectrum is used in medical imaging for detecting deep tissues?", "options": {"a": "Visible light", "b": "Infrared light", "c": "Ultraviolet light", "d": "X-rays"}, "correct_answer": "X-rays"},
+    {"q_no": "7", "question": "How does the frequency of electromagnetic radiation affect its wavelength?", "options": {"a": "Frequency increases, wavelength decreases", "b": "Frequency decreases, wavelength decreases", "c": "Frequency increases, wavelength remains unchanged", "d": "Frequency decreases, wavelength increases"}, "correct_answer": "Frequency increases, wavelength decreases"},
+    {"q_no": "8", "question": "What is the wavelength range for radio waves?", "options": {"a": "1-400nm", "b": "400-750nm", "c": "200-400nm", "d": "All of the above"}, "correct_answer": "All of the above"},
+    {"q_no": "9", "question": "Which part of the electromagnetic spectrum is used in communication technologies like radio waves and microwaves?", "options": {"a": "Visible light", "b": "Ultraviolet light", "c": "X-rays", "d": "Radio waves"}, "correct_answer": "All of the above"},
+    {"q_no": "10", "question": "How does increasing frequency affect energy in electromagnetic radiation?", "options": {"a": "Energy decreases", "b": "Energy increases", "c": "Energy remains constant", "d": "Energy changes unpredictably"}, "correct_answer": "Energy increases"},
+    {"q_no": "11", "question": "What is the frequency range for radio waves?", "options": {"a": "1-400nm", "b": "400-750nm", "c": "200-400nm", "d": "All of the above"}, "correct_answer": "All of the above"},
+    {"q_no": "12", "question": "What is the wavelength range for infrared radiation?", "options": {"a": "1-400nm", "b": "400-750nm", "c": "200-400nm", "d": "All of the above"}, "correct_answer": "All of the above"},
+    {"q_no": "13", "question": "Which part of the electromagnetic spectrum is used in medical imaging for detecting bone fractures?", "options": {"a": "Visible light", "b": "Infrared light", "c": "Ultraviolet light", "d": "X-rays"}, "correct_answer": "X-rays"},
+    {"q_no": "14", "question": "What is the wavelength range for visible light?", "options": {"a": "1-400nm", "b": "400-750nm", "c": "200-400nm", "d": "All of the above"}, "correct_answer": "All of the above"}
+]
+Time Taken: 61.38 seconds | Tokens Produced: 445 | ⚡⚡⚡ Token Speed 7.250 tokens/sec
+✅✅✅ Successfully generated 14 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 3 of 4
+[
+   {
+      "q_no": "1",
+      "question": "What is the SI unit for measuring wavelength in electromagnetic radiation?",
+      "options": {
+         "a": "Meter (m)",
+         "b": "Nano-meter (nm)",
+         "c": "Centimeter (cm)",
+         "d": "Milli-meter (mm)"
+      },
+      "correct_answer": "Nano-meter (nm)"
+   },
+   {
+      "q_no": "2",
+      "question": "Which type of light is used in medical imaging to enhance the visibility of tissues and organs?",
+      "options": {
+         "a": "Infrared light",
+         "b": "Ultraviolet light",
+         "c": "Visible light",
+         "d": "X-rays"
+      },
+      "correct_answer": "Visible light"
+   },
+   {
+      "q_no": "3",
+      "question": "What is the wavelength range for ultraviolet radiation?",
+      "options": {
+         "a": "1-400nm",
+         "b": "400-750nm",
+         "c": "200-400nm",
+         "d": "All of the above"
+      },
+      "correct_answer": "All of the above"
+   },
+   {
+      "q_no": "4",
+      "question": "Which part of the electromagnetic spectrum is used in communication technologies like satellite TV and mobile phones?",
+      "options": {
+         "a": "Visible light",
+         "b": "Ultraviolet light",
+         "c": "X-rays",
+         "d": "Gamma rays"
+      },
+      "correct_answer": "Visible light"
+   },
+   {
+      "q_no": "5",
+      "question": "How does the energy of electromagnetic radiation change from longest wavelength to shortest wavelength?",
+      "options": {
+         "a": "Decreases gradually",
+         "b": "Increases gradually",
+         "c": "Remains constant",
+         "d": "Changes unpredictably"
+      },
+      "correct_answer": "Increases gradually"
+   },
+   {
+      "q_no": "6",
+      "question": "Which part of the electromagnetic spectrum is used in medical imaging for detecting deep tissues?",
+      "options": {
+         "a": "Visible light",
+         "b": "Infrared light",
+         "c": "Ultraviolet light",
+         "d": "X-rays"
+      },
+      "correct_answer": "X-rays"
+   },
+   {
+      "q_no": "7",
+      "question": "How does the frequency of electromagnetic radiation affect its wavelength?",
+      "options": {
+         "a": "Frequency increases, wavelength decreases",
+         "b": "Frequency decreases, wavelength decreases",
+         "c": "Frequency increases, wavelength remains unchanged",
+         "d": "Frequency decreases, wavelength increases"
+      },
+      "correct_answer": "Frequency increases, wavelength decreases"
+   },
+   {
+      "q_no": "8",
+      "question": "What is the wavelength range for radio waves?",
+      "options": {
+         "a": "1-400nm",
+         "b": "400-750nm",
+         "c": "200-400nm",
+         "d": "All of the above"
+      },
+      "correct_answer": "All of the above"
+   },
+   {
+      "q_no": "9",
+      "question": "Which part of the electromagnetic spectrum is used in communication technologies like radio waves and microwaves?",
+      "options": {
+         "a": "Visible light",
+         "b": "Ultraviolet light",
+         "c": "X-rays",
+         "d": "Radio waves"
+      },
+      "correct_answer": "All of the above"
+   },
+   {
+      "q_no": "10",
+      "question": "How does increasing frequency affect energy in electromagnetic radiation?",
+      "options": {
+         "a": "Energy decreases",
+         "b": "Energy increases",
+         "c": "Energy remains constant",
+         "d": "Energy changes unpredictably"
+      },
+      "correct_answer": "Energy increases"
+   },
+   {
+      "q_no": "11",
+      "question": "What is the frequency range for radio waves?",
+      "options": {
+         "a": "1-400nm",
+         "b": "400-750nm",
+         "c": "200-400nm",
+         "d": "All of the above"
+      },
+      "correct_answer": "All of the above"
+   },
+   {
+      "q_no": "12",
+      "question": "What is the wavelength range for infrared radiation?",
+      "options": {
+         "a": "1-400nm",
+         "b": "400-750nm",
+         "c": "200-400nm",
+         "d": "All of the above"
+      },
+      "correct_answer": "All of the above"
+   },
+   {
+      "q_no": "13",
+      "question": "Which part of the electromagnetic spectrum is used in medical imaging for detecting bone fractures?",
+      "options": {
+         "a": "Visible light",
+         "b": "Infrared light",
+         "c": "Ultraviolet light",
+         "d": "X-rays"
+      },
+      "correct_answer": "X-rays"
+   },
+   {
+      "q_no": "14",
+      "question": "What is the wavelength range for visible light?",
+      "options": {
+         "a": "1-400nm",
+         "b": "400-750nm",
+         "c": "200-400nm",
+         "d": "All of the above"
+      },
+      "correct_answer": "All of the above"
+   }
+]
+TIME for MCQ: 61.375 | ⚡⚡⚡ Token Speed: 7.251 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 531 | TOTAL Time: 70.39
+
+********************************************************************************
+
+Syllabus NUMBER 4 of 4 --- | qwen2.5:1.5b
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for IB Grade 10 Biology - Ecology - Population Dynamics:
+- Introduction to population dynamics as part of ecosystem analysis
+- Understanding exponential growth and carrying capacity
+- Factors affecting population size (e.g., birth rate, death rate)
+- Analyzing species interactions in populations 
+- Studying migration patterns and spatial distribution
+- Comparing different ecological models for population behavior 
+- Examining historical trends in global population dynamics
+
+END IT AFTER CREATING THE SYLLABUS
+TIME for SYLLABUS: 6.994 | ⚡⚡⚡ Token Speed: 10.438 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 14
+Attempt 1/4 for Syllabus 4 of 4... | qwen2.5:1.5b
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {"q_no": "1", "question": "What does the term 'exponential growth' refer to?", "options": {"a": "Growth that slows down over time", "b": "Growth that increases at a constant rate", "c": "Growth that follows an exponential curve", "d": "Growth that decreases over time"}, "correct_answer": "C"},
+    {"q_no": "2", "question": "What is the term for the maximum population size that can be supported by a particular habitat?", "options": {"a": "Carrying capacity", "b": "Sustainability limit", "c": "Population density", "d": "Ecosystem resilience"}, "correct_answer": "A"},
+    {"q_no": "3", "question": "What is the term for the rate at which birth rates exceed death rates in a population?", "options": {"a": "Immigration rate", "b": "Growth rate", "c": "Net reproduction rate", "d": "Natural increase"}, "correct_answer": "C"},
+    {"q_no": "4", "question": "Which of the following is NOT a factor affecting population size?", "options": {"a": "Migration rates", "b": "Food availability", "c": "Population density", "d": "Time of year"}, "correct_answer": "B"},
+    {"q_no": "5", "question": "What is an example of negative feedback in population dynamics?", "options": {"a": "A disease outbreak", "b": "An increase in birth rates", "c": "A decrease in death rates", "d": "The introduction of a new species"}, "correct_answer": "C"},
+    {"q_no": "6", "question": "What is the term for when an animal moves from one place to another within its territory?", "options": {"a": "Territorial behavior", "b": "Migratory behavior", "c": "Sexual selection", "d": "Migration"}, "correct_answer": "B"},
+    {"q_no": "7", "question": "What is the term for when populations are not evenly distributed across their habitat?", "options": {"a": "Clumped distribution", "b": "Isolated population", "c": "Uniform distribution", "d": "Spatial heterogeneity"}, "correct_answer": "D"},
+    {"q_no": "8", "question": "What is the term for when a species' interactions with other species are not considered in understanding its population behavior?", "options": {"a": "Predator-prey interaction", "b": "Commensalism", "c": "Abundance", "d": "Ecological neglect"}, "correct_answer": "D"},
+    {"q_no": "9", "question": "What is the term for when a population's behavior is predicted using an ecological model that assumes all variables are constant?", "options": {"a": "Dynamic simulation", "b": "Static modeling", "c": "Predictive analysis", "d": "Steady-state theory"}, "correct_answer": "B"},
+    {"q_no": "10", "question": "What is the term for when global population dynamics are influenced by factors such as birth rates, death rates, and climate change?", "options": {"a": "Local impact", "b": "Global phenomena", "c": "National policy", "d": "Regional development"}, "correct_answer": "B"},
+    {"q_no": "11", "question": "What is the term for when populations exhibit a pattern of movement across their habitat, often in response to environmental cues?", "options": {"a": "Territorial behavior", "b": "Migratory behavior", "c": "Sexual selection", "d": "Migration"}, "correct_answer": "B"},
+    {"q_no": "12", "question": "What is the term for when a species' interactions with other species are analyzed in order to understand population dynamics?", "options": {"a": "Predator-prey interaction", "b": "Commensalism", "c": "Abundance", "d": "Ecological neglect"}, "correct_answer": "D"},
+    {"q_no": "13", "question": "What is the term for when a population's size is determined by factors such as birth rates, death rates, and carrying capacity?", "options": {"a": "Exponential growth model", "b": "Steady-state theory", "c": "Carrying capacity model", "d": "Population density model"}, "correct_answer": "A"},
+    {"q_no": "14", "question": "What is the term for when a species' interactions with other species are not considered in understanding population dynamics?", "options": {"a": "Predator-prey interaction", "b": "Commensalism", "c": "Abundance", "d": "Ecological neglect"}, "correct_answer": "D"}
+]
+Time Taken: 61.64 seconds | Tokens Produced: 517 | ⚡⚡⚡ Token Speed 8.388 tokens/sec
+✅✅✅ Successfully generated 14 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏 for Syllabus 4 of 4
+[
+   {
+      "q_no": "1",
+      "question": "What does the term 'exponential growth' refer to?",
+      "options": {
+         "a": "Growth that slows down over time",
+         "b": "Growth that increases at a constant rate",
+         "c": "Growth that follows an exponential curve",
+         "d": "Growth that decreases over time"
+      },
+      "correct_answer": "C"
+   },
+   {
+      "q_no": "2",
+      "question": "What is the term for the maximum population size that can be supported by a particular habitat?",
+      "options": {
+         "a": "Carrying capacity",
+         "b": "Sustainability limit",
+         "c": "Population density",
+         "d": "Ecosystem resilience"
+      },
+      "correct_answer": "A"
+   },
+   {
+      "q_no": "3",
+      "question": "What is the term for the rate at which birth rates exceed death rates in a population?",
+      "options": {
+         "a": "Immigration rate",
+         "b": "Growth rate",
+         "c": "Net reproduction rate",
+         "d": "Natural increase"
+      },
+      "correct_answer": "C"
+   },
+   {
+      "q_no": "4",
+      "question": "Which of the following is NOT a factor affecting population size?",
+      "options": {
+         "a": "Migration rates",
+         "b": "Food availability",
+         "c": "Population density",
+         "d": "Time of year"
+      },
+      "correct_answer": "B"
+   },
+   {
+      "q_no": "5",
+      "question": "What is an example of negative feedback in population dynamics?",
+      "options": {
+         "a": "A disease outbreak",
+         "b": "An increase in birth rates",
+         "c": "A decrease in death rates",
+         "d": "The introduction of a new species"
+      },
+      "correct_answer": "C"
+   },
+   {
+      "q_no": "6",
+      "question": "What is the term for when an animal moves from one place to another within its territory?",
+      "options": {
+         "a": "Territorial behavior",
+         "b": "Migratory behavior",
+         "c": "Sexual selection",
+         "d": "Migration"
+      },
+      "correct_answer": "B"
+   },
+   {
+      "q_no": "7",
+      "question": "What is the term for when populations are not evenly distributed across their habitat?",
+      "options": {
+         "a": "Clumped distribution",
+         "b": "Isolated population",
+         "c": "Uniform distribution",
+         "d": "Spatial heterogeneity"
+      },
+      "correct_answer": "D"
+   },
+   {
+      "q_no": "8",
+      "question": "What is the term for when a species' interactions with other species are not considered in understanding its population behavior?",
+      "options": {
+         "a": "Predator-prey interaction",
+         "b": "Commensalism",
+         "c": "Abundance",
+         "d": "Ecological neglect"
+      },
+      "correct_answer": "D"
+   },
+   {
+      "q_no": "9",
+      "question": "What is the term for when a population's behavior is predicted using an ecological model that assumes all variables are constant?",
+      "options": {
+         "a": "Dynamic simulation",
+         "b": "Static modeling",
+         "c": "Predictive analysis",
+         "d": "Steady-state theory"
+      },
+      "correct_answer": "B"
+   },
+   {
+      "q_no": "10",
+      "question": "What is the term for when global population dynamics are influenced by factors such as birth rates, death rates, and climate change?",
+      "options": {
+         "a": "Local impact",
+         "b": "Global phenomena",
+         "c": "National policy",
+         "d": "Regional development"
+      },
+      "correct_answer": "B"
+   },
+   {
+      "q_no": "11",
+      "question": "What is the term for when populations exhibit a pattern of movement across their habitat, often in response to environmental cues?",
+      "options": {
+         "a": "Territorial behavior",
+         "b": "Migratory behavior",
+         "c": "Sexual selection",
+         "d": "Migration"
+      },
+      "correct_answer": "B"
+   },
+   {
+      "q_no": "12",
+      "question": "What is the term for when a species' interactions with other species are analyzed in order to understand population dynamics?",
+      "options": {
+         "a": "Predator-prey interaction",
+         "b": "Commensalism",
+         "c": "Abundance",
+         "d": "Ecological neglect"
+      },
+      "correct_answer": "D"
+   },
+   {
+      "q_no": "13",
+      "question": "What is the term for when a population's size is determined by factors such as birth rates, death rates, and carrying capacity?",
+      "options": {
+         "a": "Exponential growth model",
+         "b": "Steady-state theory",
+         "c": "Carrying capacity model",
+         "d": "Population density model"
+      },
+      "correct_answer": "A"
+   },
+   {
+      "q_no": "14",
+      "question": "What is the term for when a species' interactions with other species are not considered in understanding population dynamics?",
+      "options": {
+         "a": "Predator-prey interaction",
+         "b": "Commensalism",
+         "c": "Abundance",
+         "d": "Ecological neglect"
+      },
+      "correct_answer": "D"
+   }
+]
+TIME for MCQ: 61.636 | ⚡⚡⚡ Token Speed: 8.388 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 590 | TOTAL Time: 68.64
+
+********************************************************************************
+
+Model: qwen2.5:1.5b
+
+Total Time Taken: 292.82 | Total Tokens Generated: 2453 | Avg Total Token Gen Speed: 8.38 tokens/sec
+Total Syllabi: 4 | Total Success MCQ : 4 | MCQ Attempt per Syllabus: 4
+Total ERROR: 0

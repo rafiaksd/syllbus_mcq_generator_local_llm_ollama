@@ -1,0 +1,492 @@
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the primary goal when solving linear equations in one variable?",
+        "options": {
+            "a": "To find the slope of the line",
+            "b": "To isolate the variable and determine its value",
+            "c": "To calculate the area of a triangle",
+            "d": "To find the volume of a cube"
+        },
+        "correct_answer": "To isolate the variable and determine its value"
+    },
+    {
+        "q_no": 2,
+        "question": "If 2x + 5 = 11, what is the value of x?",
+        "options": {
+            "a": "3",
+            "b": "7",
+            "c": "4",
+            "d": "6"
+        },
+        "correct_answer": "3"
+    },
+    {
+        "q_no": 3,
+        "question": "A system of linear equations consists of two or more equations with the same variables. What is the purpose of solving such a system?",
+        "options": {
+            "a": "To find the slope of both lines",
+            "b": "To determine the intersection point of the lines",
+            "c": "To calculate the area of the overlapping region",
+            "d": "To find the distance between the two lines"
+        },
+        "correct_answer": "To determine the intersection point of the lines"
+    },
+    {
+        "q_no": 4,
+        "question": "If 3x + 7 = 2x + 1, what is the solution for x?",
+        "options": {
+            "a": "8",
+            "b": "1",
+            "c": "4",
+            "d": "6"
+        },
+        "correct_answer": "1"
+    },
+    {
+        "q_no": 5,
+        "question": "What is a real-world application of solving systems of linear equations?",
+        "options": {
+            "a": "Predicting stock market trends",
+            "b": "Determining the optimal pricing strategy for a product",
+            "c": "Calculating the area of a complex shape",
+            "d": "Analyzing weather patterns"
+        },
+        "correct_answer": "Determining the optimal pricing strategy for a product"
+    },
+    {
+        "q_no": 6,
+        "question": "If a linear equation represents a straight line, what does the slope of the line represent?",
+        "options": {
+            "a": "The y-intercept of the line",
+            "b": "The rate of change of y with respect to x",
+            "c": "The distance from the origin to the line",
+            "d": "The equation of the line"
+        },
+        "correct_answer": "The rate of change of y with respect to x"
+    },
+    {
+        "q_no": 7,
+        "question": "An application of linear equations involves calculating the total cost of producing a certain number of items. What variable would typically represent the number of items?",
+        "options": {
+            "a": "Fixed cost",
+            "b": "Variable cost",
+            "c": "Total cost",
+            "d": "Revenue"
+        },
+        "correct_answer": "The number of items"
+    },
+    {
+        "q_no": 8,
+        "question": "If y = 2x + 1, what is the y-intercept?",
+        "options": {
+            "a": "2x",
+            "b": "1",
+            "c": "2",
+            "d": "x"
+        },
+        "correct_answer": "1"
+    },
+    {
+        "q_no": 9,
+        "question": "What is a linear inequality?",
+        "options": {
+            "a": "An equation with two variables",
+            "b": "An equation with a quadratic term",
+            "c": "An equation involving inequalities",
+            "d": "A circle equation"
+        },
+        "correct_answer": "An equation involving inequalities"
+    },
+    {
+        "q_no": 10,
+        "question": "Which of the following represents the solution to the inequality x + 5 > 10?",
+        "options": {
+            "a": "x < 5",
+            "b": "x > 5",
+            "c": "x < 15",
+            "d": "x < 10"
+        },
+        "correct_answer": "x > 5"
+    }
+]
+Time Taken: 115.72 seconds | Tokens Produced: 486 | ⚡⚡⚡ Token Speed 4.200 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 10...
+⚠️ Warning: Expected 12 MCQs but got 10...
+⚠️ Warning: Expected 12 MCQs but got 10...
+⚠️ Warning: Expected 12 MCQs but got 10...
+
+Attempt 5 out of 5... gemma3
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the primary goal when solving linear equations in one variable?",
+        "options": {
+            "a": "To find the value of the variable that makes the equation true",
+            "b": "To simplify the equation by adding fractions",
+            "c": "To calculate the area of a triangle",
+            "d": "To find the length of a side in a right-angled triangle"
+        },
+        "correct_answer": "To find the value of the variable that makes the equation true"
+    },
+    {
+        "q_no": 2,
+        "question": "If 2x + 5 = 11, what is the value of x?",
+        "options": {
+            "a": "3",
+            "b": "7",
+            "c": "4",
+            "d": "6"
+        },
+        "correct_answer": "3"
+    },
+    {
+        "q_no": 3,
+        "question": "What is a system of linear equations?",
+        "options": {
+            "a": "An equation with two or more variables",
+            "b": "A set of two or more linear equations that share common solutions",
+            "c": "A way to calculate the area of a circle",
+            "d": "A method for solving quadratic equations"
+        },
+        "correct_answer": "A set of two or more linear equations that share common solutions"
+    },
+    {
+        "q_no": 4,
+        "question": "Which method is most commonly used to solve a system of linear equations?",
+        "options": {
+            "a": "Subtraction",
+            "b": "Addition",
+            "c": "Multiplication",
+            "d": "Division"
+        },
+        "correct_answer": "Addition"
+    },
+    {
+        "q_no": 5,
+        "question": "In the application of linear equations, what does 'x' typically represent?",
+        "options": {
+            "a": "The constant term",
+            "b": "The unknown quantity",
+            "c": "The slope of the line",
+            "d": "The y-intercept"
+        },
+        "correct_answer": "The unknown quantity"
+    },
+    {
+        "q_no": 6,
+        "question": "Graphing a linear equation involves finding the values of x and y that satisfy the equation. What does this represent?",
+        "options": {
+            "a": "The area of the region enclosed by the line",
+            "b": "The solution to the linear equation",
+            "c": "The average of the x and y values",
+            "d": "The distance between two points on the line"
+        },
+        "correct_answer": "The solution to the linear equation"
+    },
+    {
+        "q_no": 7,
+        "question": "What is the purpose of inequalities?",
+        "options": {
+            "a": "To describe equal relationships between quantities",
+            "b": "To represent relationships where the quantities are not necessarily equal but are related by symbols like <, >, ≤, or ≥",
+            "c": "To calculate the perimeter of a shape",
+            "d": "To solve for the roots of a polynomial equation"
+        },
+        "correct_answer": "To represent relationships where the quantities are not necessarily equal but are related by symbols like <, >, ≤, or ≥"
+    },
+    {
+        "q_no": 8,
+        "question": "A word problem states: 'The sum of two numbers is 20, and their difference is 10'. How would you represent this as a system of linear equations?",
+        "options": {
+            "a": "x + y = 10, x - y = 20",
+            "b": "x + y = 20, x - y = 10",
+            "c": "x + y = 10, x - y = 20",
+            "d": "x + y = 20, x - y = 10"
+        },
+        "correct_answer": "x + y = 20, x - y = 10"
+    },
+    {
+        "q_no": 9,
+        "question": "Which of the following is an example of a word problem involving linear equations?",
+        "options": {
+            "a": "What is the area of a square?",
+            "b": "John has some apples and sells them for $2 each.  He earns $20. How many apples did he sell?",
+            "c": "What is the next number in the sequence 2, 4, 6, 8, ...?",
+            "d": "Find the circumference of a circle."
+        },
+        "correct_answer": "John has some apples and sells them for $2 each.  He earns $20. How many apples did he sell?"
+    },
+    {
+        "q_no": 10,
+        "question": "If a train travels at 60 miles per hour for 2 hours, what is the distance it covers?",
+        "options": {
+            "a": "60 miles",
+            "b": "120 miles",
+            "c": "1200 miles",
+            "d": "600 miles"
+        },
+        "correct_answer": "120 miles"
+    }
+]
+Time Taken: 137.97 seconds | Tokens Produced: 619 | ⚡⚡⚡ Token Speed 4.487 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 10...
+⚠️ Warning: Expected 12 MCQs but got 10...
+⚠️ Warning: Expected 12 MCQs but got 10...
+⚠️ Warning: Expected 12 MCQs but got 10...
+⚠️ Warning: Expected 12 MCQs but got 10...
+
+⚠️ Warning: After 5 attempts returning longest valid response.
+👏👏👏  FINAL MCQ  👏👏👏
+[
+   {
+      "q_no": 1,
+      "question": "What is the primary goal when solving linear equations in one variable?",
+      "options": {
+         "a": "To find the value of the slope of the line",
+         "b": "To isolate the variable and determine its value",
+         "c": "To graph the equation on a coordinate plane",
+         "d": "To calculate the area of a triangle"
+      },
+      "correct_answer": "To isolate the variable and determine its value"
+   },
+   {
+      "q_no": 2,
+      "question": "If 2x + 5 = 11, what is the solution for x?",
+      "options": {
+         "a": "x = 3",
+         "b": "x = 8",
+         "c": "x = 6",
+         "d": "x = 4"
+      },
+      "correct_answer": "x = 3"
+   },
+   {
+      "q_no": 3,
+      "question": "What is a system of linear equations?",
+      "options": {
+         "a": "A single linear equation with one variable",
+         "b": "Two or more linear equations that are solved simultaneously",
+         "c": "A non-linear equation with multiple variables",
+         "d": "A formula for calculating the area of a circle"
+      },
+      "correct_answer": "Two or more linear equations that are solved simultaneously"
+   },
+   {
+      "q_no": 4,
+      "question": "Which method is commonly used to solve a system of linear equations?",
+      "options": {
+         "a": "Expanding the expressions and setting them equal to zero",
+         "b": "Adding the two equations together",
+         "c": "Calculating the derivative of the equations",
+         "d": "Using a calculator to find the root"
+      },
+      "correct_answer": "Expanding the expressions and setting them equal to zero"
+   },
+   {
+      "q_no": 5,
+      "question": "In the equation 3x + 2y = 7 and x - y = 1, how do you find the value of x?",
+      "options": {
+         "a": "By adding the two equations together",
+         "b": "By subtracting the first equation from the second",
+         "c": "By graphing both equations",
+         "d": "By dividing the first equation by the second"
+      },
+      "correct_answer": "By adding the two equations together"
+   },
+   {
+      "q_no": 6,
+      "question": "What is the purpose of graphing linear equations?",
+      "options": {
+         "a": "To calculate the area of the region bounded by the line",
+         "b": "To find the roots of the equation",
+         "c": "To visually represent the relationship between the variables",
+         "d": "To determine the slope of the line"
+      },
+      "correct_answer": "To visually represent the relationship between the variables"
+   },
+   {
+      "q_no": 7,
+      "question": "What is the solution to the system of equations: 2x + y = 5 and 3x - y = 1?",
+      "options": {
+         "a": "x = 1, y = 3",
+         "b": "x = 2, y = 1",
+         "c": "x = 3, y = 1",
+         "d": "x = 1, y = 2"
+      },
+      "correct_answer": "x = 1, y = 2"
+   },
+   {
+      "q_no": 8,
+      "question": "Which inequality represents the solution set of 3x + 2 > 7?",
+      "options": {
+         "a": "x > 3",
+         "b": "x < 3",
+         "c": "x > 5",
+         "d": "x < 5"
+      },
+      "correct_answer": "x > 3"
+   },
+   {
+      "q_no": 9,
+      "question": "What does the symbol '>' in an inequality mean?",
+      "options": {
+         "a": "Greater than or equal to",
+         "b": "Less than or equal to",
+         "c": "Greater than",
+         "d": "Less than"
+      },
+      "correct_answer": "Greater than"
+   },
+   {
+      "q_no": 10,
+      "question": "Solve for x: 4x - 2 < 10",
+      "options": {
+         "a": "x < 3",
+         "b": "x < 6",
+         "c": "x > 3",
+         "d": "x < 5"
+      },
+      "correct_answer": "x < 5"
+   }
+]
+TIME for MCQ: 122.39 | ⚡⚡⚡ Token Speed: 4.379 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 577 | TOTAL Time: 627.66
+
+********************************************************************************
+Syllabus NUMBER 4
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Syllabus for IB Grade 11 Biology - Genetics - Mendelian Genetics:
+- Mendel's Laws of Segregation and Independent Assortment
+- Dominant and Recessive Alleles
+- Punnett Squares for Monohybrid Crosses
+- Understanding Genotype and Phenotype
+- Dihybrid Crosses
+- Extensions to Mendelian Genetics (incomplete dominance, co-dominance)
+TIME for SYLLABUS: 12.657 | ⚡⚡⚡ Token Speed: 3.634 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 5... gemma3
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "Mendel's Law of Segregation states that during gamete formation, which alleles separate?",
+        "options": {
+            "a": "Rhomboid alleles",
+            "b": "Homologous chromosomes",
+            "c": "Sister chromatids",
+            "d": "Non-homologous chromosomes"
+        },
+        "correct_answer": "Homologous chromosomes"
+    },
+    {
+        "q_no": 2,
+        "question": "What is the primary purpose of Mendel's Law of Independent Assortment?",
+        "options": {
+            "a": "To ensure equal inheritance of both traits",
+            "b": "To maintain constant allele frequencies",
+            "c": "To control the timing of meiosis",
+            "d": "To create identical offspring"
+        },
+        "correct_answer": "To create identical offspring"
+    },
+    {
+        "q_no": 3,
+        "question": "In a dominant-recessive trait, which allele is expressed when present in only one copy?",
+        "options": {
+            "a": "The recessive allele",
+            "b": "The homozygous dominant allele",
+            "c": "The heterozygous allele",
+            "d": "The recessive allele"
+        },
+        "correct_answer": "The dominant allele"
+    },
+    {
+        "q_no": 4,
+        "question": "What is the term for the genetic makeup of an organism?",
+        "options": {
+            "a": "Phenotype",
+            "b": "Genotype",
+            "c": "Trait",
+            "d": "Mutation"
+        },
+        "correct_answer": "Genotype"
+    },
+    {
+        "q_no": 5,
+        "question": "A Punnett square is used to predict the possible offspring genotypes in a cross. What does a 3x3 Punnett square typically represent?",
+        "options": {
+            "a": "A dihybrid cross",
+            "b": "A monohybrid cross",
+            "c": "A trihybrid cross",
+            "d": "A non-Mendelian inheritance pattern"
+        },
+        "correct_answer": "A monohybrid cross"
+    },
+    {
+        "q_no": 6,
+        "question": "What is the definition of phenotype?",
+        "options": {
+            "a": "The genetic instructions passed down from parents",
+            "b": "The observable characteristics of an organism",
+            "c": "The physical structure of a gene",
+            "d": "The process of DNA replication"
+        },
+        "correct_answer": "The observable characteristics of an organism"
+    },
+    {
+        "q_no": 7,
+        "question": "In a dihybrid cross, what is the expected outcome if the two genes assort independently?",
+        "options": {
+            "a": "A perfect 9:3:3:1 phenotypic ratio",
+            "b": "A complete linkage between the two genes",
+            "c": "A non-Mendelian inheritance pattern",
+            "d": "Independent assortment of the two genes"
+        },
+        "correct_answer": "Independent assortment of the two genes"
+    },
+    {
+        "q_no": 8,
+        "question": "Incomplete dominance occurs when the heterozygous genotype results in a phenotype that is intermediate between the two homozygous phenotypes.  Which of the following is an example of incomplete dominance?",
+        "options": {
+            "a": "Brown eyes dominant over blue eyes",
+            "b": "Red flowers dominant over white flowers",
+            "c": "Pink flowers resulting from the cross of red and white flowers",
+            "d": "Black hair dominant over blonde hair"
+        },
+        "correct_answer": "Pink flowers resulting from the cross of red and white flowers"
+    },
+    {
+        "q_no": 9,
+        "question": "Co-dominance is exhibited when heterozygotes show both phenotypes of the homozygous parents. A classic example is the ABO blood group system. What phenotypic expression results from a co-dominant cross between individuals with AB blood types?",
+        "options": {
+            "a": "Blood type O",
+            "b": "Blood type A",
+            "c": "Blood type AB",
+            "d": "Blood type AO"
+        },
+        "correct_answer": "Blood type AB"
+    },
+    {
+        "q_no": 10,
+        "question": "What does the term 'allele' refer to?",
+        "options": {
+            "a": "A physical trait",
+            "b": "A variant form of a gene",
+            "c": "The entire DNA sequence of a chromosome",
+            "d": "A non-coding region of DNA"
+        },
+        "correct_answer": "A variant form of a gene"
+    }
+]
+Time Taken: 120.64 seconds | Tokens Produced: 509 | ⚡⚡⚡ Token Speed 4.219 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 10...
+
+Attempt 2 out of 5... gemma3

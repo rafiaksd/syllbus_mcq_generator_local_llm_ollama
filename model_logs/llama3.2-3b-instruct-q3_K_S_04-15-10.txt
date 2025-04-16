@@ -1,0 +1,227 @@
+********************************************************************************
+Syllabus NUMBER 1
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+Prompt: Syllabus for Edexcel Grade 12 Mathematics - Calculus - Differentiation
+- Introduction to differentiation as an inverse operation of integration
+- Understanding the rules of differentiation (e.g. power rule, sum rule)
+- Applying differentiation to find derivatives of basic functions (e.g. sin(x), cos(x))
+- Differentiating composite and quotient functions
+- Solving optimization problems using differentiation
+- Evaluating limits and applying L'Hopital's Rule
+TIME for SYLLABUS: 13.563 | ⚡⚡⚡ Token Speed: 4.645 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 12
+Attempt 1 out of 5... llama3.2:3b-instruct-q3_K_S
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "Why is the power rule a fundamental principle in differentiation?",
+        "options": {
+            "a": "Because it simplifies many calculations",
+            "b": "It allows us to differentiate exponential functions easily",
+            "c": "This rule enables us to differentiate more complex functions",
+            "d": "It provides an efficient way to find derivatives of basic functions"
+        },
+        "correct_answer": "It provides an efficient way to find derivatives of basic functions"
+    },
+    {
+        "q_no": 2,
+        "question": "What is the main reason we use L'Hopital's Rule in differentiation?",
+        "options": {
+            "a": "To find derivatives of trigonometric functions",
+            "b": "When limits are indeterminate and need a closer look",
+            "c": "As an auxiliary tool for finding certain types of indeterminate forms",
+            "d": "This rule helps us solve problems involving trigonometric functions"
+        },
+        "correct_answer": "When limits are indeterminate and need a closer look"
+    },
+    {
+        "q_no": 3,
+        "question": "Which of the following statements best describes the Sum Rule in differentiation?",
+        "options": {
+            "a": "It is used to differentiate sums of functions",
+            "b": "This rule allows us to find derivatives of products of functions",
+            "c": "The sum rule enables us to find derivatives of composite functions",
+            "d": "It provides an efficient way to find the derivative of a product"
+        },
+        "correct_answer": "It is used to differentiate sums of functions"
+    },
+    {
+        "q_no": 4,
+        "question": "What type of function does L'Hopital's Rule help us handle in differentiation?",
+        "options": {
+            "a": "Trigonometric functions",
+            "b": "Exponential functions with a variable as exponent",
+            "c": "Quotient functions involving a polynomial in denominator",
+            "d": "This rule helps us solve problems involving limits"
+        },
+        "correct_answer": "When limits are indeterminate and need a closer look"
+    }
+]
+Time Taken: 46.69 seconds | Tokens Produced: 270 | ⚡⚡⚡ Token Speed 5.783 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 4...
+
+Attempt 2 out of 5... llama3.2:3b-instruct-q3_K_S
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "Why is differentiation considered an inverse operation of integration?",
+        "options": {
+            "a": "Because it helps find the original function from a given derivative",
+            "b": "It allows us to find the area under curves, which is integral in nature",
+            "c": "Differentiation is used to find the rate of change of functions",
+            "d": "It's a direct calculation method"
+        },
+        "correct_answer": "Because it helps find the original function from a given derivative"
+    },
+    {
+        "q_no": 2,
+        "question": "What are the two main rules for differentiating basic functions (e.g. sin(x), cos(x))?",
+        "options": {
+            "a": "Power rule and sum rule, which apply to sine and cosine functions",
+            "b": "Product rule and chain rule, which apply to product and composite functions",
+            "c": "Quotient rule and exponential function rule",
+            "d": "Logarithmic function rule"
+        },
+        "correct_answer": "Power rule and sum rule, which apply to sine and cosine functions"
+    },
+    {
+        "q_no": 3,
+        "question": "What is the result of differentiating sin(x) and cos(x)?",
+        "options": {
+            "a": "2x*",
+            "b": "2cos(x)",
+            "c": "-2sin(x)",
+            "d": "3x^2"
+        },
+        "correct_answer": "2x*"
+    },
+    {
+        "q_no": 4,
+        "question": "What is the formula for differentiating composite functions (e.g. sin(2x))?",
+        "options": {
+            "a": "2sin(2x)*",
+            "b": "2cos(x)",
+            "c": "-2sin(x)',
+            "d": "2tan(x)"
+        },
+        "correct_answer": "3u*cos(v) * (where u and v are the inner functions)"
+    }
+]
+Time Taken: 27.88 seconds | Tokens Produced: 211 | ⚡⚡⚡ Token Speed 7.567 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 4...
+⚠️ Error: Invalid JSON format...
+
+Attempt 3 out of 5... llama3.2:3b-instruct-q3_K_S
+🔍🔍🔍 Generated MCQ:
+
+ [
+    {
+        "q_no": 1,
+        "question": "What is the inverse operation of integration in calculus?",
+        "options": {
+            "a": "Finding the area under a curve",
+            "b": "Finding the volume of a solid",
+            "c": "Differentiation and integration are inverses",
+            "d": "Integration and differentiation are inverses"
+        },
+        "correct_answer": "Differentiation and integration are inverses"
+    },
+    {
+        "q_no": 2,
+        "question": "What is the rule for differentiating a function of the form f(x) = x^n?",
+        "options": {
+            "a": "The derivative is f'(x) * x^(n+1)",
+            "b": "The derivative is f'(x) * x^n",
+            "c": "The derivative is f'(x) * x^(n-1)",
+            "d": "The derivative is f'(x) * x^(n-2)"
+        },
+        "correct_answer": "The derivative is f'(x) * x^(n+1)"
+    },
+    {
+        "q_no": 3,
+        "question": "What is the rule for differentiating a sum of two functions, say f(x) = g(x) + h(x)?",
+        "options": {
+            "a": "The derivative is (f(x) + h(x)) * f'(x)",
+            "b": "The derivative is (g(x) + h(x)) * f'(x)",
+            "c": "The derivative is (f(x) - h(x)) * f'(x)",
+            "d": "The derivative is (f(x) + g(x)) * f'(x)"
+        },
+        "correct_answer": "The derivative is (g(x) + h(x)) * f'(x)"
+    },
+    {
+        "q_no": 4,
+        "question": "What is the rule for differentiating a composite function, say f(x) = sin(x^2)?",
+        "options": {
+            "a": "The derivative is cos(x^2)",
+            "b": "The derivative is x * cos(x^2)",
+            "c": "The derivative is -x * cos(x^2)",
+            "d": "The derivative is 2x * cos(x^2)"
+        },
+        "correct_answer": "The derivative is cos(x^2)"
+    }
+]
+Time Taken: 31.17 seconds | Tokens Produced: 230 | ⚡⚡⚡ Token Speed 7.379 tokens/sec
+⚠️ Warning: Expected 12 MCQs but got 4...
+⚠️ Error: Invalid JSON format...
+⚠️ Warning: Expected 12 MCQs but got 4...
+
+Attempt 4 out of 5... llama3.2:3b-instruct-q3_K_S
+********************************************************************************
+Syllabus NUMBER 1
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+{"error": "\u274c API response missing 'response' key. Got: {'error': \"model 'llama3.2:3b-instruct-q3_K_S' not found\"}", "status_code": 404}
+TIME for SYLLABUS: 2.023 | ⚡⚡⚡ Token Speed: 0 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 0
+Attempt 1 out of 5... llama3.2:3b-instruct-q3_K_S
+🔍🔍🔍 Generated MCQ:
+
+ {"error": "\u274c API response missing 'response' key. Got: {'error': \"model 'llama3.2:3b-instruct-q3_K_S' not found\"}", "status_code": 404}
+Time Taken: 2.03 seconds | Tokens Produced: 0 | ⚡⚡⚡ Token Speed 0.000 tokens/sec
+✅✅✅ Successfully generated 2 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏
+{
+   "error": "\u274c API response missing 'response' key. Got: {'error': \"model 'llama3.2:3b-instruct-q3_K_S' not found\"}",
+   "status_code": 404
+}
+TIME for MCQ: 2.027 | ⚡⚡⚡ Token Speed: 0 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 0 | TOTAL Time: 4.06
+
+********************************************************************************
+Syllabus NUMBER 2
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+{"error": "\u274c API response missing 'response' key. Got: {'error': \"model 'llama3.2:3b-instruct-q3_K_S' not found\"}", "status_code": 404}
+TIME for SYLLABUS: 2.019 | ⚡⚡⚡ Token Speed: 0 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 0
+Attempt 1 out of 5... llama3.2:3b-instruct-q3_K_S
+🔍🔍🔍 Generated MCQ:
+
+ {"error": "\u274c API response missing 'response' key. Got: {'error': \"model 'llama3.2:3b-instruct-q3_K_S' not found\"}", "status_code": 404}
+Time Taken: 2.05 seconds | Tokens Produced: 0 | ⚡⚡⚡ Token Speed 0.000 tokens/sec
+✅✅✅ Successfully generated 2 MCQs. Attempts Needed 1
+👏👏👏  FINAL MCQ  👏👏👏
+{
+   "error": "\u274c API response missing 'response' key. Got: {'error': \"model 'llama3.2:3b-instruct-q3_K_S' not found\"}",
+   "status_code": 404
+}
+TIME for MCQ: 2.047 | ⚡⚡⚡ Token Speed: 0 tokens/sec
+TOTAL Tokens for Syllabus & MCQ: 0 | TOTAL Time: 4.07
+
+********************************************************************************
+Syllabus NUMBER 3
+
+📝📝📝 GOTTEN SYLLABUS 📝📝📝
+{"error": "\u274c API response missing 'response' key. Got: {'error': \"model 'llama3.2:3b-instruct-q3_K_S' not found\"}", "status_code": 404}
+TIME for SYLLABUS: 2.038 | ⚡⚡⚡ Token Speed: 0 tokens/sec
+
+🚀🚀🚀 EXPECTED MCQs: 0
+Attempt 1 out of 5... llama3.2:3b-instruct-q3_K_S
