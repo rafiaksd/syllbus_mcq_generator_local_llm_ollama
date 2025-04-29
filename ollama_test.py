@@ -10,10 +10,10 @@ model_name_passed = args.model_name
 #also exaone3.5:2.4b GREAT Total Syllabi: 4 | Total Success MCQ : 4 MCQ
 #qwen2.5:1.5b FASTEST got ALL CORRECT in ONE GO
 current_model = model_name_passed
-max_attempts_can = 2
+max_attempts_can = 4
 total_success_mcq = 0
 syllabus_counter = 1
-parallel_processes_count = 2
+parallel_processes_count = 4
 
 #load subjects
 with open('shorter_subjects.json', 'r') as file:
@@ -148,12 +148,17 @@ def clean_json_output(output):
     cleaned_output = re.sub(r'```json\s*|\s*```', '', output).strip()
     return cleaned_output
 
+def clean_think_text(text):
+    text = text.replace('<think>', '').replace('</think>', '')
+    text = re.sub(r'\n{3,}', '\n\n', text).strip()
+    return text
+
 def generate_response(own_prompt, error_count, error_lock):
     start = time.time()
     try:
         response = requests.post("http://localhost:11434/api/generate", json={
             "model": current_model,
-            "prompt": own_prompt,
+            "prompt":  own_prompt + '/no_think',
             "stream": False
             #"top_k": 32,
             #"top_p": 0.80
@@ -187,7 +192,8 @@ def generate_response(own_prompt, error_count, error_lock):
                 "total_tokens": 0
             }
 
-        response_text = response_json["response"]
+        #clean <think> </think> from response
+        response_text = clean_think_text(response_json["response"])
         approx_tokens = len(response_text.split())
         token_gen_speed = approx_tokens / time_took if time_took > 0 else 0
 

@@ -1,2 +1,4 @@
 oldllmvenv/
 llmvenv/
+model_logs/
+venv/

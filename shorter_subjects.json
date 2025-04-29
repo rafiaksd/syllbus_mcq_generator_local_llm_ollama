@@ -1,6 +1,8 @@
 [
-  {"board": "Cambridge", "grade": "10", "subject": "Mathematics", "topic": "Algebra", "sub_topic": "Exponents and Powers"},
-  {"board": "IB", "grade": "10", "subject": "Mathematics", "topic": "Functions", "sub_topic": "Notation and Representation"},
-  {"board":"IB","grade":"12","subject":"Physics","topic":"Quantum Physics","sub_topic":"Photoelectric Effect"}
+  {"board":"CBSE","grade":"8","subject":"Mathematics","topic":"Number Systems","sub_topic":"Rational Numbers"},
+  {"board":"IB","grade":"12","subject":"Physics","topic":"Quantum Physics","sub_topic":"Photoelectric Effect"},
+  {"board":"Cambridge","grade":"9","subject":"Chemistry","topic":"Chemical Bonding","sub_topic":"Ionic and Covalent Bonds"},
+  {"board":"State Board","grade":"7","subject":"Biology","topic":"Human Physiology","sub_topic":"Digestive System"},
+  {"board":"Edexcel","grade":"10","subject":"Mathematics","topic":"Statistics","sub_topic":"Probability"}
 ]
 
